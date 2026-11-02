@@ -1,0 +1,2474 @@
+[
+ {
+  "id": "ani-ecureuil-roux-peixotto",
+  "categorie": "animal",
+  "titre": "L'écureuil roux se balade dans les arbres de Peixotto",
+  "lieux": [
+   "parc-peixotto"
+  ],
+  "ou": "Dans les grands arbres du parc Peixotto, surtout vers le château et les allées bordées d'arbres ; il descend parfois au sol pour chercher des graines ou des noisettes.",
+  "point": {
+   "lat": 44.809,
+   "lon": -0.5895,
+   "repere": "Parc Peixotto : les grands arbres entre l'arrière du château et le bassin du nord du parc ; lève les yeux vers les troncs, puis regarde au pied des arbres."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Petit mammifère roux (parfois brun-gris l'hiver), longue queue touffue en panache, ventre blanc ; il file en spirale autour des troncs, très vif. Reste immobile, regarde en haut puis au sol.",
+  "enfant": {
+   "2-3": {
+    "mot": "écureuil",
+    "geste": "Vous vous asseyez sans bruit au pied d'un grand arbre et vous levez le doigt très lentement quand l'un de vous voit bouger quelque chose de roux.",
+    "phrase": "Écureuil, écureuil, où es-tu ?"
+   },
+   "3-5": {
+    "mot": "la queue en panache",
+    "geste": "Chercher ensemble les noisettes ou les pignes grignotées au pied des arbres, puis deviner où il a pu les cacher.",
+    "phrase": "Il cache ses noisettes… mais où ?"
+   }
+  },
+  "adulte": {
+   "nom": "Écureuil roux",
+   "latin": "Sciurus vulgaris",
+   "anecdote": "Il enterre des centaines de graines isolées, une par une, et en retrouve beaucoup grâce à son odorat et sa mémoire ; celles qu'il oublie deviennent parfois des arbres.",
+   "pourquoi_maintenant": "Les arbres sont dégarnis à l'automne et en hiver : on le voit mieux, et il est très actif pour faire ses réserves (août à novembre) puis aux premières belles journées de fin d'hiver.",
+   "confusion": "Sa couleur varie du roux vif au brun presque noir : un écureuil sombre reste un écureuil roux. L'écureuil gris américain n'est pas présent en France."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Sciurus_vulgaris_Turku_cemetery.jpg/500px-Sciurus_vulgaris_Turku_cemetery.jpg",
+   "credit": "Markus Koljonen (Dilaudid) — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sciurus_vulgaris_Turku_cemetery.jpg"
+  }
+ },
+ {
+  "id": "ani-herisson-crepuscule",
+  "categorie": "animal",
+  "titre": "Un hérisson au crépuscule",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au pied des haies et des jardins du quartier, en marchant doucement sur le trottoir à la tombée du jour (les parcs ferment souvent avant la nuit en été).",
+  "point": null,
+  "mois": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "requiert": [],
+  "exclut": [
+   "pluie_aujourdhui",
+   "froid"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Petite boule brune de piquants, museau pointu ; on l'entend souvent renifler et froisser les feuilles avant de le voir. Un hérisson dehors en plein jour, qui titube, est en difficulté.",
+  "enfant": {
+   "2-3": {
+    "mot": "hérisson",
+    "geste": "Doigt sur la bouche, on marche sur la pointe des pieds et on écoute les feuilles qui bougent.",
+    "phrase": "Chut… hérisson !"
+   },
+   "3-5": {
+    "mot": "les piquants",
+    "geste": "Écouter le bruit de froissement, puis deviner ce qu'il cherche (limaces, vers, insectes) et où il dormira cet hiver.",
+    "phrase": "Il fait sa ronde du soir !"
+   }
+  },
+  "adulte": {
+   "nom": "Hérisson d'Europe",
+   "latin": "Erinaceus europaeus",
+   "anecdote": "Un hérisson peut parcourir 1 à 2 km par nuit en ville ; un trou de 13 cm dans une clôture lui suffit pour passer de jardin en jardin. Il porte 5 000 à 7 000 piquants, des poils transformés.",
+   "pourquoi_maintenant": "Il est actif de la fin du printemps à l'automne, la nuit, quand les limaces et insectes sortent ; il prépare ses réserves de graisse avant l'hibernation (octobre-novembre).",
+   "confusion": "Un froissement de feuilles avec des reniflements bruyants dans une haie à la nuit tombante : c'est souvent lui, bien plus bruyant que les rongeurs."
+  },
+  "attention": "Animal sauvage protégé : on ne le touche pas (puces, tiques). Jamais de lait. Hérisson blessé ou dehors en plein jour : appeler un centre de soins de la faune sauvage.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/West_European_Hedgehog_%28Erinaceus_europaeus%291.jpg/500px-West_European_Hedgehog_%28Erinaceus_europaeus%291.jpg",
+   "credit": "Hrald — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:West_European_Hedgehog_(Erinaceus_europaeus)1.jpg"
+  }
+ },
+ {
+  "id": "ani-colvert-plan-eau-peixotto",
+  "categorie": "animal",
+  "titre": "Les canards colverts du plan d'eau",
+  "lieux": [
+   "parc-peixotto",
+   "parc-margaut"
+  ],
+  "ou": "Au bassin du nord du parc Peixotto, derrière le château ; le bassin du parc Margaut est voisin.",
+  "point": {
+   "lat": 44.80965,
+   "lon": -0.5898,
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Le mâle a la tête vert foncé brillant et un collier blanc ; la femelle est brune tachetée. Au printemps, des familles de poussins duveteux suivent leur mère.",
+  "enfant": {
+   "2-3": {
+    "mot": "canard",
+    "geste": "À un grand pas du bord, la main dans la main, faire « coin-coin » et regarder qui répond.",
+    "phrase": "Coin-coin, canard !"
+   },
+   "3-5": {
+    "mot": "les couleurs",
+    "geste": "Compter les canards, chercher celui qui a la tête verte et celle qui est marron, puis demander lequel nage le plus vite.",
+    "phrase": "Un, deux, trois canards !"
+   }
+  },
+  "adulte": {
+   "nom": "Canard colvert",
+   "latin": "Anas platyrhynchos",
+   "anecdote": "Seule la femelle fait le « coin-coin » sonore ; le mâle a un cri plus discret, un sifflement rauque.",
+   "pourquoi_maintenant": "Le colvert est présent toute l'année : les mâles sont en plein plumage d'octobre à juin, puis ternes quelques semaines en été (mue).",
+   "confusion": "La cane brune ressemble à d'autres canes : chez le colvert, mâle et femelle ont sur l'aile un « miroir » bleu bordé de blanc."
+  },
+  "attention": "Pas de pain aux canards. Eau : tenir la main de l'enfant en permanence près du bord, jamais seul.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Anas_platyrhynchos_male_female.jpg/500px-Anas_platyrhynchos_male_female.jpg",
+   "credit": "Richard Bartz — CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:Anas_platyrhynchos_male_female.jpg"
+  }
+ },
+ {
+  "id": "ani-gallinule-poule-eau",
+  "categorie": "animal",
+  "titre": "La poule d'eau qui hoche la queue",
+  "lieux": [
+   "parc-peixotto",
+   "parc-margaut"
+  ],
+  "ou": "Sur les berges et dans la végétation du bassin du nord du parc Peixotto, souvent sous les branches qui touchent l'eau.",
+  "point": {
+   "lat": 44.80965,
+   "lon": -0.5898,
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Oiseau noir ardoise à bec rouge avec une pointe jaune et un trait blanc sur le flanc ; elle marche sur les plantes, queue qui se redresse par saccades.",
+  "enfant": {
+   "2-3": {
+    "mot": "poule d'eau",
+    "geste": "Repérer la tache rouge du bec sur l'eau, puis imiter son hochement de queue en secouant les fesses.",
+    "phrase": "Poule d'eau, tu hoches la queue !"
+   },
+   "3-5": {
+    "mot": "les gros pieds",
+    "geste": "Chercher ses grands doigts écartés (non palmés) puis se demander pourquoi elle marche sur les nénuphars.",
+    "phrase": "De grands pieds pour marcher sur l'eau !"
+   }
+  },
+  "adulte": {
+   "nom": "Gallinule poule-d'eau",
+   "latin": "Gallinula chloropus",
+   "anecdote": "Ses grands doigts non palmés répartissent son poids sur la végétation flottante ; les poussins noirs au bec rouge restent près des parents et les aînés aident parfois à nourrir la couvée suivante.",
+   "pourquoi_maintenant": "Elle est présente toute l'année ; au printemps et en été, on peut voir des poussins noirs ou des nids dans la végétation de la berge.",
+   "confusion": "La foulque macroule a un bec et un front blancs, moins vue sur de petits plans d'eau."
+  },
+  "attention": "Eau : main de l'enfant tenue en permanence près du bord, jamais seul.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Common_moorhen_%28Gallinula_chloropus%29_France.jpg/500px-Common_moorhen_%28Gallinula_chloropus%29_France.jpg",
+   "credit": "Alexis Lours — CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_moorhen_(Gallinula_chloropus)_France.jpg"
+  }
+ },
+ {
+  "id": "ani-poissons-plan-eau",
+  "categorie": "animal",
+  "titre": "Les poissons du plan d'eau",
+  "lieux": [
+   "parc-peixotto"
+  ],
+  "ou": "Au bassin du nord du parc Peixotto, par temps calme et ensoleillé : regarde près de la surface et sous les plantes.",
+  "point": {
+   "lat": 44.80965,
+   "lon": -0.5898,
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m."
+  },
+  "mois": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "vent",
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Des ombres qui glissent près de la surface ; parfois une grosse carpe brun doré qui remonte gober à la surface, ou de petits poissons en banc.",
+  "enfant": {
+   "2-3": {
+    "mot": "poisson",
+    "geste": "Accroupi à un grand pas du bord, la main dans celle de l'adulte : on cherche les ombres qui bougent.",
+    "phrase": "Poisson, poisson, coucou !"
+   },
+   "3-5": {
+    "mot": "les petits et les gros",
+    "geste": "Compter les poissons qu'on voit, chercher le plus petit et le plus gros, puis imaginer ce qu'ils mangent.",
+    "phrase": "Un petit, un gros, un rond !"
+   }
+  },
+  "adulte": {
+   "nom": "Carpe commune (et autres poissons des bassins)",
+   "latin": "Cyprinus carpio",
+   "anecdote": "La carpe n'a pas de dents dans la bouche : elle broie sa nourriture avec des dents situées au fond de la gorge (dents pharyngiennes). Elle peut vivre plusieurs dizaines d'années.",
+   "pourquoi_maintenant": "Quand l'eau se réchauffe, les poissons montent près de la surface ; on les voit mieux sans vent ni reflets.",
+   "confusion": "La carpe a quatre barbillons au coin de la bouche ; le poisson rouge (carassin), souvent relâché dans les bassins, n'en a aucun."
+  },
+  "attention": "Eau : main de l'enfant tenue en permanence près du bord, jamais seul. On ne nourrit pas les poissons.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Cyprinus_carpio_J1.jpg/500px-Cyprinus_carpio_J1.jpg",
+   "credit": "Jamain — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cyprinus_carpio_J1.jpg"
+  }
+ },
+ {
+  "id": "ani-heron-cendre",
+  "categorie": "animal",
+  "titre": "Le héron cendré, immobile au bord de l'eau",
+  "lieux": [
+   "parc-peixotto",
+   "parc-margaut"
+  ],
+  "ou": "Sur la berge du bassin du nord du parc Peixotto ou du bassin Margaut, parfois perché dans un arbre voisin. Visiteur irrégulier : un coup de chance.",
+  "point": {
+   "lat": 44.80965,
+   "lon": -0.5898,
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m."
+  },
+  "mois": [
+   2,
+   3,
+   4,
+   5,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Grand oiseau gris de près d'un mètre, long bec jaune, cou en S, immobile des minutes entières. En vol, le cou est replié et les ailes battent lentement.",
+  "enfant": {
+   "2-3": {
+    "mot": "héron",
+    "geste": "Faire la statue : se tenir sur un pied en comptant jusqu'à cinq, comme le héron qui attend un poisson.",
+    "phrase": "Héron, héron, tout immobile !"
+   },
+   "3-5": {
+    "mot": "le grand bec",
+    "geste": "Compter combien de temps il reste sans bouger, puis chercher ce qu'il regarde dans l'eau.",
+    "phrase": "Il attend le poisson… chut !"
+   }
+  },
+  "adulte": {
+   "nom": "Héron cendré",
+   "latin": "Ardea cinerea",
+   "anecdote": "Il pêche à l'affût, immobile ou à pas très lents, et frappe en une fraction de seconde ; il lui arrive d'avaler des proies étonnamment grosses, comme de petits rongeurs.",
+   "pourquoi_maintenant": "Il est présent toute l'année dans la région mais ne fait que passer sur un si petit bassin ; il vient surtout tôt le matin, quand le parc est calme.",
+   "confusion": "La grande aigrette est blanche et fine ; la cigogne blanche a un bec rouge et des ailes noires et blanches."
+  },
+  "attention": "Eau : main de l'enfant tenue en permanence près du bord.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ardea_cinerea_in_the_river.jpg/500px-Ardea_cinerea_in_the_river.jpg",
+   "credit": "Joselodos — CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ardea_cinerea_in_the_river.jpg"
+  }
+ },
+ {
+  "id": "ani-pic-vert-rire",
+  "categorie": "animal",
+  "titre": "Le pic vert qui rit",
+  "lieux": [
+   "bois-sourreil",
+   "parc-peixotto",
+   "parc-andre-curvale"
+  ],
+  "ou": "Dans les pelouses du parc ou au pied des vieux arbres, côté bois Sourreil, parc Peixotto ou parc Curvale ; on l'entend souvent avant de le voir.",
+  "point": {
+   "lat": 44.8095,
+   "lon": -0.5795,
+   "repere": "Bois Sourreil : les clairières à tonte tardive et le pied des vieux arbres ; écoute d'abord son rire, puis cherche un oiseau vert qui sautille dans l'herbe."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Oiseau de la taille d'un pigeon, dos vert, tête rouge, œil cerclé de noir ; cri sonore et rieur « kiu-kiu-kiu-kiu » ; il saute au sol en fouillant l'herbe.",
+  "enfant": {
+   "2-3": {
+    "mot": "pic vert",
+    "geste": "Rire ensemble comme lui : « hi-hi-hi-hi » et chercher d'où vient le rire dans les arbres.",
+    "phrase": "Pic, pic, pic vert qui rit !"
+   },
+   "3-5": {
+    "mot": "les fourmis",
+    "geste": "Chercher l'oiseau vert dans l'herbe : il mange des fourmis ! Deviner pourquoi il fait des trous dans les troncs.",
+    "phrase": "Il a la tête rouge et le dos vert !"
+   }
+  },
+  "adulte": {
+   "nom": "Pic vert",
+   "latin": "Picus viridis",
+   "anecdote": "Il se nourrit surtout de fourmis, qu'il attrape avec une langue de plus de 10 cm qui s'enroule derrière son crâne.",
+   "pourquoi_maintenant": "Il est présent toute l'année, mais son cri porte surtout de fin hiver à début d'été où il marque son territoire.",
+   "confusion": "Le pic épeiche, noir et blanc avec du rouge sous la queue, tambourine sur les troncs ; le pic vert cherche surtout ses fourmis au sol."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/European_green_woodpecker_%28Picus_viridis%29_male.JPG/500px-European_green_woodpecker_%28Picus_viridis%29_male.JPG",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:European_green_woodpecker_(Picus_viridis)_male.JPG"
+  }
+ },
+ {
+  "id": "ani-faucon-crecerelle-sur-place",
+  "categorie": "animal",
+  "titre": "Un faucon qui fait du sur-place",
+  "lieux": [
+   "campus-haut-carre",
+   "parc-triaire"
+  ],
+  "ou": "Dans le ciel au-dessus des pelouses et prairies dégagées du campus, côté Haut-Carré, ou au-dessus des talus et espaces ouverts.",
+  "point": {
+   "lat": 44.8097,
+   "lon": -0.5974,
+   "repere": "Domaine du Haut-Carré : entrer par la grille « Entrée Haut-Carré » au rond-point de la rue Pierre-Noailles, puis se poster au bord des grandes pelouses dégagées et regarder le ciel au-dessus."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Petit rapace roux tacheté qui fait du sur-place en battant des ailes, queue étalée, tête immobile, puis plonge ou glisse plus loin.",
+  "enfant": {
+   "2-3": {
+    "mot": "faucon",
+    "geste": "Les bras en V, vous battez des ailes sur place une main vers le haut, comme lui, en regardant le sol.",
+    "phrase": "Faucon, faucon, dans le ciel !"
+   },
+   "3-5": {
+    "mot": "le vol sur place",
+    "geste": "Chercher dans le ciel l'oiseau qui ne bouge pas ; compter combien de secondes il reste là avant de plonger.",
+    "phrase": "Il ne bouge pas… et plouf !"
+   }
+  },
+  "adulte": {
+   "nom": "Faucon crécerelle",
+   "latin": "Falco tinnunculus",
+   "anecdote": "Le vol « du Saint-Esprit » : sa tête reste presque fixe tandis que le corps bouge, ce qui lui permet de repérer petits rongeurs et gros insectes.",
+   "pourquoi_maintenant": "Présent toute l'année ; il est plus facile à voir par temps dégagé, avec un peu de vent qui l'aide à se stabiliser.",
+   "confusion": "L'épervier est plus trapu, aux ailes courtes et rondes, et ne fait pas de sur-place."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Common_Kestrel%2C_hovering._Falco_tinnunculus_%2832704864470%29.jpg/500px-Common_Kestrel%2C_hovering._Falco_tinnunculus_%2832704864470%29.jpg",
+   "credit": "gailhampshire from Cradley, Malvern, U.K — CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_Kestrel,_hovering._Falco_tinnunculus_(32704864470).jpg"
+  }
+ },
+ {
+  "id": "ani-rougegorge-hiver",
+  "categorie": "animal",
+  "titre": "Le rouge-gorge te regarde de près",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "Au sol sous les buissons, sur les clôtures et les bancs du parc Peixotto et des jardins : il s'approche à deux mètres si l'on reste immobile.",
+  "point": {
+   "lat": 44.8082,
+   "lon": -0.5898,
+   "repere": "Parc Peixotto : les massifs bas et les haies qui bordent le jardin à la française, devant le château ; arrête-toi et attends sans bouger."
+  },
+  "mois": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Petit oiseau rond au plastron orange vif, gros œil noir, qui se tient droit, sautille au sol puis s'arrête pour te regarder.",
+  "enfant": {
+   "2-3": {
+    "mot": "rouge-gorge",
+    "geste": "Montrer sa poitrine orange avec ton doigt sur ta propre poitrine, puis chercher la tache orange dans la haie.",
+    "phrase": "Rouge-gorge, coucou !"
+   },
+   "3-5": {
+    "mot": "la tache rouge",
+    "geste": "Rester immobile comme une statue et compter les sauts qu'il fait vers nous ; deviner pourquoi il s'approche (il cherche des vers dans la terre qu'on remue).",
+    "phrase": "Orange comme une mandarine !"
+   }
+  },
+  "adulte": {
+   "nom": "Rougegorge familier",
+   "latin": "Erithacus rubecula",
+   "anecdote": "En forêt, il suit les sangliers et les chevreuils qui grattent le sol pour attraper les vers mis à nu ; au jardin, le jardinier qui bêche joue ce rôle, d'où sa familiarité.",
+   "pourquoi_maintenant": "En hiver, des rouges-gorges du nord et de l'est de l'Europe rejoignent ceux d'ici ; chacun tient un petit territoire et se montre beaucoup dans les buissons dégarnis.",
+   "confusion": "Les jeunes n'ont pas de plastron orange, ils sont tachetés brun."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Erithacus_rubecula_with_cocked_head.jpg/500px-Erithacus_rubecula_with_cocked_head.jpg",
+   "credit": "Francis C. Franklin — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg"
+  }
+ },
+ {
+  "id": "ani-merle-pelouse-apres-pluie",
+  "categorie": "animal",
+  "titre": "Le merle cherche des vers sur la pelouse",
+  "lieux": [
+   "parc-peixotto",
+   "parc-pagnol",
+   "partout"
+  ],
+  "ou": "Sur les pelouses du parc Peixotto, du parc Pagnol et du quartier, quand le sol est mouillé : il avance par bonds puis s'arrête.",
+  "point": {
+   "lat": 44.8087,
+   "lon": -0.5899,
+   "repere": "les pelouses ouvertes autour du château de Peixotto"
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "pluie_recente"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 1,
+  "reperes": "Oiseau noir à bec orange (mâle) ou brun foncé (femelle) qui court puis s'arrête, la tête penchée sur un côté, avant de tirer un ver.",
+  "enfant": {
+   "2-3": {
+    "mot": "merle",
+    "geste": "Courir deux pas puis s'arrêter la tête penchée sur le côté, comme lui, en jouant ensemble.",
+    "phrase": "Merle, merle, qui fait un bond !"
+   },
+   "3-5": {
+    "mot": "le bec orange",
+    "geste": "Compter ses bonds, chercher ce qu'il mange et voir si c'est un mâle (bec orange) ou une femelle.",
+    "phrase": "Un bond, deux bonds, un ver !"
+   }
+  },
+  "adulte": {
+   "nom": "Merle noir",
+   "latin": "Turdus merula",
+   "anecdote": "Ses yeux sont sur les côtés de la tête : pour mieux fixer un point au sol, il penche la tête.",
+   "pourquoi_maintenant": "Après la pluie, le sol est meuble et les vers remontent près de la surface, ce qui facilite sa chasse.",
+   "confusion": "L'étourneau est plus petit, tacheté de clair, et marche au lieu de sauter."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Blackbird_%28male%29_9u07.JPG/500px-Blackbird_%28male%29_9u07.JPG",
+   "credit": "Snowmanradio — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Blackbird_(male)_9u07.JPG"
+  }
+ },
+ {
+  "id": "ani-mesange-charbonniere-cravate",
+  "categorie": "animal",
+  "titre": "La mésange à cravate noire",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Dans les arbres, les haies et les mangeoires des parcs et des rues ; au parc Peixotto, dans les grands arbres autour du château.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Tête noire brillante, grandes joues blanches, ventre jaune coupé d'une bande noire : la « cravate ». Chant sonore à deux notes, « ti-tu, ti-tu », dès la fin de l'hiver.",
+  "enfant": {
+   "2-3": {
+    "mot": "mésange",
+    "geste": "Montrer sur son propre ventre où elle a sa cravate noire, puis la chercher dans l'arbre.",
+    "phrase": "Mésange, mésange, belle cravate !"
+   },
+   "3-5": {
+    "mot": "la cravate",
+    "geste": "Chercher si la cravate est large (un mâle) ou fine (une femelle) ; répéter son chant « ti-tu, ti-tu ».",
+    "phrase": "Large cravate ou petite cravate ?"
+   }
+  },
+  "adulte": {
+   "nom": "Mésange charbonnière",
+   "latin": "Parus major",
+   "anecdote": "La largeur de la cravate noire signale le statut du mâle : les femelles préfèrent les cravates larges. Les mésanges anglaises avaient appris, au XXe siècle, à percer les opercules des bouteilles de lait livrées devant les portes.",
+   "pourquoi_maintenant": "Présente toute l'année ; elle chante dès janvier pour son territoire, niche d'avril à juin et se mêle aux bandes d'autres petits oiseaux en hiver.",
+   "confusion": "La mésange bleue est plus petite, avec une calotte bleue et sans cravate large ; la mésange noire a une tache blanche sur la nuque."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Great_tit_side-on.jpg/500px-Great_tit_side-on.jpg",
+   "credit": "Francis C. Franklin — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Great_tit_side-on.jpg"
+  }
+ },
+ {
+  "id": "ani-orite-longue-queue",
+  "categorie": "animal",
+  "titre": "La petite bande d'orites à longue queue",
+  "lieux": [
+   "parc-peixotto",
+   "bois-sourreil"
+  ],
+  "ou": "Dans les branches des arbres et haies du parc, en petite bande qui passe d'arbre en arbre en piaillant.",
+  "point": {
+   "lat": 44.8094,
+   "lon": -0.5895,
+   "repere": "Parc Peixotto, partie nord : les arbres et haies autour du bassin ; écoute des petits « tsi-tsi-tsi » aigus qui passent d'arbre en arbre."
+  },
+  "mois": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Minuscule boule de plumes blanc, noir et rose, avec une queue aussi longue que le corps, qui passe en groupe de cinq à vingt en faisant « si-si-si ».",
+  "enfant": {
+   "2-3": {
+    "mot": "petite boule",
+    "geste": "Tendre la main en forme de boule, puis la faire voler en l'air quand les oiseaux passent.",
+    "phrase": "Petite boule, petite queue !"
+   },
+   "3-5": {
+    "mot": "la longue queue",
+    "geste": "Compter combien d'oiseaux sautent de branche en branche ; dire à qui ils ressemblent (un petit rat ? une cuillère ?).",
+    "phrase": "Une boule avec une longue queue !"
+   }
+  },
+  "adulte": {
+   "nom": "Orite à longue queue (mésange à longue queue)",
+   "latin": "Aegithalos caudatus",
+   "anecdote": "En hiver, les orites dorment serrées en rang sur une branche pour se réchauffer ; leur nid est une poche tissée de mousse et de toiles d'araignée, doublée de plumes.",
+   "pourquoi_maintenant": "En hiver, les bandes se déplacent sans cesse pour chercher de minuscules proies et se repèrent mieux dans les arbres dégarnis.",
+   "confusion": "Les mésanges bleues et charbonnières n'ont pas cette queue démesurée."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Long-tailed_tit_Gennevilliers_2022_03_18.jpg/500px-Long-tailed_tit_Gennevilliers_2022_03_18.jpg",
+   "credit": "Alexis Lours — CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Long-tailed_tit_Gennevilliers_2022_03_18.jpg"
+  }
+ },
+ {
+  "id": "ani-moineaux-domestiques",
+  "categorie": "animal",
+  "titre": "La bande de moineaux près des tables et bancs",
+  "lieux": [
+   "partout",
+   "parc-pagnol",
+   "parc-peixotto"
+  ],
+  "ou": "Près des bancs, des terrasses, sous les buissons et dans les haies des rues ; ils piaillent en groupe et sautillent sur le sol.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 1,
+  "reperes": "Petit oiseau brun et gris ; le mâle porte une bavette noire sur la gorge. Il vit en groupe bruyant, près des maisons.",
+  "enfant": {
+   "2-3": {
+    "mot": "moineau",
+    "geste": "Faire « cui-cui » avec ton doigt en pince de bec, puis chercher qui répond dans la haie.",
+    "phrase": "Moineau, moineau, cui-cui !"
+   },
+   "3-5": {
+    "mot": "la bavette noire",
+    "geste": "Compter les moineaux, chercher le « papa à la bavette noire » et la maman toute brune.",
+    "phrase": "Combien de moineaux ?"
+   }
+  },
+  "adulte": {
+   "nom": "Moineau domestique",
+   "latin": "Passer domesticus",
+   "anecdote": "Il se baigne dans la poussière pour se débarrasser des parasites ; l'espèce a fortement diminué dans de nombreuses villes d'Europe.",
+   "pourquoi_maintenant": "Les moineaux sont là toute l'année ; en hiver ils restent en bandes près de la nourriture, au printemps ils nichent dans les fissures des toits.",
+   "confusion": "Le moineau friquet a une tache noire sur la joue blanche, plus rare."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Passer_domesticus_04.jpg/500px-Passer_domesticus_04.jpg",
+   "credit": "Arnold Paul — CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:Passer_domesticus_04.jpg"
+  }
+ },
+ {
+  "id": "ani-pie-bavarde",
+  "categorie": "animal",
+  "titre": "La pie qui n'aime pas les bijoux",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Dans les grands arbres et sur les pelouses ; son nid énorme en bâtons est visible haut dans les arbres sans feuilles.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 1,
+  "reperes": "Oiseau noir et blanc avec de longues plumes de queue d'un noir lustré, bleu et vert ; elle marche en sautillant et crie « kak-kak-kak ».",
+  "enfant": {
+   "2-3": {
+    "mot": "pie",
+    "geste": "Marcher comme elle, en sautillant, la longue queue imaginaire derrière toi, en criant « kak-kak ».",
+    "phrase": "Pie, pie, noire et blanche !"
+   },
+   "3-5": {
+    "mot": "la longue queue",
+    "geste": "Compter les couleurs de la queue (noir, bleu, vert) en la regardant au soleil.",
+    "phrase": "Noire, blanche, bleue !"
+   }
+  },
+  "adulte": {
+   "nom": "Pie bavarde",
+   "latin": "Pica pica",
+   "anecdote": "Contrairement à sa légende de voleuse, une étude a montré que les pies ne sont pas attirées par les objets brillants ; elles reconnaissent leur reflet dans un miroir.",
+   "pourquoi_maintenant": "Présente toute l'année ; son grand nid de bâtons est bien visible dans les arbres sans feuilles.",
+   "confusion": "La corneille noire est entièrement noire."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Eurasian_magpie_%28Pica_pica%29.jpg/500px-Eurasian_magpie_%28Pica_pica%29.jpg",
+   "credit": "Alexis Lours — CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Eurasian_magpie_(Pica_pica).jpg"
+  }
+ },
+ {
+  "id": "ani-etourneaux-dortoir",
+  "categorie": "animal",
+  "titre": "Les étourneaux dessinent des nuages vivants",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Dans le ciel à la tombée du jour, au-dessus des grands arbres des parcs ou des places : pas tous les soirs, seulement là où une bande a choisi son dortoir cette année.",
+  "point": null,
+  "mois": [
+   10,
+   11,
+   12,
+   1,
+   2
+  ],
+  "requiert": [],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Des dizaines ou centaines de petits oiseaux noirs en bande dense qui tournent et dessinent des vagues dans le ciel, puis se posent d'un coup dans un arbre.",
+  "enfant": {
+   "2-3": {
+    "mot": "oiseaux",
+    "geste": "Tourner sur soi les bras ouverts en suivant du doigt la vague d'oiseaux dans le ciel.",
+    "phrase": "Les oiseaux dansent !"
+   },
+   "3-5": {
+    "mot": "le nuage",
+    "geste": "Faire un dessin dans l'air avec le doigt qui suit la forme du nuage d'oiseaux.",
+    "phrase": "Un nuage d'oiseaux !"
+   }
+  },
+  "adulte": {
+   "nom": "Étourneau sansonnet",
+   "latin": "Sturnus vulgaris",
+   "anecdote": "Dans ces vols, chaque oiseau ne suit que ses six ou sept voisins les plus proches, et c'est ce qui fait bouger toute la bande ensemble.",
+   "pourquoi_maintenant": "À l'automne et en hiver, les étourneaux se rassemblent en dortoirs pour la nuit ; les nuées s'observent dans la dernière heure avant la nuit.",
+   "confusion": "Les pigeons volent aussi en groupe, mais en bande lâche, sans ces formes qui se plient et se déplient."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/A_flock_of_starlings_%28Sturnus_vulgaris%29_gather_in_the_evening_hours_in_autumn.jpg/500px-A_flock_of_starlings_%28Sturnus_vulgaris%29_gather_in_the_evening_hours_in_autumn.jpg",
+   "credit": "Andreas Weith — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_flock_of_starlings_(Sturnus_vulgaris)_gather_in_the_evening_hours_in_autumn.jpg"
+  }
+ },
+ {
+  "id": "ani-grues-cendrees-en-v",
+  "categorie": "animal",
+  "titre": "Les grues cendrées passent en V au-dessus de Talence",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Dans le ciel, haut au-dessus des toits : depuis une pelouse ou une place dégagée (grande pelouse du parc Margaut, par exemple), lève la tête dès que tu entends des trompettes lointaines.",
+  "point": null,
+  "mois": [
+   2,
+   3,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Grands oiseaux gris, cou tendu et pattes qui dépassent derrière, en V ou en longues lignes ondulées, très haut. Vers le sud-ouest en automne, vers le nord-est en février-mars.",
+  "enfant": {
+   "2-3": {
+    "mot": "les grues",
+    "geste": "Lever les bras en V, puis suivre la ligne d'oiseaux avec le doigt jusqu'à ce qu'elle disparaisse.",
+    "phrase": "Un grand V dans le ciel !"
+   },
+   "3-5": {
+    "mot": "le grand V",
+    "geste": "Compter les oiseaux d'un V, chercher celui qui est devant, puis dire de quel côté ils partent.",
+    "phrase": "Elles partent au chaud ou elles rentrent ?"
+   }
+  },
+  "adulte": {
+   "nom": "Grue cendrée",
+   "latin": "Grus grus",
+   "anecdote": "Leur envergure dépasse deux mètres ; en V, chaque grue profite du courant d'air ascendant laissé par l'aile de celle de devant, et la tête du V change régulièrement. Jeunes et adultes migrent en famille.",
+   "pourquoi_maintenant": "Les grues qui hivernent en Espagne passent vers le sud de fin octobre à fin novembre (pic vers la mi-novembre), puis remontent vers le nord de mi-février à mi-mars, souvent par vent de sud.",
+   "confusion": "Les oies volent aussi en V mais plus bas, avec un cri nasillard ; les cormorans, noirs, volent en lignes silencieuses."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Cranes_%28Grus_grus%29_in_Northern_Germany_flying_to_their_roosting_site.jpg/500px-Cranes_%28Grus_grus%29_in_Northern_Germany_flying_to_their_roosting_site.jpg",
+   "credit": "Andreas Weith — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cranes_(Grus_grus)_in_Northern_Germany_flying_to_their_roosting_site.jpg"
+  }
+ },
+ {
+  "id": "ani-martinets-cris-toits",
+  "categorie": "animal",
+  "titre": "Les martinets crient au-dessus des toits",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Dans le ciel au-dessus des toits du centre de Talence, en fin de journée : on les entend avant de les voir, en groupes qui filent à toute vitesse.",
+  "point": null,
+  "mois": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "requiert": [],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Oiseaux tout noirs aux ailes en faucille, très rapides, qui crient « sriii-sriii » en bande en rasant les toits, surtout en fin de journée.",
+  "enfant": {
+   "2-3": {
+    "mot": "martinets",
+    "geste": "Faire des cercles avec les bras en courant en criant « sriii ! » comme eux.",
+    "phrase": "Martinets, martinets, qui filent !"
+   },
+   "3-5": {
+    "mot": "les oiseaux noirs",
+    "geste": "Compter les bandes de martinets qui passent ; dire s'ils sont plus rapides qu'une voiture.",
+    "phrase": "Plus vite que les voitures !"
+   }
+  },
+  "adulte": {
+   "nom": "Martinet noir",
+   "latin": "Apus apus",
+   "anecdote": "Un martinet peut rester près de dix mois en vol sans se poser : il mange, boit et dort en l'air, et ne se pose que pour nicher sous les tuiles.",
+   "pourquoi_maintenant": "Ils arrivent de fin avril et repartent début août : on peut donc les entendre surtout de mai à juillet.",
+   "confusion": "L'hirondelle a le ventre clair et une queue en longues pointes ; le martinet est entièrement sombre aux ailes en faux."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Common_swift_2024_04_21.jpg/500px-Common_swift_2024_04_21.jpg",
+   "credit": "Alexis Lours — CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_swift_2024_04_21.jpg"
+  }
+ },
+ {
+  "id": "ani-milan-noir-thermiques",
+  "categorie": "animal",
+  "titre": "Le milan noir tourne dans le ciel",
+  "lieux": [
+   "campus-haut-carre",
+   "parc-peixotto"
+  ],
+  "ou": "Dans le ciel dégagé au-dessus du campus et de Peixotto, quand le soleil chauffe les toits : il plane sans battre des ailes en grands cercles.",
+  "point": {
+   "lat": 44.8097,
+   "lon": -0.5974,
+   "repere": "Domaine du Haut-Carré : entrer par la grille « Entrée Haut-Carré » au rond-point de la rue Pierre-Noailles : depuis les grandes pelouses, le ciel est dégagé de tous côtés."
+  },
+  "mois": [
+   3,
+   4,
+   5,
+   6,
+   7
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Grand oiseau brun foncé aux ailes larges et queue légèrement fourchue qui plane en cercles, la tête tournée vers le sol.",
+  "enfant": {
+   "2-3": {
+    "mot": "grand oiseau",
+    "geste": "Tourner lentement sur soi les bras ouverts en suivant l'oiseau du doigt.",
+    "phrase": "Il vole sans battre des ailes !"
+   },
+   "3-5": {
+    "mot": "les cercles",
+    "geste": "Compter les tours que fait l'oiseau avant de partir ; demander pourquoi il monte sans bouger les ailes.",
+    "phrase": "Il monte dans l'air chaud !"
+   }
+  },
+  "adulte": {
+   "nom": "Milan noir",
+   "latin": "Milvus migrans",
+   "anecdote": "Il utilise les colonnes d'air chaud (thermiques) pour monter sans effort et mange charognes, déchets et petites proies.",
+   "pourquoi_maintenant": "Il arrive de ses quartiers d'hiver africains dès le mois de mars et on le voit planer jusqu'au début de l'été, surtout par beau temps.",
+   "confusion": "La buse a la queue arrondie et des ailes plus larges ; la crécerelle fait du sur-place."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Black_kite_%28Milvus_migrans%29_D35_6638_01.jpg/500px-Black_kite_%28Milvus_migrans%29_D35_6638_01.jpg",
+   "credit": "ADARSHluck — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Black_kite_(Milvus_migrans)_D35_6638_01.jpg"
+  }
+ },
+ {
+  "id": "ani-geai-glands",
+  "categorie": "animal",
+  "titre": "Le geai cache ses glands",
+  "lieux": [
+   "parc-peixotto",
+   "bois-sourreil"
+  ],
+  "ou": "Dans les chênes du parc Peixotto et du bois Sourreil, et au sol sous les chênes quand les glands tombent ; on l'entend crier avant de le voir.",
+  "point": {
+   "lat": 44.8095,
+   "lon": -0.5795,
+   "repere": "Bois Sourreil : sous les grands chênes, là où les glands tombent ; écoute son cri rauque, puis cherche un oiseau rosé qui s'envole avec un éclair bleu sur l'aile."
+  },
+  "mois": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Oiseau rosé avec une tache bleue rayée de noir sur l'aile, un croupion blanc en vol, qui crie rauque ; il vole avec un gland dans le bec.",
+  "enfant": {
+   "2-3": {
+    "mot": "geai",
+    "geste": "Ramasser une feuille de chêne tombée et la cacher sous les feuilles mortes, comme le geai cache ses glands.",
+    "phrase": "Geai, geai, cache ton trésor !"
+   },
+   "3-5": {
+    "mot": "la plume bleue",
+    "geste": "Chercher la tache bleue et noire sur son aile ; demander où il cache ses glands pour l'hiver.",
+    "phrase": "Un gland ici, un gland là !"
+   }
+  },
+  "adulte": {
+   "nom": "Geai des chênes",
+   "latin": "Garrulus glandarius",
+   "anecdote": "À l'automne, un geai peut enterrer des milliers de glands ; ceux qu'il oublie deviennent des chênes, ce qui en fait un grand planteur d'arbres.",
+   "pourquoi_maintenant": "Les glands tombent d'octobre à novembre : c'est le moment où les geais en cachent le plus.",
+   "confusion": "La pie est noire et blanche, sans bleu sur l'aile ; le geai a un croupion blanc en vol."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Garrulus_glandarius_1_Luc_Viatour.jpg/500px-Garrulus_glandarius_1_Luc_Viatour.jpg",
+   "credit": "Luc Viatour — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Garrulus_glandarius_1_Luc_Viatour.jpg"
+  }
+ },
+ {
+  "id": "ani-chardonneret-chardons",
+  "categorie": "animal",
+  "titre": "Le chardonneret picore les graines de chardon",
+  "lieux": [
+   "campus-haut-carre",
+   "parc-triaire",
+   "partout"
+  ],
+  "ou": "Sur les chardons, les cardères et les herbes montées en graines des friches, talus et prairies, et dans les arbres voisins.",
+  "point": {
+   "lat": 44.8097,
+   "lon": -0.5974,
+   "repere": "Domaine du Haut-Carré : entrer par la grille « Entrée Haut-Carré » au rond-point de la rue Pierre-Noailles, puis longer les bords de pelouse non tondus où les herbes montent en graines ; écoute aussi son gazouillis en haut des arbres."
+  },
+  "mois": [
+   1,
+   2,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Petit oiseau avec le visage rouge, une bande jaune vif sur chaque aile et un chant liquide « tsi-guelit ». Il s'accroche aux tiges de chardons.",
+  "enfant": {
+   "2-3": {
+    "mot": "chardonneret",
+    "geste": "Chercher un oiseau rouge et jaune sur les tiges de grandes fleurs sèches.",
+    "phrase": "Chardonneret, rouge et jaune !"
+   },
+   "3-5": {
+    "mot": "le visage rouge",
+    "geste": "Chercher le rouge de sa tête et le jaune de ses ailes ; compter ses couleurs.",
+    "phrase": "Rouge, jaune, noir, blanc !"
+   }
+  },
+  "adulte": {
+   "nom": "Chardonneret élégant",
+   "latin": "Carduelis carduelis",
+   "anecdote": "Son bec fin est parfait pour extraire les graines des chardons et des cardères.",
+   "pourquoi_maintenant": "Les chardons montent en graines de l'été à l'hiver : c'est la saison où les chardonnerets s'en régalent.",
+   "confusion": "Le verdier est vert avec du jaune sur les ailes mais sans visage rouge."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Goldfinch_on_Thistle_-_Carduelis_carduelis_%2853012254357%29.jpg/500px-Goldfinch_on_Thistle_-_Carduelis_carduelis_%2853012254357%29.jpg",
+   "credit": "caroline legg — CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Goldfinch_on_Thistle_-_Carduelis_carduelis_(53012254357).jpg"
+  }
+ },
+ {
+  "id": "ani-moutons-ouessant-haut-carre",
+  "categorie": "animal",
+  "titre": "Les moutons d'Ouessant du Haut-Carré",
+  "lieux": [
+   "campus-haut-carre"
+  ],
+  "ou": "Dans les parcelles grillagées des jardins du domaine du Haut-Carré, sur le campus : une dizaine de moutons y ont été installés en mai 2024 pour au moins deux ans. Présence actuelle non confirmée : c'est peut-être fini.",
+  "point": {
+   "lat": 44.8097,
+   "lon": -0.5974,
+   "repere": "Domaine du Haut-Carré : entrer par la grille « Entrée Haut-Carré » au rond-point de la rue Pierre-Noailles, puis chercher les parcelles grillagées dans les jardins du domaine."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "De tout petits moutons noirs, bruns ou blancs, bas sur pattes ; les béliers portent des cornes en spirale. Si les parcelles sont vides, profite des grandes pelouses.",
+  "enfant": {
+   "2-3": {
+    "mot": "mouton",
+    "geste": "Faire « bêêê » ensemble et regarder qui répond derrière la clôture.",
+    "phrase": "Mouton, mouton, bêêê !"
+   },
+   "3-5": {
+    "mot": "les petits moutons",
+    "geste": "Compter les moutons noirs et les blancs ; deviner pourquoi ils tondent l'herbe à la place des machines.",
+    "phrase": "Ils tondent l'herbe !"
+   }
+  },
+  "adulte": {
+   "nom": "Mouton d'Ouessant",
+   "latin": "Ovis aries",
+   "anecdote": "C'est l'une des plus petites races de mouton du monde (environ 45-50 cm au garrot), venue de l'île d'Ouessant ; l'université l'emploie en éco-pâturage à la place des tondeuses.",
+   "pourquoi_maintenant": "Ces moutons rustiques vivent dehors toute l'année : leur toison épaisse les protège du froid. Leur nombre varie selon la pousse de l'herbe.",
+   "confusion": "Les brebis n'ont pas de cornes ; les béliers en ont de grandes en spirale."
+  },
+  "attention": "La clôture peut être électrique : on regarde sans la toucher, sans entrer et sans nourrir les animaux.",
+  "verifier": true,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Ouessant_sheep.JPG/500px-Ouessant_sheep.JPG",
+   "credit": "4028mdk09 — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ouessant_sheep.JPG"
+  }
+ },
+ {
+  "id": "ani-abeilles-sur-fleurs",
+  "categorie": "animal",
+  "titre": "Les abeilles butinent",
+  "lieux": [
+   "partout",
+   "parc-bel-air"
+  ],
+  "ou": "Sur toutes les fleurs des parcs, jardins et parterres du quartier, surtout les fleurs jaunes et bleues au soleil ; au parc Bel Air, près des jardins partagés.",
+  "point": null,
+  "mois": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "froid"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Insecte brun doré, poilu, qui visite les fleurs de l'une à l'autre. Elle tient des petites pelotes de pollen jaune sur ses pattes.",
+  "enfant": {
+   "2-3": {
+    "mot": "abeille",
+    "geste": "Chercher une fleur où une abeille se pose, regarder sans toucher, et faire « bzzz ».",
+    "phrase": "Abeille, abeille, sur la fleur !"
+   },
+   "3-5": {
+    "mot": "le pollen",
+    "geste": "Chercher les abeilles qui ont les pattes jaunes et pointer du doigt la pelote de pollen.",
+    "phrase": "Des culottes jaunes !"
+   }
+  },
+  "adulte": {
+   "nom": "Abeille domestique",
+   "latin": "Apis mellifera",
+   "anecdote": "Une ouvrière d'été vit environ six semaines. Talence a son propre rucher municipal de six ruches au bois de Thouars depuis 2012 ; une analyse de 2025 n'y a trouvé aucun des 17 pesticides recherchés.",
+   "pourquoi_maintenant": "Dès que la température dépasse 10 à 12 °C, les abeilles sortent ; à l'automne, le lierre en fleurs est leur dernier festin.",
+   "confusion": "Les syrphes ressemblent à des abeilles mais n'ont que deux ailes et ne piquent pas."
+  },
+  "attention": "Une abeille pique si on la serre ou si on marche dessus pieds nus : on regarde sans toucher.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Apis_mellifera_2_Luc_Viatour.JPG/500px-Apis_mellifera_2_Luc_Viatour.JPG",
+   "credit": "Luc Viatour — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_2_Luc_Viatour.JPG"
+  }
+ },
+ {
+  "id": "ani-bourdons",
+  "categorie": "animal",
+  "titre": "Les gros bourdons ronds",
+  "lieux": [
+   "partout",
+   "parc-bel-air"
+  ],
+  "ou": "Sur les fleurs des parterres, des jardins partagés (parc Bel Air) et des haies en fleurs.",
+  "point": null,
+  "mois": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Gros insecte rond et poilu, rayé de jaune, de noir ou roux, au bourdonnement grave ; il vole lourdement de fleur en fleur.",
+  "enfant": {
+   "2-3": {
+    "mot": "bourdon",
+    "geste": "Faire « brrr » avec les lèvres en regardant, sans toucher, un bourdon posé sur une fleur.",
+    "phrase": "Bourdon, bourdon, gros et rond !"
+   },
+   "3-5": {
+    "mot": "le gros poilu",
+    "geste": "Compter les bourdons, comparer sa taille à une abeille.",
+    "phrase": "Gros bourdon, petit bourdon !"
+   }
+  },
+  "adulte": {
+   "nom": "Bourdon des champs / Bourdon terrestre",
+   "latin": "Bombus pascuorum / Bombus terrestris",
+   "anecdote": "Au printemps, seule la reine, qui a passé l'hiver cachée, fonde seule une colonie.",
+   "pourquoi_maintenant": "Les bourdons sortent dès les premiers jours doux de mars, même à basse température, et visitent les fleurs jusqu'à l'automne.",
+   "confusion": "Le bourdon des champs est roux ; le bourdon terrestre a une bande jaune et un bout de queue blanc."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Bombus_terrestris_su_Prunus_domestica.jpg/500px-Bombus_terrestris_su_Prunus_domestica.jpg",
+   "credit": "PROPOLI87 — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Bombus_terrestris_su_Prunus_domestica.jpg"
+  }
+ },
+ {
+  "id": "ani-xylocope-violet",
+  "categorie": "animal",
+  "titre": "Le gros bourdon noir aux ailes violettes",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Sur les fleurs de glycine, de lavande et dans les jardins en fleurs ; autour du parc Peixotto et des rues voisines. On l'entend avant de le voir : un ronflement grave.",
+  "point": null,
+  "mois": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "froid"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Énorme abeille toute noire, avec des reflets violets bleutés sur les ailes ; elle fait un bruit de petit moteur et se pose lourdement sur les fleurs.",
+  "enfant": {
+   "2-3": {
+    "mot": "gros bourdon noir",
+    "geste": "Faire un « vrrr » grave avec la voix et suivre du doigt, sans toucher, l'insecte qui passe de fleur en fleur.",
+    "phrase": "Gros noir, gros noir, vrrr !"
+   },
+   "3-5": {
+    "mot": "les ailes violettes",
+    "geste": "Chercher les reflets violets de ses ailes au soleil, puis comparer avec le bourdon rayé.",
+    "phrase": "Noir avec des ailes violettes !"
+   }
+  },
+  "adulte": {
+   "nom": "Xylocope violet (abeille charpentière)",
+   "latin": "Xylocopa violacea",
+   "anecdote": "C'est l'une des plus grosses abeilles d'Europe ; la femelle creuse sa galerie dans le bois mort et garnit les loges de pollen pour ses larves.",
+   "pourquoi_maintenant": "Elle sort dès les premiers beaux jours, parfois en mars, et s'observe jusqu'en septembre sur les fleurs.",
+   "confusion": "Le bourdon est rayé et très poilu ; le xylocope est tout noir et lisse, avec des ailes violacées."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Xylocopa_violacea_female_1.jpg/500px-Xylocopa_violacea_female_1.jpg",
+   "credit": "Gideon Pisanty (Gidip) גדעון פיזנטי — CC BY 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Xylocopa_violacea_female_1.jpg"
+  }
+ },
+ {
+  "id": "ani-tircis-lisiere",
+  "categorie": "animal",
+  "titre": "Le tircis, papillon des sous-bois",
+  "lieux": [
+   "bois-sourreil",
+   "parc-peixotto"
+  ],
+  "ou": "Aux lisières et clairières ensoleillées du bois Sourreil (8 espèces de papillons de jour y sont recensées, dont le tircis) et dans les allées de Peixotto.",
+  "point": {
+   "lat": 44.8095,
+   "lon": -0.5795,
+   "repere": "les clairières et lisières ensoleillées du bois, près des panneaux sur les papillons et les oiseaux"
+  },
+  "mois": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "vent"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Papillon brun taché de crème, de la taille d'une pièce, qui se pose sur une feuille au soleil puis s'envole d'un bond quand tu t'approches.",
+  "enfant": {
+   "2-3": {
+    "mot": "papillon",
+    "geste": "Marcher doucement et lever le doigt quand un papillon vole, puis le suivre des yeux jusqu'à ce qu'il se pose.",
+    "phrase": "Papillon, papillon, pose-toi !"
+   },
+   "3-5": {
+    "mot": "les petits ronds",
+    "geste": "Compter les petits ronds sur ses ailes ; chercher s'il est posé à l'ombre ou au soleil.",
+    "phrase": "Il a des yeux sur les ailes !"
+   }
+  },
+  "adulte": {
+   "nom": "Tircis",
+   "latin": "Pararge aegeria",
+   "anecdote": "Les mâles défendent une tache de lumière dans le sous-bois et chassent les intrus ; les ocelles sur les ailes détournent l'attention des oiseaux.",
+   "pourquoi_maintenant": "Il vole de mars à octobre en plusieurs générations, dans les endroits ensoleillés en lisière.",
+   "confusion": "Le myrtil, plus grand, a une seule tache orange avec un œil noir sur l'aile avant ; le tircis est brun constellé de taches crème."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Speckled_wood_%28Pararge_aegeria_aegeria%29_male.jpg/500px-Speckled_wood_%28Pararge_aegeria_aegeria%29_male.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Speckled_wood_(Pararge_aegeria_aegeria)_male.jpg"
+  }
+ },
+ {
+  "id": "ani-vulcain-automne",
+  "categorie": "animal",
+  "titre": "Le vulcain se chauffe au soleil d'automne",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Sur les murs, les troncs et les allées bien exposés, aux heures chaudes ; il visite aussi les dernières fleurs des massifs.",
+  "point": null,
+  "mois": [
+   9,
+   10,
+   11
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Papillon noir velouté avec une large bande rouge-orange et des taches blanches ; il se pose ailes grandes ouvertes face au soleil, puis repart en zigzag rapide.",
+  "enfant": {
+   "2-3": {
+    "mot": "papillon rouge et noir",
+    "geste": "S'approcher à petits pas et s'arrêter quand il ouvre ses ailes au soleil.",
+    "phrase": "Papillon rouge et noir, au soleil !"
+   },
+   "3-5": {
+    "mot": "la bande rouge",
+    "geste": "Compter les taches blanches de ses ailes, puis poser la main sur le mur au soleil : pourquoi s'y pose-t-il ?",
+    "phrase": "Il fait le plein de chaleur !"
+   }
+  },
+  "adulte": {
+   "nom": "Vulcain",
+   "latin": "Vanessa atalanta",
+   "anecdote": "Beaucoup de vulcains migrent vers le sud à l'automne, à travers les Pyrénées ; avec les hivers plus doux, de plus en plus passent aussi l'hiver en France à l'état adulte. Sa chenille vit sur l'ortie.",
+   "pourquoi_maintenant": "En automne, les adultes font le plein d'énergie avant la migration ou l'hiver : ils se chauffent au soleil et butinent les dernières fleurs (lierre, asters).",
+   "confusion": "Le paon-du-jour a de grands « yeux » sur chaque aile ; la belle-dame est orange à pointes noires."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Red_Admiral_%28Vanessa_atalanta%29_on_ivy_-_geograph.org.uk_-_1519665.jpg/500px-Red_Admiral_%28Vanessa_atalanta%29_on_ivy_-_geograph.org.uk_-_1519665.jpg",
+   "credit": "Andrew Curtis — CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Red_Admiral_(Vanessa_atalanta)_on_ivy_-_geograph.org.uk_-_1519665.jpg"
+  }
+ },
+ {
+  "id": "ani-citron-premier-papillon",
+  "categorie": "animal",
+  "titre": "Le premier papillon de l'année : le citron",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Dans les jardins, les lisières ou les parcs lors d'une journée douce et ensoleillée de fin d'hiver.",
+  "point": null,
+  "mois": [
+   2,
+   3
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "froid",
+   "gel"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Papillon jaune citron (mâle) ou vert très pâle (femelle), de forme angulaire comme une feuille, qui vole pour la première fois lors des premiers jours doux.",
+  "enfant": {
+   "2-3": {
+    "mot": "papillon jaune",
+    "geste": "Chercher un papillon jaune dans les premières journées de soleil et dire « Coucou le printemps ! ».",
+    "phrase": "Papillon citron, bonjour !"
+   },
+   "3-5": {
+    "mot": "le papillon-feuille",
+    "geste": "Se demander pourquoi il ressemble à une feuille quand il se repose ailes fermées.",
+    "phrase": "Il se cache comme une feuille !"
+   }
+  },
+  "adulte": {
+   "nom": "Citron",
+   "latin": "Gonepteryx rhamni",
+   "anecdote": "C'est l'un des papillons les plus longévifs d'Europe : il peut vivre presque un an, en hivernant adulte caché dans la végétation.",
+   "pourquoi_maintenant": "Les citrons sortent d'hibernation dès les premières journées douces de février-mars.",
+   "confusion": "La piéride du chou est blanche avec des taches noires ; le souci est jaune orangé avec des bords noirs."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Common_brimstones_%28Gonepteryx_rhamni%29_courting_in_flight.jpg/500px-Common_brimstones_%28Gonepteryx_rhamni%29_courting_in_flight.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_brimstones_(Gonepteryx_rhamni)_courting_in_flight.jpg"
+  }
+ },
+ {
+  "id": "ani-papillons-prairie-campus",
+  "categorie": "animal",
+  "titre": "Papillons bleus, orange et jaunes dans l'herbe haute",
+  "lieux": [
+   "campus-haut-carre",
+   "parc-triaire"
+  ],
+  "ou": "Sur les talus, prairies fleuries et pelouses laissées hautes du campus (Haut-Carré) et du parc Triaire (6 espèces de papillons recensées).",
+  "point": {
+   "lat": 44.8097,
+   "lon": -0.5974,
+   "repere": "Domaine du Haut-Carré : entrer par la grille « Entrée Haut-Carré » au rond-point de la rue Pierre-Noailles, puis longer les talus et bords de pelouses laissés hauts et fleuris."
+  },
+  "mois": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "vent"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Petits papillons posés sur les fleurs : bleu argenté (azuré), orange cuivré taché de noir (cuivré commun), jaune safran (souci).",
+  "enfant": {
+   "2-3": {
+    "mot": "papillons",
+    "geste": "S'accroupir devant les fleurs et compter les papillons en les pointant du doigt, sans les toucher.",
+    "phrase": "Papillon bleu, papillon jaune !"
+   },
+   "3-5": {
+    "mot": "les couleurs",
+    "geste": "Compter combien de couleurs de papillons on voit ; jouer à « qui voit le plus petit ? ».",
+    "phrase": "Bleu, orange, jaune !"
+   }
+  },
+  "adulte": {
+   "nom": "Azuré commun, cuivré commun, souci",
+   "latin": "Polyommatus icarus, Lycaena phlaeas, Colias crocea",
+   "anecdote": "Chez l'azuré commun seul le mâle est bleu ; la femelle est brune.",
+   "pourquoi_maintenant": "De mai à septembre, plusieurs générations s'enchaînent sur les fleurs des prairies.",
+   "confusion": "L'azuré est plus petit que le tircis et se pose les ailes fermées pour montrer un dessous gris à points noirs."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Common_blue_%28Polyommatus_icarus%29_male_Turna.jpg/500px-Common_blue_%28Polyommatus_icarus%29_male_Turna.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_blue_(Polyommatus_icarus)_male_Turna.jpg"
+  }
+ },
+ {
+  "id": "ani-moro-sphinx",
+  "categorie": "animal",
+  "titre": "Le papillon-colibri",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Devant les fleurs à longue corolle (lavande, valériane, buddleia, géranium) dans les jardins, parterres et parcs, surtout sous le soleil.",
+  "point": null,
+  "mois": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "vent",
+   "froid"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Papillon gris-brun qui reste en vol sur place devant la fleur, ailes en bourdonnant, avec une longue trompe : on dirait un colibri.",
+  "enfant": {
+   "2-3": {
+    "mot": "colibri",
+    "geste": "Faire battre très vite les doigts comme des ailes devant une fleur, en bourdonnant.",
+    "phrase": "Un colibri-papillon !"
+   },
+   "3-5": {
+    "mot": "la trompe",
+    "geste": "Regarder où elle plonge sa trompe, puis imiter avec le doigt le geste de boire.",
+    "phrase": "Il boit avec une paille !"
+   }
+  },
+  "adulte": {
+   "nom": "Moro-sphinx (sphinx colibri)",
+   "latin": "Macroglossum stellatarum",
+   "anecdote": "Il bat des ailes autour de 70 fois par seconde et vole en plein jour ; il n'y a aucun colibri en Europe, c'est donc ce papillon qu'on prend pour tel.",
+   "pourquoi_maintenant": "Il est actif quand il fait chaud, surtout de mai à septembre, en plein soleil.",
+   "confusion": "Le bourdon a aussi un vol bourdonnant, mais il se pose sur la fleur ; le moro-sphinx reste en vol devant, comme un colibri (il n'y a pas de colibri en Europe)."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hummingbird_hawk_moth_%28Macroglossum_stellatarum%29_in_flight.jpg/500px-Hummingbird_hawk_moth_%28Macroglossum_stellatarum%29_in_flight.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Hummingbird_hawk_moth_(Macroglossum_stellatarum)_in_flight.jpg"
+  }
+ },
+ {
+  "id": "ani-libellules-plan-eau",
+  "categorie": "animal",
+  "titre": "Les libellules au bord de l'eau",
+  "lieux": [
+   "parc-peixotto",
+   "parc-margaut"
+  ],
+  "ou": "Autour du bassin du parc Margaut et du bassin du nord du parc Peixotto, sur les plantes et les tiges qui dépassent de l'eau.",
+  "point": {
+   "lat": 44.8069,
+   "lon": -0.5905,
+   "repere": "Parc Margaut : le nouveau bassin le long de l'allée côté avenue du Maréchal-Leclerc (bord béton, bancs blancs) ; puis le bassin du nord du parc Peixotto."
+  },
+  "mois": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "vent",
+   "froid"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Rouge vif (crocothémis mâle), bleu fin (demoiselle ischnure) : elles patrouillent au ras de l'eau et se posent sur une tige.",
+  "enfant": {
+   "2-3": {
+    "mot": "libellule",
+    "geste": "Rester calme, un doigt levé, et attendre qu'une libellule se pose sur une tige.",
+    "phrase": "Libellule, libellule, pose-toi !"
+   },
+   "3-5": {
+    "mot": "les ailes",
+    "geste": "Compter ses ailes (quatre), chercher sa couleur et la montrer du doigt.",
+    "phrase": "Quatre ailes et des yeux géants !"
+   }
+  },
+  "adulte": {
+   "nom": "Crocothémis écarlate et Ischnure élégante",
+   "latin": "Crocothemis erythraea ; Ischnura elegans",
+   "anecdote": "Les larves vivent sous l'eau, parfois plusieurs mois ou années, avant de sortir se transformer ; la libellule voit presque tout autour d'elle grâce à des yeux à des milliers de facettes.",
+   "pourquoi_maintenant": "Elles sont actives de mai à septembre, quand l'eau est chaude, par temps sec et ensoleillé.",
+   "confusion": "Les libellules se reposent ailes écartées ; les demoiselles les replient le long du corps."
+  },
+  "attention": "Eau : tenir la main de l'enfant en permanence près du bord, jamais seul.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scarlet_dragonfly_%28Crocothemis_erythraea%29_male.jpg/500px-Scarlet_dragonfly_%28Crocothemis_erythraea%29_male.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Scarlet_dragonfly_(Crocothemis_erythraea)_male.jpg"
+  }
+ },
+ {
+  "id": "ani-sympetrum-banc",
+  "categorie": "animal",
+  "titre": "La libellule rouge se pose sur ton banc",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Sur les bancs, les murs ensoleillés et les clôtures, parfois loin de l'eau, en fin d'été et à l'automne.",
+  "point": null,
+  "mois": [
+   9,
+   10,
+   11
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "froid"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Petite libellule rougeâtre (mâle) ou brun jaune (femelle) qui se pose sur un banc ou un mur au soleil, la tête dressée.",
+  "enfant": {
+   "2-3": {
+    "mot": "libellule rouge",
+    "geste": "Chercher une libellule posée au soleil sur un banc ; s'approcher pas à pas.",
+    "phrase": "Libellule rouge, ne bouge pas !"
+   },
+   "3-5": {
+    "mot": "le banc chaud",
+    "geste": "Poser sa main sur la pierre ou le banc au soleil pour sentir la chaleur, comme la libellule.",
+    "phrase": "Elle se chauffe au soleil !"
+   }
+  },
+  "adulte": {
+   "nom": "Sympétrum strié",
+   "latin": "Sympetrum striolatum",
+   "anecdote": "Les couples volent en « tandem » et la femelle pond en tapotant l'eau avec l'extrémité de son abdomen ; les adultes volent jusque tard dans l'automne.",
+   "pourquoi_maintenant": "C'est la libellule de la fin de saison, visible jusqu'en novembre quand le soleil la réchauffe.",
+   "confusion": "Le sympétrum de Fonscolombe a des nervures rouges aux ailes."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Common_darter_sympetrum_striolatum.jpg/500px-Common_darter_sympetrum_striolatum.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_darter_sympetrum_striolatum.jpg"
+  }
+ },
+ {
+  "id": "ani-coccinelles",
+  "categorie": "animal",
+  "titre": "Chercher les coccinelles",
+  "lieux": [
+   "partout",
+   "campus-haut-carre"
+  ],
+  "ou": "Sur les herbes hautes, les orties, les rosiers et les massifs de fleurs ; sur le campus et les parcs, de printemps à fin d'été.",
+  "point": null,
+  "mois": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Petit coléoptère bombé : rouge à sept points noirs (coccinelle à sept points), ou orange et noir variable (coccinelle asiatique).",
+  "enfant": {
+   "2-3": {
+    "mot": "coccinelle",
+    "geste": "Poser le doigt à plat devant la coccinelle pour qu'elle grimpe dessus, la regarder, puis lui dire au revoir.",
+    "phrase": "Coccinelle, coccinelle, vole, vole !"
+   },
+   "3-5": {
+    "mot": "les points",
+    "geste": "Compter les points noirs de la coccinelle ; chercher celle qui en a le plus.",
+    "phrase": "Un, deux, trois… sept points !"
+   }
+  },
+  "adulte": {
+   "nom": "Coccinelle à sept points / coccinelle asiatique",
+   "latin": "Coccinella septempunctata / Harmonia axyridis",
+   "anecdote": "Une larve de coccinelle mange plusieurs dizaines de pucerons par jour. La coccinelle asiatique, introduite en France à partir de 1982 pour la lutte biologique, s'est installée dans la nature au début des années 2000.",
+   "pourquoi_maintenant": "Les coccinelles sortent dès avril et sont abondantes en mai-juin, avec les pucerons.",
+   "confusion": "La coccinelle asiatique varie du rouge au noir avec 0 à 19 points ; la coccinelle à sept points a toujours sept points."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Coccinella_septempunctata_qtl1.jpg/500px-Coccinella_septempunctata_qtl1.jpg",
+   "credit": "Quartl — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Coccinella_septempunctata_qtl1.jpg"
+  }
+ },
+ {
+  "id": "ani-lucane-soir-ete",
+  "categorie": "animal",
+  "titre": "Le lucane cerf-volant, géant du soir",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au crépuscule des soirs chauds de juin, en vol lourd au-dessus des jardins et des vieux arbres, ou posé sur un trottoir sous un lampadaire. Rare en ville : un vrai coup de chance.",
+  "point": null,
+  "mois": [
+   6,
+   7
+  ],
+  "requiert": [
+   "chaud"
+  ],
+  "exclut": [],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Énorme coléoptère noir-brun luisant ; le mâle porte de grandes mandibules en « bois de cerf » ; il vole droit, en position presque verticale.",
+  "enfant": {
+   "2-3": {
+    "mot": "gros scarabée",
+    "geste": "Regarder de loin sans toucher, puis faire ses « bois de cerf » avec les mains sur la tête.",
+    "phrase": "Gros scarabée aux grandes cornes !"
+   },
+   "3-5": {
+    "mot": "les bois de cerf",
+    "geste": "Compter ses pattes (six) et ses « cornes », puis dessiner l'insecte dans l'air.",
+    "phrase": "Un cerf-volant qui vole !"
+   }
+  },
+  "adulte": {
+   "nom": "Lucane cerf-volant",
+   "latin": "Lucanus cervus",
+   "anecdote": "La larve vit plusieurs années dans le bois mort (souches de chêne) avant de devenir adulte, qui ne vit que quelques semaines ; l'espèce est protégée en Europe.",
+   "pourquoi_maintenant": "Les adultes volent à la tombée de la nuit surtout en juin, par temps chaud et orageux ; la plupart des observations locales datent de juin.",
+   "confusion": "Le grand capricorne est noir avec de très longues antennes, sans mandibules en bois de cerf."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Lucanus_cervus_male_2008_G1.jpg/500px-Lucanus_cervus_male_2008_G1.jpg",
+   "credit": "George Chernilevsky — Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Lucanus_cervus_male_2008_G1.jpg"
+  }
+ },
+ {
+  "id": "ani-vers-luisants",
+  "categorie": "animal",
+  "titre": "Les petites lumières vertes de l'herbe",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au bord des pelouses, talus et haies peu éclairés, au retour d'une soirée d'été. Rares en ville : quelques observations seulement, côté campus.",
+  "point": null,
+  "mois": [
+   6,
+   7
+  ],
+  "requiert": [
+   "jours_longs"
+  ],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": "nuit",
+  "poids": 3,
+  "reperes": "Pas de vol : une petite lueur vert-jaune fixe dans l'herbe, nuit tombée, loin des lampadaires.",
+  "enfant": {
+   "2-3": {
+    "mot": "lumière",
+    "geste": "Éteindre les lampes, rester silencieux et montrer la petite lumière verte du doigt.",
+    "phrase": "Une petite lumière dans l'herbe !"
+   },
+   "3-5": {
+    "mot": "la lampe vivante",
+    "geste": "Compter les lueurs ; deviner pourquoi elle s'allume (pour appeler son amoureux).",
+    "phrase": "Elle allume sa lampe !"
+   }
+  },
+  "adulte": {
+   "nom": "Ver luisant commun",
+   "latin": "Lampyris noctiluca",
+   "anecdote": "Seule la femelle, sans ailes, s'allume pour attirer les mâles volants ; la larve se nourrit d'escargots.",
+   "pourquoi_maintenant": "Les femelles s'allument surtout de mi-juin à mi-juillet, une heure environ après le coucher du soleil.",
+   "confusion": "Les lucioles volent et clignotent ; les vers luisants brillent fixes et ne volent pas."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lampyris_Noctiluca_Female_Firefly_1.jpg/500px-Lampyris_Noctiluca_Female_Firefly_1.jpg",
+   "credit": "Tero Keski-Valkama — CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Lampyris_Noctiluca_Female_Firefly_1.jpg"
+  }
+ },
+ {
+  "id": "ani-mante-religieuse",
+  "categorie": "animal",
+  "titre": "La mante religieuse dans l'herbe sèche",
+  "lieux": [
+   "campus-haut-carre",
+   "parc-triaire"
+  ],
+  "ou": "Dans les herbes hautes et sèches du domaine du Haut-Carré (c'est là que la plupart des observations locales ont été faites) et du parc Triaire. Pas facile : elle est très bien camouflée.",
+  "point": {
+   "lat": 44.8097,
+   "lon": -0.5974,
+   "repere": "Domaine du Haut-Carré : entrer par la grille « Entrée Haut-Carré » au rond-point de la rue Pierre-Noailles, puis chercher dans les herbes hautes et sèches au soleil, en bordure des pelouses."
+  },
+  "mois": [
+   8,
+   9,
+   10
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Insecte vert ou brun, long et mince, immobile, les pattes avant repliées « en prière », qui tourne sa tête triangulaire vers toi.",
+  "enfant": {
+   "2-3": {
+    "mot": "mante",
+    "geste": "Se tenir immobile, les mains jointes devant soi comme elle, et la regarder tourner la tête, sans la toucher.",
+    "phrase": "Mante, mante, ne bouge pas !"
+   },
+   "3-5": {
+    "mot": "la prière",
+    "geste": "Chercher sa tête qui se tourne et compter ses pattes ; demander pourquoi elle reste figée.",
+    "phrase": "Elle attend sa proie !"
+   }
+  },
+  "adulte": {
+   "nom": "Mante religieuse",
+   "latin": "Mantis religiosa",
+   "anecdote": "Elle est capable de tourner la tête presque à 180° et ne possède qu'une seule oreille, au milieu du thorax.",
+   "pourquoi_maintenant": "Les adultes sont visibles en fin d'été et à l'automne, avant la ponte.",
+   "confusion": "Les phasmes ne tiennent pas leurs pattes en prière."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/European_praying_mantis_%28Mantis_religiosa%29_green_female_Dobruja.jpg/500px-European_praying_mantis_%28Mantis_religiosa%29_green_female_Dobruja.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:European_praying_mantis_(Mantis_religiosa)_green_female_Dobruja.jpg"
+  }
+ },
+ {
+  "id": "ani-sauterelles-criquets",
+  "categorie": "animal",
+  "titre": "Sauterelle ou criquet ? Dans l'herbe haute",
+  "lieux": [
+   "campus-haut-carre",
+   "parc-triaire"
+  ],
+  "ou": "Dans les herbes hautes ensoleillées : bords de pelouses, talus, prairies du campus et du parc Triaire. On les entend avant de les voir.",
+  "point": {
+   "lat": 44.8097,
+   "lon": -0.5974,
+   "repere": "Domaine du Haut-Carré : entrer par la grille « Entrée Haut-Carré » au rond-point de la rue Pierre-Noailles, puis écouter au bord des herbes hautes ensoleillées."
+  },
+  "mois": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Une grande sauterelle verte aux très longues antennes, ou un petit criquet brun aux antennes courtes qui saute d'un bond.",
+  "enfant": {
+   "2-3": {
+    "mot": "sauterelle",
+    "geste": "Sauter comme une sauterelle, très haut, en faisant « zzzzz » avec la voix.",
+    "phrase": "Sauterelle, saute, saute !"
+   },
+   "3-5": {
+    "mot": "les antennes",
+    "geste": "Comparer la longueur des antennes d'une sauterelle et d'un criquet en les dessinant dans l'air.",
+    "phrase": "Longues antennes, courtes antennes !"
+   }
+  },
+  "adulte": {
+   "nom": "Grande sauterelle verte et criquet des pâtures",
+   "latin": "Tettigonia viridissima ; Pseudochorthippus parallelus",
+   "anecdote": "Les « oreilles » d'une sauterelle sont dans ses pattes avant ; elle chante en frottant ses ailes l'une contre l'autre, alors que le criquet frotte ses pattes arrière contre ses ailes.",
+   "pourquoi_maintenant": "Elles s'entendent surtout à la fin du printemps et pendant tout l'été, par temps chaud et sec.",
+   "confusion": "Le long « sabre » de la femelle sauterelle est un tube pour pondre, et non un dard."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tettigonia_viridissima.jpeg/500px-Tettigonia_viridissima.jpeg",
+   "credit": "Kristian Peters (Fabelfroh) — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Tettigonia_viridissima.jpeg"
+  }
+ },
+ {
+  "id": "ani-cetoine-doree",
+  "categorie": "animal",
+  "titre": "La cétoine dorée, bijou vivant",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Sur les fleurs ouvertes (rosiers, chardons, ombellifères) des jardins et parcs, au soleil.",
+  "point": null,
+  "mois": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Scarabée vert métallique brillant, comme un petit bijou, posé sur une grosse fleur.",
+  "enfant": {
+   "2-3": {
+    "mot": "scarabée brillant",
+    "geste": "Chercher un scarabée vert qui brille au soleil, le regarder de très près sans le toucher.",
+    "phrase": "Un scarabée doré !"
+   },
+   "3-5": {
+    "mot": "le bijou",
+    "geste": "Dire quelle couleur il a quand le soleil l'éclaire et quand il est à l'ombre.",
+    "phrase": "Vert, doré, brillant !"
+   }
+  },
+  "adulte": {
+   "nom": "Cétoine dorée",
+   "latin": "Cetonia aurata",
+   "anecdote": "Elle vole avec les élytres fermés, en laissant seulement passer ses ailes par des encoches sur les côtés.",
+   "pourquoi_maintenant": "Elle visite les fleurs de mai à juillet ; sa larve vit dans le terreau et le bois pourri.",
+   "confusion": "Le hanneton est brun avec des antennes en peigne ; la cétoine est vert métallique."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rose_chafers_%28Cetonia_aurata%29_on_thistle_%28Carduus_sp.%29.jpg/500px-Rose_chafers_%28Cetonia_aurata%29_on_thistle_%28Carduus_sp.%29.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rose_chafers_(Cetonia_aurata)_on_thistle_(Carduus_sp.).jpg"
+  }
+ },
+ {
+  "id": "ani-escargots-apres-pluie",
+  "categorie": "animal",
+  "titre": "Les escargots sont de sortie",
+  "lieux": [
+   "partout",
+   "campus-haut-carre"
+  ],
+  "ou": "Au pied des murets et des haies, sur les feuilles basses et les troncs, côté ombre, après la pluie ; sur les talus et sous-bois du campus.",
+  "point": null,
+  "mois": [
+   3,
+   4,
+   5,
+   6,
+   9,
+   10,
+   11
+  ],
+  "requiert": [
+   "pluie_recente"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Escargot à coquille brune marbrée, de la taille d'une noix. Sorti après la pluie, il laisse une traînée brillante et déplie ses quatre tentacules.",
+  "enfant": {
+   "2-3": {
+    "mot": "escargot",
+    "geste": "Poser le doigt à côté (pas dessus) et attendre qu'il sorte ses cornes.",
+    "phrase": "Escargot, montre tes cornes !"
+   },
+   "3-5": {
+    "mot": "les cornes / les yeux",
+    "geste": "Compter ses grandes cornes (avec les yeux au bout) et ses petites ; suivre la traînée brillante du doigt.",
+    "phrase": "Deux grandes, deux petites !"
+   }
+  },
+  "adulte": {
+   "nom": "Escargot petit-gris",
+   "latin": "Cornu aspersum",
+   "anecdote": "Il est hermaphrodite et porte plusieurs milliers de minuscules dents sur sa langue (la radula) pour racler les feuilles.",
+   "pourquoi_maintenant": "L'humidité est vitale pour lui : après la pluie, surtout au printemps et à l'automne, il quitte son abri.",
+   "confusion": "L'escargot des bois (Cepaea nemoralis) est plus petit, avec une coquille jaune, rose ou brune souvent rayée."
+  },
+  "attention": "Après avoir touché un escargot, on se lave les mains ; rien à la bouche.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Garden_snail_crossing_the_sidewalk.jpg/500px-Garden_snail_crossing_the_sidewalk.jpg",
+   "credit": "Grendelkhan — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Garden_snail_crossing_the_sidewalk.jpg"
+  }
+ },
+ {
+  "id": "ani-argiope-frelon",
+  "categorie": "animal",
+  "titre": "L'araignée rayée jaune et noire",
+  "lieux": [
+   "bois-sourreil",
+   "campus-haut-carre"
+  ],
+  "ou": "Dans les herbes hautes ensoleillées des prairies, talus et lisières du bois Sourreil et du campus ; elle se tient au centre de sa toile en zigzag.",
+  "point": {
+   "lat": 44.8095,
+   "lon": -0.5795,
+   "repere": "Bois Sourreil : les zones d'herbes hautes à tonte tardive, au soleil ; cherche une toile tendue entre les tiges avec un zigzag blanc au centre."
+  },
+  "mois": [
+   7,
+   8,
+   9
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Araignée de 2 cm au ventre rayé jaune, noir et blanc comme une guêpe, au centre d'une toile en zigzag dans l'herbe haute.",
+  "enfant": {
+   "2-3": {
+    "mot": "araignée",
+    "geste": "Compter ses pattes, huit, sur ses doigts, de loin, sans toucher la toile.",
+    "phrase": "Araignée jaune et noire !"
+   },
+   "3-5": {
+    "mot": "les rayures",
+    "geste": "Compter les rayures, chercher la toile en zigzag et dire pourquoi elle ressemble à une guêpe.",
+    "phrase": "Rayée comme une guêpe !"
+   }
+  },
+  "adulte": {
+   "nom": "Argiope frelon (épeire frelon)",
+   "latin": "Argiope bruennichi",
+   "anecdote": "Le mâle est minuscule, six à huit fois plus petit que la femelle ; l'espèce a progressé vers le nord ces dernières décennies.",
+   "pourquoi_maintenant": "Elle est adulte de fin d'été à septembre, quand l'herbe est haute et que les insectes abondent.",
+   "confusion": "Une guêpe a six pattes et des ailes ; l'argiope a huit pattes et pas d'ailes."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wasp_spider_%28Argiope_bruennichi%29_female_dorsal_Hrdovicka.jpg/500px-Wasp_spider_%28Argiope_bruennichi%29_female_dorsal_Hrdovicka.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Wasp_spider_(Argiope_bruennichi)_female_dorsal_Hrdovicka.jpg"
+  }
+ },
+ {
+  "id": "ani-thomise-fleurs",
+  "categorie": "animal",
+  "titre": "L'araignée-crabe qui attend sur les fleurs",
+  "lieux": [
+   "campus-haut-carre",
+   "partout"
+  ],
+  "ou": "Sur les fleurs blanches, jaunes ou roses des talus, prairies et bords de chemin ; elle reste immobile au centre de la fleur.",
+  "point": {
+   "lat": 44.8097,
+   "lon": -0.5974,
+   "repere": "Domaine du Haut-Carré : entrer par la grille « Entrée Haut-Carré » au rond-point de la rue Pierre-Noailles, puis regarder de près les fleurs des talus et bords de pelouses."
+  },
+  "mois": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Petite araignée trapue d'un centimètre, marquée d'un dessin noir sur le dos, immobile sur une fleur, pattes avant ouvertes comme les pinces d'un crabe.",
+  "enfant": {
+   "2-3": {
+    "mot": "araignée-crabe",
+    "geste": "Marcher de côté comme un crabe en regardant une fleur : y a-t-il une araignée ?",
+    "phrase": "Araignée-crabe, marche de côté !"
+   },
+   "3-5": {
+    "mot": "la chasseuse",
+    "geste": "Chercher dans les fleurs, compter ses pattes, demander pourquoi elle n'a pas de toile.",
+    "phrase": "Elle attend sur la fleur !"
+   }
+  },
+  "adulte": {
+   "nom": "Thomise globuleuse (araignée Napoléon)",
+   "latin": "Synema globosum",
+   "anecdote": "Elle ne tisse pas de toile pour chasser : elle attend à l'affût sur les fleurs et peut capturer des insectes plus gros qu'elle.",
+   "pourquoi_maintenant": "Elle chasse sur les fleurs ensoleillées surtout d'avril à juin, plus rarement jusqu'à la fin de l'été.",
+   "confusion": "La misumène variable, blanche ou jaune, change lentement de couleur selon la fleur ; la thomise globuleuse garde son dessin noir et blanc (ou rouge) sur le dos."
+  },
+  "attention": null,
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Synema_globosum_-_Shiny_crab_spider_01.jpg/500px-Synema_globosum_-_Shiny_crab_spider_01.jpg",
+   "credit": "Zeynel Cebeci — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Synema_globosum_-_Shiny_crab_spider_01.jpg"
+  }
+ },
+ {
+  "id": "ani-processionnaires-prevention",
+  "categorie": "animal",
+  "titre": "Attention aux nids blancs dans les pins",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Dans les pins des jardins, résidences et parcs du quartier : cherche de loin une boule blanche soyeuse au bout des branches.",
+  "point": null,
+  "mois": [
+   11,
+   12,
+   1,
+   2,
+   3,
+   4
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Un nid soyeux blanc, gros comme un ballon, dans un pin ; à la fin de l'hiver, une file indienne de chenilles au sol.",
+  "enfant": {
+   "2-3": {
+    "mot": "nid blanc",
+    "geste": "Repérer le gros nid blanc de loin, puis passer son chemin sans s'arrêter.",
+    "phrase": "Nid blanc : pas touche !"
+   },
+   "3-5": {
+    "mot": "pas touche",
+    "geste": "Expliquer à l'enfant pourquoi on ne touche ni la chenille ni le nid : les poils piquent.",
+    "phrase": "Chenille qui pique, on s'éloigne !"
+   }
+  },
+  "adulte": {
+   "nom": "Chenille processionnaire du pin",
+   "latin": "Thaumetopoea pityocampa",
+   "anecdote": "Les poils urticants se détachent et volent avec le vent ; la mésange charbonnière est un de leurs prédateurs. Existe aussi la processionnaire du chêne, de mai à juillet.",
+   "pourquoi_maintenant": "Les nids se voient de novembre à avril, et les chenilles défilent au sol de février à avril.",
+   "confusion": "Les toiles blanches qui couvrent des haies entières (fusain, aubépine) en mai-juin sont celles des hyponomeutes, inoffensives ; une boule soyeuse dans un pin en hiver, c'est la processionnaire."
+  },
+  "attention": "Ne jamais toucher chenilles ni nids ; éviter de s'arrêter sous les pins ; poils urticants emportés par le vent (yeux, peau, gorge). Contact : rincer à l'eau, consulter en cas de symptômes ; chiens en laisse.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Thaumetopoea_pityocampa_-_Nid_de_chenilles_processionnaires_du_pin%2C_S%C3%A8te_02.jpg/500px-Thaumetopoea_pityocampa_-_Nid_de_chenilles_processionnaires_du_pin%2C_S%C3%A8te_02.jpg",
+   "credit": "Christian Ferrer — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Thaumetopoea_pityocampa_-_Nid_de_chenilles_processionnaires_du_pin,_Sète_02.jpg"
+  }
+ },
+ {
+  "id": "ani-frelon-asiatique-prudence",
+  "categorie": "animal",
+  "titre": "Gros insecte noir et jaune : on s'éloigne",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Autour des fruits trop mûrs, du lierre en fleurs et des arbres ; les nids sphériques deviennent visibles en hiver dans les arbres.",
+  "point": null,
+  "mois": [
+   8,
+   9,
+   10,
+   11
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 1,
+  "reperes": "Gros insecte à thorax noir, abdomen sombre bordé d'une large bande orangée, et pattes jaunes au bout ; il tourne autour des fruits.",
+  "enfant": {
+   "2-3": {
+    "mot": "gros insecte",
+    "geste": "Tu t'éloignes calmement en tenant la main de l'adulte.",
+    "phrase": "On s'éloigne doucement, bye bye !"
+   },
+   "3-5": {
+    "mot": "la prudence",
+    "geste": "Si l'on en voit un, on s'éloigne de dix grands pas en comptant ensemble, puis on dit à quoi on l'a reconnu (noir, pattes jaunes).",
+    "phrase": "Noir aux pattes jaunes : on s'éloigne !"
+   }
+  },
+  "adulte": {
+   "nom": "Frelon asiatique",
+   "latin": "Vespa velutina",
+   "anecdote": "Arrivé en France en 2004 dans le Lot-et-Garonne, il a colonisé le pays en quelques années.",
+   "pourquoi_maintenant": "Les colonies sont à leur maximum en août-octobre et les nids deviennent visibles à la chute des feuilles.",
+   "confusion": "Le frelon européen est plus grand, brun-roux avec de l'orange et moins de noir."
+  },
+  "attention": "Ne jamais approcher un nid ni agiter le bras ; s'éloigner calmement. En cas de piqûre avec gêne respiratoire, malaise ou gonflement du visage : appeler le 15.",
+  "verifier": false,
+  "photo": {
+   "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Asian_hornet_%28Vespa_velutina%29.jpg/500px-Asian_hornet_%28Vespa_velutina%29.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Asian_hornet_(Vespa_velutina).jpg"
+  }
+ },
+ {
+  "id": "ani-lezard-des-murailles",
+  "categorie": "animal",
+  "titre": "Un petit lézard se chauffe sur le muret",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "Sur les murets de pierre au soleil : le muret de l'allée Peixotto, et tous les vieux murs bien exposés du quartier (cours de la Libération, rue Peydavant…).",
+  "point": {
+   "lat": 44.807538,
+   "lon": -0.590807,
+   "repere": "Allée Peixotto, côté nord-ouest, à une cinquantaine de mètres du cours de la Libération : le muret de pierre qui longe l'allée, à droite en entrant.",
+   "photo_lieu": {
+    "url": "https://panoramax.openstreetmap.fr/derivates/f3/17/b6/98/3dd9-4c4e-b2e8-e458be2c5b22/sd.jpg",
+    "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+    "source": "https://api.panoramax.xyz/#focus=pic&pic=f317b698-3dd9-4c4e-b2e8-e458be2c5b22"
+   }
+  },
+  "mois": [
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "requiert": [],
+  "exclut": [
+   "froid",
+   "couvert",
+   "brouillard",
+   "pluie_aujourdhui"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Petit lézard gris-brun de 15 à 20 cm queue comprise, aplati sur la pierre chaude, qui file dans une fente au moindre mouvement.",
+  "enfant": {
+   "2-3": {
+    "mot": "lézard",
+    "geste": "Accroupis-vous à deux pas du muret et devenez des statues en comptant jusqu'à cinq tout bas : le lézard revient se chauffer.",
+    "phrase": "Chut, lézard, au soleil !"
+   },
+   "3-5": {
+    "mot": "la pierre chaude",
+    "geste": "Pose la main sur la pierre au soleil, puis à l'ombre : où fait-il le plus chaud ? Où le lézard va-t-il se mettre ? Qui le voit en premier ?",
+    "phrase": "Il se chauffe comme un chat !"
+   }
+  },
+  "adulte": {
+   "nom": "Lézard des murailles",
+   "latin": "Podarcis muralis",
+   "anecdote": "Il n'a pas de « chauffage » interne : il fait le plein de chaleur au soleil, le corps aplati pour exposer le plus de surface. Saisi par la queue, il peut la lâcher (autotomie) : elle gigote quelques instants pour distraire le prédateur, puis repousse plus courte. Il est protégé en France.",
+   "pourquoi_maintenant": "Il sort dès les journées douces de février-mars et jusqu'en octobre, surtout le matin par temps ensoleillé. C'est le reptile le plus observé autour de Talence (une centaine d'observations à moins de 1,5 km).",
+   "confusion": "Le lézard vert est bien plus grand et vert vif ; l'orvet, sans pattes, ressemble à un petit serpent brillant."
+  },
+  "attention": "On regarde sans l'attraper : il peut perdre sa queue ou mordre, et il est protégé.",
+  "verifier": false,
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/L%C3%A9zard_des_murailles_%28Podarcis_muralis%29_%288%29.jpg/500px-L%C3%A9zard_des_murailles_%28Podarcis_muralis%29_%288%29.jpg",
+   "credit": "Gzen92 — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:L%C3%A9zard_des_murailles_(Podarcis_muralis)_(8).jpg"
+  }
+ },
+ {
+  "id": "ani-hirondelles-tour-robespierre",
+  "categorie": "animal",
+  "titre": "La tour à hirondelles du parc Robespierre",
+  "lieux": [
+   "parc-robespierre"
+  ],
+  "ou": "Au parc Robespierre, côté rue Dourout : une tour-nichoir installée pour les hirondelles. Le parc est clôturé, mais la tour se voit aussi depuis le trottoir.",
+  "point": {
+   "lat": 44.80893,
+   "lon": -0.58335,
+   "repere": "Rue Dourout, le long du parc Robespierre (petit parc clôturé), près du croisement avec la rue Robespierre : lève les yeux vers la tour à nichoirs, au-dessus de la clôture."
+  },
+  "mois": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Une petite tour (ou un poteau coiffé d'un abri) percée de niches sous un toit. Si elle est habitée, des oiseaux au ventre et au croupion blancs entrent et sortent en gazouillant.",
+  "enfant": {
+   "2-3": {
+    "mot": "maison",
+    "geste": "Lève les yeux vers la tour et cherchez ensemble les petits trous : « la maison des oiseaux ! ». Puis battez des bras comme des hirondelles.",
+    "phrase": "Hirondelle, où es-tu ?"
+   },
+   "3-5": {
+    "mot": "les niches",
+    "geste": "Compte les niches de la tour, puis guettez une minute en silence : un oiseau entre-t-il ? Et si personne ne vient, pourquoi d'après toi ?",
+    "phrase": "Une maison qui attend ses oiseaux !"
+   }
+  },
+  "adulte": {
+   "nom": "Hirondelle de fenêtre (tour à hirondelles)",
+   "latin": "Delichon urbicum",
+   "anecdote": "L'hirondelle de fenêtre maçonne son nid avec des centaines de becquées de boue, sous un rebord de toit. En ville, flaques de boue et corniches accueillantes se font rares : d'où ces tours-nichoirs, qui peuvent rester vides plusieurs années avant d'être adoptées. On ne sait pas si celle-ci est habitée : à toi de le découvrir.",
+   "pourquoi_maintenant": "Les hirondelles reviennent d'Afrique en avril et repartent en septembre : c'est la seule période où la tour peut être occupée.",
+   "confusion": "Le martinet noir est tout sombre, avec des ailes en faucille et des cris perçants ; l'hirondelle de fenêtre a le ventre et le croupion blancs."
+  },
+  "attention": null,
+  "verifier": true,
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/House_martins_%28Delichon_urbicum_meridionale%29_at_nest.jpg/500px-House_martins_%28Delichon_urbicum_meridionale%29_at_nest.jpg",
+   "credit": "Charles J. Sharp — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:House_martins_(Delichon_urbicum_meridionale)_at_nest.jpg"
+  }
+ },
+ {
+  "id": "ani-mesanges-nichoirs-curvale",
+  "categorie": "animal",
+  "titre": "Les nichoirs à mésanges de Curvale",
+  "lieux": [
+   "parc-andre-curvale"
+  ],
+  "ou": "Parc André Curvale (refuge LPO), entrée rue René Balloux : des nichoirs en bois sont accrochés aux troncs du sous-bois ; deux ont été occupés par des mésanges charbonnières.",
+  "point": {
+   "lat": 44.8178,
+   "lon": -0.5894,
+   "repere": "Parc André Curvale, entrée rue René Balloux : lève les yeux vers les troncs du sous-bois et cherche de petites boîtes percées d'un trou rond."
+  },
+  "mois": [
+   3,
+   4,
+   5,
+   6
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Boîte fixée à un tronc avec un trou rond d'environ 3 cm. Mésange charbonnière : tête noire, joues blanches, ventre jaune barré d'une cravate noire.",
+  "enfant": {
+   "2-3": {
+    "mot": "nichoir",
+    "geste": "Chuchote « chut » et montre la petite maison dans l'arbre, puis attendez sans bouger, de loin.",
+    "phrase": "Petite maison, petit oiseau !"
+   },
+   "3-5": {
+    "mot": "les allers-retours",
+    "geste": "Reste à plusieurs mètres et compte les allers-retours d'une mésange pendant que le parent compte jusqu'à trente. Que porte-t-elle dans le bec ?",
+    "phrase": "Elle revient avec à manger !"
+   }
+  },
+  "adulte": {
+   "nom": "Mésange charbonnière",
+   "latin": "Parus major",
+   "anecdote": "Le diamètre du trou choisit le locataire : environ 28 mm convient à la mésange bleue, 32 mm à la charbonnière ; plus large, d'autres oiseaux s'y installent. Pour élever une seule nichée, un couple apporte plusieurs milliers de chenilles en quelques semaines.",
+   "pourquoi_maintenant": "Mars-avril : choix du nichoir et ponte ; d'avril à juin : nourrissage et va-et-vient incessants. Le diagnostic LPO du parc a noté 2 nichoirs occupés sur 4.",
+   "confusion": "Mésange bleue : plus petite, calotte bleue ; mésange charbonnière : tête noire et cravate noire sur le ventre jaune."
+  },
+  "attention": "On reste à plusieurs mètres et on ne touche jamais un nichoir : le dérangement peut faire abandonner la nichée.",
+  "verifier": true,
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Parus_major_on_Schwegler_1B_Pasli%C3%A8res_20240503_n1.jpg/500px-Parus_major_on_Schwegler_1B_Pasli%C3%A8res_20240503_n1.jpg",
+   "credit": "Marie-Lan Taÿ Pamart — CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Parus_major_on_Schwegler_1B_Pasli%C3%A8res_20240503_n1.jpg"
+  }
+ }
+]

@@ -1,0 +1,122 @@
+[
+ {
+  "sujet": "Chenilles processionnaires du pin",
+  "mois_a_risque": "fév. à avril (processions au sol) ; nids blancs visibles nov. à avril",
+  "consigne": "Ne jamais toucher chenilles ni nids ; éviter de s'arrêter sous les pins ; poils urticants emportés par le vent (yeux, peau, gorge). Contact : rincer à l'eau, consulter en cas de symptômes ; chiens en laisse.",
+  "source": "FREDON Nouvelle-Aquitaine ; ARS Nouvelle-Aquitaine ; Anses"
+ },
+ {
+  "sujet": "Chenilles processionnaires du chêne",
+  "mois_a_risque": "mai à juillet",
+  "consigne": "Éviter les troncs et branches de chênes portant nids ou traînées de chenilles ; mêmes précautions que pour le pin.",
+  "source": "ARS Nouvelle-Aquitaine ; Anses"
+ },
+ {
+  "sujet": "If (Taxus baccata)",
+  "mois_a_risque": "toute l'année (baies rouges août-nov.)",
+  "consigne": "Haies très courantes ; la plante entière est toxique, la graine dans la baie rouge est mortelle : ne rien porter à la bouche, ne pas mâcher les aiguilles. Centre antipoison 05 56 96 40 80.",
+  "source": "Centre antipoison de Bordeaux ; Anses ; Tela Botanica"
+ },
+ {
+  "sujet": "Laurier-rose (Nerium oleander)",
+  "mois_a_risque": "juin à sept. (floraison) mais toxique toute l'année",
+  "consigne": "Toute la plante est toxique ; ne pas cueillir fleurs ni feuilles ; se laver les mains.",
+  "source": "Centre antipoison ; Tela Botanica"
+ },
+ {
+  "sujet": "Arum (gouet tacheté)",
+  "mois_a_risque": "mars-avril (feuilles), baies rouges juillet-sept.",
+  "consigne": "Feuilles en flèche et baies orangées/rouges toxiques ; surveiller les enfants dans les sous-bois et haies.",
+  "source": "Centre antipoison ; Tela Botanica"
+ },
+ {
+  "sujet": "Belladone, datura, morelle noire",
+  "mois_a_risque": "juin à oct.",
+  "consigne": "Baies noires brillantes/capsules épineuses très toxiques ; ne pas toucher ; arracher en jardin avec des gants.",
+  "source": "Centre antipoison ; Tela Botanica"
+ },
+ {
+  "sujet": "Baies de troène, houx, gui, pyracantha, lierre",
+  "mois_a_risque": "août à fév.",
+  "consigne": "Baies attirantes pour un tout-petit : n'en ramasser aucune ; si ingestion, appeler le 05 56 96 40 80 (ou 15).",
+  "source": "Centre antipoison ; ARS"
+ },
+ {
+  "sujet": "Muguet",
+  "mois_a_risque": "avril-mai (fleurs), baies rouges en été",
+  "consigne": "Très toxique en ingestion (fleurs, baies, eau du vase) ; ne pas cueillir pour l'enfant.",
+  "source": "Centre antipoison"
+ },
+ {
+  "sujet": "Champignons",
+  "mois_a_risque": "sept. à nov. (après les pluies), parfois printemps",
+  "consigne": "Ne jamais toucher ni goûter ; regarder à distance ; se laver les mains si contact ; une cueillette ne se consomme qu'après validation par un pharmacien ou une société mycologique.",
+  "source": "Centre antipoison ; Société linnéenne de Bordeaux ; ARS"
+ },
+ {
+  "sujet": "Moustique tigre (Aedes albopictus)",
+  "mois_a_risque": "mai à novembre (pic juil.-sept.)",
+  "consigne": "Répulsif adapté à l'âge (avis du pédiatre), vêtements longs au crépuscule ; vider les eaux stagnantes ; Gironde colonisée depuis 2015, dengue/chikungunya rares mais surveillés.",
+  "source": "ARS Nouvelle-Aquitaine ; vigilance-moustiques.com ; Santé publique France"
+ },
+ {
+  "sujet": "Tiques",
+  "mois_a_risque": "mars à novembre (herbes hautes, lisières, parcs)",
+  "consigne": "Vêtements couvrants, inspecter peau et cuir chevelu au retour ; retirer avec un tire-tique, désinfecter ; surveiller 30 jours (rougeur, fièvre).",
+  "source": "Santé publique France ; ARS ; Anses"
+ },
+ {
+  "sujet": "Frelon asiatique (Vespa velutina)",
+  "mois_a_risque": "mai à nov. ; nids secondaires visibles en altitude sept.-déc.",
+  "consigne": "Ne jamais approcher ni lancer d'objet vers un nid ; reculer calmement ; signaler (signalement-frelon-asiatique.fr, mairie) ; piqûres multiples : 15 ou 112.",
+  "source": "FREDON Nouvelle-Aquitaine ; Sud Ouest ; INPN/MNHN"
+ },
+ {
+  "sujet": "Guêpes",
+  "mois_a_risque": "fin juillet à octobre",
+  "consigne": "Ne pas manger de sucreries dehors, couvrir les boissons, ne pas agiter les bras ; allergie connue : trousse prescrite.",
+  "source": "Santé publique France"
+ },
+ {
+  "sujet": "Orties et berce du Caucase",
+  "mois_a_risque": "ortie avril-oct. ; berce juin-août",
+  "consigne": "Ortie : poils piquants (démangeaisons sans danger) ; berce (ombelles géantes) rare en ville mais photo-toxique : ne pas toucher, laver à l'eau, éviter le soleil.",
+  "source": "Anses ; Tela Botanica"
+ },
+ {
+  "sujet": "Eau stagnante et pièces d'eau",
+  "mois_a_risque": "toute l'année, surtout printemps-été",
+  "consigne": "Ne jamais lâcher la main de l'enfant près de la pièce d'eau du parc, des bassins, de la Garonne ; noyade possible en quelques centimètres ; vider les eaux stagnantes (moustiques).",
+  "source": "Santé publique France ; ARS"
+ },
+ {
+  "sujet": "Marrons d'Inde, glands, noix, graines",
+  "mois_a_risque": "sept. à nov.",
+  "consigne": "Étouffement et toxicité (marrons d'Inde, glands crus) : regarder et compter, ne jamais mettre en bouche.",
+  "source": "Centre antipoison"
+ },
+ {
+  "sujet": "Éclipse de Soleil",
+  "mois_a_risque": "2 août 2027, 26 janv. 2028",
+  "consigne": "Lunettes ISO 12312-2 ou projection indirecte ; jamais de regard direct, y compris avec appareil photo ou jumelles sans filtre.",
+  "source": "IMCCE ; Société astronomique de France"
+ },
+ {
+  "sujet": "Chaleur, orage, canicule",
+  "mois_a_risque": "juin à septembre",
+  "consigne": "Sortir tôt/tard, eau, chapeau ; éviter les arbres isolés en cas d'orage ; suivre la vigilance Météo-France.",
+  "source": "Météo-France ; Santé publique France"
+ },
+ {
+  "sujet": "Gel, verglas et brouillard",
+  "mois_a_risque": "déc. à fév.",
+  "consigne": "Pavés glissants, chaussures antidérapantes ; visibilité réduite aux passages routiers.",
+  "source": "Météo-France"
+ },
+ {
+  "sujet": "Animaux sauvages (hérisson, chauve-souris, oiseau tombé)",
+  "mois_a_risque": "toute l'année",
+  "consigne": "Ne pas toucher (puces, rage des chiroptères) ; regarder à distance ; ne pas ramasser un oisillon (les parents le nourrissent).",
+  "source": "LPO Aquitaine ; Santé publique France"
+ }
+]

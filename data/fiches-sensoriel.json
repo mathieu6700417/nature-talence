@@ -1,0 +1,1933 @@
+[
+  {
+    "id": "sens-ecorce-pin-parasol",
+    "categorie": "sensoriel",
+    "titre": "Un pin à l'écorce de puzzle",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Avenue Roul, le long du tram : pins parasols plantés dans la pelouse, tronc bas et rugueux.",
+    "point": {
+      "lat": 44.8065,
+      "lon": -0.593545,
+      "repere": "Avenue Roul, côté sud, à une trentaine de mètres du croisement avec l'impasse Roul : pin parasol au bord du trottoir, tronc protégé par une petite clôture de châtaignier."
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": true,
+    "attention": "Si tu vois un nid blanc soyeux ou des chenilles en file, éloigne-toi sans toucher (processionnaires, poils urticants). Ne touche pas la résine : elle colle longtemps aux doigts.",
+    "reperes": "Houppier plat en parasol, écorce orangée à gris-rouge, épaisse et fendue en plaques ; grosses pommes de pin rondes.",
+    "enfant": {
+      "2-3": {
+        "mot": "pin",
+        "geste": "Fais glisser ton doigt dans une fente de l'écorce : c'est rugueux et ça accroche. Compare avec une écorce lisse, si tu en trouves une.",
+        "phrase": "Pin, tu piques et tu grattes !"
+      },
+      "3-5": {
+        "mot": "lisse ou rugueux ?",
+        "geste": "Frotte tes doigts sur l'écorce du pin, puis sur celle d'un autre arbre : lequel gratte le plus ? Cherche une goutte de résine qui brille, et regarde-la sans la toucher.",
+        "phrase": "Rugueux, rugueux, rugueux !"
+      }
+    },
+    "adulte": {
+      "nom": "Pin parasol",
+      "latin": "Pinus pinea",
+      "anecdote": "La résine est le pansement du pin : elle coule sur la moindre blessure et durcit en bouchon contre les insectes et les champignons. Dans les Landes voisines, on a récolté celle du pin maritime (le gemmage) jusqu'aux années 1990 pour en tirer la térébenthine.",
+      "pourquoi_maintenant": "De mai à septembre : les chenilles processionnaires ne sont pas en procession et leurs nids d'hiver ne sont pas encore formés.",
+      "confusion": "Le pin maritime, planté partout en Gironde, a une écorce plus sombre et des aiguilles plus longues ; le parasol est celui à la couronne plate."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Pinus_pinea_bark.jpg/500px-Pinus_pinea_bark.jpg",
+      "credit": "Bidgee — CC BY-SA 3.0 au",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_bark.jpg"
+    }
+  },
+  {
+    "id": "sens-frottage-ecorce",
+    "categorie": "sensoriel",
+    "titre": "Le portrait d'un tronc au crayon",
+    "lieux": [
+      "parc-cauderes"
+    ],
+    "ou": "Au parc Cauderès, côté rue de Suzon : les cinq gros platanes au tronc tacheté crème et vert olive.",
+    "point": {
+      "lat": 44.81338,
+      "lon": -0.57843,
+      "repere": "Parc Cauderès, côté rue de Suzon : les cinq plus gros troncs du parc, tachetés crème, vert olive et gris (platanes plantés entre 1914 et 1964)."
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Une feuille fine de papier (pas de feutre), un crayon gras ou une craie, un morceau de ruban adhésif de papier.",
+    "enfant": {
+      "2-3": {
+        "mot": "dessin",
+        "geste": "Plaque la feuille sur le tronc (tu la tiens), puis frotte doucement avec le côté d'un crayon gras : le motif de l'écorce apparaît comme par magie !",
+        "phrase": "Frotte, frotte, le tronc apparaît !"
+      },
+      "3-5": {
+        "mot": "deux troncs",
+        "geste": "Fais un frottage sur le platane, puis sur un autre arbre du parc. Compare : lequel fait des taches, lequel fait des traits ?",
+        "phrase": "Droit ou en taches ? À toi de voir !"
+      }
+    },
+    "adulte": {
+      "nom": "Écorce et cambium",
+      "latin": null,
+      "anecdote": "Sous l'écorce, l'arbre est vivant : la fine couche du cambium (quelques cellules d'épaisseur) fabrique le bois vers l'intérieur et le liber vers l'extérieur. L'écorce, elle, n'est que de la peau morte qui protège.",
+      "pourquoi_maintenant": "Ça marche en toute saison ; l'hiver, sans feuilles, on voit mieux les troncs. Le platane donne un frottage en « carte de géographie ».",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Platanus_x_acerifolia_trunc_01_by_Line1.jpg/500px-Platanus_x_acerifolia_trunc_01_by_Line1.jpg",
+      "credit": "Liné1 — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Platanus_x_acerifolia_trunc_01_by_Line1.jpg"
+    }
+  },
+  {
+    "id": "sens-herbe-rosee",
+    "categorie": "sensoriel",
+    "titre": "Les gouttes sur l'herbe du matin",
+    "lieux": [
+      "parc-margaut"
+    ],
+    "ou": "Sur le grand tapis vert du parc Margaut, devant le château, tôt le matin.",
+    "point": {
+      "lat": 44.8071,
+      "lon": -0.5903,
+      "repere": "Parc Margaut, grand tapis vert devant le château : au milieu de la pelouse, côté bassin, avant que le soleil ne l'atteigne."
+    },
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [
+      "vent",
+      "pluie_aujourdhui",
+      "gel"
+    ],
+    "moment": "matin",
+    "poids": 2,
+    "verifier": false,
+    "attention": "Mets des chaussures étanches et reste sur la pelouse tondue : on évite les herbes hautes, où se cachent des tiques.",
+    "reperes": "Perles d'eau sur les lames d'herbe, parfois au bout des feuilles, qui scintillent quand le soleil arrive.",
+    "enfant": {
+      "2-3": {
+        "mot": "rosée",
+        "geste": "Passe la main à plat sur l'herbe, puis pose-la sur ta joue : c'est tout froid ! Cherche la goutte qui brille le plus.",
+        "phrase": "Goutte de rosée, tu brilles !"
+      },
+      "3-5": {
+        "mot": "compter les gouttes",
+        "geste": "Compte les gouttes sur une seule feuille, puis cherche celle qui a la plus grosse goutte. Demande-toi : d'où vient cette eau ?",
+        "phrase": "D'où tu viens, petite goutte ?"
+      }
+    },
+    "adulte": {
+      "nom": "Rosée et guttation",
+      "latin": null,
+      "anecdote": "La rosée ne tombe pas du ciel : par nuit claire, l'herbe perd sa chaleur en rayonnant vers l'espace et devient plus froide que l'air, dont la vapeur se dépose sur elle. Une seule nuit nuageuse suffit à l'empêcher : les nuages renvoient la chaleur.",
+      "pourquoi_maintenant": "Mars à juin et septembre-octobre : nuits fraîches et claires, l'herbe se refroidit plus que l'air.",
+      "confusion": "Les grosses gouttes posées tout au bout des feuilles viennent souvent de la plante elle-même (guttation) ; le givre, lui, se forme quand l'herbe descend sous 0 °C."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Dew_on_grass_closeup.jpg/500px-Dew_on_grass_closeup.jpg",
+      "credit": "Taro Taylor — CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dew_on_grass_closeup.jpg"
+    }
+  },
+  {
+    "id": "sens-feuilles-qui-craquent",
+    "categorie": "sensoriel",
+    "titre": "Les feuilles sèches qui craquent",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Sur la grande pelouse ombragée du parc Peixotto, sous les vieux arbres, près des tables de pique-nique.",
+    "point": {
+      "lat": 44.807387,
+      "lon": -0.591001,
+      "repere": "Parc Peixotto, allée pavée qui monte vers le château (côté sud, à trente mètres du cours de la Libération) : grande pelouse ombragée à gauche, près des tables de pique-nique.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/4c/15/92/ac/d048-4905-b260-07f8533557f6/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=4c1592ac-d048-4905-b260-07f8533557f6"
+      }
+    },
+    "mois": [
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "sec"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Feuilles de platane, de marronnier ou de chêne, brunes et cassantes, en tas sur la pelouse.",
+    "enfant": {
+      "2-3": {
+        "mot": "crac",
+        "geste": "Marche sur les feuilles les plus sèches : ça fait « crac » ! Puis écrase une feuille dans ta main et écoute-la craquer.",
+        "phrase": "Crac, crac, les feuilles !"
+      },
+      "3-5": {
+        "mot": "doux ou fort ?",
+        "geste": "Trouve la feuille qui fait le plus de bruit et celle qui en fait le moins. Compare une feuille sèche et une feuille mouillée.",
+        "phrase": "Crac fort, crac doux !"
+      }
+    },
+    "adulte": {
+      "nom": "Feuilles mortes sèches",
+      "latin": null,
+      "anecdote": "Chaque craquement est la rupture brutale d'une nervure ou d'une paroi devenue cassante en séchant. Mouillée, la feuille redevient souple, elle glisse et ne craque plus.",
+      "pourquoi_maintenant": "Octobre à décembre, après quelques jours sans pluie : les feuilles tombées sèchent et deviennent bruyantes.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Dead_leaves_on_the_lawn_1.jpg/500px-Dead_leaves_on_the_lawn_1.jpg",
+      "credit": "Downtowngal — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dead_leaves_on_the_lawn_1.jpg"
+    }
+  },
+  {
+    "id": "sens-courir-feuilles-mortes",
+    "categorie": "sensoriel",
+    "titre": "Courir et sauter dans les feuilles",
+    "lieux": [
+      "parc-cauderes"
+    ],
+    "ou": "Au parc Cauderès, rue de Suzon : la pelouse sous les cinq gros platanes se couvre de grandes feuilles.",
+    "point": {
+      "lat": 44.81345,
+      "lon": -0.57835,
+      "repere": "Parc Cauderès, côté rue de Suzon : la pelouse au pied des cinq gros platanes au tronc tacheté, à côté de l'aire de jeux."
+    },
+    "mois": [
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Regarde où tu sautes (crottes, bouts de verre cachés sous les feuilles). On ne fouille pas les gros tas au pied des haies : un hérisson peut y dormir.",
+    "reperes": "Tapis de feuilles mortes sous les grands feuillus, au bord de la pelouse.",
+    "enfant": {
+      "2-3": {
+        "mot": "feuilles",
+        "geste": "Cours dans les feuilles en faisant des grands pas ! Puis ramasse-en une poignée et lance-les en l'air : « pluie de feuilles ! »",
+        "phrase": "Je cours, je saute, feuilles en l'air !"
+      },
+      "3-5": {
+        "mot": "tas de feuilles",
+        "geste": "Fais un petit tas avec les pieds, puis saute dedans. Compte : combien de pas pour traverser le tapis de feuilles ?",
+        "phrase": "Un, deux, trois pas, plouf !"
+      }
+    },
+    "adulte": {
+      "nom": "Litière de feuilles mortes",
+      "latin": null,
+      "anecdote": "Une feuille de platane, épaisse et coriace, met bien plus longtemps à se décomposer qu'une feuille de tilleul ou de frêne. Dans la litière, vers de terre, cloportes, collemboles et champignons la transforment peu à peu en terreau.",
+      "pourquoi_maintenant": "Octobre à décembre : la chute des feuilles bat son plein ; les jours qui raccourcissent déclenchent la formation d'une petite cloison à la base de la feuille, qui finit par la détacher.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Fallen_autumn_leaves_in_a_lawn%2C_Alameda_Dom_Afonso_Henriques%2C_Lisbon%2C_Portugal_julesvernex2.jpg/500px-Fallen_autumn_leaves_in_a_lawn%2C_Alameda_Dom_Afonso_Henriques%2C_Lisbon%2C_Portugal_julesvernex2.jpg",
+      "credit": "Jules Verne Times Two — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fallen_autumn_leaves_in_a_lawn,_Alameda_Dom_Afonso_Henriques,_Lisbon,_Portugal_julesvernex2.jpg"
+    }
+  },
+  {
+    "id": "sens-pieds-nus-herbe",
+    "categorie": "sensoriel",
+    "titre": "Les pieds nus dans l'herbe",
+    "lieux": [
+      "parc-margaut"
+    ],
+    "ou": "Sur la pelouse du parc Margaut, devant le bassin et le château, si elle est ouverte.",
+    "point": {
+      "lat": 44.8071,
+      "lon": -0.5903,
+      "repere": "Parc Margaut, grand tapis vert devant le château : sur la pelouse ouverte au public, côté bassin."
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "verifier": false,
+    "attention": "Avant d'enlever les chaussures, inspecte le sol : verre, mégots, crottes, chardons. Pas là où le trèfle blanc est en fleurs (abeilles qui piquent sous le pied), pas dans l'herbe haute (tiques), pas sur un sol brûlant.",
+    "reperes": "Une pelouse tondue et sèche, une petite serviette et les chaussures à portée de main.",
+    "enfant": {
+      "2-3": {
+        "mot": "herbe",
+        "geste": "Enlève chaussures et chaussettes et marche doucement sur l'herbe. Frotte tes orteils : ça chatouille !",
+        "phrase": "Herbe, tu chatouilles mes pieds !"
+      },
+      "3-5": {
+        "mot": "chaud ou froid ?",
+        "geste": "Marche d'abord au soleil puis à l'ombre : où l'herbe est-elle la plus fraîche ? Pose la main à plat pour comparer.",
+        "phrase": "Fraîche à l'ombre, tiède au soleil !"
+      }
+    },
+    "adulte": {
+      "nom": "Plante du pied et toucher",
+      "latin": null,
+      "anecdote": "Chaque pied compte 26 os : à eux deux, les pieds rassemblent environ un quart des os du corps. Et personne ne peut se chatouiller soi-même : le cerveau prévoit la sensation de son propre geste et l'atténue.",
+      "pourquoi_maintenant": "De mai à septembre, le sol est assez chaud pour qu'on y marche sans geler.",
+      "confusion": null
+    },
+    "photo": null
+  },
+  {
+    "id": "sens-minute-silence-sourreil",
+    "categorie": "sensoriel",
+    "titre": "Une minute pour écouter les oiseaux",
+    "lieux": [
+      "bois-sourreil"
+    ],
+    "ou": "Au Bois Sourreil (refuge LPO), côté impasse Suzon : assis sur la pelouse au bord du bois, si le parc est ouvert.",
+    "point": {
+      "lat": 44.81049,
+      "lon": -0.579544,
+      "repere": "Impasse Suzon, côté nord, à dix mètres de l'allée des Foreurs : s'asseoir sur la pelouse sous les grands arbres, à côté du muret bas couvert de mousse."
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "verifier": true,
+    "attention": null,
+    "reperes": "Parc boisé de 4 ha classé refuge LPO ; bois mort laissé sur place, lierre, vieux arbres.",
+    "enfant": {
+      "2-3": {
+        "mot": "chut",
+        "geste": "Assieds-toi, ferme les yeux ou regarde le ciel, et ne dis rien pendant une minute. Montre un doigt à chaque son que tu entends.",
+        "phrase": "Chut… j'entends l'oiseau !"
+      },
+      "3-5": {
+        "mot": "compter les sons",
+        "geste": "Pendant une minute, plie un doigt à chaque son différent : oiseau, voiture, vent, feuilles… Combien de sons ? Lequel est de la nature ?",
+        "phrase": "Mon oiseau préféré chante où ?"
+      }
+    },
+    "adulte": {
+      "nom": "Écologie sonore du refuge LPO",
+      "latin": null,
+      "anecdote": "Le diagnostic LPO de 2021 y a recensé 23 espèces d'oiseaux, dont pic vert, pic épeiche, sittelle torchepot, mésanges et roitelet à triple bandeau. En ville, des mésanges charbonnières chantent plus aigu que leurs cousines des forêts : ainsi, leur chant passe au-dessus du grondement grave de la circulation.",
+      "pourquoi_maintenant": "Toute l'année : en hiver on entend rouges-gorges et mésanges ; au printemps, le concert est maximal à l'aube.",
+      "confusion": null
+    },
+    "photo": null
+  },
+  {
+    "id": "sens-rouge-gorge-hiver",
+    "categorie": "sensoriel",
+    "titre": "Le rouge-gorge chante en hiver",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Dans les buissons autour de l'esplanade du château Peixotto et de la pelouse au pied des marronniers, tôt le matin.",
+    "point": {
+      "lat": 44.807387,
+      "lon": -0.591001,
+      "repere": "Parc Peixotto, pelouse à gauche de l'allée pavée qui monte vers le château : écouter près des massifs et des buissons de bord.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/4c/15/92/ac/d048-4905-b260-07f8533557f6/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=4c1592ac-d048-4905-b260-07f8533557f6"
+      }
+    },
+    "mois": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "requiert": [],
+    "exclut": [
+      "pluie_aujourdhui"
+    ],
+    "moment": "matin",
+    "poids": 2,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Petit oiseau rond, poitrine orange, qui chante un trille perlé et un peu triste depuis un buisson ou une branche basse.",
+    "enfant": {
+      "2-3": {
+        "mot": "rouge-gorge",
+        "geste": "Accroupis-toi près d'un buisson, silence, et écoute : un petit « tsi-tsi » ou un chant perlé. Montre l'oiseau du doigt quand tu le vois.",
+        "phrase": "Rouge-gorge, chante pour moi !"
+      },
+      "3-5": {
+        "mot": "où est-il ?",
+        "geste": "Cherche d'où vient le chant : tourne la tête et montre le buisson. Imite son chant en sifflant, et attends sa réponse.",
+        "phrase": "Tu chantes, je siffle, on joue ?"
+      }
+    },
+    "adulte": {
+      "nom": "Rouge-gorge familier",
+      "latin": "Erithacus rubecula",
+      "anecdote": "Le rouge-gorge est souvent le premier à chanter le matin, bien avant le lever du jour : les oiseaux aux grands yeux, qui voient mieux dans la pénombre, commencent le chœur de l'aube plus tôt. Son chant d'hiver est plus doux et mélancolique que celui du printemps.",
+      "pourquoi_maintenant": "Octobre à février : il est un des seuls oiseaux à chanter fort en hiver, à l'aube et au crépuscule.",
+      "confusion": "Le troglodyte est plus petit, brun, queue dressée, avec un chant très fort et rapide."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Erithacus_rubecula_-winter_-branch-8.jpg/500px-Erithacus_rubecula_-winter_-branch-8.jpg",
+      "credit": "unhappy by design — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_-winter_-branch-8.jpg"
+    }
+  },
+  {
+    "id": "sens-pic-tambourine",
+    "categorie": "sensoriel",
+    "titre": "Le pic tambourine contre un tronc",
+    "lieux": [
+      "bois-sourreil"
+    ],
+    "ou": "Au Bois Sourreil (refuge LPO), si le parc est ouvert : écoute vers les vieux arbres et le bois mort, tôt le matin, par temps calme.",
+    "point": {
+      "lat": 44.8095,
+      "lon": -0.5795,
+      "repere": "Bois Sourreil (impasse Suzon), vers les vieux arbres et le bois mort laissé sur place : s'arrêter sous les grands arbres et lever la tête."
+    },
+    "mois": [
+      2,
+      3,
+      4
+    ],
+    "requiert": [],
+    "exclut": [
+      "vent",
+      "pluie_aujourdhui"
+    ],
+    "moment": "matin",
+    "poids": 3,
+    "verifier": true,
+    "attention": null,
+    "reperes": "Un roulement sec et rapide, qui part vite et s'arrête net ; pic épeiche noir et blanc avec du rouge sous la queue.",
+    "enfant": {
+      "2-3": {
+        "mot": "toc-toc",
+        "geste": "Écoute si un « trrrr » rapide résonne dans les arbres. Tape du bout des doigts sur un tronc pour imiter, doucement.",
+        "phrase": "Toc, toc, toc, qui frappe ?"
+      },
+      "3-5": {
+        "mot": "qui tape ?",
+        "geste": "Écoute un roulement et lève la tête pour chercher l'oiseau ; compte combien de fois il recommence.",
+        "phrase": "Pic, pic, pic, où es-tu ?"
+      }
+    },
+    "adulte": {
+      "nom": "Pic épeiche",
+      "latin": "Dendrocopos major",
+      "anecdote": "Ce roulement n'est pas pour manger : le pic frappe des branches creuses ou sèches qui résonnent, une dizaine de coups en une fraction de seconde, pour marquer son territoire et attirer une femelle.",
+      "pourquoi_maintenant": "Février à avril : la saison des amours déclenche les tambourinages.",
+      "confusion": "Le pic vert, plus grand et vert, tambourine très peu : il pousse plutôt un cri qui ressemble à un rire."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Great_spotted_woodpecker_%28Dendrocopos_major%29_male_Drenthe.jpg/500px-Great_spotted_woodpecker_%28Dendrocopos_major%29_male_Drenthe.jpg",
+      "credit": "Charles J. Sharp — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Great_spotted_woodpecker_(Dendrocopos_major)_male_Drenthe.jpg"
+    }
+  },
+  {
+    "id": "sens-vent-pins-parasols",
+    "categorie": "sensoriel",
+    "titre": "Le vent chante dans les pins",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Avenue Roul, sur la pelouse le long du tram, à quelques pas des pins parasols mais pas dessous.",
+    "point": {
+      "lat": 44.806791,
+      "lon": -0.593384,
+      "repere": "Avenue Roul, côté nord, trente mètres après l'impasse Roul : sur la pelouse côté tram, à bonne distance de la couronne des pins parasols."
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [
+      "vent"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": true,
+    "attention": "Ne reste pas SOUS les pins quand ça souffle : branches et grosses pommes de pin peuvent tomber. Si tu vois un nid blanc soyeux dans un pin, éloigne-toi (chenilles processionnaires).",
+    "reperes": "Un souffle continu, plus aigu que dans les feuillus, qui monte et descend avec les rafales.",
+    "enfant": {
+      "2-3": {
+        "mot": "vent",
+        "geste": "Ferme les yeux, tourne le visage vers le vent et écoute : « chhh ». Écarte les bras comme un arbre.",
+        "phrase": "Chhh, le vent chante !"
+      },
+      "3-5": {
+        "mot": "doux ou fort ?",
+        "geste": "Écoute les rafales : « chhh » fort, puis doux. Devine quand ça va revenir, et lève les bras à chaque nouveau souffle.",
+        "phrase": "Vent fort, vent doux, vent qui chante !"
+      }
+    },
+    "adulte": {
+      "nom": "Sifflement éolien des aiguilles",
+      "latin": null,
+      "anecdote": "Quand l'air contourne un obstacle fin, il crée des tourbillons qui sifflent : plus l'obstacle est fin et le vent rapide, plus le son est aigu. Les aiguilles de pin jouent ce rôle.",
+      "pourquoi_maintenant": "Un jour de vent (rafales de plus de 35 km/h), de mai à septembre : hors de la saison des chenilles processionnaires, dont les poils urticants voyagent avec le vent.",
+      "confusion": "Dans un feuillu, on entend un bruissement de feuilles ; dans un pin, un souffle aigu."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Umbrella_Pine_%2815238429225%29.jpg/500px-Umbrella_Pine_%2815238429225%29.jpg",
+      "credit": "daryl_mitchell from Saskatoon, Saskatchewan, Canada — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Umbrella_Pine_(15238429225).jpg"
+    }
+  },
+  {
+    "id": "sens-pluie-parapluie",
+    "categorie": "sensoriel",
+    "titre": "La pluie tambourine sur le parapluie",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "N'importe où dans le quartier, sous un parapluie, sur une pelouse ou sur un trottoir large.",
+    "point": null,
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "pluie_aujourdhui"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Si ça gronde ou si l'orage approche, on rentre et on ne s'abrite pas sous un arbre.",
+    "reperes": "Un parapluie et des bottes ; la pluie fine fait « pss », la grosse « plic-ploc ».",
+    "enfant": {
+      "2-3": {
+        "mot": "pluie",
+        "geste": "Tiens le parapluie ensemble et écoute les gouttes sur la toile : « plic-ploc ». Tends la main dehors pour sentir les gouttes.",
+        "phrase": "Plic, ploc, la pluie !"
+      },
+      "3-5": {
+        "mot": "fort ou doux ?",
+        "geste": "Écoute : la pluie sur le parapluie, sur une flaque, sur une feuille, sur le trottoir : est-ce le même son ? Quel est le plus fort ?",
+        "phrase": "Plic-ploc, pitch-pitch, plouf !"
+      }
+    },
+    "adulte": {
+      "nom": "Goutte de pluie",
+      "latin": null,
+      "anecdote": "Une goutte de pluie n'a jamais la forme d'une larme. Les petites (moins d'un millimètre) sont des sphères ; les plus grosses s'aplatissent par-dessous en tombant, comme un petit pain à hamburger, et au-delà d'environ 4 à 5 mm elles éclatent en gouttes plus petites.",
+      "pourquoi_maintenant": "Un jour de pluie, on a justement une raison de sortir : les sons, les odeurs et les couleurs changent.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Rain_on_a_blue_umbrella.jpg/500px-Rain_on_a_blue_umbrella.jpg",
+      "credit": "CorraleH — CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rain_on_a_blue_umbrella.jpg"
+    }
+  },
+  {
+    "id": "sens-eau-bassin-margaut",
+    "categorie": "sensoriel",
+    "titre": "Le murmure de l'eau du bassin",
+    "lieux": [
+      "parc-margaut"
+    ],
+    "ou": "Au bassin à trois paliers du parc Margaut, sur l'allée, côté bancs blancs.",
+    "point": {
+      "lat": 44.806921,
+      "lon": -0.590701,
+      "repere": "Avenue du Maréchal Leclerc, côté parc Margaut, à cinquante mètres après la rue Michel Slitinsky : le bassin au bord en béton, à gauche de l'allée, avec des bancs blancs.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/2f/1d/74/59/733d-4655-aa6f-7a19683a6029/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=2f1d7459-733d-4655-aa6f-7a19683a6029"
+      }
+    },
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Eau : tenir l'enfant par la main, rester à un mètre du bord, ne pas toucher l'eau, ne rien jeter dedans.",
+    "reperes": "Grand bassin en paliers au bord de l'allée, bancs blancs à côté ; selon les jours, l'eau s'écoule d'un palier à l'autre ou reste calme.",
+    "enfant": {
+      "2-3": {
+        "mot": "eau",
+        "geste": "Assieds-toi sur un banc, loin du bord, ferme les yeux et écoute : l'eau coule-t-elle ? Dis « chhh » comme elle. Si elle dort, écoute les oiseaux.",
+        "phrase": "Chhh, l'eau coule, coule !"
+      },
+      "3-5": {
+        "mot": "sons de l'eau",
+        "geste": "Les yeux fermés, lève un doigt pour chaque son : l'eau, un oiseau, le vent, un pas. Si l'eau coule entre les paliers, le son change-t-il d'une marche à l'autre ?",
+        "phrase": "Un, deux, trois, j'écoute tout !"
+      }
+    },
+    "adulte": {
+      "nom": "Bruit de l'eau qui tombe",
+      "latin": null,
+      "anecdote": "Le bruit de l'eau qui tombe dans l'eau vient surtout des bulles d'air qu'elle emprisonne : chaque bulle vibre un instant comme une minuscule cloche. Plus la bulle est petite, plus sa note est aiguë ; c'est le même mécanisme que la pluie sur une flaque.",
+      "pourquoi_maintenant": "De mars à novembre, il fait assez doux pour rester assis à écouter ; selon l'entretien, l'eau peut être arrêtée certains jours.",
+      "confusion": null
+    },
+    "photo": null
+  },
+  {
+    "id": "sens-merle-crepuscule",
+    "categorie": "sensoriel",
+    "titre": "Le merle chante au coucher du soleil",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Au parc Peixotto, vers les grands arbres derrière l'esplanade, le soir ; écoute le chant depuis une cime ou un toit.",
+    "point": {
+      "lat": 44.807387,
+      "lon": -0.591001,
+      "repere": "Parc Peixotto, grande pelouse à gauche de l'allée pavée vers le château : s'asseoir sur un banc ou une table de pique-nique et lever la tête.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/4c/15/92/ac/d048-4905-b260-07f8533557f6/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=4c1592ac-d048-4905-b260-07f8533557f6"
+      }
+    },
+    "mois": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "requiert": [],
+    "exclut": [
+      "vent",
+      "pluie_aujourdhui"
+    ],
+    "moment": "coucher_soleil",
+    "poids": 2,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Un chant flûté, varié, qui descend et remonte, depuis un perchoir élevé (cime, toit, antenne).",
+    "enfant": {
+      "2-3": {
+        "mot": "merle",
+        "geste": "Silence et regarde les toits et les cimes : un oiseau noir au bec orange chante. Imite sa mélodie en sifflant.",
+        "phrase": "Merle, joue-moi un air !"
+      },
+      "3-5": {
+        "mot": "la mélodie",
+        "geste": "Écoute les notes qui montent et descendent. Siffle-les à ton tour : le merle répond-il ?",
+        "phrase": "Je siffle, tu chantes, merle !"
+      }
+    },
+    "adulte": {
+      "nom": "Merle noir",
+      "latin": "Turdus merula",
+      "anecdote": "Son chant est produit par un syrinx à deux voix : il peut produire deux notes indépendantes à la fois. Chaque mâle invente de nouvelles phrases au fil de sa vie.",
+      "pourquoi_maintenant": "Mars à juin : en période de reproduction, le mâle chante surtout à l'aube et au crépuscule.",
+      "confusion": "La grive musicienne répète chaque phrase deux ou trois fois ; le merle improvise sans répéter."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Turdus_merula_singing.jpg/500px-Turdus_merula_singing.jpg",
+      "credit": "S. Seyfert — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Turdus_merula_singing.jpg"
+    }
+  },
+  {
+    "id": "sens-grillons-du-soir",
+    "categorie": "sensoriel",
+    "titre": "Le grillon qui porte le nom de Bordeaux",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord des pelouses, des talus herbeux et des friches de ton quartier, à la tombée de la nuit.",
+    "point": null,
+    "mois": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [
+      "chaud"
+    ],
+    "exclut": [],
+    "moment": "coucher_soleil",
+    "poids": 2,
+    "verifier": false,
+    "attention": "Soirs d'été : répulsif adapté à l'âge de l'enfant contre le moustique tigre (avis du pédiatre).",
+    "reperes": "Un « cri-cri » régulier qui monte des herbes sèches, des talus ou des pieds de murs à la tombée du jour, et se tait quand tu approches.",
+    "enfant": {
+      "2-3": {
+        "mot": "cri-cri",
+        "geste": "Assis dans l'herbe tondue, écoute le « cri-cri ». Fais-le avec ta bouche et attends : si tu te tais, il s'arrête.",
+        "phrase": "Cri-cri, qui chante dans l'herbe ?"
+      },
+      "3-5": {
+        "mot": "où chante-t-il ?",
+        "geste": "Écoute et cherche d'où vient le chant : avance à pas de loup. Dès qu'il s'arrête, arrête-toi aussi.",
+        "phrase": "Cri-cri, où te caches-tu ?"
+      }
+    },
+    "adulte": {
+      "nom": "Grillon bordelais (et autres grillons)",
+      "latin": "Eumodicogryllus bordigalensis",
+      "anecdote": "Son nom latin, bordigalensis, veut dire « de Bordeaux » : l'entomologiste Latreille l'a décrit en 1804. Comme tous les grillons, il chante en frottant ses ailes : l'une porte une rangée de dents, l'autre un grattoir. Plus il fait chaud, plus le rythme s'accélère.",
+      "pourquoi_maintenant": "De juin à septembre, par les soirées chaudes : les mâles adultes chantent pour attirer les femelles.",
+      "confusion": "Le criquet, aux antennes courtes, chante plutôt le jour en frottant ses pattes arrière contre ses ailes ; la grande sauterelle verte, aux très longues antennes, lance le soir un crépitement fort et continu depuis les arbustes."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Eumodicogryllus_bordigalensis_bordigalensis_%28Grillon_bordelais%29_%E2%99%80.jpg/500px-Eumodicogryllus_bordigalensis_bordigalensis_%28Grillon_bordelais%29_%E2%99%80.jpg",
+      "credit": "Simon Thevenin — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eumodicogryllus_bordigalensis_bordigalensis_(Grillon_bordelais)_%E2%99%80.jpg"
+    }
+  },
+  {
+    "id": "sens-tilleuls-parfum",
+    "categorie": "sensoriel",
+    "titre": "Le parfum des tilleuls en fleurs",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Place Peydavant, rue Peydavant : les tilleuls taillés en boule ; aussi les tilleuls argentés du stade Suzon, rue de Suzon, qui fleurissent un peu plus tard.",
+    "point": {
+      "lat": 44.801827,
+      "lon": -0.585357,
+      "repere": "Rue Peydavant, au croisement avec la place Peydavant : les tilleuls taillés en boule sur la pelouse de l'autre côté du carrefour, devant une haie.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/cf/9f/5d/f0/399e-451f-8864-714e739760ab/sd.jpg",
+        "credit": "Moosh (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=cf9f5df0-399e-451f-8864-714e739760ab"
+      }
+    },
+    "mois": [
+      6,
+      7
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "verifier": true,
+    "attention": "Les tilleuls en fleurs bourdonnent d'abeilles et de bourdons : on sent à un mètre ou plus, sans mettre la main dans les fleurs (piqûre possible).",
+    "reperes": "Petites fleurs jaune pâle en grappes, accrochées à une bractée verte en forme de languette ; parfum sucré de miel et de citron.",
+    "enfant": {
+      "2-3": {
+        "mot": "tilleul",
+        "geste": "Approche-toi de l'arbre, ferme les yeux et respire : ça sent bon ! Écoute le bourdonnement au-dessus de ta tête.",
+        "phrase": "Tilleul, tu sens si bon !"
+      },
+      "3-5": {
+        "mot": "bzzz et miel",
+        "geste": "Respire à pleins poumons puis écoute : de qui vient le bourdonnement ? Cherche une fleur tombée et regarde sa feuille-aile.",
+        "phrase": "Hmm, ça sent le miel !"
+      }
+    },
+    "adulte": {
+      "nom": "Tilleul à petites feuilles / tilleul argenté",
+      "latin": "Tilia sp.",
+      "anecdote": "La languette verte accrochée à chaque bouquet de fleurs est une aile : à l'automne, les petits fruits tombent avec elle en tournoyant comme un hélicoptère. Et sous un tilleul en été, le trottoir collant n'est pas de la sève : c'est le miellat sucré rejeté par des pucerons.",
+      "pourquoi_maintenant": "Les tilleuls fleurissent de fin juin à mi-juillet (un peu plus tard pour le tilleul argenté) : le parfum se sent surtout par temps chaud et calme.",
+      "confusion": "Le tilleul argenté a le dessous des feuilles blanc et duveteux ; les tilleuls à petites ou grandes feuilles ont un dessous vert."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tilia_cordata_flowers.jpg/500px-Tilia_cordata_flowers.jpg",
+      "credit": "Gmihail at Serbian Wikipedia — CC BY-SA 3.0 rs",
+      "source": "https://commons.wikimedia.org/wiki/File:Tilia_cordata_flowers.jpg"
+    }
+  },
+  {
+    "id": "sens-glycine-avril",
+    "categorie": "sensoriel",
+    "titre": "Le parfum de la glycine et sa tige qui tourne",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Cours de la Libération, sur le vieux mur de pierre blonde près du tram : une glycine en fleurs mauves. Autre belle glycine : rue Camille Pelletan, à l'angle de la rue du Haut Carré, sur une palissade en bois brun.",
+    "point": {
+      "lat": 44.80914,
+      "lon": -0.591295,
+      "repere": "Cours de la Libération, côté sud, à environ soixante-dix mètres de l'avenue Espeleta : la grande masse mauve à la fin du long mur de pierre blonde, près des rails du tram.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/e1/f0/b6/cc/77c2-4fe0-8e31-1d5626e062f5/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=e1f0b6cc-77c2-4fe0-8e31-1d5626e062f5"
+      }
+    },
+    "mois": [
+      4,
+      5
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "verifier": true,
+    "attention": "Toute la glycine est toxique (surtout gousses et graines) : on sent, on ne cueille pas, rien à la bouche. Trottoir près du tram : enfant par la main.",
+    "reperes": "Grappes pendantes mauve clair, très parfumées, sur une liane qui grimpe le mur.",
+    "enfant": {
+      "2-3": {
+        "mot": "ça sent bon",
+        "geste": "Mets-toi sous les grappes, ferme les yeux et respire fort par le nez. Puis balance doucement ton bras comme une grappe qui pend. Écoute : bzzz, les abeilles sont là !",
+        "phrase": "Hmm, glycine, tu sens bon !"
+      },
+      "3-5": {
+        "mot": "la tige qui tourne",
+        "geste": "Cherche la grosse tige qui s'enroule. Suis-la avec ton doigt dans l'air : elle tourne comme les aiguilles d'une horloge, ou à l'envers ?",
+        "phrase": "Elle tourne, tourne, la glycine !"
+      }
+    },
+    "adulte": {
+      "nom": "Glycine",
+      "latin": "Wisteria sp.",
+      "anecdote": "La glycine de Chine et celle du Japon s'enroulent en sens inverse l'une de l'autre autour de leur support (les ouvrages ne s'accordent pas toujours sur laquelle tourne dans quel sens) : regarde dans quel sens tourne celle-ci. Une glycine peut vivre plus d'un siècle, et sa liane devient un vrai tronc.",
+      "pourquoi_maintenant": "Mi-avril à début mai : la glycine de Chine fleurit avant ou avec ses feuilles, et le parfum est plus fort par temps doux et ensoleillé.",
+      "confusion": "Le cytise (laburnum) a des grappes jaunes ; le robinier (faux-acacia) a des grappes blanches en mai."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Wisteria_sinensis%2C_Herford.jpg/500px-Wisteria_sinensis%2C_Herford.jpg",
+      "credit": "Gerda Arendt — CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Wisteria_sinensis,_Herford.jpg"
+    }
+  },
+  {
+    "id": "sens-petrichor-pluie",
+    "categorie": "sensoriel",
+    "titre": "L'odeur de la terre après la pluie",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur une pelouse, un trottoir de terre ou une allée du quartier, juste après une averse.",
+    "point": null,
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Une odeur terreuse, fraîche, qui monte du sol quand les premières gouttes tombent sur terre ou sur pierre sèche.",
+    "enfant": {
+      "2-3": {
+        "mot": "odeur",
+        "geste": "Accroupis-toi près d'une pelouse ou d'un bord de trottoir et respire fort : « ça sent la terre ». Montre où l'odeur est la plus forte.",
+        "phrase": "Sniff, sniff, la terre sent bon !"
+      },
+      "3-5": {
+        "mot": "où sent-il le plus ?",
+        "geste": "Sens la terre mouillée, l'herbe, une écorce, une feuille. Où l'odeur est-elle la plus forte ? Devine : de quoi est-elle faite ?",
+        "phrase": "Sniff, sniff, je cherche l'odeur !"
+      }
+    },
+    "adulte": {
+      "nom": "Pétrichor",
+      "latin": null,
+      "anecdote": "Le mot « pétrichor » a été forgé en 1964 par deux chercheurs australiens. L'odeur de terre vient surtout de la géosmine, que fabriquent des bactéries du sol (les Streptomyces). Quand une goutte tombe, elle piège de l'air et expulse de minuscules gouttelettes parfumées.",
+      "pourquoi_maintenant": "Après une pluie, surtout au début : plus la terre était sèche, plus l'odeur est forte.",
+      "confusion": null
+    },
+    "photo": null
+  },
+  {
+    "id": "sens-herbe-coupee",
+    "categorie": "sensoriel",
+    "titre": "L'odeur de l'herbe qui vient d'être coupée",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Dès que tu vois une pelouse fraîchement tondue dans un parc ou un jardin du quartier : approche-toi, mais pas de la tondeuse.",
+    "point": null,
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "verifier": false,
+    "attention": "Garde au moins dix mètres de la tondeuse ou du coupe-bordure en marche (projections de cailloux) ; on s'approche seulement quand elle est arrêtée.",
+    "reperes": "Une odeur verte, vive, qui monte d'une pelouse tondue ; les bords de pelouse en gardent plus longtemps.",
+    "enfant": {
+      "2-3": {
+        "mot": "herbe",
+        "geste": "Quand la tondeuse est arrêtée, approche-toi de la pelouse et respire fort. Prends une poignée d'herbe coupée et lance-la en l'air !",
+        "phrase": "Ça sent l'herbe, ça sent bon !"
+      },
+      "3-5": {
+        "mot": "pourquoi ça sent ?",
+        "geste": "Sens l'herbe coupée, puis une herbe pas tondue. L'odeur est-elle la même ? Devine si l'herbe est contente ou fâchée.",
+        "phrase": "Herbe coupée, tu sens fort !"
+      }
+    },
+    "adulte": {
+      "nom": "Odeur d'herbe coupée",
+      "latin": null,
+      "anecdote": "Cette odeur est un cri de détresse chimique : l'herbe blessée libère des composés volatils (hexénals) qui avertissent les voisines et attirent les insectes qui mangent les chenilles ou les pucerons.",
+      "pourquoi_maintenant": "De mars à octobre, quand les pelouses sont tondues.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Mown_lawn_close-up_%284440207851%29.jpg/500px-Mown_lawn_close-up_%284440207851%29.jpg",
+      "credit": "carrotmadman6 from Mauritius — CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mown_lawn_close-up_(4440207851).jpg"
+    }
+  },
+  {
+    "id": "sens-lavande-frotter",
+    "categorie": "sensoriel",
+    "titre": "Le nez dans la lavande (sans toucher)",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Dans les massifs fleuris du quartier, ou une touffe de lavande qui déborde d'une clôture sur le trottoir : on sent, on ne cueille pas.",
+    "point": null,
+    "mois": [
+      6,
+      7,
+      8
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Lavande des jardins et des immeubles : on ne cueille pas, on ne frotte pas, on sent sans toucher. Les abeilles butinent : le nez reste à une main de distance des épis.",
+    "reperes": "Touffe gris-vert à feuilles étroites, épis violets de juin à août, parfum fort par temps chaud, souvent pleine d'abeilles.",
+    "enfant": {
+      "2-3": {
+        "mot": "lavande",
+        "geste": "Penche-toi vers les épis violets sans les toucher, et respire fort par le nez. Puis écoute : bzzz !",
+        "phrase": "Lavande, tu sens si bon !"
+      },
+      "3-5": {
+        "mot": "compter les abeilles",
+        "geste": "Sens la lavande, puis compte les abeilles posées dessus en restant à distance. Devine : pourquoi aiment-elles cette fleur ?",
+        "phrase": "Une abeille, deux abeilles, trois !"
+      }
+    },
+    "adulte": {
+      "nom": "Lavande vraie",
+      "latin": "Lavandula angustifolia",
+      "anecdote": "Le parfum est stocké dans de minuscules glandes en forme de poils à la surface des feuilles et des fleurs ; la chaleur suffit à en libérer une partie, d'où l'odeur plus forte en plein soleil. Il éloigne les animaux qui la mangeraient et attire les abeilles.",
+      "pourquoi_maintenant": "De juin à août, la lavande est en fleurs ; par temps chaud, le parfum se sent sans toucher.",
+      "confusion": "Le lavandin, hybride plus grand, a des épis plus longs et une odeur plus camphrée."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Bee_on_Lavender_Blossom.JPG/500px-Bee_on_Lavender_Blossom.JPG",
+      "credit": "Martin Falbisoner — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bee_on_Lavender_Blossom.JPG"
+    }
+  },
+  {
+    "id": "sens-eucalyptus-feuille",
+    "categorie": "sensoriel",
+    "titre": "L'odeur d'une feuille d'eucalyptus",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Bontemps : les grands eucalyptus au feuillage gris-vert, derrière la clôture blanche ; cherche une feuille tombée sur le trottoir.",
+    "point": {
+      "lat": 44.804039,
+      "lon": -0.580066,
+      "repere": "Rue Bontemps, côté est, vingt mètres après la rue du Commandant Charcot : grands arbres gris-vert derrière la clôture blanche, devant l'immeuble.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/bc/a7/42/38/8a6d-488b-afc7-36f7868427c7/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=bca74238-8a6d-488b-afc7-36f7868427c7"
+      }
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": true,
+    "attention": "L'huile d'eucalyptus irrite : on sent à distance, jamais collé au nez, rien à la bouche, et on se lave les mains avant de toucher ses yeux. On ramasse seulement les feuilles tombées sur le trottoir.",
+    "reperes": "Feuilles longues, étroites et gris-bleu, qui pendent ; écorce qui pèle en lanières ; odeur mentholée.",
+    "enfant": {
+      "2-3": {
+        "mot": "eucalyptus",
+        "geste": "Ramasse une feuille tombée, froisse-la et sens-la à distance : ça sent frais, comme un bonbon ! Ne la mets jamais à la bouche.",
+        "phrase": "Ça pique le nez, ça sent frais !"
+      },
+      "3-5": {
+        "mot": "contre la lumière",
+        "geste": "Tiens la feuille devant le ciel : vois-tu de minuscules points transparents ? C'est là que se cache l'odeur.",
+        "phrase": "Petits points, grande odeur !"
+      }
+    },
+    "adulte": {
+      "nom": "Eucalyptus",
+      "latin": "Eucalyptus sp.",
+      "anecdote": "Les feuilles contiennent de petites poches d'huile (riche en eucalyptol) visibles par transparence comme des points clairs ; en froissant, on les crève. L'huile éloigne les insectes herbivores.",
+      "pourquoi_maintenant": "Toute l'année : l'eucalyptus est un arbre à feuilles persistantes.",
+      "confusion": "Les eucalyptus ont deux sortes de feuilles : rondes et bleutées quand l'arbre est jeune, longues et étroites quand il est adulte."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Starr-100401-4145-Eucalyptus_globulus-leaves-Polipoli-Maui_%2824659234329%29.jpg/500px-Starr-100401-4145-Eucalyptus_globulus-leaves-Polipoli-Maui_%2824659234329%29.jpg",
+      "credit": "Forest and Kim Starr — CC BY 3.0 us",
+      "source": "https://commons.wikimedia.org/wiki/File:Starr-100401-4145-Eucalyptus_globulus-leaves-Polipoli-Maui_(24659234329).jpg"
+    }
+  },
+  {
+    "id": "sens-loupe-pelouse",
+    "categorie": "sensoriel",
+    "titre": "Un petit monde sous la loupe",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur n'importe quelle pelouse ou bord de chemin : accroupis-toi avec une loupe.",
+    "point": null,
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Ne dirige jamais la loupe vers le soleil et ne la laisse pas dans l'herbe : elle peut brûler la peau ou mettre le feu.",
+    "reperes": "Une loupe de poche (grossissement ×5 ou ×8) avec une poignée solide.",
+    "enfant": {
+      "2-3": {
+        "mot": "loupe",
+        "geste": "Regarde ta main avec la loupe, puis une fleur, une feuille, la terre. Dis ce que tu vois : « grand ! »",
+        "phrase": "Loupe, je vois tout grand !"
+      },
+      "3-5": {
+        "mot": "chercher les détails",
+        "geste": "Cherche les plus petites choses : un poil, une nervure, un grain de terre, un insecte. Compte les pétales d'une pâquerette sous la loupe.",
+        "phrase": "Petit, tout petit, mais grand dans la loupe !"
+      }
+    },
+    "adulte": {
+      "nom": "Pâquerette",
+      "latin": "Bellis perennis",
+      "anecdote": "Ce qu'on prend pour une fleur de pâquerette est un capitule : un bouquet de dizaines de minuscules fleurs, jaunes en tubes au centre, blanches en languettes au bord. À la loupe, on voit les petits tubes jaunes s'ouvrir en étoile.",
+      "pourquoi_maintenant": "De mars à octobre : les pâquerettes fleurissent sur les pelouses tondues (la tonte leur profite, elles sont si basses qu'elle les épargne) et les petits insectes sont actifs.",
+      "confusion": "La marguerite est plus grande et pousse en été ; la pâquerette est toute petite et fleurit dès mars."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Lawn_daisy.jpg/500px-Lawn_daisy.jpg",
+      "credit": "Tony Wills — CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Lawn_daisy.jpg"
+    }
+  },
+  {
+    "id": "sens-chasse-aux-couleurs",
+    "categorie": "sensoriel",
+    "titre": "À la chasse aux couleurs",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur n'importe quel trottoir arboré, une pelouse ou le bord d'un parc.",
+    "point": null,
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Une bande de cartons colorés ou un nuancier (vert, jaune, rouge, marron, gris, blanc, violet).",
+    "enfant": {
+      "2-3": {
+        "mot": "couleur",
+        "geste": "Montre-lui une couleur, il cherche la même dans la nature : feuille, fleur, écorce, caillou. Pose chaque trouvaille sur la carte.",
+        "phrase": "Vert ! Jaune ! Rouge ! Trouvé !"
+      },
+      "3-5": {
+        "mot": "même couleur",
+        "geste": "Cherche cinq nuances de vert différentes, de la plus claire à la plus foncée. Y en a-t-il qui sont presque identiques ?",
+        "phrase": "Du vert clair au vert foncé !"
+      }
+    },
+    "adulte": {
+      "nom": "Couleurs d'une feuille",
+      "latin": null,
+      "anecdote": "Les abeilles ne voient pas le rouge, mais elles voient l'ultraviolet : beaucoup de fleurs qui nous paraissent unies portent pour elles des motifs, comme une cible ou des pistes d'atterrissage qui mènent au nectar.",
+      "pourquoi_maintenant": "À toutes les saisons, le jeu change : fleurs au printemps, verts en été, rouges et ocres en automne.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fallen_leaves%2C_Warwick_-_geograph.org.uk_-_7937667.jpg/500px-Fallen_leaves%2C_Warwick_-_geograph.org.uk_-_7937667.jpg",
+      "credit": "Robin Stott — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Fallen_leaves,_Warwick_-_geograph.org.uk_-_7937667.jpg"
+    }
+  },
+  {
+    "id": "sens-liquidambar-etoiles",
+    "categorie": "sensoriel",
+    "titre": "La feuille-étoile qui sent la résine",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue de Suzon, côté nord-ouest, près de l'avenue Espeleta : un liquidambar au-dessus d'un muret de pierre.",
+    "point": {
+      "lat": 44.810592,
+      "lon": -0.590257,
+      "repere": "Rue de Suzon, côté nord-ouest, à quarante mètres de l'avenue Espeleta : le grand arbre au-dessus d'un muret de pierre crépi, devant une maison blanche, côté droit.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/ac/fa/d8/69/8978-4c0d-b619-263f0642c928/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=acfad869-8978-4c0d-b619-263f0642c928"
+      }
+    },
+    "mois": [
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "verifier": true,
+    "attention": "On ramasse seulement les feuilles tombées sur le trottoir (l'arbre est dans un jardin privé). Les boules épineuses piquent : jamais à la bouche.",
+    "reperes": "Feuilles en étoile à 5 pointes qui virent au rouge pourpre, orange et jaune ; boules épineuses au sol.",
+    "enfant": {
+      "2-3": {
+        "mot": "étoile",
+        "geste": "Ramasse une feuille-étoile tombée sur le trottoir, froisse-la doucement entre tes doigts et sens : ça sent le sapin !",
+        "phrase": "Étoile, tu sens bon !"
+      },
+      "3-5": {
+        "mot": "nez de détective",
+        "geste": "Froisse une feuille de liquidambar, puis une feuille d'un autre arbre. Laquelle sent le plus ? Compte aussi ses pointes.",
+        "phrase": "Je froisse, je sens, je devine !"
+      }
+    },
+    "adulte": {
+      "nom": "Liquidambar (copalme d'Amérique)",
+      "latin": "Liquidambar styraciflua",
+      "anecdote": "Froissée, la feuille dégage une odeur de résine : l'arbre fabrique un baume parfumé, le styrax, d'où son nom de « liquidambar », l'ambre liquide. Les boules épineuses sont des grappes de fruits : chaque pointe est une petite capsule à graines.",
+      "pourquoi_maintenant": "Octobre à décembre : le liquidambar est l'un des premiers arbres à rougir, avec des teintes pourpres éclatantes.",
+      "confusion": "L'érable a des feuilles opposées ; le liquidambar les a alternes, comme le platane, dont les feuilles sont plus larges."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Red_Sweet_gum_%28Liquidambar_styraciflua%29_leaves%2C_Guerra_Junqueiro_Avenue%2C_Lisbon%2C_Portugal_julesvernex2.jpg/500px-Red_Sweet_gum_%28Liquidambar_styraciflua%29_leaves%2C_Guerra_Junqueiro_Avenue%2C_Lisbon%2C_Portugal_julesvernex2.jpg",
+      "credit": "Jules Verne Times Two — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Red_Sweet_gum_(Liquidambar_styraciflua)_leaves,_Guerra_Junqueiro_Avenue,_Lisbon,_Portugal_julesvernex2.jpg"
+    }
+  },
+  {
+    "id": "sens-sauter-flaques",
+    "categorie": "sensoriel",
+    "titre": "Plouf ! Sauter dans les flaques",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur les trottoirs larges ou les allées de parc, loin de la chaussée, après la pluie.",
+    "point": null,
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [
+      "gel"
+    ],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Flaques peu profondes seulement, sur un trottoir large ou une allée, loin de la chaussée ; pas là où on ne voit pas le fond.",
+    "reperes": "Des bottes, un pantalon de pluie et des vêtements de rechange.",
+    "enfant": {
+      "2-3": {
+        "mot": "flaque",
+        "geste": "Mets tes bottes et saute à pieds joints dans la flaque : « plouf ! » Regarde les éclaboussures et les ronds dans l'eau.",
+        "phrase": "Plouf ! Plouf ! Dans la flaque !"
+      },
+      "3-5": {
+        "mot": "les ronds dans l'eau",
+        "geste": "Saute, puis regarde les ronds qui s'agrandissent. Compte-les. Compare une petite et une grande flaque : laquelle fait le plus d'éclaboussures ?",
+        "phrase": "Plouf, rond, rond, plus grand !"
+      }
+    },
+    "adulte": {
+      "nom": "Éclaboussure d'une goutte",
+      "latin": null,
+      "anecdote": "À la fin du XIXe siècle, le physicien anglais Arthur Worthington a été l'un des premiers à photographier des éclaboussures à la lumière d'une étincelle : il a révélé la « couronne » de gouttelettes et le jet qui rebondit, trop rapides pour l'œil nu.",
+      "pourquoi_maintenant": "Après la pluie, les flaques existent quelques heures : c'est une occasion à ne pas rater.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Puddles_after_recent_rain_-_geograph.org.uk_-_3589065.jpg/500px-Puddles_after_recent_rain_-_geograph.org.uk_-_3589065.jpg",
+      "credit": "Pauline E — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Puddles_after_recent_rain_-_geograph.org.uk_-_3589065.jpg"
+    }
+  },
+  {
+    "id": "sens-pommes-de-pin",
+    "categorie": "sensoriel",
+    "titre": "Une pomme de pin qui s'ouvre et se ferme",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Avenue Roul, sur la pelouse des pins parasols : ramasse une pomme de pin déjà tombée.",
+    "point": {
+      "lat": 44.806652,
+      "lon": -0.592898,
+      "repere": "Avenue Roul, côté nord, cinquante mètres après l'impasse Roul : gros pin parasol au tronc fourchu, au bord du trottoir, devant la clôture sombre."
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": true,
+    "attention": "Si tu vois un nid blanc soyeux dans un pin, éloigne-toi sans toucher (processionnaires). Ne ramasse pas sous l'arbre un jour de vent ; les pommes de pin ne vont jamais à la bouche.",
+    "reperes": "Grosse pomme de pin ronde et lourde (jusqu'à 15 cm), écailles épaisses en losanges.",
+    "enfant": {
+      "2-3": {
+        "mot": "pomme de pin",
+        "geste": "Ramasse une pomme de pin et sens-la : elle est rugueuse et lourde. À la maison, trempe-la dans l'eau : elle se ferme !",
+        "phrase": "Pomme de pin, tu te fermes !"
+      },
+      "3-5": {
+        "mot": "la pomme magique",
+        "geste": "Rapporte une pomme de pin ouverte. À la maison, plonge-la dans un bol d'eau et regarde toutes les heures : combien de temps pour qu'elle se ferme ? Puis laisse-la sécher.",
+        "phrase": "Ouverte, fermée, magique !"
+      }
+    },
+    "adulte": {
+      "nom": "Pomme de pin (cône)",
+      "latin": null,
+      "anecdote": "Les écailles s'ouvrent au sec et se ferment à l'humidité, sans aucun muscle : deux couches de tissu gonflent différemment en s'humidifiant. Ainsi, les graines ne sont libérées que par temps sec, quand le vent peut les emporter.",
+      "pourquoi_maintenant": "De mai à septembre : hors de la saison des chenilles processionnaires du pin.",
+      "confusion": "Le cône de pin maritime est plus petit et pointu ; celui du pin parasol est rond, lourd et massif."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pinus_pinea_cone_A.jpg/500px-Pinus_pinea_cone_A.jpg",
+      "credit": "Wouter Hagens — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_cone_A.jpg"
+    }
+  },
+  {
+    "id": "sens-cailloux-tri",
+    "categorie": "sensoriel",
+    "titre": "Trier les cailloux de l'esplanade",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Sur l'esplanade sablée du château Peixotto : trier, toucher et remettre.",
+    "point": {
+      "lat": 44.807303,
+      "lon": -0.590985,
+      "repere": "Parc Peixotto, esplanade sablée devant le château (côté allée Peixotto, à trente mètres du cours de la Libération), sur les allées gravillonnées.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/59/b3/a2/78/f891-48dc-957a-8d4d26e37cf4/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=59b3a278-f891-48dc-957a-8d4d26e37cf4"
+      }
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "verifier": false,
+    "attention": "Les cailloux ne vont jamais à la bouche (risque d'étouffement) : surveille de près. On remet tout à sa place en partant.",
+    "reperes": "Un gobelet d'eau (pour mouiller un caillou) et un sac pour les trésors.",
+    "enfant": {
+      "2-3": {
+        "mot": "caillou",
+        "geste": "Ramasse trois cailloux et sens-les : froids, lisses, rugueux. Mets-les dans le gobelet : l'eau les rend plus foncés !",
+        "phrase": "Caillou, tu es froid et dur !"
+      },
+      "3-5": {
+        "mot": "trier",
+        "geste": "Trie les cailloux par taille ou par couleur : du plus petit au plus gros. Mouille-en un : change-t-il de couleur ?",
+        "phrase": "Petit, moyen, gros : à toi de ranger !"
+      }
+    },
+    "adulte": {
+      "nom": "Cailloux mouillés",
+      "latin": null,
+      "anecdote": "Un caillou mouillé paraît plus foncé : l'eau comble les microreliefs de la surface et réduit la lumière diffusée vers l'œil, alors que le caillou sec renvoie plus de lumière blanche.",
+      "pourquoi_maintenant": "Toute l'année, sec ou mouillé.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/The_Pebbles.jpg/500px-The_Pebbles.jpg",
+      "credit": "Emre Dokur — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:The_Pebbles.jpg"
+    }
+  },
+  {
+    "id": "sens-land-art",
+    "categorie": "sensoriel",
+    "titre": "Faire une œuvre avec des feuilles et des brindilles",
+    "lieux": [
+      "parc-pagnol"
+    ],
+    "ou": "Au parc Pagnol (square des tout-petits, ouvert en semaine) : choisis un coin plat pour poser tes trouvailles.",
+    "point": {
+      "lat": 44.8118,
+      "lon": -0.5863,
+      "repere": "Parc Pagnol et square des tout-petits : une zone plane au sol dur, près des bancs, à l'écart des jeux."
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Seulement ce qui est déjà tombé par terre : rien d'arraché, aucune baie, aucun champignon, rien à la bouche. On laisse l'œuvre sur place.",
+    "reperes": "Rien d'autre que des trouvailles tombées au sol (feuilles, brindilles, cailloux, pétales).",
+    "enfant": {
+      "2-3": {
+        "mot": "œuvre",
+        "geste": "Pose des feuilles et des brindilles en forme de soleil ou de visage. Regarde ton œuvre, dis-lui bonjour, puis laisse-la.",
+        "phrase": "Mon œuvre, je la laisse !"
+      },
+      "3-5": {
+        "mot": "mandala",
+        "geste": "Fais un cercle de feuilles, puis ajoute des brindilles en rayons. Prends une photo avant de partir.",
+        "phrase": "Cercle, rayons, mon soleil !"
+      }
+    },
+    "adulte": {
+      "nom": "Land art",
+      "latin": null,
+      "anecdote": "Des artistes comme Richard Long (« A Line Made by Walking », 1967) ou Andy Goldsworthy travaillent avec des matériaux naturels, leurs œuvres sont éphémères et seule la photo reste.",
+      "pourquoi_maintenant": "Toute l'année : en hiver peu de feuilles, mais brindilles et cailloux ; en automne, un festival de couleurs.",
+      "confusion": null
+    },
+    "photo": null
+  },
+  {
+    "id": "sens-boite-oeufs-sens",
+    "categorie": "sensoriel",
+    "titre": "La boîte à œufs aux six trésors",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Pendant n'importe quelle promenade : remplis chaque case d'une boîte à œufs.",
+    "point": null,
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Seulement ce qui est déjà tombé par terre : rien d'arraché, aucune baie, aucun champignon, rien à la bouche. Pas de ramassage dans les refuges LPO (Sourreil, Curvale, Triaire).",
+    "reperes": "Une boîte à œufs vide de 6 cases, et un petit sac.",
+    "enfant": {
+      "2-3": {
+        "mot": "trésors",
+        "geste": "Une case = un trésor : un doux, un rugueux, un qui sent bon, un coloré, un qui craque, un tout petit. Il choisit où le poser.",
+        "phrase": "Doux, rugueux, coloré : trouvé !"
+      },
+      "3-5": {
+        "mot": "6 cases",
+        "geste": "Donne-lui six consignes (doux, rugueux, qui sent bon, qui craque, coloré, minuscule) et laisse-le chercher. À la fin, il raconte pourquoi il a choisi.",
+        "phrase": "Six cases, six trésors !"
+      }
+    },
+    "adulte": {
+      "nom": "Boîte à trésors",
+      "latin": null,
+      "anecdote": "Enfant, Charles Darwin collectionnait déjà tout : coquillages, cachets de cire, pièces, minéraux. Il écrit dans son autobiographie que cette passion de collectionner, « qui fait les naturalistes », était chez lui innée.",
+      "pourquoi_maintenant": "Toute l'année : en hiver on trouve moins de feuilles, mais des cônes, des écorces et des cailloux.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Eierkarton_10_%28fcm%29.jpg/500px-Eierkarton_10_%28fcm%29.jpg",
+      "credit": "Photograph:  Frank C. Müller, Frankfurt am Main — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Eierkarton_10_(fcm).jpg"
+    }
+  },
+  {
+    "id": "sens-herbes-hautes-epis",
+    "categorie": "sensoriel",
+    "titre": "Les épis d'herbes hautes qui chatouillent",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Allée Geoffroy Saint-Hilaire, le long de la prairie d'herbes hautes (campus), côté piste cyclable : touche seulement depuis le bord.",
+    "point": {
+      "lat": 44.804408,
+      "lon": -0.605999,
+      "repere": "Allée Geoffroy Saint-Hilaire, côté sud, vingt mètres après l'avenue des Facultés : la prairie d'herbes hautes derrière la bordure béton, côté gauche.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/2f/47/4e/34/b876-42e6-8ba2-55e34eceb5f7/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=2f474e34-b876-42e6-8ba2-55e34eceb5f7"
+      }
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Reste sur le trottoir : les herbes hautes abritent des tiques. On caresse sans cueillir, aucun épi près du nez ni des oreilles ; au retour, inspecte la peau et le cuir chevelu.",
+    "reperes": "Herbes hautes aux épis plumeux ou en barbes, qui ondulent au vent.",
+    "enfant": {
+      "2-3": {
+        "mot": "épi",
+        "geste": "Passe doucement la main sur le dessus des épis, depuis le trottoir : ça chatouille ! Écoute le bruissement du vent dans l'herbe.",
+        "phrase": "Chatouille, chatouille, les épis !"
+      },
+      "3-5": {
+        "mot": "doux ou piquant ?",
+        "geste": "Touche trois types d'épis : un doux, un piquant, un qui plie. Compare avec la pelouse tondue.",
+        "phrase": "Doux, piquant, qui plie !"
+      }
+    },
+    "adulte": {
+      "nom": "Graminées sauvages",
+      "latin": "Poaceae",
+      "anecdote": "Les fleurs des graminées sont minuscules et sans pétales : elles comptent sur le vent pour disperser le pollen. C'est pour cela qu'elles sont une cause majeure du rhume des foins en mai-juin.",
+      "pourquoi_maintenant": "De mai à septembre, les épis sont à maturité ; en septembre ils sèchent et deviennent dorés.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Arrhenatherum_elatius_kz01.jpg/500px-Arrhenatherum_elatius_kz01.jpg",
+      "credit": "Krzysztof Ziarnek, Kenraiz — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Arrhenatherum_elatius_kz01.jpg"
+    }
+  },
+  {
+    "id": "sens-arbre-mystere",
+    "categorie": "sensoriel",
+    "titre": "Retrouver l'arbre les yeux fermés",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Sur la pelouse ombragée du parc Peixotto, entre les grands arbres, près des tables de pique-nique.",
+    "point": {
+      "lat": 44.807387,
+      "lon": -0.591001,
+      "repere": "Parc Peixotto, allée pavée qui monte vers le château (côté sud, trente mètres après le cours de la Libération) : grande pelouse à gauche, entre les grands arbres.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/4c/15/92/ac/d048-4905-b260-07f8533557f6/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=4c1592ac-d048-4905-b260-07f8533557f6"
+      }
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "verifier": false,
+    "attention": "Tiens toujours l'enfant par la main ou par l'épaule : pas de course les yeux fermés ; reste loin des allées et des bords.",
+    "reperes": "Un foulard (facultatif) et un terrain plat.",
+    "enfant": {
+      "2-3": {
+        "mot": "tronc",
+        "geste": "Guide ton enfant, yeux fermés, jusqu'à un arbre : il touche l'écorce (lisse ? rugueuse ? en plaques ?), puis rouvre les yeux et la retrouve.",
+        "phrase": "Doux ou rugueux, c'est quel arbre ?"
+      },
+      "3-5": {
+        "mot": "retrouver l'arbre",
+        "geste": "Guide-le yeux fermés jusqu'à un arbre : il touche, devine, puis on revient au départ ; il doit retrouver l'arbre yeux ouverts.",
+        "phrase": "Mon arbre, je te retrouve !"
+      }
+    },
+    "adulte": {
+      "nom": "L'écorce comme carte d'identité",
+      "latin": null,
+      "anecdote": "Les bouts des doigts peuvent détecter des motifs de quelques nanomètres de hauteur (étude suédoise de 2013). Toucher une écorce donne des informations de forme, de texture et de température que la vue ne donne pas.",
+      "pourquoi_maintenant": "Toute l'année : l'écorce se touche en hiver comme en été.",
+      "confusion": null
+    },
+    "photo": null
+  },
+  {
+    "id": "sens-jeu-ombre",
+    "categorie": "sensoriel",
+    "titre": "Attraper son ombre",
+    "lieux": [
+      "parc-peixotto",
+      "partout"
+    ],
+    "ou": "Sur l'esplanade sablée devant le château Peixotto, un grand espace dégagé ; ou sur n'importe quel trottoir au soleil.",
+    "point": {
+      "lat": 44.807303,
+      "lon": -0.590985,
+      "repere": "Parc Peixotto, esplanade sablée devant le château, côté allée Peixotto, à une trentaine de mètres du cours de la Libération : là où le soleil arrive.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/59/b3/a2/78/f891-48dc-957a-8d4d26e37cf4/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=59b3a278-f891-48dc-957a-8d4d26e37cf4"
+      }
+    },
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [
+      "soleil"
+    ],
+    "exclut": [],
+    "moment": "journee",
+    "poids": 2,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Une ombre bien nette demande un soleil franc et un sol clair et plat (sable, dalles) ; dos au soleil, elle est devant toi.",
+    "enfant": {
+      "2-3": {
+        "mot": "ombre",
+        "geste": "Dos au soleil, montre-lui son ombre : « c'est toi ! ». Saute, lève les bras, fais des oreilles de lapin : l'ombre fait pareil. Essaie de lui marcher dessus !",
+        "phrase": "Mon ombre danse avec moi !"
+      },
+      "3-5": {
+        "mot": "chat-ombre",
+        "geste": "Jouez à chat-ombre : il faut marcher sur l'ombre de l'autre ! Puis cherche comment faire disparaître ton ombre (cache-la dans l'ombre d'un arbre).",
+        "phrase": "Je t'attrape, ombre !"
+      }
+    },
+    "adulte": {
+      "nom": "Ombre portée et pénombre",
+      "latin": null,
+      "anecdote": "Le bord d'une ombre n'est jamais tout à fait net : le Soleil n'est pas un point mais un disque d'un demi-degré, ce qui crée une bordure floue, la pénombre. Elle s'élargit avec la distance au sol : l'ombre des pieds est nette, celle de la tête plus floue. Regarde bien !",
+      "pourquoi_maintenant": "Au printemps et en automne, le Soleil est assez bas le matin et en fin d'après-midi pour donner une ombre plus grande que l'enfant : idéal pour jouer.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Shadow_of_photographer_in_midnight_sun_on_Mackenzie_Road%2C_Inuvik%2C_NT.jpg/500px-Shadow_of_photographer_in_midnight_sun_on_Mackenzie_Road%2C_Inuvik%2C_NT.jpg",
+      "credit": "Daniel Case — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Shadow_of_photographer_in_midnight_sun_on_Mackenzie_Road,_Inuvik,_NT.jpg"
+    }
+  },
+  {
+    "id": "sens-glace-flaque",
+    "categorie": "sensoriel",
+    "titre": "La flaque qui craque",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur un trottoir ou une allée, loin de la route : une petite flaque peu profonde, prise par le gel du matin.",
+    "point": null,
+    "mois": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "requiert": [
+      "gel"
+    ],
+    "exclut": [],
+    "moment": "matin",
+    "poids": 3,
+    "verifier": false,
+    "attention": "Seulement une flaque peu profonde (quelques centimètres) : jamais la glace d'un bassin, d'une fontaine ou du plan d'eau de Peixotto-Margaut. Trottoirs glissants : on donne la main.",
+    "reperes": "Une fine plaque transparente ou blanchâtre, parfois avec des bulles et des feuilles prisonnières ; elle fond vite au soleil, viens tôt.",
+    "enfant": {
+      "2-3": {
+        "mot": "glace",
+        "geste": "Pose un doigt ganté sur la glace : froid et dur ! Puis tape doucement du talon de la botte : crac !",
+        "phrase": "Crac, crac, la glace !"
+      },
+      "3-5": {
+        "mot": "fenêtre de glace",
+        "geste": "Avant de casser, regarde dedans : des bulles ? une feuille prisonnière ? Puis soulève un morceau avec ta main gantée et regarde le ciel à travers.",
+        "phrase": "Une fenêtre de glace !"
+      }
+    },
+    "adulte": {
+      "nom": "Glace de flaque",
+      "latin": null,
+      "anecdote": "L'eau gonfle d'environ 9 % en gelant : la glace, moins dense, flotte, si bien qu'une flaque gèle par le dessus. C'est pour cela que les lacs gèlent en surface et que l'eau reste liquide dessous, vers 4 °C. Les bulles blanches sont l'air dissous que la glace chasse en se formant.",
+      "pourquoi_maintenant": "Après une nuit sous 0 °C, les flaques de la veille sont prises le matin, puis fondent dès que le soleil les touche.",
+      "confusion": "Le verglas est une glace presque invisible sur la chaussée, bien plus traître qu'une flaque gelée qu'on voit."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Frozen_puddle%2C_Ehrenbach.jpg/500px-Frozen_puddle%2C_Ehrenbach.jpg",
+      "credit": "Gerda Arendt — CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Frozen_puddle,_Ehrenbach.jpg"
+    }
+  },
+  {
+    "id": "sens-mousse-vieux-mur",
+    "categorie": "sensoriel",
+    "titre": "La mousse, un tapis qui boit",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Le long du très vieux mur de pierre de l'avenue de la Vieille Tour : coussins de mousse dans les joints et sur le haut du mur. Tout vieux mur à l'ombre du quartier convient aussi.",
+    "point": {
+      "lat": 44.813355,
+      "lon": -0.600704,
+      "repere": "Avenue de la Vieille Tour, côté sud, à environ 70 m de la rue Dubernat : le très vieux mur de pierre moussu qui longe tout le trottoir de droite.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/a3/f7/43/d9/8555-4014-890b-0a7fb12e5d8c/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=a3f743d9-8555-4014-890b-0a7fb12e5d8c"
+      }
+    },
+    "mois": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Coussins vert vif, serrés et veloutés, dans les joints ou sur le haut du mur ; ni racines ni fleurs.",
+    "enfant": {
+      "2-3": {
+        "mot": "mousse",
+        "geste": "Pose le plat de la main sur la mousse et appuie doucement : c'est doux et un peu mouillé. Retire ta main : la mousse se regonfle !",
+        "phrase": "Mousse, tu es douce !"
+      },
+      "3-5": {
+        "mot": "éponge verte",
+        "geste": "Appuie un doigt sur un coussin de mousse : de l'eau perle-t-elle, comme d'une éponge ? Compte combien de temps elle met à se regonfler. On n'arrache rien, elle est chez elle.",
+        "phrase": "Mousse éponge, tu bois la pluie !"
+      }
+    },
+    "adulte": {
+      "nom": "Mousses (bryophytes)",
+      "latin": null,
+      "anecdote": "Une mousse n'a pas de racines : elle boit par toute sa surface et peut retenir plusieurs fois son poids en eau. Desséchée, elle paraît morte ; quelques minutes de pluie suffisent pour qu'elle reverdisse et se remette à pousser.",
+      "pourquoi_maintenant": "D'octobre à mai, les mousses sont gorgées d'eau et d'un vert éclatant ; en été, elles sèchent et jaunissent en attendant la pluie.",
+      "confusion": "Les lichens (taches plates grises ou orangées) poussent aussi sur les vieux murs, mais ne forment pas de coussin doux."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Moss_on_a_Stone_Wall_-_geograph.org.uk_-_1213562.jpg/500px-Moss_on_a_Stone_Wall_-_geograph.org.uk_-_1213562.jpg",
+      "credit": "Stuart Wilding — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Moss_on_a_Stone_Wall_-_geograph.org.uk_-_1213562.jpg"
+    }
+  },
+  {
+    "id": "sens-aigrettes-pissenlit",
+    "categorie": "sensoriel",
+    "titre": "Souffler sur les parachutes de pissenlit",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur les bords de pelouse, les talus et les pieds de murs : cherche les boules blanches de pissenlit en graines.",
+    "point": null,
+    "mois": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [
+      "pluie_aujourdhui"
+    ],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": null,
+    "reperes": "Boule blanche parfaite au bout d'une tige creuse sans feuilles ; chaque graine pend sous un petit parachute de poils.",
+    "enfant": {
+      "2-3": {
+        "mot": "pissenlit",
+        "geste": "Cueille une tige à boule blanche (c'est permis !), gonfle les joues et souffle ! Regarde les parachutes s'envoler.",
+        "phrase": "Pfff ! Les parachutes s'envolent !"
+      },
+      "3-5": {
+        "mot": "combien restent ?",
+        "geste": "Souffle une seule fois : combien de graines restent accrochées ? Suis un parachute des yeux jusqu'à ce qu'il se pose : où va-t-il pousser ?",
+        "phrase": "Un souffle, un vœu, envolez-vous !"
+      }
+    },
+    "adulte": {
+      "nom": "Pissenlit (en graines)",
+      "latin": "Taraxacum officinale",
+      "anecdote": "Beaucoup de pissenlits font leurs graines sans fécondation (apomixie) : chaque graine est alors un clone de la plante mère. Une seule boule en porte une à deux centaines, et un pied peut en produire plusieurs milliers dans l'année.",
+      "pourquoi_maintenant": "Les boules apparaissent quelques jours après les fleurs jaunes, surtout d'avril à juin, puis encore en automne ; par temps sec, elles s'ouvrent en sphère parfaite.",
+      "confusion": "Le salsifis des prés a une boule semblable mais bien plus grosse ; le laiteron et la porcelle ont aussi des aigrettes, mais sur des tiges ramifiées."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Dandelion_seed_head_%28Taraxacum_officinale%29.jpg/500px-Dandelion_seed_head_%28Taraxacum_officinale%29.jpg",
+      "credit": "Avenue — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dandelion_seed_head_(Taraxacum_officinale).jpg"
+    }
+  },
+  {
+    "id": "sens-tresors-automne",
+    "categorie": "sensoriel",
+    "titre": "Le sac aux trésors d'automne",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Au parc Peixotto, sous les marronniers près des tables de pique-nique et sous les chênes du cours de la Libération : on ramasse seulement ce qui est déjà tombé.",
+    "point": {
+      "lat": 44.807434,
+      "lon": -0.590983,
+      "repere": "Parc Peixotto, côté sud de l'allée pavée, à une trentaine de mètres du cours de la Libération : les grands marronniers à gauche, près des tables de pique-nique.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/4c/15/92/ac/d048-4905-b260-07f8533557f6/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=4c1592ac-d048-4905-b260-07f8533557f6"
+      }
+    },
+    "mois": [
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "verifier": false,
+    "attention": "Marrons et glands sont toxiques et peuvent étouffer : on ramasse, on ne met rien à la bouche, et c'est le parent qui garde le sac. Pas de ramassage dans les refuges LPO (Sourreil, Curvale, Triaire).",
+    "reperes": "Marron brun luisant à tache claire (souvent encore dans sa bogue entrouverte), gland avec ou sans chapeau, feuilles colorées.",
+    "enfant": {
+      "2-3": {
+        "mot": "trésor",
+        "geste": "Ramasse un marron, un gland, une belle feuille, et donne chaque trésor au parent qui le met dans le sac. Frotte le marron sur ta joue : lisse et frais !",
+        "phrase": "Un trésor pour le sac !"
+      },
+      "3-5": {
+        "mot": "le tri des trésors",
+        "geste": "Sur un banc ou à la maison, trie le sac : le plus gros, le plus petit, le plus brillant ; les glands avec chapeau d'un côté, sans chapeau de l'autre. Compte-les.",
+        "phrase": "Le plus gros, le plus petit, le plus brillant !"
+      }
+    },
+    "adulte": {
+      "nom": "Marrons d'Inde et glands",
+      "latin": "Aesculus hippocastanum ; Quercus robur",
+      "anecdote": "Les marrons d'Inde contiennent des saponines, dont l'escine, qui moussent dans l'eau : pendant les guerres, on en a tiré une lessive de fortune. Ce sont aussi elles qui les rendent toxiques.",
+      "pourquoi_maintenant": "Septembre à novembre : marrons et glands mûrs tombent. Rapportés à la maison, les marrons ternissent et se rident en une semaine : le sac aux trésors change sous tes yeux.",
+      "confusion": "La châtaigne a une bogue à longues épines fines et un fruit à pointe, comestible ; le marron d'Inde ne se mange pas."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Conkers_-_geograph.org.uk_-_1532739.jpg/500px-Conkers_-_geograph.org.uk_-_1532739.jpg",
+      "credit": "Evelyn Simak — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Conkers_-_geograph.org.uk_-_1532739.jpg"
+    }
+  }
+]

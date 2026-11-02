@@ -1,0 +1,10 @@
+{
+  "name": "nature-talence",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site statique : 3 idées nature par jour autour de Talence centre",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  }
+}

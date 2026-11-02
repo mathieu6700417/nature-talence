@@ -1,0 +1,260 @@
+[
+  {
+    "id": "escargots-apres-pluie",
+    "categorie": "animal",
+    "titre": "Les escargots",
+    "lieux": [
+      "partout",
+      "parc-test"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [
+      "gel"
+    ],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "escargots",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "escargots, coucou !"
+      },
+      "3-5": {
+        "mot": "escargots (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le escargots ?"
+      }
+    },
+    "adulte": {
+      "nom": "Les escargots",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": {
+      "url": "tests/fixtures/photo.svg",
+      "credit": "Fixture — CC0",
+      "source": "https://commons.wikimedia.org/"
+    },
+    "point": {
+      "lat": 44.8071,
+      "lon": -0.5862,
+      "repere": "Rue de test, trottoir de gauche, juste après le croisement : le muret couvert de lierre.",
+      "photo_lieu": {
+        "url": "tests/fixtures/photo.svg",
+        "credit": "Fixture — CC0",
+        "source": "https://panoramax.fr/"
+      }
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "merle",
+    "categorie": "animal",
+    "titre": "Le merle",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "merle",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "merle, coucou !"
+      },
+      "3-5": {
+        "mot": "merle (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le merle ?"
+      }
+    },
+    "adulte": {
+      "nom": "Le merle",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": {
+      "url": "tests/fixtures/photo.svg",
+      "credit": "Fixture — CC0",
+      "source": "https://commons.wikimedia.org/"
+    },
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pigeon",
+    "categorie": "animal",
+    "titre": "Le pigeon",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "pigeon",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "pigeon, coucou !"
+      },
+      "3-5": {
+        "mot": "pigeon (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le pigeon ?"
+      }
+    },
+    "adulte": {
+      "nom": "Le pigeon",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "rouge-gorge",
+    "categorie": "animal",
+    "titre": "Le rouge-gorge",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "rouge-gorge",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "rouge-gorge, coucou !"
+      },
+      "3-5": {
+        "mot": "rouge-gorge (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le rouge-gorge ?"
+      }
+    },
+    "adulte": {
+      "nom": "Le rouge-gorge",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "martinet",
+    "categorie": "animal",
+    "titre": "Le martinet",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      5,
+      6,
+      7
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "martinet",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "martinet, coucou !"
+      },
+      "3-5": {
+        "mot": "martinet (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le martinet ?"
+      }
+    },
+    "adulte": {
+      "nom": "Le martinet",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  }
+]

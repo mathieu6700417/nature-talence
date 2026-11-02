@@ -1,0 +1,487 @@
+{
+ "meta": {
+  "centre": [
+   44.8065,
+   -0.588
+  ],
+  "rayon_m": 1500,
+  "date": "2026-11-02",
+  "avertissement": "Aucun inventaire public complet des arbres de Talence : Bordeaux Métropole ec_arbre_p ne contient que 9 arbres de Talence. OSM contient ~900 arbres/alignements dans le rayon dont <10% avec espèce. Les essences non renseignées sont comptées sous 'non renseignée' et ne sont pas dans totaux_essences. Chiffres = arbres cartographiés, pas recensement exhaustif.",
+  "arbres_non_identifies_par_rue": 373
+ },
+ "par_rue": [
+  {
+   "rue": "Cours de la Libération",
+   "essences": {
+    "Arbre (espèce non renseignée)": 21,
+    "Feuillu (espèce non renseignée)": 57
+   },
+   "lat": 44.80261,
+   "lon": -0.5968,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Avenue de l'Université",
+   "essences": {
+    "Arbre (espèce non renseignée)": 45,
+    "Feuillu (espèce non renseignée)": 2
+   },
+   "lat": 44.80315,
+   "lon": -0.59914,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Avenue Roul",
+   "essences": {
+    "Feuillu (espèce non renseignée)": 6,
+    "Platane": 1,
+    "Arbre (espèce non renseignée)": 21
+   },
+   "lat": 44.80672,
+   "lon": -0.59866,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Avenue Espeleta",
+   "essences": {
+    "Arbre (espèce non renseignée)": 22
+   },
+   "lat": 44.81013,
+   "lon": -0.59042,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Résidences Les Harmonies",
+   "essences": {
+    "Arbre (espèce non renseignée)": 19
+   },
+   "lat": 44.81169,
+   "lon": -0.58452,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Pierre Noailles",
+   "essences": {
+    "Arbre (espèce non renseignée)": 16
+   },
+   "lat": 44.80966,
+   "lon": -0.59467,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Cours Gambetta",
+   "essences": {
+    "Arbre (espèce non renseignée)": 13
+   },
+   "lat": 44.81752,
+   "lon": -0.58511,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Résidence Parc de Suzon",
+   "essences": {
+    "Arbre (espèce non renseignée)": 13
+   },
+   "lat": 44.81211,
+   "lon": -0.58274,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Paul Verlaine",
+   "essences": {
+    "Arbre (espèce non renseignée)": 10
+   },
+   "lat": 44.79407,
+   "lon": -0.58789,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Avenue des Facultés",
+   "essences": {
+    "Arbre (espèce non renseignée)": 5,
+    "Feuillu (espèce non renseignée)": 5
+   },
+   "lat": 44.80539,
+   "lon": -0.60508,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Chemin des Orphelins",
+   "essences": {
+    "Arbre (espèce non renseignée)": 10
+   },
+   "lat": 44.79645,
+   "lon": -0.57823,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Armand Leroi",
+   "essences": {
+    "Arbre (espèce non renseignée)": 8,
+    "Feuillu (espèce non renseignée)": 1
+   },
+   "lat": 44.81834,
+   "lon": -0.59445,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Allée Baudrimont",
+   "essences": {
+    "Arbre (espèce non renseignée)": 8
+   },
+   "lat": 44.80694,
+   "lon": -0.60193,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Place Alcala de Henares",
+   "essences": {
+    "Arbre (espèce non renseignée)": 6
+   },
+   "lat": 44.81197,
+   "lon": -0.59042,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Michel Slitinsky",
+   "essences": {
+    "Arbre (espèce non renseignée)": 6
+   },
+   "lat": 44.80628,
+   "lon": -0.59038,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Dubernat",
+   "essences": {
+    "Arbre (espèce non renseignée)": 6
+   },
+   "lat": 44.81404,
+   "lon": -0.6016,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue du Général Bordas",
+   "essences": {
+    "Arbre (espèce non renseignée)": 6
+   },
+   "lat": 44.80094,
+   "lon": -0.58861,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue de Mégret",
+   "essences": {
+    "Arbre (espèce non renseignée)": 6
+   },
+   "lat": 44.80318,
+   "lon": -0.58893,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Peixotto",
+   "essences": {
+    "Arbre (espèce non renseignée)": 5
+   },
+   "lat": 44.80701,
+   "lon": -0.59282,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Blumerel",
+   "essences": {
+    "Arbre (espèce non renseignée)": 5
+   },
+   "lat": 44.80256,
+   "lon": -0.58353,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Avenue de Collegno",
+   "essences": {
+    "Arbre (espèce non renseignée)": 3,
+    "Feuillu (espèce non renseignée)": 2
+   },
+   "lat": 44.80663,
+   "lon": -0.60429,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue du Général Margueritte",
+   "essences": {
+    "Arbre (espèce non renseignée)": 5
+   },
+   "lat": 44.80049,
+   "lon": -0.58798,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue de Verdun",
+   "essences": {
+    "Arbre (espèce non renseignée)": 5
+   },
+   "lat": 44.80036,
+   "lon": -0.58876,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Lavoisier",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.8151,
+   "lon": -0.59926,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Place Peydavant",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.80197,
+   "lon": -0.58483,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Jacques Chaban Delmas",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.8123,
+   "lon": -0.58934,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Blanqui",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.81339,
+   "lon": -0.58489,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Jules Valles",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.81347,
+   "lon": -0.58533,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Robespierre",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.8087,
+   "lon": -0.57798,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "21",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.81273,
+   "lon": -0.5813,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Gutenberg",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.81499,
+   "lon": -0.59867,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Rue Montesquieu",
+   "essences": {
+    "Arbre (espèce non renseignée)": 4
+   },
+   "lat": 44.80242,
+   "lon": -0.58475,
+   "source": "OpenStreetMap (arbres cartographiés, essence souvent non renseignée) — position moyenne des arbres"
+  },
+  {
+   "rue": "Boulevard du Président Franklin Roosevelt (Bordeaux)",
+   "essences": {
+    "Tilleul flavescens": 8,
+    "Tilleul argenté": 6
+   },
+   "lat": 44.8165,
+   "lon": -0.5755,
+   "source": "Bordeaux Métropole ec_arbre_p (open data, essence vérifiée)"
+  },
+  {
+   "rue": "Place Aristide Briand (Bègles)",
+   "essences": {
+    "Platane commun": 17,
+    "Cerisier du Japon 'Kanzan'": 5,
+    "Érable sycomore": 1
+   },
+   "lat": 44.8043,
+   "lon": -0.5699,
+   "source": "Bordeaux Métropole ec_arbre_p (open data, essence vérifiée)"
+  },
+  {
+   "rue": "Rue Gutenberg (Bègles)",
+   "essences": {
+    "Frêne à fleurs": 8,
+    "Frêne 'Raywood'": 1
+   },
+   "lat": 44.8095,
+   "lon": -0.5735,
+   "source": "Bordeaux Métropole ec_arbre_p (open data, essence vérifiée)"
+  },
+  {
+   "rue": "Parvis Saint-François (Bègles)",
+   "essences": {
+    "Tilleul à grandes feuilles": 6,
+    "Tilleul argenté": 2,
+    "Tilleul": 1
+   },
+   "lat": 44.8093,
+   "lon": -0.5698,
+   "source": "Bordeaux Métropole ec_arbre_p (open data, essence vérifiée)"
+  },
+  {
+   "rue": "Rue de Suzon / Stade Suzon (Talence)",
+   "essences": {
+    "Tilleul argenté": 4,
+    "Troène du Japon": 4,
+    "Catalpa commun": 1
+   },
+   "lat": 44.8123,
+   "lon": -0.5784,
+   "source": "Bordeaux Métropole ec_arbre_p (open data, essence vérifiée)"
+  },
+  {
+   "rue": "Cabestan (Bègles)",
+   "essences": {
+    "Catalpa commun": 4
+   },
+   "lat": 44.8039,
+   "lon": -0.5716,
+   "source": "Bordeaux Métropole ec_arbre_p (open data, essence vérifiée)"
+  }
+ ],
+ "par_parc": [
+  {
+   "parc": "Parc Peixotto (avenue Espeleta)",
+   "essences": {
+    "Cyprès chauve": 1,
+    "Peuplier noir": 1,
+    "Érable sycomore (obs. iNaturalist)": 1,
+    "Catalpa (obs. iNaturalist)": 1,
+    "Charme (obs. iNaturalist)": 1,
+    "Prunier myrobolan (obs. iNaturalist)": 1
+   },
+   "note": "OSM: 34 arbres cartographiés dont seulement 2 avec espèce. Jardin botanique universitaire (2,5 ha) attenant, ~2000 taxons.",
+   "source": "OSM, iNaturalist, talence.fr"
+  },
+  {
+   "parc": "Parc André Curvale",
+   "essences": {
+    "Orme du Caucase (zelkova)": 1
+   },
+   "note": "Arbre remarquable labellisé. Autres essences non recensées.",
+   "source": "OSM, talence.fr"
+  },
+  {
+   "parc": "Jardin du Moulin d'Ars (Bordeaux, limite du rayon, ~1,5 km)",
+   "essences": {
+    "Magnolia à grandes fleurs": 2,
+    "Cyprès de l'Arizona": 1,
+    "Épicéa commun": 1,
+    "Chêne vert": 1,
+    "Marronnier d'Inde": 1,
+    "Érable sycomore": 1,
+    "Érable négundo": 1,
+    "Érable de Montpellier": 1,
+    "Frêne commun": 1,
+    "If commun": 1,
+    "Laurier-sauce": 1,
+    "Orme 'Nanguen'": 1,
+    "Palmier de Chine": 1,
+    "Robinier faux-acacia": 1
+   },
+   "note": "Seul parc du rayon avec liste d'essences complète (open data).",
+   "source": "Bordeaux Métropole ec_arbre_p + OSM"
+  },
+  {
+   "parc": "Parc Caudères (rue de Suzon / bd Roosevelt)",
+   "essences": {
+    "Platane commun": 5
+   },
+   "note": "5 platanes plantés 1914-1964 (OSM, origine Ville de Bordeaux 2012).",
+   "source": "OSM"
+  },
+  {
+   "parc": "Bois de Thouars (hors rayon probable, > 2 km)",
+   "essences": {
+    "Chêne pédonculé": null,
+    "Chêne rouge d'Amérique": null,
+    "Pin": null,
+    "Bouleau": null,
+    "Acacia (robinier)": null,
+    "Châtaignier": null
+   },
+   "note": "Charte de l'arbre : +3000 arbres, âge moyen 120 ans. Comptes non disponibles. Gestion ONF.",
+   "source": "talence.fr charte de l'arbre 2021"
+  }
+ ],
+ "remarquables": [
+  {
+   "nom": "Orme du Caucase (zelkova) du parc André Curvale",
+   "essence": "Zelkova carpinifolia",
+   "lieu": "Parc André Curvale, Talence (entrée côté rue René Balloux ; ≈ 44.8179, -0.5893)",
+   "description": "Seul arbre remarquable labellisé de Talence (label A.R.B.R.E.S. / Arbre Remarquable de France). Planté vers 1830 dans le parc de l'ancien château Le Brana, circonférence 4,45 m, plaque explicative sur place.",
+   "source": "Charte de l'arbre de Talence 2021 ; Parcours patrimoine biodiversité talence.fr"
+  },
+  {
+   "nom": "Tilleuls argentés du Parvis Saint-François",
+   "essence": "Tilia tomentosa",
+   "lieu": "Parvis Saint-François, Bègles (≈ 44.8093, -0.5698), ≈ 1,5 km du Forum",
+   "description": "Deux tilleuls argentés classés monument ou site au PLU : 25 m de haut, circonférence 1,85 à 2,39 m. Hors Talence.",
+   "source": "Bordeaux Métropole ec_arbre_p (statut_patrimonial)"
+  },
+  {
+   "nom": "Haie de charmes du domaine de Raba",
+   "essence": "Carpinus betulus",
+   "lieu": "Domaine de Raba, Talence (sud de la ville, probablement hors rayon)",
+   "description": "Haie de charmes et charmilles classée (alignement historique).",
+   "source": "Charte de l'arbre de Talence 2021"
+  },
+  {
+   "nom": "Platanes de la place Aristide Briand",
+   "essence": "Platanus x hispanica",
+   "lieu": "Place Aristide Briand, Bègles (≈ 44.8043, -0.5699)",
+   "description": "17 platanes (Bordeaux Métropole) ; OSM en compte 18 autour de la place, rues Arago et Ampère.",
+   "source": "Bordeaux Métropole ec_arbre_p ; OSM"
+  },
+  {
+   "nom": "Platanes plantés 1914-1964 du parc Caudères",
+   "essence": "Platanus x hispanica",
+   "lieu": "Parc Caudères, rue de Suzon (≈ 44.8134, -0.5783)",
+   "description": "Plus anciens arbres cartographiés du secteur (années de plantation 1914 à 1964 selon l'inventaire Bordeaux 2012).",
+   "source": "OSM (ref:FR:bordeaux:tree)"
+  }
+ ],
+ "totaux_essences": {
+  "Platane commun": 17,
+  "Tilleul argenté": 12,
+  "Tilleul flavescens": 8,
+  "Frêne à fleurs": 8,
+  "Tilleul à grandes feuilles": 6,
+  "Cerisier du Japon 'Kanzan'": 5,
+  "Catalpa commun": 5,
+  "Troène du Japon": 4,
+  "Platane": 1,
+  "Érable sycomore": 1,
+  "Frêne 'Raywood'": 1,
+  "Tilleul": 1
+ }
+}

@@ -1,0 +1,216 @@
+[
+  {
+    "id": "pleine-lune",
+    "categorie": "ciel",
+    "titre": "La pleine lune",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "pleine_lune"
+    ],
+    "exclut": [
+      "couvert"
+    ],
+    "moment": "nuit",
+    "poids": 3,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "lune",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "lune, coucou !"
+      },
+      "3-5": {
+        "mot": "lune (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le lune ?"
+      }
+    },
+    "adulte": {
+      "nom": "La pleine lune",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": {
+      "lat": 44.8062,
+      "lon": -0.5893,
+      "repere": "Sur la pelouse du parc de test, côté est : le ciel y est dégagé."
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "coucher-soleil",
+    "categorie": "ciel",
+    "titre": "Le coucher du soleil",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "jours_courts"
+    ],
+    "exclut": [
+      "couvert"
+    ],
+    "moment": "coucher_soleil",
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "soleil",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "soleil, coucou !"
+      },
+      "3-5": {
+        "mot": "soleil (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le soleil ?"
+      }
+    },
+    "adulte": {
+      "nom": "Le coucher du soleil",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "nuages",
+    "categorie": "ciel",
+    "titre": "Les nuages",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "nuages",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "nuages, coucou !"
+      },
+      "3-5": {
+        "mot": "nuages (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le nuages ?"
+      }
+    },
+    "adulte": {
+      "nom": "Les nuages",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "geminides",
+    "categorie": "ciel",
+    "titre": "Les étoiles filantes",
+    "lieux": [
+      "parc-test"
+    ],
+    "ou": "Sur la pelouse, loin des lampadaires (fixture).",
+    "point": {
+      "lat": 44.8062,
+      "lon": -0.5893,
+      "repere": "Pelouse du parc de test, côté est."
+    },
+    "dates": [
+      [
+        "2026-12-13",
+        "2026-12-15"
+      ]
+    ],
+    "mois": [
+      12
+    ],
+    "requiert": [],
+    "exclut": [
+      "couvert"
+    ],
+    "moment": "nuit",
+    "poids": 3,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "étoile",
+        "geste": "Regarder en haut.",
+        "phrase": "Une étoile !"
+      },
+      "3-5": {
+        "mot": "étoile filante",
+        "geste": "Faire un vœu.",
+        "phrase": "Tu as vu ?"
+      }
+    },
+    "adulte": {
+      "nom": "Géminides",
+      "latin": null,
+      "anecdote": "Fixture.",
+      "pourquoi_maintenant": "Pic mi-décembre (fixture).",
+      "confusion": null
+    },
+    "photo": null
+  }
+]

@@ -1,0 +1,2398 @@
+[
+ {
+  "id": "ciel-lune-soir",
+  "categorie": "ciel",
+  "titre": "La Lune est déjà là, avant la nuit",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Dès la sortie, cherche-la au-dessus des toits : vers le sud quand elle est en demi-Lune, plus vers l'est quand elle est presque ronde. Ciel tout gris ? Guette une trouée dans les nuages ; sinon, ce sera pour un autre soir.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "lune_visible_soir"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "La Lune du soir est éclairée côté droit. Cherche une forme claire dans le ciel encore bleu.",
+  "enfant": {
+   "2-3": {
+    "mot": "Lune",
+    "geste": "Montre-la du doigt, puis fais-lui un grand coucou de la main.",
+    "phrase": "Coucou, la Lune !"
+   },
+   "3-5": {
+    "mot": "croissant ou rond",
+    "geste": "Dessine sa forme dans l'air avec ton doigt : mince comme une banane ou ronde comme un ballon ? Et hier, elle était comment ?",
+    "phrase": "Banane ou ballon, quelle Lune aujourd'hui ?"
+   }
+  },
+  "adulte": {
+   "nom": "Lune croissante ou gibbeuse du soir",
+   "latin": null,
+   "anecdote": "La Lune se lève en moyenne ~50 minutes plus tard chaque jour, parce qu'elle avance sur son orbite d'environ 13° par jour. Elle montre toujours la même face à la Terre.",
+   "pourquoi_maintenant": "Dans la première moitié de son cycle (du premier croissant à la pleine Lune), elle est visible en début de soirée, bien avant la nuit noire.",
+   "confusion": "Le matin, c'est la Lune décroissante, éclairée côté gauche : même astre, autre moitié du mois."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Crescent_Moon_in_Evening_Sky.jpg/500px-Crescent_Moon_in_Evening_Sky.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Shivanianbukumar — CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crescent_Moon_in_Evening_Sky.jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-lune-matin",
+  "categorie": "ciel",
+  "titre": "La Lune du matin, encore là au réveil",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Tôt le matin, regarde vers le sud ou l'ouest : elle reste visible après le lever du jour. Ciel tout gris ? Guette une trouée ; sinon, ce sera pour un autre matin.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "lune_visible_matin"
+  ],
+  "exclut": [],
+  "moment": "matin",
+  "poids": 2,
+  "reperes": "Une Lune pâle, éclairée côté gauche, qui descend vers l'ouest pendant que le Soleil monte.",
+  "enfant": {
+   "2-3": {
+    "mot": "Lune",
+    "geste": "Dès que tu la repères, dis « dodo, la Lune » et fais semblant de la border avec ta main.",
+    "phrase": "Bonne nuit, la Lune !"
+   },
+   "3-5": {
+    "mot": "Soleil et Lune",
+    "geste": "Cherche les deux dans le même ciel : où est le Soleil ? où est la Lune ? Lequel monte, laquelle descend ?",
+    "phrase": "Le Soleil se lève, la Lune s'en va."
+   }
+  },
+  "adulte": {
+   "nom": "Lune décroissante du matin",
+   "latin": null,
+   "anecdote": "On voit la Lune de jour parce que, éclairée par le Soleil, elle reste plus lumineuse que le ciel bleu, qui n'est que de la lumière diffusée.",
+   "pourquoi_maintenant": "Après la pleine Lune, elle se lève de plus en plus tard dans la nuit et traîne dans le ciel du matin pendant plusieurs jours.",
+   "confusion": "On peut la prendre pour un petit nuage blanc : seul son bord net la trahit."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Daytime_moon_december_2017.jpg/500px-Daytime_moon_december_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Robert Kixmiller — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Daytime_moon_december_2017.jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-lune-en-plein-jour",
+  "categorie": "ciel",
+  "titre": "La Lune pâle dans l'après-midi",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "L'après-midi, cherche une forme blanche dans le ciel bleu, vers l'est ou le sud-est (plutôt en fin d'après-midi quand elle est presque ronde). Ciel tout gris : on ne la verra pas, garde l'idée pour un jour bleu.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "lune_visible_soir"
+  ],
+  "exclut": [],
+  "moment": "journee",
+  "poids": 2,
+  "reperes": "Une forme couleur craie, très pâle sur le bleu.",
+  "enfant": {
+   "2-3": {
+    "mot": "Lune",
+    "geste": "Lève les deux bras et fais « oh ! » : la Lune est sortie en plein jour.",
+    "phrase": "La Lune est sortie !"
+   },
+   "3-5": {
+    "mot": "jour et nuit",
+    "geste": "Demande : « Pourquoi elle est là, en plein jour ? ». Laisse-le inventer, puis dis qu'elle est toujours là, on la voit juste mieux la nuit.",
+    "phrase": "La Lune ne dort pas !"
+   }
+  },
+  "adulte": {
+   "nom": "Lune de jour",
+   "latin": null,
+   "anecdote": "La Lune est dans le ciel presque autant de jour que de nuit ; on la remarque la nuit seulement parce que le ciel est sombre.",
+   "pourquoi_maintenant": "Dans la semaine qui suit le premier quartier, elle se lève vers midi ou dans l'après-midi : idéal pour un tout-petit qui ne veillera pas.",
+   "confusion": "Un nuage lisse et blanc à sa place : elle, a un contour net."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Daytime_moon_over_London%2C_England.jpg/500px-Daytime_moon_over_London%2C_England.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Acabashi — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Daytime_moon_over_London,_England.jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-pleine-lune",
+  "categorie": "ciel",
+  "titre": "Pleine Lune : elle se lève quand le Soleil se couche",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au crépuscule, regarde vers l'est, entre les maisons ou au-dessus des arbres : un grand disque orangé monte. Ciel tout gris ? Guette une trouée ; la Lune pleine éclaire parfois les nuages par-dessous.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "pleine_lune"
+  ],
+  "exclut": [
+   "jours_longs"
+  ],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Le disque complet se lève à l'est vers l'heure du coucher du Soleil.",
+  "enfant": {
+   "2-3": {
+    "mot": "grosse Lune",
+    "geste": "Écarte les bras tout grand : « Elle est ÉNORME ! », puis arrondis-les pour faire une grosse boule.",
+    "phrase": "Grosse, grosse Lune !"
+   },
+   "3-5": {
+    "mot": "orange, blanche",
+    "geste": "Compare : orange et grosse en bas, blanche et petite en haut ? Elle a changé, ou c'est nous ?",
+    "phrase": "Orange en bas, blanche en haut !"
+   }
+  },
+  "adulte": {
+   "nom": "Pleine Lune",
+   "latin": null,
+   "anecdote": "L'illusion lunaire : la Lune près de l'horizon paraît bien plus grosse qu'en haut du ciel, mais sa taille dans le ciel est la même (~0,5°). Un petit pois tenu au bout du bras la cache dans les deux cas.",
+   "pourquoi_maintenant": "Pleine Lune : elle est opposée au Soleil, donc elle se lève quand il se couche. D'octobre à mars, cela tombe avant 19 h : parfait pour un tout-petit.",
+   "confusion": "Près de l'horizon, le disque orangé peut ressembler à un lampadaire ou à une montgolfière lointaine."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Moonrise_Over_Tree_Tops_%2851205170243%29.jpg/500px-Moonrise_Over_Tree_Tops_%2851205170243%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "John Fisher from USA — Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Moonrise_Over_Tree_Tops_(51205170243).jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-halo-lune",
+  "categorie": "ciel",
+  "titre": "Un grand cercle autour de la Lune",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Si un voile blanc très fin couvre le ciel mais que la Lune se voit à travers, regarde tout autour d'elle : un grand anneau pâle se dessine parfois. Ciel bleu net ou gris épais : pas de halo, c'est normal.",
+  "point": null,
+  "mois": [
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [
+   "lune_visible_soir"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 1,
+  "reperes": "Un halo est un anneau pâle de 22° de rayon, soit environ deux poings à bout de bras entre la Lune et le bord du cercle.",
+  "enfant": {
+   "2-3": {
+    "mot": "grand rond",
+    "geste": "Dessine un grand cercle avec les deux bras autour de la Lune.",
+    "phrase": "La Lune a un grand rond !"
+   },
+   "3-5": {
+    "mot": "cercle",
+    "geste": "Fais une ronde avec tes bras autour de la Lune : est-ce qu'il y a une étoile dans le cercle ?",
+    "phrase": "La Lune joue à la ronde !"
+   }
+  },
+  "adulte": {
+   "nom": "Halo lunaire de 22°",
+   "latin": null,
+   "anecdote": "Le halo est dû à de minuscules cristaux de glace hexagonaux dans des nuages très hauts (cirrostratus) : ils dévient la lumière de 22°, comme de petits prismes.",
+   "pourquoi_maintenant": "Il faut un voile de cirrostratus, ces nuages de glace très hauts qui arrivent souvent la veille d'une perturbation ; en saison froide, la Lune est visible tôt dans la soirée.",
+   "confusion": "Une lueur diffuse autour de la Lune (couronne ou brume) n'a pas de bord net ; le halo, lui, dessine un anneau net."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Winter_halo_around_the_moon.jpg/500px-Winter_halo_around_the_moon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Ted Mielczarek — CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Winter_halo_around_the_moon.jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-lune-nuages-vent",
+  "categorie": "ciel",
+  "titre": "La Lune file entre les nuages",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Un soir de vent, cherche la Lune quand elle perce entre les nuages : elle semble courir. Ciel complètement bouché : on ne la verra pas, garde l'idée pour un soir à trouées.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "vent",
+   "lune_visible_soir"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "Fixe la Lune un moment, le mouvement est saisissant.",
+  "enfant": {
+   "2-3": {
+    "mot": "vent",
+    "geste": "Souffle fort vers le ciel : « Le vent pousse les nuages ! ».",
+    "phrase": "Hou ! Le vent pousse !"
+   },
+   "3-5": {
+    "mot": "qui court ?",
+    "geste": "Qui court : la Lune ou les nuages ? Cale-toi derrière un poteau sans bouger et regarde la Lune contre son bord.",
+    "phrase": "La Lune fait la course !"
+   }
+  },
+  "adulte": {
+   "nom": "Mouvement induit",
+   "latin": null,
+   "anecdote": "Notre cerveau prend les nuages (grands) pour un décor fixe et attribue le mouvement à la Lune : c'est l'illusion de « mouvement induit ». En réalité, la Lune ne se déplace que d'environ son propre diamètre par heure sur le fond d'étoiles.",
+   "pourquoi_maintenant": "Un soir de vent, les nuages défilent assez vite pour que l'illusion fonctionne.",
+   "confusion": null
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Moon_and_clouds_over_Goulburn.jpg/500px-Moon_and_clouds_over_Goulburn.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "CephasOz — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Moon_and_clouds_over_Goulburn.jpg"
+  },
+  "attention": "Par vent fort, on regarde depuis un endroit dégagé, loin des grands arbres et des branches.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-coucher-soleil",
+  "categorie": "ciel",
+  "titre": "Le Soleil se couche : un grand spectacle gratuit",
+  "lieux": [
+   "parc-margaut",
+   "partout"
+  ],
+  "ou": "À l'ouest, depuis l'esplanade de l'allée Peixotto, au bord de la pelouse du parc Margaut, ou depuis toute rue qui file vers l'ouest. Le parc ferme à 19 h du 15 octobre au 15 avril : en mars, si le Soleil se couche après 19 h, regarde depuis une rue.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, au bout de l'esplanade pavée aux colonnes sculptées noires, au bord de la pelouse (≈ 200 m au nord-ouest du Forum des Halles) : tourne-toi vers le cours de la Libération (ouest et sud-ouest). L'horizon n'est pas dégagé : le Soleil passe derrière les grands arbres et les bâtiments du campus quelques minutes avant l'heure officielle ; on regarde surtout les couleurs du ciel au-dessus.",
+   "photo_lieu": {
+    "url": "https://panoramax.openstreetmap.fr/derivates/be/a6/e7/af/c31b-4469-91a2-1ee11a134f77/sd.jpg",
+    "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+    "source": "https://api.panoramax.xyz/#focus=pic&pic=bea6e7af-c31b-4469-91a2-1ee11a134f77"
+   }
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard",
+   "jours_longs"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Sois en place 10 minutes avant l'heure du coucher. Le ciel se colore le plus dans le quart d'heure qui suit.",
+  "enfant": {
+   "2-3": {
+    "mot": "Soleil",
+    "geste": "Dis « au revoir, Soleil ! » et fais un grand signe de la main pendant qu'il descend.",
+    "phrase": "Au revoir, Soleil !"
+   },
+   "3-5": {
+    "mot": "rouge, orange, rose",
+    "geste": "Compte les couleurs du ciel : combien en vois-tu ? Puis cherche ce qui devient rose ou orange autour de toi : un mur, une fenêtre, un nuage.",
+    "phrase": "Rouge, orange, rose : le ciel change de robe !"
+   }
+  },
+  "adulte": {
+   "nom": "Coucher de Soleil",
+   "latin": null,
+   "anecdote": "Le Soleil paraît rouge au coucher parce que sa lumière traverse bien plus d'atmosphère : le bleu est dispersé et il ne reste que l'orange et le rouge. Le point de coucher glisse chaque jour : plein ouest aux équinoxes, nord-ouest en juin, sud-ouest en décembre.",
+   "pourquoi_maintenant": "D'octobre à début mars, le Soleil se couche entre 17 h 20 et 19 h 15 à Talence : le spectacle tient avant le dîner.",
+   "confusion": "Une couleur très rouge à l'ouest peut aussi venir de poussières ou de fumées lointaines, pas seulement du Soleil."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Golden_and_pink_sky_tree_silhouette.jpg/500px-Golden_and_pink_sky_tree_silhouette.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Malene Thyssen — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Golden_and_pink_sky_tree_silhouette.jpg"
+  },
+  "attention": "On ne fixe pas le Soleil, même bas et orange : on regarde les couleurs du ciel autour.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-apres-coucher",
+  "categorie": "ciel",
+  "titre": "Après le coucher : le ciel passe du rose au bleu foncé",
+  "lieux": [
+   "parc-margaut",
+   "partout"
+  ],
+  "ou": "Reste 15 à 20 minutes de plus au même endroit tourné vers l'ouest (esplanade de l'allée Peixotto ou une rue) : le ciel continue à changer. En hiver, le parc ferme à 19 h : c'est largement suffisant.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, au bout de l'esplanade pavée aux colonnes sculptées noires, au bord de la pelouse (≈ 200 m au nord-ouest du Forum des Halles) : tourne-toi vers le cours de la Libération (ouest et sud-ouest). L'horizon n'est pas dégagé : le Soleil passe derrière les grands arbres et les bâtiments du campus quelques minutes avant l'heure officielle ; on regarde surtout les couleurs du ciel au-dessus.",
+   "photo_lieu": {
+    "url": "https://panoramax.openstreetmap.fr/derivates/be/a6/e7/af/c31b-4469-91a2-1ee11a134f77/sd.jpg",
+    "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+    "source": "https://api.panoramax.xyz/#focus=pic&pic=bea6e7af-c31b-4469-91a2-1ee11a134f77"
+   }
+  },
+  "mois": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 2,
+  "reperes": "L'heure bleue est le moment juste après le coucher, quand le ciel passe du rose au bleu nuit.",
+  "enfant": {
+   "2-3": {
+    "mot": "rose, bleu",
+    "geste": "Demande « Où est le rose ? Où est le bleu ? » et montre chaque couleur du doigt.",
+    "phrase": "Rose en bas, bleu en haut !"
+   },
+   "3-5": {
+    "mot": "les lumières qui arrivent",
+    "geste": "Regarde bien le ciel : quelle est la première lumière qui apparaît ? Étoile, planète, ou avion ?",
+    "phrase": "Une, deux, trois lumières !"
+   }
+  },
+  "adulte": {
+   "nom": "Crépuscule civil",
+   "latin": null,
+   "anecdote": "Pendant le crépuscule civil (Soleil jusqu'à 6° sous l'horizon, environ 35 minutes ici en hiver), le ciel reste clair à l'ouest. La première « étoile » qui apparaît est souvent une planète.",
+   "pourquoi_maintenant": "Le coucher de bonne heure en hiver rend le crépuscule accessible à un tout-petit encore éveillé.",
+   "confusion": "Un avion qui brille au coucher peut passer pour une étoile : il clignote en rouge et en vert et avance."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Beautiful_red_sky_sunset_with_silhouette_trees._%2850596227867%29.jpg/500px-Beautiful_red_sky_sunset_with_silhouette_trees._%2850596227867%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Nenad Stojkovic — CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Beautiful_red_sky_sunset_with_silhouette_trees._(50596227867).jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-lever-jour-hiver",
+  "categorie": "ciel",
+  "titre": "L'aube en hiver : le ciel s'allume avant le Soleil",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Sur le chemin du matin, dans la rue, regarde vers l'est : le ciel s'éclaircit.",
+  "point": null,
+  "mois": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "matin",
+  "poids": 2,
+  "reperes": "De mi-décembre à mi-janvier, le Soleil se lève vers 8 h 35 : l'aube colore le ciel sur le chemin de la crèche.",
+  "enfant": {
+   "2-3": {
+    "mot": "Soleil",
+    "geste": "Montre l'est du doigt : « Le Soleil arrive ! ». Imitez-le : faites-vous tout petits puis grandissez.",
+    "phrase": "Le Soleil se réveille !"
+   },
+   "3-5": {
+    "mot": "orange, rose, jaune",
+    "geste": "Quelle couleur arrive en premier ? Quel côté du ciel s'éclaire d'abord ?",
+    "phrase": "Du noir au rose au jaune."
+   }
+  },
+  "adulte": {
+   "nom": "Aube hivernale",
+   "latin": null,
+   "anecdote": "À Talence, le Soleil se lève vers 8 h 35 à Noël, contre 6 h 15 (heure d'été) au solstice de juin. Le lever le plus tardif tombe début janvier (≈ 8 h 39), pas au solstice.",
+   "pourquoi_maintenant": "Au solstice d'hiver, le jour ne dure qu'environ 8 h 48, contre 15 h 36 en juin.",
+   "confusion": null
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/A_December_sunrise_-_geograph.org.uk_-_5629662.jpg/500px-A_December_sunrise_-_geograph.org.uk_-_5629662.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Malcolm Neal — CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:A_December_sunrise_-_geograph.org.uk_-_5629662.jpg"
+  },
+  "attention": "On ne regarde pas le Soleil en face, même bas : on regarde le ciel coloré autour.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-nuages-formes",
+  "categorie": "ciel",
+  "titre": "Un nuage, ça ressemble à quoi ?",
+  "lieux": [
+   "parc-margaut",
+   "partout"
+  ],
+  "ou": "Allonge-toi sur la pelouse au bout de l'allée Peixotto (si elle est sèche) ou reste debout n'importe où avec vue sur le ciel. Ciel tout gris ? Cherche les bosses, les creux et les coins plus clairs du plafond : ils font aussi des formes.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Les plus belles formes viennent des nuages bien séparés (cumulus). Sous un ciel gris, joue plutôt avec les zones claires et sombres.",
+  "enfant": {
+   "2-3": {
+    "mot": "nuage",
+    "geste": "Montre un nuage : « Un nuage ! ». Puis souffle très fort vers lui comme pour le pousser.",
+    "phrase": "Nuage, nuage, blanc !"
+   },
+   "3-5": {
+    "mot": "animal",
+    "geste": "Cherche un nuage qui ressemble à un animal, une forme, un visage. Que voit l'autre ? Est-ce qu'il bouge ?",
+    "phrase": "Mon nuage, c'est un lapin !"
+   }
+  },
+  "adulte": {
+   "nom": "Cumulus",
+   "latin": "Cumulus humilis",
+   "anecdote": "Un cumulus d'environ 1 km de côté contient de l'ordre de 500 tonnes d'eau en gouttelettes, le poids d'une centaine d'éléphants (calcul de la météorologue Peggy LeMone, NCAR, repris par l'USGS) : 0,5 g d'eau par m³, en gouttelettes d'environ 0,01 mm qui tombent si lentement que le moindre courant d'air les porte.",
+   "pourquoi_maintenant": "Les cumulus se forment l'après-midi dans l'air chaud qui monte, surtout au printemps et en été.",
+   "confusion": "Les cirrus, filaments très hauts, sont faits de glace ; les stratus, nappes grises, de gouttelettes."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/White_Cumulus_Clouds_against_Blue_Sky_%282%29.jpg/500px-White_Cumulus_Clouds_against_Blue_Sky_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Lance Vanlewen — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:White_Cumulus_Clouds_against_Blue_Sky_(2).jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-nuages-vitesse-vent",
+  "categorie": "ciel",
+  "titre": "Les nuages qui filent",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "Choisis un coin dégagé : la pelouse au bout de l'allée Peixotto ou une place. Suis un nuage des yeux ; même sous un ciel gris, les lambeaux bas défilent bien.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "vent"
+  ],
+  "exclut": [
+   "brouillard"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Cale-toi derrière un toit ou un poteau pour mieux voir le mouvement.",
+  "enfant": {
+   "2-3": {
+    "mot": "vite !",
+    "geste": "Souffle fort et dis « Vite, vite ! » en regardant passer un nuage.",
+    "phrase": "Le nuage court vite !"
+   },
+   "3-5": {
+    "mot": "plus vite / plus lent",
+    "geste": "Compare deux nuages : lequel va le plus vite ? Dans quelle direction ? Le vent, tu le sens sur ta joue ?",
+    "phrase": "Les nuages ont de grandes jambes !"
+   }
+  },
+  "adulte": {
+   "nom": "Nuages poussés par le vent",
+   "latin": null,
+   "anecdote": "Un nuage avance à la vitesse du vent qui souffle à son altitude, souvent bien plus fort qu'au sol : les cirrus portés par le courant-jet, vers 10 km, dépassent parfois 150 km/h, mais on ne le voit pas car ils sont très loin.",
+   "pourquoi_maintenant": "Un jour de vent (rafales ≥ 35 km/h), l'effet est spectaculaire. À Talence, le vent vient le plus souvent de l'ouest.",
+   "confusion": "Un nuage qui file et un nuage qui change de forme : il fait les deux en même temps."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Stratocumulus_and_cumulus_over_G%C3%A5seberg.jpg/500px-Stratocumulus_and_cumulus_over_G%C3%A5seberg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "W.carter — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Stratocumulus_and_cumulus_over_G%C3%A5seberg.jpg"
+  },
+  "attention": "Par vent fort, on reste à distance des grands arbres, des branches et des peupliers : on choisit un espace dégagé.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-nuages-chou-fleur",
+  "categorie": "ciel",
+  "titre": "Les gros nuages en chou-fleur",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Un après-midi chaud et dégagé, regarde vers le haut depuis un endroit ouvert.",
+  "point": null,
+  "mois": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [
+   "chaud",
+   "soleil"
+  ],
+  "exclut": [
+   "brouillard"
+  ],
+  "moment": "journee",
+  "poids": 2,
+  "reperes": "Un nuage blanc très haut, à base plate, au sommet boursouflé.",
+  "enfant": {
+   "2-3": {
+    "mot": "gros nuage",
+    "geste": "Ouvre grand les bras : « Gros, gros nuage ! ».",
+    "phrase": "Un chou-fleur dans le ciel !"
+   },
+   "3-5": {
+    "mot": "monter",
+    "geste": "Regarde-le grossir : a-t-il changé en 5 minutes ? Il monte vers le haut ou reste plat ? Dessine-le dans l'air.",
+    "phrase": "Le nuage pousse comme un chou !"
+   }
+  },
+  "adulte": {
+   "nom": "Cumulus congestus",
+   "latin": "Cumulus congestus",
+   "anecdote": "Les gros cumulus se forment quand l'air chaud, plus léger, monte en bulle depuis le sol : un jour très chaud peut en faire un nuage d'orage (cumulonimbus), jusqu'à plus de 10 km de hauteur.",
+   "pourquoi_maintenant": "Chaud et ensoleillé : la situation idéale pour que les cumulus grandissent dans l'après-midi.",
+   "confusion": "Quand le sommet s'aplatit en enclume et que le ciel noircit, ce n'est plus un nuage de beau temps."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/White_Cumulus_Clouds_against_Blue_Sky_%283%29.jpg/500px-White_Cumulus_Clouds_against_Blue_Sky_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Lance Vanlewen — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:White_Cumulus_Clouds_against_Blue_Sky_(3).jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-gris",
+  "categorie": "ciel",
+  "titre": "Ciel gris : combien de gris ?",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "N'importe où, un jour tout gris et sans pluie : regarde le plafond de nuages.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "couvert"
+  ],
+  "exclut": [
+   "pluie_aujourdhui",
+   "brouillard"
+  ],
+  "moment": null,
+  "poids": 1,
+  "reperes": "Un ciel uniforme et gris est une couche de stratus ou de stratocumulus.",
+  "enfant": {
+   "2-3": {
+    "mot": "gris",
+    "geste": "Montre le ciel : « Gris ! ». Cherche ensemble un trou plus clair.",
+    "phrase": "Gris, gris, gris !"
+   },
+   "3-5": {
+    "mot": "plus clair / plus foncé",
+    "geste": "Cherche la zone la plus claire et la plus sombre du ciel : où est le Soleil derrière ? Montre-le.",
+    "phrase": "Combien de gris dans le ciel ?"
+   }
+  },
+  "adulte": {
+   "nom": "Stratus et stratocumulus",
+   "latin": null,
+   "anecdote": "Même sous un ciel gris, la lumière extérieure dépasse souvent 1 000 lux, bien plus que l'éclairage d'une pièce (~300 lux) : le Soleil est juste masqué.",
+   "pourquoi_maintenant": "En automne et en hiver, les ciels couverts sont fréquents sur l'Aquitaine.",
+   "confusion": "Si le gris touche le sol et cache les immeubles, c'est du brouillard, pas un plafond de nuages."
+  },
+  "photo": null,
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-arc-en-ciel",
+  "categorie": "ciel",
+  "titre": "Un arc-en-ciel : tourne le dos au Soleil",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Dès que la pluie s'arrête et que le Soleil revient, cherche à l'opposé du Soleil, dans le ciel encore gris.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "soleil",
+   "pluie_aujourdhui"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "reperes": "L'arc se forme quand le Soleil est derrière toi, bas dans le ciel, et la pluie devant.",
+  "enfant": {
+   "2-3": {
+    "mot": "couleurs",
+    "geste": "Montre l'arc du doigt : « Waouh ! ». Dis les couleurs : rouge en haut, bleu en bas.",
+    "phrase": "Arc-en-ciel, arc-en-ciel !"
+   },
+   "3-5": {
+    "mot": "les couleurs",
+    "geste": "Compte les couleurs, ose les nommer : rouge, orange, jaune, vert, bleu, violet. Où est son pied ? Et si on marchait vers lui, il reculerait !",
+    "phrase": "Rouge en haut, violet en bas !"
+   }
+  },
+  "adulte": {
+   "nom": "Arc-en-ciel primaire",
+   "latin": null,
+   "anecdote": "L'arc est un cercle dont on ne voit qu'une partie depuis le sol, centré sur le point opposé au Soleil : l'ombre de ta tête est exactement au centre. Son rayon est de 42°. Il n'a pas de « pied » : en avançant, il recule.",
+   "pourquoi_maintenant": "Averse + éclaircie : la condition indispensable, surtout au printemps et en automne.",
+   "confusion": "Un deuxième arc, plus pâle et aux couleurs inversées (arc secondaire, à 51°), apparaît parfois au-dessus."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Rainbow_over_field_-_geograph.org.uk_-_6264288.jpg/500px-Rainbow_over_field_-_geograph.org.uk_-_6264288.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "John H Darch — CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Rainbow_over_field_-_geograph.org.uk_-_6264288.jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-ombre-longue-hiver",
+  "categorie": "ciel",
+  "titre": "L'ombre de géant de l'hiver",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "En fin de matinée ou d'après-midi, sur une pelouse ou un trottoir au soleil : l'ombre s'étire.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "brouillard"
+  ],
+  "moment": "journee",
+  "poids": 2,
+  "reperes": "En décembre à midi, le Soleil ne dépasse pas ~22° au-dessus de l'horizon à Talence.",
+  "enfant": {
+   "2-3": {
+    "mot": "grand",
+    "geste": "Mets-toi en position de géant : « Ton ombre est GRANDE ! »",
+    "phrase": "Ombre de géant !"
+   },
+   "3-5": {
+    "mot": "mesure",
+    "geste": "Mesure l'ombre en pas : combien de pas pour l'ombre de papa/maman ? Plus grande que toi ? Et en été ?",
+    "phrase": "Grande, grande ombre !"
+   }
+  },
+  "adulte": {
+   "nom": "Ombre longue d'hiver",
+   "latin": null,
+   "anecdote": "À Talence, le Soleil culmine à environ 22° en décembre et 68° en juin : l'ombre de midi mesure 2,5 fois la taille de l'objet en décembre, seulement 0,4 fois en juin.",
+   "pourquoi_maintenant": "Plus le Soleil est bas, plus l'ombre s'allonge : en hiver, elle est longue même à midi.",
+   "confusion": null
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Sunset_casting_Shadows_%2846980794204%29.jpg/500px-Sunset_casting_Shadows_%2846980794204%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Terry  Kearney from liverpool, merseyside — CC0",
+   "source": "https://commons.wikimedia.org/wiki/File:Sunset_casting_Shadows_(46980794204).jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-ombre-midi-ete",
+  "categorie": "ciel",
+  "titre": "À midi, l'ombre se cache sous les pieds",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "Au plus chaud de la journée (vers 14 h à l'heure d'été), sur un trottoir au soleil : l'ombre est toute courte.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "requiert": [
+   "soleil"
+  ],
+  "exclut": [
+   "brouillard"
+  ],
+  "moment": "journee",
+  "poids": 1,
+  "reperes": "Vers 14 h (heure d'été), le Soleil est au plus haut : l'ombre est minimale.",
+  "enfant": {
+   "2-3": {
+    "mot": "petite ombre",
+    "geste": "Regarde ensemble l'ombre toute petite sous vos pieds : « Où est-elle passée ? ».",
+    "phrase": "Elle est toute petite, l'ombre !"
+   },
+   "3-5": {
+    "mot": "midi",
+    "geste": "Trouve l'heure où l'ombre est la plus courte : le matin, à midi, le soir ? Marque la position avec un caillou et reviens.",
+    "phrase": "Au milieu du jour, l'ombre est petite."
+   }
+  },
+  "adulte": {
+   "nom": "Midi solaire",
+   "latin": null,
+   "anecdote": "Le « midi solaire » à Talence tombe vers 14 h en heure d'été (13 h en hiver), et non à midi : c'est le décalage de l'heure légale par rapport au Soleil.",
+   "pourquoi_maintenant": "Soleil au plus haut en été (~68°), ombre minimale.",
+   "confusion": "Le Soleil n'est jamais à la verticale à Talence, au contraire des tropiques."
+  },
+  "photo": null,
+  "attention": "Au plus chaud : chapeau, eau, et on regarde vite avant de retourner à l'ombre.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-flaque-miroir",
+  "categorie": "ciel",
+  "titre": "La flaque-miroir",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Après la pluie, cherche une flaque calme sur un trottoir ou un chemin goudronné, loin de la route.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "pluie_recente"
+  ],
+  "exclut": [
+   "gel"
+  ],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Une flaque sur fond sombre (goudron) est un miroir bien meilleur que sur fond clair.",
+  "enfant": {
+   "2-3": {
+    "mot": "flaque",
+    "geste": "Penche-toi avec lui au-dessus de la flaque : « Coucou ! C'est toi ! ». Puis montre le ciel dedans.",
+    "phrase": "Coucou, le ciel dans l'eau !"
+   },
+   "3-5": {
+    "mot": "reflet",
+    "geste": "Cherche dans la flaque : un arbre, un nuage, un toit à l'envers. Que vois-tu dedans qui est en haut ?",
+    "phrase": "Le ciel est tombé dans la flaque !"
+   }
+  },
+  "adulte": {
+   "nom": "Réflexion spéculaire",
+   "latin": null,
+   "anecdote": "Un fond sombre absorbe la lumière qui traverse l'eau, donc le reflet de surface se voit mieux ; c'est ce qui fait un miroir sur le goudron. La réflexion augmente aussi quand on regarde l'eau sous un angle rasant.",
+   "pourquoi_maintenant": "Après la pluie, les flaques restent quelques heures sur chaussée.",
+   "confusion": "Une flaque aux reflets arc-en-ciel cache un film d'hydrocarbures : on regarde, on ne touche pas."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Trees_and_sky_reflection_in_a_puddle_in_Tuntorp_1.jpg/500px-Trees_and_sky_reflection_in_a_puddle_in_Tuntorp_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "W.carter — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Trees_and_sky_reflection_in_a_puddle_in_Tuntorp_1.jpg"
+  },
+  "attention": "On choisit une flaque sur un trottoir ou une allée, loin de la chaussée.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-brouillard",
+  "categorie": "ciel",
+  "titre": "Le nuage qui est tombé par terre",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Dans la rue ou sur une pelouse : les immeubles au loin disparaissent. Place-toi à un endroit sans circulation.",
+  "point": null,
+  "mois": [
+   9,
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [
+   "brouillard"
+  ],
+  "exclut": [],
+  "moment": "matin",
+  "poids": 3,
+  "reperes": "Plus un arbre est loin, plus il devient gris puis disparaît.",
+  "enfant": {
+   "2-3": {
+    "mot": "brouillard",
+    "geste": "Souffle dans l'air frais, puis avance de quelques pas : « Oh, l'arbre est revenu ! ».",
+    "phrase": "Où est l'arbre ? Il a disparu !"
+   },
+   "3-5": {
+    "mot": "loin / près",
+    "geste": "Un arbre proche, un arbre un peu plus loin, un autre encore : combien en vois-tu ? Et le plus loin, il est où ?",
+    "phrase": "Le brouillard a mangé la rue !"
+   }
+  },
+  "adulte": {
+   "nom": "Brouillard",
+   "latin": null,
+   "anecdote": "Un brouillard est un nuage au contact du sol, fait de gouttelettes d'une dizaine de microns. Il se forme surtout les nuits calmes et claires où l'air se refroidit et s'humidifie, souvent dans les vallées comme celle de la Garonne.",
+   "pourquoi_maintenant": "Entre l'automne et l'hiver, les nuits longues et calmes favorisent les brouillards du matin.",
+   "confusion": "La brume est plus légère que le brouillard : visibilité de 1 à 5 km contre moins d'1 km."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Great_Gransden%2C_a_foggy_morning_in_Crow_Tree_Street_-_geograph.org.uk_-_4725923.jpg/500px-Great_Gransden%2C_a_foggy_morning_in_Crow_Tree_Street_-_geograph.org.uk_-_4725923.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "John Sutton — CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Great_Gransden,_a_foggy_morning_in_Crow_Tree_Street_-_geograph.org.uk_-_4725923.jpg"
+  },
+  "attention": "Dans le brouillard, on reste sur les trottoirs, loin des voitures, en tenant la main de l'enfant : les conducteurs voient mal.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-gelee-blanche",
+  "categorie": "ciel",
+  "titre": "Les herbes en poudre blanche",
+  "lieux": [
+   "parc-peixotto",
+   "parc-margaut",
+   "partout"
+  ],
+  "ou": "Sur les pelouses et les bords de trottoir, avant que le Soleil ne les touche : le côté à l'ombre garde le givre plus longtemps.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [
+   "gel"
+  ],
+  "exclut": [],
+  "moment": "matin",
+  "poids": 3,
+  "reperes": "Cherche surtout sur les brins d'herbe, les voitures et les rambardes, tôt le matin.",
+  "enfant": {
+   "2-3": {
+    "mot": "blanc",
+    "geste": "Montre l'herbe blanche : « Blanc ! Froid ! ». Touche-la du bout du doigt une seconde et dis « brrr ».",
+    "phrase": "L'herbe est toute blanche !"
+   },
+   "3-5": {
+    "mot": "cristaux",
+    "geste": "Regarde de très près un brin d'herbe : vois-tu de minuscules pointes ? Que se passe-t-il quand le Soleil les touche ?",
+    "phrase": "Le givre fond au soleil."
+   }
+  },
+  "adulte": {
+   "nom": "Gelée blanche",
+   "latin": null,
+   "anecdote": "La gelée blanche n'est pas de la rosée gelée : la vapeur d'eau de l'air se dépose directement en cristaux de glace sur les surfaces refroidies sous 0 °C, par nuit claire et calme. L'herbe perd de la chaleur par rayonnement : il peut geler au ras du sol alors que l'air à 1,5 m est encore à +2 °C.",
+   "pourquoi_maintenant": "Elle se forme après les nuits claires, froides et sans vent, surtout de décembre à février, un peu moins souvent en ville qu'en campagne.",
+   "confusion": "La rosée donne des gouttes brillantes ; la gelée blanche, une fine poudre blanche."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Frost_on_grasses.jpg/500px-Frost_on_grasses.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Simon Eugster — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Frost_on_grasses.jpg"
+  },
+  "attention": "Le sol peut être glissant (trottoirs, passerelles) : on marche doucement, en tenant la main de l'enfant.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-vent-sentir",
+  "categorie": "ciel",
+  "titre": "D'où vient le vent ?",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "Dans un endroit ouvert sans grands arbres : la pelouse devant le château Peixotto, ou une place dégagée.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [
+   "vent"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Suivre le vent par ses effets : feuilles qui tourbillonnent, nuages, cheveux.",
+  "enfant": {
+   "2-3": {
+    "mot": "vent",
+    "geste": "Ferme les yeux, tourne le visage vers le vent : « Pffff ! ». Souffle toi-même fort.",
+    "phrase": "Le vent me fait des bisous !"
+   },
+   "3-5": {
+    "mot": "d'où il vient",
+    "geste": "Lève un doigt mouillé de salive : quel côté est froid ? D'où vient le vent ? Que fait-il bouger : feuilles, branches, sacs ?",
+    "phrase": "Le vent vient de là !"
+   }
+  },
+  "adulte": {
+   "nom": "Vent d'ouest",
+   "latin": null,
+   "anecdote": "À Talence, le vent vient souvent de l'ouest : de l'Atlantique, doux et humide. Sur l'échelle de Beaufort, à partir de 29 km/h (force 5), les petits arbres feuillus commencent à se balancer.",
+   "pourquoi_maintenant": "Rafales ≥ 35 km/h aujourd'hui.",
+   "confusion": "Ne pas confondre la direction d'où vient le vent (ouest) avec celle où il va (est)."
+  },
+  "photo": null,
+  "attention": "Par vent fort, on s'écarte des grands arbres, des branches mortes et des peupliers (chutes) : on joue sur la pelouse au large.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-orage-ete",
+  "categorie": "ciel",
+  "titre": "Le ciel noir et l'orage qui s'éloigne",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Depuis l'intérieur d'un abri ou un seuil de porte, regarde le ciel : le gros nuage noir se déplace.",
+  "point": null,
+  "mois": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "requiert": [
+   "chaud",
+   "pluie_aujourdhui"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "Les orages d'été sont spectaculaires, mais l'observation se fait à l'abri.",
+  "enfant": {
+   "2-3": {
+    "mot": "tonnerre",
+    "geste": "Depuis l'abri, écoute : « Boum ! le tonnerre ! ». Fais « boum » en frappant dans les mains.",
+    "phrase": "Boum, boum, le tonnerre !"
+   },
+   "3-5": {
+    "mot": "compter",
+    "geste": "Compte les secondes entre l'éclair et le tonnerre : 3 secondes, c'est environ 1 km. Plus il y a de secondes, plus l'orage est loin.",
+    "phrase": "Un éclair, et je compte !"
+   }
+  },
+  "adulte": {
+   "nom": "Orage d'été",
+   "latin": null,
+   "anecdote": "Le son parcourt ~340 m par seconde : 3 secondes entre l'éclair et le tonnerre font ~1 km. Tant que le délai est inférieur à 30 s, l'orage est proche et il faut rester à l'abri ; on attend 30 min après le dernier grondement avant de ressortir.",
+   "pourquoi_maintenant": "Chaleur + pluie : les orages d'été se forment après les journées lourdes.",
+   "confusion": "Un éclair sans bruit est un « éclair de chaleur » trop lointain pour qu'on entende le tonnerre."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Cumulonimbus_off_the_jersey_shore.jpg/500px-Cumulonimbus_off_the_jersey_shore.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Derpdadoodle — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Cumulonimbus_off_the_jersey_shore.jpg"
+  },
+  "attention": "Dès les premiers grondements : on rentre à l'abri (maison, bâtiment), jamais sous un arbre ni dans un parc. On attend 30 minutes après le dernier coup de tonnerre avant de ressortir.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-jours-longs",
+  "categorie": "ciel",
+  "titre": "Il fait encore jour après le goûter !",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "En sortie de fin de journée, n'importe où : profite de la lumière dorée du soir.",
+  "point": null,
+  "mois": [
+   4,
+   5,
+   6,
+   7,
+   8
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 1,
+  "reperes": "D'avril à août, le Soleil se couche entre 20 h 20 et 21 h 55 : la lumière dorée du soir arrive après le goûter, on peut ressortir après le dîner.",
+  "enfant": {
+   "2-3": {
+    "mot": "encore du jour",
+    "geste": "Montre le ciel : « Il fait encore jour ! ». Cherche ton ombre derrière toi qui s'allonge.",
+    "phrase": "Encore du soleil !"
+   },
+   "3-5": {
+    "mot": "longue ombre",
+    "geste": "Compare ton ombre maintenant et celle de midi : plus longue ou plus courte ? Où est le Soleil par rapport à midi ?",
+    "phrase": "Le soir, le soleil est bas."
+   }
+  },
+  "adulte": {
+   "nom": "Jours longs",
+   "latin": null,
+   "anecdote": "Au solstice de juin, le Soleil se couche vers 21 h 50 (heure d'été) à Talence, contre 17 h 25 en décembre : environ 15 h 35 de jour contre 8 h 48.",
+   "pourquoi_maintenant": "Depuis le passage à l'heure d'été, fin mars, les soirées s'allongent : le coucher passe 20 h 30 dès début avril.",
+   "confusion": null
+  },
+  "photo": null,
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-jours-courts",
+  "categorie": "ciel",
+  "titre": "La nuit tombe très tôt",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au retour de la crèche ou de l'école, n'importe où dans le quartier : le ciel s'assombrit entre 17 h 20 et 18 h 45 selon le mois.",
+  "point": null,
+  "mois": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": "coucher_soleil",
+  "poids": 1,
+  "reperes": "De novembre à février, le Soleil se couche avant 18 h 45 : on voit le ciel du soir à l'heure du goûter.",
+  "enfant": {
+   "2-3": {
+    "mot": "nuit",
+    "geste": "Dis « bonne nuit, le jour ! » en regardant le ciel qui s'assombrit.",
+    "phrase": "Il fait nuit, déjà !"
+   },
+   "3-5": {
+    "mot": "lumières",
+    "geste": "Observe les lumières qui s'allument : lampadaires, fenêtres. Combien en vois-tu ? Vois-tu une étoile ?",
+    "phrase": "Le jour s'en va, les lumières arrivent !"
+   }
+  },
+  "adulte": {
+   "nom": "Jours courts",
+   "latin": null,
+   "anecdote": "Au solstice de décembre, le Soleil se lève vers 8 h 35 et se couche vers 17 h 25 : environ 8 h 48 de jour, contre 15 h 35 en juin. Le coucher le plus précoce tombe vers le 10 décembre et le lever le plus tardif début janvier, pas au solstice lui-même.",
+   "pourquoi_maintenant": "De novembre à février, la nuit tombe avant le dîner : les lumières du soir sont à portée d'un tout-petit.",
+   "confusion": null
+  },
+  "photo": null,
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-avions-trainees",
+  "categorie": "ciel",
+  "titre": "Une ligne blanche dans le ciel",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "Depuis un endroit dégagé (pelouse au bout de l'allée Peixotto ou rue large), cherche des traits blancs avec un point minuscule devant. Ciel tout gris ? Les avions passent au-dessus des nuages : tendez l'oreille, on les entend parfois gronder.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": "journee",
+  "poids": 1,
+  "reperes": "Le point brillant au bout est l'avion ; la traînée apparaît quelques secondes après lui.",
+  "enfant": {
+   "2-3": {
+    "mot": "avion",
+    "geste": "Montre l'avion et dis « Vroum ! » en écartant les bras comme des ailes.",
+    "phrase": "Un avion ! Là-haut !"
+   },
+   "3-5": {
+    "mot": "ligne blanche",
+    "geste": "Suis la ligne blanche avec ton doigt : est-ce qu'elle grandit ? Est-ce qu'elle reste ou disparaît ?",
+    "phrase": "L'avion dessine dans le ciel !"
+   }
+  },
+  "adulte": {
+   "nom": "Traînée de condensation",
+   "latin": null,
+   "anecdote": "La traînée est de la vapeur d'eau des réacteurs qui gèle (air à moins de −40 °C, vers 10 km d'altitude) en cristaux de glace. Une traînée qui dure longtemps indique de l'air humide en altitude.",
+   "pourquoi_maintenant": "Quel que soit le mois, on en voit par ciel dégagé ou partiellement nuageux.",
+   "confusion": "Un trait blanc en haut peut aussi être un cirrus : lui n'a pas de point au bout."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Contrail_-blue_sky_-4Oct2006.jpg/500px-Contrail_-blue_sky_-4Oct2006.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Michael Scheltgen — CC BY 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Contrail_-blue_sky_-4Oct2006.jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-entre-les-branches",
+  "categorie": "ciel",
+  "titre": "Le ciel en morceaux sous le grand arbre",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "Sous un grand arbre : le marronnier de la pelouse à la table de pique-nique, allée Peixotto, ou n'importe quel grand arbre. Tête en arrière, regardez le ciel à travers les feuilles (ou les branches nues en hiver). Ciel gris ? Les trous de ciel paraissent blancs et brillants : ça marche aussi.",
+  "point": {
+   "lat": 44.807482,
+   "lon": -0.590859,
+   "repere": "Allée Peixotto, côté sud-ouest, à ~50 m du croisement avec le cours de la Libération : le grand marronnier sur la pelouse, à côté de la table de pique-nique (≈ 250 m au nord-ouest du Forum des Halles).",
+   "photo_lieu": {
+    "url": "https://panoramax.openstreetmap.fr/derivates/f3/17/b6/98/3dd9-4c4e-b2e8-e458be2c5b22/sd.jpg",
+    "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+    "source": "https://api.panoramax.xyz/#focus=pic&pic=f317b698-3dd9-4c4e-b2e8-e458be2c5b22"
+   }
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [
+   "vent",
+   "pluie_aujourdhui"
+  ],
+  "moment": "journee",
+  "poids": 2,
+  "reperes": "Au printemps et en été, un plafond de feuilles percé de trous de ciel ; en hiver, une dentelle de branches. S'il y a du soleil, regarde aussi le sol : les taches de lumière sont rondes.",
+  "enfant": {
+   "2-3": {
+    "mot": "ciel",
+    "geste": "Sous l'arbre, tête en arrière : montre un trou de ciel entre les feuilles, puis cache-le avec ta main et fais-le réapparaître.",
+    "phrase": "Coucou, le ciel, dans l'arbre !"
+   },
+   "3-5": {
+    "mot": "trous de ciel",
+    "geste": "Compte les trous de ciel au-dessus de toi : lequel est le plus grand ? S'il y a du soleil, regarde par terre : de quelle forme sont les taches de lumière ?",
+    "phrase": "Le ciel joue à cache-cache dans l'arbre !"
+   }
+  },
+  "adulte": {
+   "nom": "Le ciel à travers le feuillage",
+   "latin": null,
+   "anecdote": "Par soleil, les taches de lumière sous un arbre sont presque toutes rondes, alors que les trous entre les feuilles ne le sont pas : chaque petit trou agit comme un sténopé et projette une image du disque solaire. Pendant une éclipse partielle, elles deviennent des croissants.",
+   "pourquoi_maintenant": "Toute l'année : feuillage du printemps à l'automne, branches nues en hiver, et par ciel gris les trous de ciel ressortent en clair.",
+   "confusion": null
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Looking_Up_Through_the_Canopy.jpg/500px-Looking_Up_Through_the_Canopy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "R trisha — CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Looking_Up_Through_the_Canopy.jpg"
+  },
+  "attention": "De septembre à novembre, les marrons tombés au sol sont toxiques : on regarde en l'air, rien à la bouche.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-premiere-etoile",
+  "categorie": "ciel",
+  "titre": "La première étoile du soir",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au crépuscule, regarde au sud-ouest et à l'ouest, au-dessus des toits.",
+  "point": null,
+  "mois": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Souvent, la « première étoile » est en fait une planète (Vénus, Jupiter ou Saturne selon les années).",
+  "enfant": {
+   "2-3": {
+    "mot": "étoile",
+    "geste": "Montre la lumière du doigt et dis « une étoile ! ». Fais-la briller avec les doigts qui s'ouvrent et se ferment.",
+    "phrase": "Étoile, étoile, brille !"
+   },
+   "3-5": {
+    "mot": "étoile ou planète",
+    "geste": "Regarde si la lumière « clignote » : étoile ; si elle brille fixe : planète. Compte combien d'étoiles tu vois.",
+    "phrase": "Une, deux, trois étoiles !"
+   }
+  },
+  "adulte": {
+   "nom": "Étoile ou planète",
+   "latin": null,
+   "anecdote": "Une planète scintille beaucoup moins qu'une étoile : elle a un petit disque, contrairement aux étoiles réduites à un point. La turbulence de l'air brouille plus facilement un point lumineux.",
+   "pourquoi_maintenant": "Dès novembre, la nuit arrive avant l'heure du dîner : les premières lumières du ciel sont accessibles à un tout-petit.",
+   "confusion": "Un avion (feux clignotants rouges et verts, qui avance) n'est pas une étoile."
+  },
+  "photo": null,
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-orion",
+  "categorie": "ciel",
+  "titre": "Orion et ses trois étoiles alignées",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Vers 19 h, depuis une rue ou une place ouverte vers le sud-est, au-dessus des toits : cherche trois étoiles alignées, comme un collier. En janvier elles sont encore assez basses, en février bien plus haut.",
+  "point": null,
+  "mois": [
+   1,
+   2
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Les trois étoiles du Baudrier sont d'éclat voisin ; en haut à gauche, Bételgeuse est orangée.",
+  "enfant": {
+   "2-3": {
+    "mot": "trois étoiles",
+    "geste": "Trouve avec ton doigt les trois étoiles alignées. Compte : « 1, 2, 3 ! ».",
+    "phrase": "Trois étoiles, trois, trois !"
+   },
+   "3-5": {
+    "mot": "orange / bleue",
+    "geste": "Compte les étoiles du baudrier, puis les deux plus lumineuses autour : une orange (Bételgeuse) et une bleutée (Rigel). Pourquoi ces couleurs ?",
+    "phrase": "Un, deux, trois : Orion est là !"
+   }
+  },
+  "adulte": {
+   "nom": "Orion",
+   "latin": "Orion",
+   "anecdote": "La couleur d'une étoile dépend de sa température : Bételgeuse, rouge-orangé, est une supergéante rouge plus froide ; Rigel, bleutée, est plus chaude. La tache floue sous le baudrier est la nébuleuse d'Orion, visible à l'œil nu et surtout aux jumelles.",
+   "pourquoi_maintenant": "En janvier-février, Orion est déjà au-dessus des toits au sud-est vers 19 h ; en décembre, il faut attendre 20 h 30 ou plus.",
+   "confusion": null
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Orion_Constellation.jpg/500px-The_Orion_Constellation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Igor da Bari — CC BY 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:The_Orion_Constellation.jpg"
+  },
+  "attention": null,
+  "verifier": false
+ },
+ {
+  "id": "ciel-neige",
+  "categorie": "ciel",
+  "titre": "Des flocons : c'est rare, c'est magique",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "S'il neige vraiment (la pluie froide est bien plus fréquente ici), sors dans la rue ou au parc : regarde les flocons se poser sur ton manteau.",
+  "point": null,
+  "mois": [
+   12,
+   1,
+   2
+  ],
+  "requiert": [
+   "froid",
+   "gel",
+   "pluie_aujourdhui"
+  ],
+  "exclut": [],
+  "moment": "journee",
+  "poids": 2,
+  "reperes": "À Talence, la neige est rare : quelques jours par an au plus.",
+  "enfant": {
+   "2-3": {
+    "mot": "neige",
+    "geste": "Tends la main : « La neige ! ». Regarde un flocon se poser sur ta manche puis fondre.",
+    "phrase": "Flocon, flocon, froid !"
+   },
+   "3-5": {
+    "mot": "fondre",
+    "geste": "Combien de flocons sur ton gant ? Que deviennent-ils dans ta main chaude ?",
+    "phrase": "Un flocon, deux flocons… plouf !"
+   }
+  },
+  "adulte": {
+   "nom": "Flocon de neige",
+   "latin": null,
+   "anecdote": "Un flocon est un agrégat de cristaux de glace à six branches (symétrie hexagonale) : la forme dépend de la température et de l'humidité traversées pendant la chute.",
+   "pourquoi_maintenant": "Il faut un air très froid sur toute la hauteur jusqu'au sol.",
+   "confusion": "Le grésil et la pluie verglaçante sont des granules de glace ou de l'eau qui gèle au sol, pas de la neige."
+  },
+  "photo": null,
+  "attention": "Bien couvrir l'enfant (bonnet, gants, bottes) : sortie courte, et attention à la chaussée glissante.",
+  "verifier": false
+ },
+ {
+  "id": "ciel-saturne-soir",
+  "categorie": "ciel",
+  "titre": "Saturne, l'étoile jaune pâle du soir",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "En début de soirée (18 h-19 h 30), un point jaune pâle qui ne scintille presque pas : à l'est en novembre, au sud-est en décembre, plein sud en janvier, au sud-ouest en février.",
+  "point": null,
+  "mois": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Saturne brille comme une étoile moyenne (magnitude ≈ +0,1 à +0,9 selon l'hiver). Ses anneaux, presque vus par la tranche ces années-ci, demandent une petite lunette.",
+  "enfant": {
+   "2-3": {
+    "mot": "grosse étoile",
+    "geste": "Montre-la du doigt : « Une étoile jaune ! ». Puis fais-lui coucou avec la main.",
+    "phrase": "Étoile jaune, coucou !"
+   },
+   "3-5": {
+    "mot": "planète",
+    "geste": "Cherche la lumière qui ne clignote pas : c'est une planète. Combien en vois-tu ? Saturne est-elle plus haute que les toits ?",
+    "phrase": "Saturne ne clignote pas !"
+   }
+  },
+  "adulte": {
+   "nom": "Saturne",
+   "latin": null,
+   "anecdote": "Saturne est si peu dense (~0,7 g/cm³) qu'elle flotterait sur l'eau, si on trouvait un océan assez grand. Ses anneaux s'étendent sur plus de 250 000 km de large mais sont extrêmement minces.",
+   "pourquoi_maintenant": "Saturne passe à l'opposition (au plus près, toute la nuit visible) début octobre 2026, le 18 octobre 2027 et fin octobre 2028 : les mois suivants, elle est bien placée dès la nuit tombée.",
+   "confusion": "Elle ressemble à une étoile jaune pâle, mais scintille moins qu'une étoile."
+  },
+  "photo": null,
+  "attention": null,
+  "dates": [
+   [
+    "2026-11-01",
+    "2027-03-05"
+   ],
+   [
+    "2027-11-01",
+    "2028-03-05"
+   ],
+   [
+    "2028-11-10",
+    "2028-12-31"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-lune-saturne-2026",
+  "categorie": "ciel",
+  "titre": "La Lune près de Saturne",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Vers 18 h 30-19 h, regarde vers le sud-est/sud : la Lune brille et, à côté, un point jaune pâle.",
+  "point": null,
+  "mois": [
+   11
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Le 20 novembre vers 18 h 35, la Lune (81 %) est à ≈ 5° de Saturne, à ≈ 36° de hauteur au sud-est. Le 21, la Lune s'est déjà écartée (≈ 14°, plus à gauche) : Saturne, elle, n'a pas bougé.",
+  "enfant": {
+   "2-3": {
+    "mot": "Lune, étoile",
+    "geste": "Montre la Lune, puis la petite étoile à côté : « Lune et étoile ! ».",
+    "phrase": "La Lune a une copine !"
+   },
+   "3-5": {
+    "mot": "près / loin",
+    "geste": "Mets ton poing au bout du bras : est-ce qu'il cache la Lune ET Saturne ? Demain, regarde encore : qui a bougé ?",
+    "phrase": "Lune et Saturne, côte à côte !"
+   }
+  },
+  "adulte": {
+   "nom": "Conjonction Lune-Saturne",
+   "latin": null,
+   "anecdote": "Une conjonction n'est qu'un alignement apparent : Saturne est à environ 1,3 milliard de km, la Lune à 384 000 km, 3 400 fois plus près.",
+   "pourquoi_maintenant": "Rendez-vous le 20 novembre 2026 vers 18 h 30, et encore le 21 pour voir la Lune s'éloigner.",
+   "confusion": "L'étoile jaune pâle à côté de la Lune est Saturne, pas une étoile ordinaire."
+  },
+  "photo": null,
+  "attention": null,
+  "dates": [
+   [
+    "2026-11-20",
+    "2026-11-21"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-geminides",
+  "categorie": "ciel",
+  "titre": "Les étoiles filantes de décembre",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Dans un coin sombre, à l'écart des lampadaires (les parcs sont fermés le soir : une rue calme ou un jardin), emmitouflés, regardez haut dans le ciel, plutôt côté est, vers 20 h : pas avant, il faut un ciel bien noir.",
+  "point": null,
+  "mois": [
+   12
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard",
+   "pluie_aujourdhui"
+  ],
+  "moment": "nuit",
+  "poids": 3,
+  "reperes": "À 20 h, le point d'où partent les étoiles filantes est encore bas à l'est-nord-est ; en ville, compte plutôt quelques-unes par heure. C'est un jeu de patience : une seule suffit à faire la soirée. En 2026, le croissant de Lune se couche vers 21 h 30 ; en 2028, presque pas de Lune.",
+  "enfant": {
+   "2-3": {
+    "mot": "étoile filante",
+    "geste": "Sur la couverture, regarde en l'air : « Oh, une étoile qui file ! ». Faites un vœu à voix basse.",
+    "phrase": "Étoile filante, coucou !"
+   },
+   "3-5": {
+    "mot": "compter",
+    "geste": "Compte ensemble les étoiles filantes. Combien en 5 minutes ? Dans quel sens vont-elles ?",
+    "phrase": "Une, deux, vite, vite !"
+   }
+  },
+  "adulte": {
+   "nom": "Géminides",
+   "latin": null,
+   "anecdote": "Les Géminides viennent des poussières de l'astéroïde 3200 Phaéthon : des grains de sable à ~35 km/s qui brûlent dans l'atmosphère. Sous un ciel parfait, on en compterait jusqu'à ~100 par heure au cœur de la nuit ; en ville et en début de soirée, bien moins.",
+   "pourquoi_maintenant": "C'est l'un des rares essaims dont le radiant (la constellation des Gémeaux) est déjà levé en début de soirée : on peut tenter sa chance dès 20 h.",
+   "confusion": "Les « étoiles filantes » ne sont pas des étoiles : ce sont de petits météoroïdes."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Geminids_2015.jpg/500px-Geminids_2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Photograph by Mike Peel (www.mikepeel.net). — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Geminids_2015.jpg"
+  },
+  "attention": "Dehors la nuit en décembre : bien couvrir l'enfant (bonnet, gants, couverture), 10 à 15 minutes, dans un lieu éclairé à proximité et sûr, loin des voitures.",
+  "dates": [
+   [
+    "2026-12-13",
+    "2026-12-14"
+   ],
+   [
+    "2028-12-13",
+    "2028-12-14"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-super-lune",
+  "categorie": "ciel",
+  "titre": "Super-Lune : la grosse Lune du lever",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au crépuscule (entre 17 h et 18 h 45 selon le mois), regarde vers l'est depuis une place, une pelouse ou une rue qui ouvre sur l'est : elle se lève vers l'heure du coucher du Soleil.",
+  "point": null,
+  "mois": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Le plus beau moment est juste au lever, vers l'heure du coucher du Soleil.",
+  "enfant": {
+   "2-3": {
+    "mot": "grosse Lune",
+    "geste": "Écarte tes bras : « Elle est énorme ! ». Montre l'orange.",
+    "phrase": "Grosse, grosse Lune !"
+   },
+   "3-5": {
+    "mot": "grosse ou petite",
+    "geste": "Compare : plus grande que la Lune de la dernière fois ? C'est l'effet du lever (illusion) plus qu'une vraie différence.",
+    "phrase": "Une Lune géante !"
+   }
+  },
+  "adulte": {
+   "nom": "Super-Lune",
+   "latin": null,
+   "anecdote": "Une super-Lune est une pleine Lune qui tombe près du périgée, le point de l'orbite le plus proche de la Terre (≈ 357 000 km au lieu de 384 000 en moyenne). Elle paraît jusqu'à ~14 % plus large et ~30 % plus lumineuse qu'au plus loin, mais l'œil ne fait pas bien la différence : l'illusion lunaire à l'horizon est bien plus frappante.",
+   "pourquoi_maintenant": "Pleine Lune proche de la Terre, qui se lève en début de soirée : la plus proche de 2026 est celle du 24 décembre (≈ 356 700 km).",
+   "confusion": "On confond souvent super-Lune et Lune du lever (illusion), qui paraît énorme près de l'horizon."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Jul_9%2C_2009_-_Full_moon_over_96th_St.jpg/500px-Jul_9%2C_2009_-_Full_moon_over_96th_St.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Ed Yourdon — CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Jul_9,_2009_-_Full_moon_over_96th_St.jpg"
+  },
+  "attention": null,
+  "dates": [
+   [
+    "2026-11-23",
+    "2026-11-24"
+   ],
+   [
+    "2026-12-23",
+    "2026-12-24"
+   ],
+   [
+    "2027-01-21",
+    "2027-01-22"
+   ],
+   [
+    "2028-01-11",
+    "2028-01-12"
+   ],
+   [
+    "2028-02-09",
+    "2028-02-10"
+   ],
+   [
+    "2028-03-09",
+    "2028-03-10"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-lune-moissons",
+  "categorie": "ciel",
+  "titre": "La Lune des Moissons",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au crépuscule, regarde vers l'est : la Lune se lève presque en même temps que le Soleil se couche (vers 19 h 30-20 h en septembre 2027, vers 19 h début octobre 2028).",
+  "point": null,
+  "mois": [
+   9,
+   10
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "La Lune des Moissons est la pleine Lune la plus proche de l'équinoxe d'automne : le 16 septembre en 2027, mais le 3 octobre en 2028.",
+  "enfant": {
+   "2-3": {
+    "mot": "Lune",
+    "geste": "Montre la Lune qui se lève : « Coucou, la Lune ! ».",
+    "phrase": "Bonsoir, la Lune !"
+   },
+   "3-5": {
+    "mot": "tous les soirs",
+    "geste": "Demain soir, reviens au même endroit : la Lune arrive-t-elle plus tôt ou plus tard ? Est-elle toujours aussi ronde ?",
+    "phrase": "Chaque soir, la Lune revient presque à l'heure !"
+   }
+  },
+  "adulte": {
+   "nom": "Lune des Moissons",
+   "latin": null,
+   "anecdote": "Autour de l'équinoxe, la Lune se lève chaque soir avec un retard faible (une vingtaine de minutes ici, contre ~50 minutes en moyenne) : plusieurs soirs de suite, une grosse Lune brille dès le crépuscule. Le nom vient de l'époque où elle prolongeait le travail des moissons.",
+   "pourquoi_maintenant": "Elle se lève à l'heure où un tout-petit est encore dehors, plusieurs soirs d'affilée.",
+   "confusion": "En 2028, la pleine Lune du 4 septembre est trop loin de l'équinoxe : c'est celle du 3 octobre, d'habitude appelée Lune du Chasseur, qui fait office de Lune des Moissons."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Harvest_Moon_IMG_5267_%2829661948942%29.jpg/500px-Harvest_Moon_IMG_5267_%2829661948942%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Ronnie Robertson — CC BY-SA 2.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Harvest_Moon_IMG_5267_(29661948942).jpg"
+  },
+  "attention": null,
+  "dates": [
+   [
+    "2027-09-14",
+    "2027-09-16"
+   ],
+   [
+    "2028-10-02",
+    "2028-10-04"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-solstice-hiver",
+  "categorie": "ciel",
+  "titre": "Solstice d'hiver : le jour le plus court",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Dehors vers 13 h (le midi du Soleil), regarde ton ombre : c'est la plus longue de l'année. Puis le Soleil se couche vers 17 h 25.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": "journee",
+  "poids": 2,
+  "reperes": "Vers 13 h (midi solaire), le Soleil n'est qu'à 22° environ, et l'ombre mesure 2,5 fois la taille de l'objet.",
+  "enfant": {
+   "2-3": {
+    "mot": "ombre longue",
+    "geste": "Cherche ton ombre : « Grande, grande ! ». Marche sur l'ombre du copain.",
+    "phrase": "Le jour le plus court !"
+   },
+   "3-5": {
+    "mot": "pas",
+    "geste": "Mesure l'ombre en pas : combien de pas ? Demain, elle sera presque pareille.",
+    "phrase": "Petit jour, longue ombre !"
+   }
+  },
+  "adulte": {
+   "nom": "Solstice d'hiver",
+   "latin": null,
+   "anecdote": "Au solstice, le jour ne dure qu'environ 8 h 48 à Talence (lever ≈ 8 h 35, coucher ≈ 17 h 25) ; ensuite les jours rallongent, d'abord de quelques secondes par jour seulement.",
+   "pourquoi_maintenant": "C'est le jour de l'année où le Soleil est le plus bas à midi : les journées s'étirent ensuite.",
+   "confusion": "Le coucher le plus précoce tombe vers le 10 décembre et le lever le plus tardif début janvier : ni l'un ni l'autre le jour du solstice."
+  },
+  "photo": null,
+  "attention": null,
+  "dates": [
+   [
+    "2026-12-21",
+    "2026-12-21"
+   ],
+   [
+    "2027-12-21",
+    "2027-12-22"
+   ],
+   [
+    "2028-12-20",
+    "2028-12-21"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-solstice-ete",
+  "categorie": "ciel",
+  "titre": "Solstice d'été : le jour le plus long",
+  "lieux": [
+   "partout",
+   "parc-peixotto"
+  ],
+  "ou": "Dehors vers 14 h (le midi du Soleil en heure d'été), regarde ton ombre : minuscule. Le coucher, vers 21 h 50, sera trop tard pour un tout-petit : l'ombre de midi suffit.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   6
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": "journee",
+  "poids": 2,
+  "reperes": "Lever ≈ 6 h 15, coucher ≈ 21 h 50 : environ 15 h 35 de jour. Le Soleil culmine vers 14 h (heure d'été).",
+  "enfant": {
+   "2-3": {
+    "mot": "petite ombre",
+    "geste": "Cherche ton ombre : « Toute petite ! ». Lève les bras : « Soleil ! ».",
+    "phrase": "Le plus long jour de l'année !"
+   },
+   "3-5": {
+    "mot": "jour long",
+    "geste": "Compare avec l'hiver : l'ombre est plus courte ou plus longue ? Le Soleil se couche tôt ou tard ?",
+    "phrase": "Longue journée, petite ombre !"
+   }
+  },
+  "adulte": {
+   "nom": "Solstice d'été",
+   "latin": null,
+   "anecdote": "Au solstice de juin, le Soleil culmine à environ 68° à Talence, contre 22° en décembre ; l'ombre de midi mesure seulement 0,4 fois la taille de l'objet.",
+   "pourquoi_maintenant": "C'est le jour de l'année où le Soleil est le plus haut et le jour le plus long.",
+   "confusion": "Le solstice est « au début de l'été », mais les plus fortes chaleurs viennent plus tard."
+  },
+  "photo": null,
+  "attention": "Au soleil de midi, chapeau, crème et eau : on regarde l'ombre puis on file à l'ombre des arbres.",
+  "dates": [
+   [
+    "2027-06-20",
+    "2027-06-21"
+   ],
+   [
+    "2028-06-19",
+    "2028-06-20"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-equinoxe",
+  "categorie": "ciel",
+  "titre": "Équinoxe : le Soleil se couche plein ouest",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Au coucher du Soleil (≈ 19 h 15 en mars, ≈ 20 h fin septembre), depuis une rue qui file vers l'ouest : repère derrière quel toit ou quel arbre il disparaît. Le matin, il s'est levé pile à l'est.",
+  "point": null,
+  "mois": [
+   3,
+   9
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Aux équinoxes, le Soleil se lève plein est et se couche plein ouest. Un bon repère pour retrouver l'ouest.",
+  "enfant": {
+   "2-3": {
+    "mot": "Soleil",
+    "geste": "Montre le Soleil qui descend (sans le fixer). Dis « au revoir ! ».",
+    "phrase": "Au revoir, Soleil !"
+   },
+   "3-5": {
+    "mot": "est / ouest",
+    "geste": "Repère derrière quoi le Soleil disparaît : un toit, un arbre ? Dans un mois, reviens : il se couchera ailleurs !",
+    "phrase": "Le Soleil se couche en face de moi !"
+   }
+  },
+  "adulte": {
+   "nom": "Équinoxe",
+   "latin": null,
+   "anecdote": "Aux équinoxes, le Soleil se lève plein est et se couche plein ouest, et le jour dure à peu près 12 heures. Ensuite, le point de coucher glisse de jour en jour : vers le nord-ouest jusqu'en juin, vers le sud-ouest jusqu'en décembre.",
+   "pourquoi_maintenant": "Équinoxe de printemps le 20 mars 2027 et 2028, d'automne le 23 septembre 2027 et le 22 septembre 2028 ; la veille et le lendemain, le Soleil se couche presque au même endroit.",
+   "confusion": "Jour et nuit sont presque égaux, pas exactement : l'égalité parfaite tombe quelques jours avant l'équinoxe d'automne ou après celui de printemps."
+  },
+  "photo": null,
+  "attention": "On ne fixe jamais le Soleil, même bas : on regarde où il disparaît, du coin de l'œil.",
+  "dates": [
+   [
+    "2027-03-19",
+    "2027-03-21"
+   ],
+   [
+    "2027-09-22",
+    "2027-09-24"
+   ],
+   [
+    "2028-03-19",
+    "2028-03-21"
+   ],
+   [
+    "2028-09-21",
+    "2028-09-23"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-jupiter-soir",
+  "categorie": "ciel",
+  "titre": "Jupiter, la grosse étoile blanche du soir",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Vers 19 h 30, regarde vers l'est : l'« étoile » qui brille le plus, sans clignoter. Mi-février, elle est encore basse (il faut une rue ouverte vers l'est) ; fin mars, elle est bien plus haute.",
+  "point": null,
+  "mois": [
+   2,
+   3
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "À l'opposition, le 11 février 2027, Jupiter atteint la magnitude −2,4, plus brillante que toutes les étoiles. Juste en dessous, un peu à gauche : Mars, orange.",
+  "enfant": {
+   "2-3": {
+    "mot": "grosse étoile",
+    "geste": "Montre-la du doigt : « La plus grosse étoile ! ».",
+    "phrase": "Une grosse étoile, là-bas !"
+   },
+   "3-5": {
+    "mot": "planète",
+    "geste": "Cherche la lumière la plus brillante du ciel. Est-ce qu'elle clignote ? Et la petite orange juste en dessous ?",
+    "phrase": "Jupiter, la plus brillante !"
+   }
+  },
+  "adulte": {
+   "nom": "Jupiter",
+   "latin": null,
+   "anecdote": "Jupiter est la plus grosse planète : plus de 11 fois le diamètre de la Terre. Avec une paire de jumelles stabilisées, on peut apercevoir ses quatre plus grosses lunes, découvertes par Galilée en 1610.",
+   "pourquoi_maintenant": "Jupiter est à l'opposition (au plus près) le 11 février 2027 ; jusqu'au passage à l'heure d'été, elle est bien visible avant 20 h.",
+   "confusion": "Ressemble à une étoile très brillante, mais ne scintille presque pas."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jupiter_and_Mars_in_Shenandoah%27s_Night_Sky_%2851833309517%29.jpg/500px-Jupiter_and_Mars_in_Shenandoah%27s_Night_Sky_%2851833309517%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "ShenandoahNPS — Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Jupiter_and_Mars_in_Shenandoah%27s_Night_Sky_(51833309517).jpg"
+  },
+  "attention": null,
+  "dates": [
+   [
+    "2027-02-15",
+    "2027-03-27"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-mars-soir",
+  "categorie": "ciel",
+  "titre": "Mars, la petite étoile orange",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Vers 19 h 30, regarde vers l'est, juste sous Jupiter (la lumière la plus brillante) : une « étoile » nettement orange. Fin février, elle est encore basse ; fin mars, les deux se rapprochent.",
+  "point": null,
+  "mois": [
+   2,
+   3
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 2,
+  "reperes": "Mars est à l'opposition le 19 février 2027 (magnitude ≈ −1,1), puis pâlit doucement en s'éloignant.",
+  "enfant": {
+   "2-3": {
+    "mot": "orange",
+    "geste": "Montre l'étoile orange : « Orange ! ».",
+    "phrase": "Une étoile orange !"
+   },
+   "3-5": {
+    "mot": "rouge ?",
+    "geste": "Quelle est sa couleur : orange, rouge ? Est-ce qu'elle clignote comme les étoiles ?",
+    "phrase": "Mars est toute rouille !"
+   }
+  },
+  "adulte": {
+   "nom": "Mars",
+   "latin": null,
+   "anecdote": "Mars est orange à cause de l'oxyde de fer (rouille) qui recouvre sa surface.",
+   "pourquoi_maintenant": "Mars est au plus près autour du 19 février 2027 et reste brillante jusqu'à fin mars, tout près de Jupiter.",
+   "confusion": "À l'œil nu, on peut la prendre pour une étoile orangée comme Aldébaran, plus haut au sud-ouest : Mars, elle, ne scintille presque pas."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Jupiter_and_Mars_in_Shenandoah%27s_Night_Sky_%2851833309517%29.jpg/500px-Jupiter_and_Mars_in_Shenandoah%27s_Night_Sky_%2851833309517%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "ShenandoahNPS — Public domain",
+   "source": "https://commons.wikimedia.org/wiki/File:Jupiter_and_Mars_in_Shenandoah%27s_Night_Sky_(51833309517).jpg"
+  },
+  "attention": null,
+  "dates": [
+   [
+    "2027-02-24",
+    "2027-03-27"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-venus-soir",
+  "categorie": "ciel",
+  "titre": "Vénus, l'étoile du berger",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Juste après le coucher du Soleil (vers 18 h en janvier, 19 h 30 en mars), regarde au sud-ouest puis à l'ouest : une lumière très brillante, plus que toutes les étoiles.",
+  "point": null,
+  "mois": [
+   1,
+   2,
+   3
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "De janvier à fin mars 2028, Vénus brille au sud-ouest dès 20 à 30 minutes après le coucher du Soleil, de plus en plus haut.",
+  "enfant": {
+   "2-3": {
+    "mot": "très brillante",
+    "geste": "Montre-la et dis « très, très brillante ! ». Ouvre grand les yeux.",
+    "phrase": "Vénus, Vénus, brille !"
+   },
+   "3-5": {
+    "mot": "planète",
+    "geste": "Elle brille plus que toutes les étoiles : est-ce qu'elle clignote ? Laquelle apparaît la première, elle ou les étoiles ?",
+    "phrase": "L'étoile du berger !"
+   }
+  },
+  "adulte": {
+   "nom": "Vénus",
+   "latin": null,
+   "anecdote": "Vénus est l'astre le plus brillant du ciel après le Soleil et la Lune (magnitude jusqu'à −4,5). Ses nuages d'acide sulfurique renvoient la plus grande partie de la lumière du Soleil. Fin mars 2028, elle s'écarte au maximum du Soleil (≈ 46°).",
+   "pourquoi_maintenant": "Vénus « étoile du soir » de janvier à mars 2028, visible avant le dîner.",
+   "confusion": "Souvent prise pour un avion qui ne bouge pas : un avion clignote et avance."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Crescent_Moon%2C_Jupiter%2C_Venus.jpg/500px-Crescent_Moon%2C_Jupiter%2C_Venus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Ox1997cow — CC BY-SA 3.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crescent_Moon,_Jupiter,_Venus.jpg"
+  },
+  "attention": null,
+  "dates": [
+   [
+    "2028-01-01",
+    "2028-03-25"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-lune-venus",
+  "categorie": "ciel",
+  "titre": "Croissant de Lune près de Vénus",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "À l'ouest, juste après le coucher du Soleil : le croissant de Lune et, à côté, une lumière très brillante.",
+  "point": null,
+  "mois": [
+   12,
+   1,
+   2
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Au plus près le 30 décembre 2027 vers 18 h 15 (≈ 4°, assez bas), le 30 janvier 2028 vers 18 h 50 (≈ 6°) et le 29 février 2028 vers 19 h 30 (≈ 4°, bien haut). La veille ou le lendemain, ils sont un peu plus écartés.",
+  "enfant": {
+   "2-3": {
+    "mot": "Lune et Vénus",
+    "geste": "Montre la Lune en croissant (une banane) et la grosse lumière à côté.",
+    "phrase": "Lune et étoile, ensemble !"
+   },
+   "3-5": {
+    "mot": "banane",
+    "geste": "Dessine le croissant avec ton doigt : combien d'étoiles autour ? Laquelle brille le plus ?",
+    "phrase": "Le croissant a une amie brillante !"
+   }
+  },
+  "adulte": {
+   "nom": "Conjonction Lune-Vénus",
+   "latin": null,
+   "anecdote": "Le fin croissant et Vénus sont alors à quelques doigts l'un de l'autre. On voit souvent la « lumière cendrée » : le reste du disque lunaire faiblement éclairé par la lumière que la Terre lui renvoie.",
+   "pourquoi_maintenant": "Chaque mois où Vénus est « étoile du soir », le fin croissant passe près d'elle : trois rendez-vous avant 20 h cet hiver-là.",
+   "confusion": "Vénus peut être confondue avec un avion ou un phare : elle reste immobile."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Conjunction_Moon_Venus_September_2025.jpg/500px-Conjunction_Moon_Venus_September_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Bobjgalindo — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Conjunction_Moon_Venus_September_2025.jpg"
+  },
+  "attention": null,
+  "dates": [
+   [
+    "2027-12-30",
+    "2027-12-31"
+   ],
+   [
+    "2028-01-29",
+    "2028-01-30"
+   ],
+   [
+    "2028-02-28",
+    "2028-02-29"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-eclipse-soleil-2027",
+  "categorie": "ciel",
+  "titre": "Éclipse partielle de Soleil du 2 août 2027",
+  "lieux": [
+   "parc-peixotto",
+   "partout"
+  ],
+  "ou": "Sous un arbre feuillu au soleil (au bout de l'allée Peixotto, ou n'importe quel arbre), entre 10 h 30 et 11 h 30 : on regarde le SOL, jamais le ciel. Ciel couvert : on ne verra rien de spécial, mais une éclipse n'est jamais à regarder en face.",
+  "point": {
+   "lat": 44.807081,
+   "lon": -0.590428,
+   "repere": "Allée Peixotto, côté sud-ouest de la chaussée, à ~60 m du croisement avec l'avenue du Maréchal Leclerc : au bout de l'esplanade pavée, derrière les colonnes sculptées noires, avec la pelouse et les grands arbres isolés (≈ 200 m au nord-ouest du Forum des Halles)."
+  },
+  "mois": [
+   8
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": "journee",
+  "poids": 3,
+  "reperes": "Début 9 h 53, maximum 10 h 56 (≈ 68 % de la surface du Soleil cachée, Soleil à 42° de hauteur), fin 12 h 04 (heure d'été). Totale dans le sud de l'Espagne, partielle chez nous : la lumière baisse à peine, on ne le remarque presque pas.",
+  "enfant": {
+   "2-3": {
+    "mot": "croissants",
+    "geste": "Dos au Soleil, regarde par terre sous l'arbre : plein de petits croissants de lumière ! Montre-les du doigt.",
+    "phrase": "Des croissants par terre !"
+   },
+   "3-5": {
+    "mot": "croissant",
+    "geste": "Compte les croissants sous l'arbre. Puis, dos au Soleil, tiens une passoire au-dessus d'une feuille blanche : chaque trou dessine un petit croissant.",
+    "phrase": "Le Soleil a croqué un morceau !"
+   }
+  },
+  "adulte": {
+   "nom": "Éclipse partielle de Soleil du 2 août 2027",
+   "latin": null,
+   "anecdote": "Cette éclipse est totale dans le sud de l'Espagne, à Gibraltar et au Maroc ; la totalité atteint 6 min 23 s au maximum, en Haute-Égypte près de Louxor : l'une des plus longues du siècle. Les croissants sous les feuilles viennent des petits trous entre les feuilles, qui font chacun office de sténopé.",
+   "pourquoi_maintenant": "Une éclipse de Soleil aussi profonde est rare en France : la prochaine aussi forte vue de Bordeaux, l'éclipse annulaire du 26 janvier 2028, aura lieu au coucher du Soleil.",
+   "confusion": null
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Crescent_suns_projected_through_holes_in_tree_leaves_onto_pavement.jpg/500px-Crescent_suns_projected_through_holes_in_tree_leaves_onto_pavement.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Ron Clausen — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Crescent_suns_projected_through_holes_in_tree_leaves_onto_pavement.jpg"
+  },
+  "attention": "JAMAIS regarder le Soleil, même éclipsé à 68 % : lésions graves et définitives de la rétine, sans douleur. Ni lunettes de soleil, ni verre fumé, ni radiographie, ni jumelles ou appareil photo sans filtre. Les lunettes d'éclipse ISO 12312-2 sont réservées aux adultes ; un enfant de 2 à 5 ans ne regarde QUE les ombres au sol, dos au Soleil, un adulte à côté.",
+  "dates": [
+   [
+    "2027-08-02",
+    "2027-08-02"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-eclipse-lune-2028",
+  "categorie": "ciel",
+  "titre": "Éclipse totale de Lune : la Lune rouge",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Entre 18 h 30 et 19 h 15, depuis une rue ou une place ouverte vers l'est-nord-est : la Lune, encore basse, ressort de l'ombre, comme croquée. Avant 18 h 30, elle est trop basse et trop sombre dans le ciel encore clair pour être vue en ville.",
+  "point": null,
+  "mois": [
+   12
+  ],
+  "requiert": [],
+  "exclut": [
+   "couvert",
+   "brouillard"
+  ],
+  "moment": "coucher_soleil",
+  "poids": 3,
+  "reperes": "Totalité de 17 h 16 à 18 h 28 (maximum 17 h 52), mais la Lune se lève vers 17 h 23 et n'est qu'à ≈ 3° de hauteur au maximum. Vers 19 h, elle est à ≈ 14° : on voit bien la partie encore dans l'ombre, jusqu'à 19 h 36.",
+  "enfant": {
+   "2-3": {
+    "mot": "Lune croquée",
+    "geste": "Montre la Lune : « Quelqu'un a croqué la Lune ! ». Mime une grosse bouchée.",
+    "phrase": "Miam, la Lune croquée !"
+   },
+   "3-5": {
+    "mot": "l'ombre de la Terre",
+    "geste": "Regarde le bord sombre et un peu rouge : c'est l'ombre de notre Terre ! Reviens dans 10 minutes : l'ombre a-t-elle grandi ou rapetissé ?",
+    "phrase": "L'ombre de la Terre s'en va !"
+   }
+  },
+  "adulte": {
+   "nom": "Éclipse totale de Lune du 31 décembre 2028",
+   "latin": null,
+   "anecdote": "Pendant l'éclipse, la Lune entre dans l'ombre de la Terre. Elle ne disparaît pas : elle devient rouge cuivré, parce que la lumière du Soleil qui l'atteint encore a traversé l'atmosphère terrestre, comme celle de tous les couchers de Soleil de la planète à la fois. Contrairement à l'éclipse de Soleil, on la regarde sans aucun danger.",
+   "pourquoi_maintenant": "Pleine Lune du 31 décembre 2028 : l'éclipse se produit au moment où elle se lève ; on en voit surtout la fin, en début de soirée.",
+   "confusion": "Une Lune qui se lève orange est normale ; ce soir-là, un morceau du disque sera sombre et rougeâtre : c'est l'ombre de la Terre."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Total_Lunar_Eclipse_Totality_-_large_image.jpg/500px-Total_Lunar_Eclipse_Totality_-_large_image.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+   "credit": "Brucewaters — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Total_Lunar_Eclipse_Totality_-_large_image.jpg"
+  },
+  "attention": "Fin décembre en soirée : bien couvrir l'enfant, sortie courte, lieu sûr et éclairé.",
+  "dates": [
+   [
+    "2028-12-31",
+    "2028-12-31"
+   ]
+  ],
+  "verifier": false
+ },
+ {
+  "id": "ciel-buee-souffle",
+  "categorie": "ciel",
+  "titre": "Ton souffle fait un petit nuage",
+  "lieux": [
+   "partout"
+  ],
+  "ou": "Dehors, n'importe où, par un matin froid : souffle devant toi, de préférence à l'ombre et devant un fond sombre (une haie, une porte).",
+  "point": null,
+  "mois": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [
+   "froid"
+  ],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "reperes": "La buée se voit mieux à l'ombre, sur un fond sombre, et quand l'air est humide.",
+  "enfant": {
+   "2-3": {
+    "mot": "dragon",
+    "geste": "Souffle par la bouche : un petit nuage sort ! Doucement comme sur une bougie, puis fort comme un dragon.",
+    "phrase": "Fff ! Je suis un dragon !"
+   },
+   "3-5": {
+    "mot": "le plus long nuage",
+    "geste": "Souffle bouche en « o », puis tout doucement : quel nuage dure le plus longtemps ? Compte jusqu'à ce qu'il disparaisse.",
+    "phrase": "Un, deux, trois… plus de nuage !"
+   }
+  },
+  "adulte": {
+   "nom": "Buée de l'haleine (condensation)",
+   "latin": null,
+   "anecdote": "Ce petit nuage n'est pas de la vapeur (invisible) mais des millions de gouttelettes d'eau liquide : l'air expiré, chaud et saturé d'humidité, se refroidit d'un coup et condense, exactement comme naît un vrai nuage. Il s'efface en quelques secondes parce que les gouttelettes s'évaporent de nouveau dans l'air plus sec.",
+   "pourquoi_maintenant": "Les jours où la température ne dépasse pas 9 °C : plus l'air est froid et humide, plus le nuage est gros et dure longtemps, surtout le matin.",
+   "confusion": "Le brouillard est le même phénomène en grand : un nuage posé au sol."
+  },
+  "photo": null,
+  "attention": null,
+  "verifier": false
+ }
+]

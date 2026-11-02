@@ -1,0 +1,448 @@
+/* Nature autour de Talence centre — sobre, chaleureux, lisible sur téléphone. */
+
+:root {
+  --fond: #f6f1e6;          /* crème */
+  --surface: #fffdf8;
+  --texte: #2a2b24;
+  --texte-doux: #55574b;
+  --bord: #e2d9c6;
+  --sauge: #4d6a4a;         /* vert sauge foncé (texte, contrastes AA) */
+  --sauge-clair: #e3ebdc;
+  --terracotta: #a8492a;
+  --terracotta-clair: #f6e2d7;
+  --focus: #a8492a;
+  --ombre: 0 1px 2px rgb(60 50 30 / 0.06), 0 4px 14px rgb(60 50 30 / 0.06);
+
+  --cat-animal: #a8492a;
+  --cat-animal-fond: #f6e2d7;
+  --cat-plante: #4d6a4a;
+  --cat-plante-fond: #e3ebdc;
+  --cat-ciel: #3f6283;
+  --cat-ciel-fond: #e0e9f1;
+  --cat-sensoriel: #85600f;
+  --cat-sensoriel-fond: #f4ead0;
+  --cat-insolite: #7a4a70;
+  --cat-insolite-fond: #efe2ec;
+
+  --attention-fond: #fbf0d4;
+  --attention-texte: #4a3708;
+  --attention-bord: #c48a12;
+
+  --rayon: 16px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fond: #1b1e19;
+    --surface: #252922;
+    --texte: #ece7da;
+    --texte-doux: #bdb8a9;
+    --bord: #3a4036;
+    --sauge: #a7c39f;
+    --sauge-clair: #2f3a2c;
+    --terracotta: #e9a07e;
+    --terracotta-clair: #43302a;
+    --focus: #f0b596;
+    --ombre: none;
+
+    --cat-animal: #eba586;
+    --cat-animal-fond: #44302a;
+    --cat-plante: #a7c39f;
+    --cat-plante-fond: #2f3a2c;
+    --cat-ciel: #a3c1df;
+    --cat-ciel-fond: #2a3542;
+    --cat-sensoriel: #e2c178;
+    --cat-sensoriel-fond: #3e3522;
+    --cat-insolite: #d9aed0;
+    --cat-insolite-fond: #3d2c3a;
+    --attention-fond: #3d3216;
+    --attention-texte: #f6e3b0;
+    --attention-bord: #d9a62e;
+    color-scheme: dark;
+  }
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--fond);
+  color: var(--texte);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.55;
+}
+
+a { color: var(--sauge); text-underline-offset: 0.15em; }
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+.enveloppe {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 0 16px;
+}
+
+.visuellement-cache {
+  position: absolute !important;
+  width: 1px; height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+}
+
+.evitement {
+  position: absolute;
+  left: 8px; top: -100px;
+  background: var(--surface);
+  padding: 0.5rem 0.75rem;
+  z-index: 10;
+}
+.evitement:focus { top: 8px; }
+
+/* ---------- En-tête ---------- */
+
+.entete {
+  padding: 1.25rem 0 1rem;
+}
+
+.surtitre {
+  margin: 0;
+  color: var(--sauge);
+  font-weight: 600;
+  font-size: 0.9rem;
+  letter-spacing: 0.02em;
+}
+
+h1 {
+  margin: 0.15rem 0 0.5rem;
+  font-size: 1.75rem;
+  line-height: 1.2;
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-weight: 600;
+}
+
+.ciel-du-jour {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: var(--texte-doux);
+}
+.ciel-du-jour li { margin: 0.1rem 0; }
+.ciel-du-jour li:first-child { color: var(--texte); font-weight: 500; }
+.ciel-du-jour li:empty { display: none; }
+
+.avertissement {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  color: var(--texte-doux);
+  font-style: italic;
+}
+
+.age {
+  border: 0;
+  margin: 1rem 0 0;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.age legend {
+  float: left;
+  padding: 0;
+  margin-right: 0.75rem;
+  font-size: 0.95rem;
+  color: var(--texte-doux);
+}
+.age-choix {
+  display: inline-flex;
+  background: var(--sauge-clair);
+  border-radius: 999px;
+  padding: 3px;
+}
+.age-choix input {
+  position: absolute;
+  opacity: 0;
+  width: 1px; height: 1px;
+}
+.age-choix label {
+  padding: 0.4rem 1rem;
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  cursor: pointer;
+  font-weight: 600;
+  color: var(--sauge);
+}
+.age-choix input:checked + label {
+  background: var(--sauge);
+  color: var(--fond);
+}
+.age-choix input:focus-visible + label {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+/* ---------- Cartes ---------- */
+
+main { padding-bottom: 1rem; }
+main:focus { outline: none; }
+
+.chargement, .vide {
+  color: var(--texte-doux);
+  padding: 2rem 0;
+}
+
+.carte {
+  --cat: var(--sauge);
+  --cat-fond: var(--sauge-clair);
+  background: var(--surface);
+  border: 1px solid var(--bord);
+  border-top: 5px solid var(--cat);
+  border-radius: var(--rayon);
+  box-shadow: var(--ombre);
+  padding: 1rem 1rem 1.1rem;
+  margin: 0 0 1.1rem;
+}
+.cat-animal { --cat: var(--cat-animal); --cat-fond: var(--cat-animal-fond); }
+.cat-plante { --cat: var(--cat-plante); --cat-fond: var(--cat-plante-fond); }
+.cat-ciel { --cat: var(--cat-ciel); --cat-fond: var(--cat-ciel-fond); }
+.cat-sensoriel { --cat: var(--cat-sensoriel); --cat-fond: var(--cat-sensoriel-fond); }
+.cat-insolite { --cat: var(--cat-insolite); --cat-fond: var(--cat-insolite-fond); }
+
+.pastille {
+  display: inline-block;
+  margin: 0;
+  padding: 0.15rem 0.65rem;
+  border-radius: 999px;
+  background: var(--cat-fond);
+  color: var(--cat);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.carte h2 {
+  margin: 0.4rem 0 0.6rem;
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-size: 1.4rem;
+  line-height: 1.25;
+}
+.carte h2:focus { outline: none; }
+.carte h2:focus-visible { outline: 3px solid var(--focus); }
+
+.carte h3 {
+  margin: 0 0 0.15rem;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--texte-doux);
+}
+.carte p { margin: 0 0 0.4rem; }
+
+.carte-haut {
+  display: flex;
+  gap: 0.9rem;
+  align-items: flex-start;
+}
+.ou { flex: 1; min-width: 0; }
+.lieux { font-weight: 600; }
+.moment {
+  color: var(--terracotta);
+  font-weight: 600;
+}
+
+.photo {
+  flex: 0 0 120px;
+  margin: 0;
+}
+.photo img {
+  display: block;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 12px;
+  background: var(--cat-fond);
+}
+.photo figcaption {
+  margin-top: 0.2rem;
+  font-size: 0.7rem;
+  line-height: 1.3;
+  color: var(--texte-doux);
+  overflow-wrap: anywhere;
+}
+.photo figcaption a { color: inherit; }
+
+/* Sécurité : bien visible, sans être alarmiste */
+.attention {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  margin: 0 0 0.75rem !important;
+  padding: 0.6rem 0.75rem;
+  background: var(--attention-fond);
+  color: var(--attention-texte);
+  border-left: 4px solid var(--attention-bord);
+  border-radius: 8px;
+  font-size: 0.98rem;
+}
+.attention-icone { flex: none; line-height: 1.5; }
+
+.a-verifier {
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--texte-doux);
+}
+
+/* Point précis : repère bien visible + vignette du lieu + « Y aller » */
+.point {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  margin-top: 0.6rem;
+  padding: 0.7rem 0.8rem;
+  border: 1.5px dashed var(--cat);
+  border-radius: 12px;
+}
+.point-texte { flex: 1; min-width: 0; }
+.repere {
+  font-weight: 600;
+  margin: 0 0 0.5rem !important;
+}
+.photo-lieu {
+  flex: 0 0 88px;
+  margin: 0;
+}
+.photo-lieu img {
+  display: block;
+  width: 88px;
+  height: 66px;
+  object-fit: cover;
+  border-radius: 8px;
+  background: var(--cat-fond);
+}
+.photo-lieu figcaption {
+  margin-top: 0.15rem;
+  font-size: 0.65rem;
+  line-height: 1.25;
+  color: var(--texte-doux);
+  overflow-wrap: anywhere;
+}
+.photo-lieu figcaption a { color: inherit; }
+.y-aller {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding: 0.4rem 1rem;
+  border-radius: 999px;
+  background: var(--sauge);
+  color: var(--fond);
+  font-weight: 700;
+  text-decoration: none;
+}
+.y-aller:hover { filter: brightness(1.1); }
+
+.reperes { margin-top: 0.75rem; }
+
+.enfant {
+  margin-top: 0.85rem;
+  padding: 0.8rem 0.9rem;
+  background: var(--cat-fond);
+  border-radius: 12px;
+}
+.enfant h3 { color: var(--cat); }
+.mot {
+  font-family: ui-serif, Georgia, "Times New Roman", serif;
+  font-size: 1.9rem;
+  line-height: 1.15;
+  font-weight: 700;
+  color: var(--cat);
+  margin: 0.15rem 0 0.5rem !important;
+}
+.etiquette {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--texte-doux);
+}
+.phrase { font-style: italic; }
+
+.pour-toi {
+  margin-top: 0.85rem;
+  border-top: 1px solid var(--bord);
+  padding-top: 0.5rem;
+}
+.pour-toi summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--sauge);
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  list-style: none;
+}
+.pour-toi summary::-webkit-details-marker { display: none; }
+.pour-toi summary::before {
+  content: "▸";
+  transition: transform 0.15s;
+}
+.pour-toi[open] summary::before { transform: rotate(90deg); }
+.pour-toi-corps { padding: 0.25rem 0 0.25rem; }
+.pour-toi h4 {
+  margin: 0.6rem 0 0.1rem;
+  font-size: 0.9rem;
+}
+.nom i { color: var(--texte-doux); }
+
+.autre {
+  margin-top: 0.75rem;
+  min-height: 44px;
+  padding: 0.5rem 1.1rem;
+  border: 1.5px solid var(--terracotta);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--terracotta);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+.autre:hover { background: var(--terracotta-clair); }
+.autre:disabled {
+  border-color: var(--bord);
+  color: var(--texte-doux);
+  cursor: default;
+  background: transparent;
+}
+
+/* ---------- Pied de page ---------- */
+
+.pied {
+  border-top: 1px solid var(--bord);
+  padding: 1rem 0 2rem;
+  font-size: 0.85rem;
+  color: var(--texte-doux);
+}
+.pied p { margin: 0 0 0.5rem; }
+
+@media (max-width: 480px) {
+  .carte-haut { flex-direction: column; gap: 0.6rem; }
+  .carte-haut .photo { flex: none; width: 100%; max-width: 160px; }
+  .carte-haut .photo img { width: 100%; height: 120px; }
+  .point { flex-direction: column; gap: 0.5rem; }
+  .point .photo-lieu { flex: none; width: 100%; max-width: 160px; }
+  .point .photo-lieu img { width: 100%; height: 100px; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}

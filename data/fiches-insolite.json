@@ -1,0 +1,1562 @@
+[
+  {
+    "id": "ins-cascade-rond-point",
+    "categorie": "insolite",
+    "titre": "Une cascade au milieu d'un rond-point",
+    "lieux": [
+      "parc-margaut",
+      "parc-peixotto"
+    ],
+    "ou": "Au centre du rond-point entre l'avenue du Maréchal Leclerc, la rue du Professeur Arnozan et l'allée Peixotto, à environ 100 m du Forum.",
+    "point": {
+      "lat": 44.807378,
+      "lon": -0.58901,
+      "repere": "Allée Peixotto, côté nord-ouest de la chaussée, à ~10 m du croisement avec Rue du Professeur Arnozan ; repère : au centre du rond-point, entourée de genévriers rampants (114 m au nord-ouest du Forum des Halles)"
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "attention": "C'est un rond-point : on la regarde depuis le trottoir, enfant par la main, et on traverse seulement aux passages piétons. On ne grimpe pas sur les rochers et on ne touche pas l'eau.",
+    "verifier": true,
+    "reperes": "Un tas de rochers sombres au centre du rond-point, entouré de genévriers rampants. L'eau coulait sur les photos de rue de 2023, mais elle peut être coupée (gel, sécheresse, entretien) : alors on regarde les rochers et on cherche les traces de l'eau.",
+    "enfant": {
+      "2-3": {
+        "mot": "l'eau",
+        "geste": "Écouter l'eau en silence 5 secondes depuis le trottoir, les mains sur les oreilles puis ouvertes : « ça change ! ».",
+        "phrase": "Plouf, plouf, l'eau coule !"
+      },
+      "3-5": {
+        "mot": "la cascade",
+        "geste": "Chercher d'où l'eau part et où elle va : suivre un filet du regard de haut en bas, puis dire s'il va vite ou doucement.",
+        "phrase": "D'où tu viens, petit filet ? Où tu vas ?"
+      }
+    },
+    "adulte": {
+      "nom": "Cascade du rond-point (fontaine sur rocaille)",
+      "latin": null,
+      "anecdote": "Au milieu d'un carrefour que personne ne regarde, une vraie cascade sur rochers. Son bruissement est un bruit « large », étalé sur beaucoup de fréquences : il masque en partie le ronflement des voitures, l'une des raisons pour lesquelles on installe des fontaines dans les lieux bruyants.",
+      "pourquoi_maintenant": "Toute l'année, tant qu'elle fonctionne. Les genévriers rampants restent verts même en hiver, donc la scène est belle en toute saison.",
+      "confusion": "Ne pas la confondre avec le bassin à trois paliers du parc Margaut, un peu plus loin : ici c'est une cascade sur rochers, en plein rond-point."
+    },
+    "photo": null
+  },
+  {
+    "id": "ins-poteaux-lierre",
+    "categorie": "insolite",
+    "titre": "Des poteaux transformés en plantes",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue de Trémeuge, juste après la rue Peydavant : un poteau électrique entièrement vêtu de lierre. D'autres poteaux-plantes dans le quartier : rue de Mégret, impasse de la Fauvette, rue Jean Zubieta.",
+    "point": {
+      "lat": 44.802101,
+      "lon": -0.585655,
+      "repere": "Rue de Trémeuge, en venant de la rue Peydavant : sur le trottoir de droite, le poteau tout vert, couvert de lierre jusqu'aux fils, au coin d'une clôture blanche à lames grises (≈ 500 m au sud du Forum des Halles).",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/a8/59/45/49/8279-4809-8c53-54db45a8a855/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=a8594549-8279-4809-8c53-54db45a8a855"
+      }
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "Baies du lierre toxiques (noires, en fin d'hiver) : on ne cueille rien, rien à la bouche.",
+    "verifier": false,
+    "reperes": "Un poteau dont on ne voit plus ni le bois ni le béton. En haut, là où le lierre atteint la lumière, cherche des feuilles en losange sans lobes : c'est la partie adulte, qui fleurit en automne.",
+    "enfant": {
+      "2-3": {
+        "mot": "poteau vert",
+        "geste": "Tourner autour du poteau en tenant la main du parent : « Il a mis un pull de feuilles ! ».",
+        "phrase": "Le poteau a un manteau vert !"
+      },
+      "3-5": {
+        "mot": "les feuilles du lierre",
+        "geste": "Comparer deux feuilles : une en étoile (en bas) et une en pointe (plus haut, si on la voit). Laquelle est la plus grande ?",
+        "phrase": "En bas des étoiles, en haut des pointes !"
+      }
+    },
+    "adulte": {
+      "nom": "Lierre grimpant (poteau-plante)",
+      "latin": "Hedera helix",
+      "anecdote": "Le lierre ne vole rien au poteau : il s'y cramponne avec de petites racines-crampons. Autre surprise : sur un vieux pied, les rameaux d'en haut, qui fleurissent et portent des baies, ont des feuilles non lobées en forme de losange, alors que celles du bas sont à 3-5 lobes.",
+      "pourquoi_maintenant": "Toute l'année : c'est l'un des rares verts francs de l'hiver. Il fleurit en septembre-novembre et ses baies noires mûrissent en fin d'hiver.",
+      "confusion": "Les feuilles du bas (étoilées) et celles du haut (losanges) semblent venir de deux plantes différentes : c'est bien la même."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Telegraph_pole_covered_in_ivy%2C_Sweffling_-_geograph.org.uk_-_2286834.jpg/500px-Telegraph_pole_covered_in_ivy%2C_Sweffling_-_geograph.org.uk_-_2286834.jpg",
+      "credit": "Adrian S Pye — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Telegraph_pole_covered_in_ivy,_Sweffling_-_geograph.org.uk_-_2286834.jpg"
+    }
+  },
+  {
+    "id": "ins-tram-gazon",
+    "categorie": "insolite",
+    "titre": "Un tram qui roule sur l'herbe",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Avenue Roul, côté nord, devant le mur blanc décoré de silhouettes, à environ 700 m à l'ouest du Forum ; même pelouse le long de l'avenue des Facultés.",
+    "point": {
+      "lat": 44.805998,
+      "lon": -0.596831,
+      "repere": "Avenue Roul, côté nord de la chaussée, à ~40 m du croisement avec Rue Matteoti ; repère : devant le mur blanc décoré de silhouettes (700 m à l'ouest du Forum des Halles)"
+    },
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "Le tram est très silencieux et ne peut pas freiner d'un coup : on reste sur le trottoir, derrière la bordure, enfant par la main, et on ne traverse que sur les passages prévus.",
+    "verifier": false,
+    "reperes": "Une longue bande d'herbe entre deux rails. Reste sur le trottoir, du côté du mur, et attends qu'une rame passe.",
+    "enfant": {
+      "2-3": {
+        "mot": "tram",
+        "geste": "Attendre le tram sur le trottoir, bien reculé : le regarder passer, puis dire « tram ! » en faisant un grand geste de la main.",
+        "phrase": "Tram, tram, sur l'herbe verte !"
+      },
+      "3-5": {
+        "mot": "les rails",
+        "geste": "Compter les wagons (ou les portes) du tram qui passe, puis se demander pourquoi il y a de l'herbe et pas du goudron.",
+        "phrase": "Un, deux, trois… combien de portes ?"
+      }
+    },
+    "adulte": {
+      "nom": "Voie de tram engazonnée",
+      "latin": null,
+      "anecdote": "Le gazon entre les rails retient une partie de l'eau de pluie, atténue un peu le bruit et rafraîchit l'air l'été, par rapport à du béton ou de l'enrobé. Un tram en ville roule ainsi sur une vraie pelouse.",
+      "pourquoi_maintenant": "L'herbe y est verte de mars à novembre, et jaunit parfois en fin d'été sec.",
+      "confusion": "On parle de « plateforme végétalisée » : ne pas confondre avec une simple friche entre deux voies."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Station_Peixotto_-_2009-01-30.jpg/500px-Station_Peixotto_-_2009-01-30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Grenavitar — Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Station_Peixotto_-_2009-01-30.jpg"
+    }
+  },
+  {
+    "id": "ins-fissures-trottoir",
+    "categorie": "insolite",
+    "titre": "La mousse argentée des fissures",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur n'importe quel trottoir : joints entre les dalles, pied d'un mur, angle d'une bordure, surtout du côté ombre.",
+    "point": null,
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "De minuscules coussinets vert-gris qui blanchissent à la pointe quand c'est sec, dans les joints et les fissures.",
+    "enfant": {
+      "2-3": {
+        "mot": "mousse",
+        "geste": "Passer un doigt doux sur la mousse : « doux ! », puis sur le trottoir : « dur ! ».",
+        "phrase": "Doux, dur ! La mousse est douce."
+      },
+      "3-5": {
+        "mot": "argentée ou verte ?",
+        "geste": "Chercher une mousse au soleil (grise-argentée) et une à l'ombre (verte), puis toucher les deux du bout du doigt : laquelle est mouillée ?",
+        "phrase": "Argentée au soleil, verte à l'ombre !"
+      }
+    },
+    "adulte": {
+      "nom": "Mousse argentée",
+      "latin": "Bryum argenteum",
+      "anecdote": "C'est l'une des mousses les plus répandues de la planète : on la trouve des trottoirs des villes jusqu'en Antarctique. Ses feuilles finissent par une pointe sans chlorophylle, ce qui lui donne ce reflet argenté quand elle est sèche ; elle supporte piétinement, sécheresse et pollution.",
+      "pourquoi_maintenant": "Toute l'année ; après une pluie, elle reverdit en quelques heures, puis redevient argentée en séchant.",
+      "confusion": "On la prend parfois pour un petit lichen ou de la poussière : une mousse a de petites feuilles qu'on distingue à la loupe, un lichen est une croûte."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bryum_argenteum_106738734.jpg/500px-Bryum_argenteum_106738734.jpg",
+      "credit": "Alexis — CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bryum_argenteum_106738734.jpg"
+    }
+  },
+  {
+    "id": "ins-pied-arbre-carre",
+    "categorie": "insolite",
+    "titre": "Un mètre carré de trottoir sauvage",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au pied d'un arbre d'alignement ou le long d'un mur, là où l'herbe n'est pas tondue : n'importe quelle rue calme du quartier.",
+    "point": null,
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "Crottes de chien possibles : on regarde où on pose les mains, rien à la bouche.",
+    "verifier": false,
+    "reperes": "Trace avec le doigt un carré d'environ un pas de côté au pied d'un arbre ou d'un mur et compte les plantes différentes.",
+    "enfant": {
+      "2-3": {
+        "mot": "petite fleur",
+        "geste": "Chercher la plus petite fleur du carré et la montrer sans la cueillir.",
+        "phrase": "Une toute petite fleur !"
+      },
+      "3-5": {
+        "mot": "combien ?",
+        "geste": "Compter combien de sortes de feuilles on voit dans le carré (rondes, longues, en dentelle) : le parent compte aussi, à voix haute, on compare.",
+        "phrase": "J'en vois quatre, et toi ?"
+      }
+    },
+    "adulte": {
+      "nom": "Flore spontanée de trottoir (dont le plantain majeur)",
+      "latin": "Plantago major",
+      "anecdote": "Le plantain majeur survit au piétinement grâce à ses feuilles en rosette collées au sol. Déchire doucement une feuille en travers : de longs fils (les nervures) restent accrochés, comme un fil à coudre vert.",
+      "pourquoi_maintenant": "De mars à octobre, les herbes spontanées poussent entre les passages de pas : c'est la saison où le carré est le plus riche.",
+      "confusion": "Plantain majeur (feuilles larges, ovales) et plantain lancéolé (feuilles étroites en lance) sont deux plantes proches, souvent côte à côte."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Weeds_in_cracks_between_concrete_slabs_in_Tuntorp.jpg/500px-Weeds_in_cracks_between_concrete_slabs_in_Tuntorp.jpg",
+      "credit": "W.carter — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Weeds_in_cracks_between_concrete_slabs_in_Tuntorp.jpg"
+    }
+  },
+  {
+    "id": "ins-cymbalaire",
+    "categorie": "insolite",
+    "titre": "La fleur qui plante ses graines dans les fentes",
+    "lieux": [
+      "partout",
+      "parc-peixotto"
+    ],
+    "ou": "Dans les fissures des vieux murs de pierre : elle a été observée au nord de Peixotto, côté rue du Professeur Arnozan ; cherche-la aussi sur les murs en moellons de la rue de Suzon et du quartier.",
+    "point": null,
+    "mois": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Cherche de petites feuilles rondes de lierre qui sortent d'une fissure, avec des fleurs mauves de la taille d'un ongle.",
+    "enfant": {
+      "2-3": {
+        "mot": "petite fleur",
+        "geste": "Montrer avec le doigt, de loin, chaque petite fleur mauve qui sort du mur, sans cueillir.",
+        "phrase": "Petite fleur sur le mur !"
+      },
+      "3-5": {
+        "mot": "la bouche de dragon",
+        "geste": "Chercher la petite « bouche » de la fleur et deviner qui pourrait y entrer (bourdon, abeille).",
+        "phrase": "Bouche de dragon, ouvre-toi !"
+      }
+    },
+    "adulte": {
+      "nom": "Cymbalaire des murs (ruine-de-Rome)",
+      "latin": "Cymbalaria muralis",
+      "anecdote": "Quand les fleurs ont fané, leur tige se courbe et s'éloigne de la lumière pour aller enfoncer la capsule de graines au fond d'une fissure : la plante sème elle-même ses graines dans le mur.",
+      "pourquoi_maintenant": "Elle fleurit d'avril à octobre ; elle a été observée en mai sur les murs au nord de Peixotto.",
+      "confusion": "Les feuilles ressemblent à celles du lierre, mais elles sont petites, charnues et se découpent en 5 lobes arrondis ; les fleurs sont celles d'un petit muflier."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cymbalaria_muralis_2_RF.jpg/500px-Cymbalaria_muralis_2_RF.jpg",
+      "credit": "Robert Flogaus-Faust — CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cymbalaria_muralis_2_RF.jpg"
+    }
+  },
+  {
+    "id": "ins-toiles-rosee",
+    "categorie": "insolite",
+    "titre": "Les toiles d'araignée se couvrent de perles",
+    "lieux": [
+      "parc-peixotto",
+      "parc-margaut",
+      "partout"
+    ],
+    "ou": "Dans les haies, sur les grillages et entre les branches basses des parcs, tôt le matin ; un jour de brouillard, les toiles sont encore plus perlées.",
+    "point": null,
+    "mois": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [
+      "pluie_aujourdhui",
+      "vent"
+    ],
+    "moment": "matin",
+    "poids": 3,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Sors tôt, quand il n'y a ni vent ni pluie et que la nuit a été fraîche. Regarde de côté, le soleil rasant fait briller chaque gouttelette.",
+    "enfant": {
+      "2-3": {
+        "mot": "toile",
+        "geste": "Montrer la toile du doigt, à distance : « une toile ! », sans y toucher.",
+        "phrase": "Une toile avec des perles !"
+      },
+      "3-5": {
+        "mot": "les perles",
+        "geste": "Compter les rayons de la toile en partant du centre (comme les rayons d'une roue) puis les perles sur un fil.",
+        "phrase": "Combien de perles sur le fil ?"
+      }
+    },
+    "adulte": {
+      "nom": "Toile d'épeire (rosée sur toile)",
+      "latin": "Araneus diadematus",
+      "anecdote": "Beaucoup d'épeires refont leur toile presque chaque jour : elles mangent l'ancienne et recyclent la soie. La rosée ne fait que révéler cette toile qu'on ne voit pas d'habitude.",
+      "pourquoi_maintenant": "De septembre à novembre, les nuits fraîches et claires font condenser la rosée, et les toiles sont à leur taille maximale.",
+      "confusion": "Une toile ronde et verticale est celle d'une épeire ; les petites nappes blanches posées sur l'herbe au matin sont tissées par de minuscules araignées (linyphiidés)."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Dew_on_spider_web_Luc_Viatour.jpg/500px-Dew_on_spider_web_Luc_Viatour.jpg",
+      "credit": "Luc Viatour — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Dew_on_spider_web_Luc_Viatour.jpg"
+    }
+  },
+  {
+    "id": "ins-traces-boue",
+    "categorie": "insolite",
+    "titre": "Qui est passé dans la boue ?",
+    "lieux": [
+      "parc-peixotto",
+      "bois-sourreil",
+      "partout"
+    ],
+    "ou": "Dans la boue des chemins, au bord de la pelouse détrempée ou sous les arbres après la pluie.",
+    "point": null,
+    "mois": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [
+      "gel"
+    ],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Les traces d'oiseaux ont trois doigts devant, un derrière ; celles d'un chat n'ont pas de marques de griffes.",
+    "enfant": {
+      "2-3": {
+        "mot": "pas",
+        "geste": "Poser sa chaussure à côté d'une trace : « petit pied, grand pied ! »",
+        "phrase": "Petit pied, grand pied, qui est passé ?"
+      },
+      "3-5": {
+        "mot": "les doigts",
+        "geste": "Compter les doigts d'une trace d'oiseau (trois devant, un derrière) puis comparer avec la patte du chien.",
+        "phrase": "Un, deux, trois et un derrière !"
+      }
+    },
+    "adulte": {
+      "nom": "Traces d'oiseaux, de chien ou de chat",
+      "latin": null,
+      "anecdote": "Les chats rentrent leurs griffes en marchant : leurs traces n'en montrent pas, alors que celles du chien en ont. Chez l'oiseau, le « genou » qui plie à l'envers est en réalité la cheville : il marche sur ses doigts.",
+      "pourquoi_maintenant": "La boue fraîche garde l'empreinte quelques heures : après une pluie d'hiver, c'est le meilleur moment.",
+      "confusion": "Chat ou renard : pas de griffes pour le chat, griffes visibles pour le chien et le renard."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Birds_footprints.jpg/500px-Birds_footprints.jpg",
+      "credit": "Sandiahh — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Birds_footprints.jpg"
+    }
+  },
+  {
+    "id": "ins-plumes",
+    "categorie": "insolite",
+    "titre": "Une plume trouvée par terre",
+    "lieux": [
+      "partout",
+      "parc-peixotto",
+      "parc-margaut"
+    ],
+    "ou": "Au pied des haies, sur les pelouses et sous les arbres où les oiseaux se posent, surtout là où traînent pies et pigeons.",
+    "point": null,
+    "mois": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "On ne ramasse qu'une plume propre, rien à la bouche, mains lavées après ; on ne touche jamais un oiseau mort.",
+    "verifier": false,
+    "reperes": "Une plume noire à reflets bleu-vert est le plus souvent celle d'une pie ; grise et courte, celle d'un pigeon ; barrée de bleu clair, celle d'un geai. Pas de ramassage si elle est sale.",
+    "enfant": {
+      "2-3": {
+        "mot": "plume",
+        "geste": "Faire voler la plume en soufflant dessous : « fouf ! » puis la montrer sans la prendre.",
+        "phrase": "Plume, plume, vole, vole !"
+      },
+      "3-5": {
+        "mot": "les barbes",
+        "geste": "Lisser la barbe d'une plume propre entre deux doigts : elle se « recoud » comme par magie. Puis la sentir tomber du pouce.",
+        "phrase": "Ça se recolle !"
+      }
+    },
+    "adulte": {
+      "nom": "Plume de pie bavarde (ou de pigeon, de geai)",
+      "latin": "Pica pica",
+      "anecdote": "Les barbes d'une plume s'accrochent entre elles par de minuscules crochets portés par les barbules : en la caressant à rebrousse-poil puis dans le bon sens, elle se « recoud », un peu comme une fermeture velcro. Le bleu-vert de la pie ne vient pas d'un pigment mais de la structure microscopique de la plume.",
+      "pourquoi_maintenant": "Les oiseaux muent surtout en été et au début de l'automne : c'est la période où on trouve le plus de plumes.",
+      "confusion": "Plume de pigeon (gris, sans reflets), de geai (barrée de bleu clair et noir), de pie (noire à reflets bleu-vert) : les trois se trouvent en ville."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_magpie%27s_wing_feather_among_pine_needles_-_geograph.org.uk_-_3080731.jpg/500px-A_magpie%27s_wing_feather_among_pine_needles_-_geograph.org.uk_-_3080731.jpg",
+      "credit": "Stanley Howe — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:A_magpie%27s_wing_feather_among_pine_needles_-_geograph.org.uk_-_3080731.jpg"
+    }
+  },
+  {
+    "id": "ins-nid-pie-ou-gui",
+    "categorie": "insolite",
+    "titre": "Boule de gui ou nid de pie ?",
+    "lieux": [
+      "partout",
+      "parc-peixotto"
+    ],
+    "ou": "Dans les grands arbres nus du quartier (peupliers, platanes, robiniers) et de Peixotto : lève les yeux vers les cimes.",
+    "point": null,
+    "mois": [
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "attention": "Les baies de gui (blanches, en hiver) sont toxiques : si une branche est tombée, on n'y touche pas.",
+    "verifier": false,
+    "reperes": "Une boule verte et régulière de feuilles accrochée à une branche = gui. Une masse brune de brindilles en forme de dôme = nid de pie. L'hiver, c'est le seul moment où l'on voit les deux.",
+    "enfant": {
+      "2-3": {
+        "mot": "nid",
+        "geste": "Montrer du doigt la boule là-haut et faire une boule avec ses deux mains : « un nid ! ».",
+        "phrase": "Là-haut, une boule dans l'arbre !"
+      },
+      "3-5": {
+        "mot": "verte ou brune ?",
+        "geste": "Dire de quelle couleur est la boule (verte ou brune) pour deviner : gui ou nid ?",
+        "phrase": "Verte : le gui. Brune : le nid !"
+      }
+    },
+    "adulte": {
+      "nom": "Gui (en fructification) et nid de pie",
+      "latin": "Viscum album et Pica pica",
+      "anecdote": "Le nid de pie a un toit : un dôme de branches, souvent épineuses, au-dessus de la coupe, ce qui est rare chez nos oiseaux. Abandonné, il sert parfois au faucon crécerelle ou au hibou moyen-duc, qui ne construisent pas de nid.",
+      "pourquoi_maintenant": "Les feuilles sont tombées : on voit enfin ce qui était caché tout l'été dans les cimes.",
+      "confusion": "Une boule de feuilles vert-jaune, de la taille d'un ballon ou plus, c'est le gui ; une boule de bâtons bruns, c'est un nid. Autre boule brune : un « balai de sorcière », touffe anormale de rameaux."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Frosty_Pica_pica_nest_in_Tuntorp.jpg/500px-Frosty_Pica_pica_nest_in_Tuntorp.jpg",
+      "credit": "W.carter — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Frosty_Pica_pica_nest_in_Tuntorp.jpg"
+    }
+  },
+  {
+    "id": "ins-galles-chene",
+    "categorie": "insolite",
+    "titre": "Les petites pommes sur les feuilles de chêne",
+    "lieux": [
+      "parc-robespierre",
+      "partout"
+    ],
+    "ou": "Sur le dessous des feuilles de chêne ou parmi les feuilles tombées, sous un chêne : rue Dourout, près de la rue Robespierre, dans le parc, derrière la clôture verte.",
+    "point": {
+      "lat": 44.808747,
+      "lon": -0.582713,
+      "repere": "Rue Dourout, côté est de la chaussée, à ~40 m du croisement avec Rue Robespierre ; repère : dans le parc, juste derrière la clôture verte, près d'un banc (467 m au nord-est du Forum des Halles)"
+    },
+    "mois": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "attention": "Galles et glands ne se mangent pas : rien à la bouche.",
+    "verifier": true,
+    "reperes": "Sous une feuille de chêne, une boule ronde de la taille d'une cerise, verte, rouge ou beige. Une galle trouée est déjà vide.",
+    "enfant": {
+      "2-3": {
+        "mot": "boule",
+        "geste": "Chercher une feuille de chêne tombée et la retourner pour voir s'il y a une petite boule.",
+        "phrase": "Une boule sous la feuille !"
+      },
+      "3-5": {
+        "mot": "la galle",
+        "geste": "Chercher une galle, la regarder de près (trou ou pas ?) et deviner si elle est vide.",
+        "phrase": "Trou ? Elle est partie !"
+      }
+    },
+    "adulte": {
+      "nom": "Galle du chêne (galle-cerise)",
+      "latin": "Cynips quercusfolii",
+      "anecdote": "La galle est une « maison » que le chêne fabrique lui-même, déclenchée par la larve d'une minuscule guêpe (un cynips) qui s'y nourrit. Riches en tanins, les galles du chêne ont servi pendant des siècles à fabriquer l'encre noire des manuscrits (encre ferro-gallique).",
+      "pourquoi_maintenant": "Fin d'été et automne : les galles sont mûres et les feuilles tombent.",
+      "confusion": "Une galle est ronde, collée sous la feuille ; une galle plus grosse et brune sur le gland ou le rameau est d'une autre espèce de cynips."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Oak_Gall_Wasp_%28Cynips_quercusfolii%29.jpg/500px-Oak_Gall_Wasp_%28Cynips_quercusfolii%29.jpg",
+      "credit": "wackybadger — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Oak_Gall_Wasp_(Cynips_quercusfolii).jpg"
+    }
+  },
+  {
+    "id": "ins-glands-troues",
+    "categorie": "insolite",
+    "titre": "Le gland qui a un petit trou rond",
+    "lieux": [
+      "parc-robespierre",
+      "partout"
+    ],
+    "ou": "Sous les chênes, parmi les glands tombés : près de l'entrée du parc Robespierre, rue Dourout, côté parc.",
+    "point": {
+      "lat": 44.808747,
+      "lon": -0.582713,
+      "repere": "Rue Dourout, côté est de la chaussée, à ~40 m du croisement avec Rue Robespierre ; repère : dans le parc, juste derrière la clôture verte, près d'un banc (467 m au nord-est du Forum des Halles)"
+    },
+    "mois": [
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "Les glands sont toxiques crus : on ne les met pas à la bouche.",
+    "verifier": true,
+    "reperes": "Un gland percé d'un trou bien rond de 2-3 mm, comme fait à la perceuse : c'est la porte de sortie de la larve du balanin.",
+    "enfant": {
+      "2-3": {
+        "mot": "trou",
+        "geste": "Chercher un gland avec un trou et y glisser un brin d'herbe, comme une cheminée.",
+        "phrase": "Un trou, un trou rond !"
+      },
+      "3-5": {
+        "mot": "qui est sorti ?",
+        "geste": "Trier les glands : avec trou / sans trou. Que s'est-il passé dans les glands troués ?",
+        "phrase": "Une petite bête est sortie !"
+      }
+    },
+    "adulte": {
+      "nom": "Charançon du gland (balanin)",
+      "latin": "Curculio glandium (et espèces proches)",
+      "anecdote": "En fin d'été, la femelle perce le gland encore vert avec un rostre presque aussi long que son corps, puis y pond un œuf. La larve dévore l'intérieur, sort à l'automne par un trou parfaitement rond, puis s'enterre pour se transformer.",
+      "pourquoi_maintenant": "Septembre à novembre : les glands tombent, et ceux qui sont troués le sont déjà.",
+      "confusion": "Un gland rongé par un écureuil, un mulot ou un oiseau a des bords irréguliers ; le trou du balanin est net et rond, de 2-3 mm."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Larva_de_Balanino_o_Gorgojo_de_las_bellotas_%2815619999059%29.jpg/500px-Larva_de_Balanino_o_Gorgojo_de_las_bellotas_%2815619999059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "jacilluch — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Larva_de_Balanino_o_Gorgojo_de_las_bellotas_(15619999059).jpg"
+    }
+  },
+  {
+    "id": "ins-fourmis-autoroute",
+    "categorie": "insolite",
+    "titre": "L'autoroute des fourmis",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au pied d'un mur ensoleillé, le long d'une bordure de trottoir, au pied d'un arbre.",
+    "point": null,
+    "mois": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [
+      "froid",
+      "pluie_aujourdhui"
+    ],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Une file de petites fourmis qui avancent dans les deux sens sur le même chemin, comme sur une route à double voie.",
+    "enfant": {
+      "2-3": {
+        "mot": "fourmi",
+        "geste": "S'accroupir et regarder la file de fourmis sans les toucher : « elles marchent ! » ; leur faire un petit coucou.",
+        "phrase": "Une, deux, des fourmis en file !"
+      },
+      "3-5": {
+        "mot": "les chemins",
+        "geste": "Poser un brin d'herbe en travers du chemin et regarder comment elles le contournent.",
+        "phrase": "Elles trouvent un nouveau chemin !"
+      }
+    },
+    "adulte": {
+      "nom": "Fourmis des trottoirs (souvent la fourmi noire des jardins)",
+      "latin": "Lasius niger (le plus souvent)",
+      "anecdote": "Une fourmi qui a trouvé à manger rentre en déposant une trace chimique (phéromone) : les autres la suivent et la renforcent, d'où l'« autoroute ». Chez la fourmi noire des jardins, une reine a vécu près de 29 ans en élevage, un record chez les insectes.",
+      "pourquoi_maintenant": "D'avril à octobre, aux heures douces, quand le sol est chaud et sec.",
+      "confusion": "Fourmi noire des jardins (petite, très sombre, au sol) ou fourmi scutellaire (tête et thorax rougeâtres, abdomen noir en forme de cœur, observée dans le quartier) : la seconde vit dans le bois mort et les troncs."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lasius.niger.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "James K. Lindsey — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lasius.niger.-.lindsey.jpg"
+    }
+  },
+  {
+    "id": "ins-escargot-traine",
+    "categorie": "insolite",
+    "titre": "Des chemins d'argent sur le trottoir",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur les trottoirs, les murets et le bas des murs, surtout côté ombre, les jours qui suivent une nuit humide.",
+    "point": null,
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Des rubans brillants, secs, qui serpentent sur le trottoir ; on les voit le mieux en lumière rasante, en se baissant. L'escargot est parti, son chemin est resté.",
+    "enfant": {
+      "2-3": {
+        "mot": "chemin d'argent",
+        "geste": "Marcher tout doucement à côté du chemin brillant, comme un escargot, en le suivant des yeux.",
+        "phrase": "Doucement, doucement, comme l'escargot !"
+      },
+      "3-5": {
+        "mot": "où est-il allé ?",
+        "geste": "Suivre le chemin d'argent jusqu'au bout et chercher où l'escargot se cache (sous une feuille, au pied du mur).",
+        "phrase": "Le chemin s'arrête… il est là ?"
+      }
+    },
+    "adulte": {
+      "nom": "Traînée d'escargot petit-gris",
+      "latin": "Cornu aspersum",
+      "anecdote": "La bave est un gel qui devient liquide sous le pied quand il glisse, puis redevient visqueux au repos. En séchant, elle laisse une pellicule fine qui reflète la lumière : d'où ce chemin d'argent visible plusieurs jours. Les escargots peuvent aussi suivre la piste d'un congénère, ce qui leur coûte moins de bave.",
+      "pourquoi_maintenant": "Les escargots sortent les nuits humides ; leurs traces sèches restent ensuite visibles quelques jours sur le trottoir.",
+      "confusion": "Traînée d'escargot ou de limace : même chemin d'argent ; seul l'auteur caché au bout dit qui c'était."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Hydrophobic_snail_trail_on_pavement_left_by_Helix_aspersa.jpg/500px-Hydrophobic_snail_trail_on_pavement_left_by_Helix_aspersa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Grendelkhan — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hydrophobic_snail_trail_on_pavement_left_by_Helix_aspersa.jpg"
+    }
+  },
+  {
+    "id": "ins-vigne-raisins",
+    "categorie": "insolite",
+    "titre": "Du raisin à deux pas de la ville",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Avenue de la Mission Haut-Brion, côté nord : les rangs de vigne se voient depuis la piste cyclable, derrière la grille verte. Plus près (≈ 1 km), d'autres rangs avenue de la Vieille Tour, derrière une clôture grillagée.",
+    "point": {
+      "lat": 44.813379,
+      "lon": -0.604903,
+      "repere": "Avenue de la Mission Haut-Brion, côté nord, à ~60 m du croisement avec la rue Dubernat : depuis la piste cyclable, les rangs de vigne derrière la grille verte sur muret béton (≈ 1,5 km au nord-ouest du Forum des Halles).",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/8d/d5/a2/ac/f7da-4e7d-823b-fd05bb695da0/sd.jpg",
+        "credit": "trouyer (Panoramax) (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=8dd5a2ac-f7da-4e7d-823b-fd05bb695da0"
+      }
+    },
+    "mois": [
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "attention": "On regarde derrière la grille : les raisins appartiennent aux propriétés, on n'entre pas et on ne cueille pas.",
+    "verifier": false,
+    "reperes": "Des rangs de vigne derrière une clôture verte. Fin août-septembre, les grappes mûrissent ; à partir de la mi-septembre, les vendangeurs passent.",
+    "enfant": {
+      "2-3": {
+        "mot": "raisin",
+        "geste": "Montrer les rangs de vigne et les grappes à travers la grille : « raisin ! ».",
+        "phrase": "Du raisin, du raisin !"
+      },
+      "3-5": {
+        "mot": "les grappes",
+        "geste": "Compter les rangs de vigne puis les grappes sur un pied. Raisin noir ou blanc ?",
+        "phrase": "Une grappe, deux grappes !"
+      }
+    },
+    "adulte": {
+      "nom": "Vignoble de Talence (appellation Pessac-Léognan)",
+      "latin": "Vitis vinifera",
+      "anecdote": "Talence fait partie de l'appellation Pessac-Léognan, sur des « graves » : un sol de galets et de sable qui se réchauffe vite et draine l'eau. Dès 1663, à Londres, Samuel Pepys note dans son journal avoir bu un vin français appelé « Ho Bryan » : le Haut-Brion, dont les vignes sont juste à côté.",
+      "pourquoi_maintenant": "Fin août à octobre : vendanges des raisins blancs puis rouges.",
+      "confusion": "Vigne cultivée (rangs, palissée) ou vigne vierge (couvre les murs, baies bleu-noir non comestibles)."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ch%C3%A2teau_Smith_Haut_Lafitte_vineyard.jpg/500px-Ch%C3%A2teau_Smith_Haut_Lafitte_vineyard.jpg",
+      "credit": "davitydave — CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ch%C3%A2teau_Smith_Haut_Lafitte_vineyard.jpg"
+    }
+  },
+  {
+    "id": "ins-vigne-printemps",
+    "categorie": "insolite",
+    "titre": "Les vignes se réveillent",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Mêmes vignes de l'avenue de la Mission Haut-Brion et de l'avenue de la Vieille Tour, vues depuis le trottoir ou la piste cyclable.",
+    "point": {
+      "lat": 44.813379,
+      "lon": -0.604903,
+      "repere": "Avenue de la Mission Haut-Brion, côté nord, à ~60 m du croisement avec la rue Dubernat : depuis la piste cyclable, les rangs de vigne derrière la grille verte sur muret béton (≈ 1,5 km au nord-ouest du Forum des Halles).",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/8d/d5/a2/ac/f7da-4e7d-823b-fd05bb695da0/sd.jpg",
+        "credit": "trouyer (Panoramax) (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=8dd5a2ac-f7da-4e7d-823b-fd05bb695da0"
+      }
+    },
+    "mois": [
+      3,
+      4,
+      5
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "On regarde derrière la grille, sans entrer ni cueillir.",
+    "verifier": false,
+    "reperes": "En mars, les ceps ne sont que des bâtons tordus ; en avril, les bourgeons éclatent et de petites feuilles vert tendre apparaissent, puis les rameaux s'allongent en mai.",
+    "enfant": {
+      "2-3": {
+        "mot": "petite feuille",
+        "geste": "Chercher, à travers la grille, une petite feuille verte sur un bâton tout tordu, et la montrer du doigt.",
+        "phrase": "Coucou, petite feuille !"
+      },
+      "3-5": {
+        "mot": "bâton ou feuilles ?",
+        "geste": "Compter combien de pieds ont déjà des feuilles sur un rang, et combien sont encore des bâtons tout nus.",
+        "phrase": "Trois réveillés, deux qui dorment !"
+      }
+    },
+    "adulte": {
+      "nom": "Vigne au printemps (débourrement)",
+      "latin": "Vitis vinifera",
+      "anecdote": "Juste avant les feuilles, la vigne « pleure » : les coupes de la taille laissent couler de la sève goutte à goutte, poussée par les racines qui se remettent en marche. Et quand un gel tardif menace les bourgeons, on a vu des braseros allumés dans les vignes de Pessac (avril 2022).",
+      "pourquoi_maintenant": "De mars à mai : pleurs, puis éclosion des bourgeons (avril), moment fragile face au gel.",
+      "confusion": "Sans feuilles en hiver (taille), les ceps ressemblent à des bâtons tordus."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/D%C3%A9part_des_vignes_Saint-Germain_Ard%C3%A8che_avril_2025.jpg/500px-D%C3%A9part_des_vignes_Saint-Germain_Ard%C3%A8che_avril_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Kakoula10 — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:D%C3%A9part_des_vignes_Saint-Germain_Ard%C3%A8che_avril_2025.jpg"
+    }
+  },
+  {
+    "id": "ins-feuilles-squelettes",
+    "categorie": "insolite",
+    "titre": "La feuille qui ne garde que ses nervures",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur le sol, parmi les feuilles mortes mouillées au pied des arbres, dans les parcs et les rues.",
+    "point": null,
+    "mois": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Une feuille réduite à un réseau de fines nervures, comme une dentelle.",
+    "enfant": {
+      "2-3": {
+        "mot": "feuille dentelle",
+        "geste": "Lever la feuille devant le ciel et voir la lumière à travers les trous : « la lumière passe ! ».",
+        "phrase": "La feuille est une dentelle !"
+      },
+      "3-5": {
+        "mot": "les nervures",
+        "geste": "Compter les grosses nervures puis les petites, comme un arbre à l'envers.",
+        "phrase": "Une grosse, trois petites…"
+      }
+    },
+    "adulte": {
+      "nom": "Feuille squelette",
+      "latin": "—",
+      "anecdote": "Seuls les fins vaisseaux de la feuille, riches en lignine, résistent assez longtemps : bactéries, champignons et larves mangent d'abord la chair verte.",
+      "pourquoi_maintenant": "D'octobre à avril : les feuilles mortes mouillées ont le temps de se décomposer.",
+      "confusion": "Un trou rond sur une feuille verte est la signature d'une chenille ; le squelette, lui, est un reste de décomposition."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Vein_skeleton_of_leaf.JPG/500px-Vein_skeleton_of_leaf.JPG",
+      "credit": "Brocken Inaglory — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Vein_skeleton_of_leaf.JPG"
+    }
+  },
+  {
+    "id": "ins-gaillet-collant",
+    "categorie": "insolite",
+    "titre": "L'herbe qui colle aux habits",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au pied des haies, le long des grillages et des talus, dans les coins non tondus des parcs.",
+    "point": null,
+    "mois": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "On colle seulement sur les vêtements, jamais dans les cheveux ni sur un animal.",
+    "verifier": false,
+    "reperes": "Une herbe aux longues tiges qui s'accrochent partout, avec des feuilles fines disposées en étoile autour de la tige ; l'été, de petites boules vertes velues (les fruits). Toute la plante est râpeuse au toucher.",
+    "enfant": {
+      "2-3": {
+        "mot": "ça colle !",
+        "geste": "Poser un brin sur le manteau du parent : il reste accroché tout seul ! Puis le décoller.",
+        "phrase": "Ça colle, ça colle !"
+      },
+      "3-5": {
+        "mot": "les petits crochets",
+        "geste": "Coller un brin sur son dos sans le dire, puis jouer à le retrouver ; compter combien de boules restent sur un pantalon.",
+        "phrase": "Qui a une étiquette dans le dos ?"
+      }
+    },
+    "adulte": {
+      "nom": "Gaillet gratteron",
+      "latin": "Galium aparine",
+      "anecdote": "Tiges, feuilles et fruits sont couverts de minuscules crochets tournés vers le bas : la plante grimpe ainsi sur ses voisines sans vrilles, et ses fruits voyagent accrochés au pelage des animaux. C'est la même astuce que la bardane, dont les fruits accrochés au chien de Georges de Mestral lui ont inspiré le velcro.",
+      "pourquoi_maintenant": "D'avril à juillet : la plante est à son plus grand, et ses petits fruits accrocheurs se forment à partir de mai-juin.",
+      "confusion": "Gaillet gratteron (feuilles en étoile, accroche tout entier) ou bardane (grosses boules à crochets sur une grande plante à larges feuilles, plus rare en ville)."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Galium_aparine_fruits%2C_kleefkruid_vruchten.jpg/500px-Galium_aparine_fruits%2C_kleefkruid_vruchten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Rasbak — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Galium_aparine_fruits,_kleefkruid_vruchten.jpg"
+    }
+  },
+  {
+    "id": "ins-samares-helicopteres",
+    "categorie": "insolite",
+    "titre": "Les graines hélicoptères",
+    "lieux": [
+      "partout",
+      "parc-peixotto"
+    ],
+    "ou": "Sous les érables : cherche les paires d'ailes sèches au sol, aux alentours de Peixotto, sur les trottoirs et pelouses.",
+    "point": null,
+    "mois": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Des fruits en deux ailes soudées (samares). Lance-les en l'air : elles tournent comme un hélicoptère.",
+    "enfant": {
+      "2-3": {
+        "mot": "hélicoptère",
+        "geste": "Lâcher la graine en hauteur et la regarder tourner : « hélicoptère ! », puis la ramasser et la relâcher.",
+        "phrase": "Tourne, tourne, hélicoptère !"
+      },
+      "3-5": {
+        "mot": "qui tourne le mieux",
+        "geste": "Lâcher deux samares de la même hauteur et dire laquelle tombe le plus lentement.",
+        "phrase": "Elle tourne plus lentement !"
+      }
+    },
+    "adulte": {
+      "nom": "Samare d'érable sycomore",
+      "latin": "Acer pseudoplatanus",
+      "anecdote": "En tournant, la graine crée un tourbillon qui la porte plus longtemps : cette « autorotation » a été étudiée comme modèle de micro-drone (revue Science, 2009).",
+      "pourquoi_maintenant": "De la fin de l'été à l'automne : elles mûrissent et tombent.",
+      "confusion": "Érable sycomore (ailes en V plus ou moins fermé), érable plane (ailes très écartées) ou érable champêtre (ailes alignées à plat, presque en ligne droite)."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Aur%C3%B3_Acer_pseudoplatanus_samaras.jpg/500px-Aur%C3%B3_Acer_pseudoplatanus_samaras.jpg",
+      "credit": "Auró — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Aur%C3%B3_Acer_pseudoplatanus_samaras.jpg"
+    }
+  },
+  {
+    "id": "ins-champignon-souche",
+    "categorie": "insolite",
+    "titre": "Les petits champignons-éventails du bois mort",
+    "lieux": [
+      "bois-sourreil",
+      "parc-peixotto"
+    ],
+    "ou": "Sur les branches mortes et les souches, après la pluie : bois mort laissé sur place au bois Sourreil ; il a aussi été observé au parc Peixotto.",
+    "point": {
+      "lat": 44.8095,
+      "lon": -0.5795,
+      "repere": "Bois Sourreil, impasse Suzon : bois mort laissé sur place le long des sentiers ; cherche des éventails blanc-gris velus sur les branches mortes. Observer sans toucher."
+    },
+    "mois": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [
+      "gel"
+    ],
+    "moment": null,
+    "poids": 2,
+    "attention": "Champignons : on regarde seulement, on ne touche pas, on ne cueille pas, rien à la bouche, on se lave les mains après.",
+    "verifier": false,
+    "reperes": "De petits éventails gris-blanc, velus, accrochés au bois mort, qui se creusent sous la pluie.",
+    "enfant": {
+      "2-3": {
+        "mot": "champignon",
+        "geste": "Montrer le champignon du doigt, sans toucher : « champignon ! ».",
+        "phrase": "Je regarde, je ne touche pas !"
+      },
+      "3-5": {
+        "mot": "les lamelles",
+        "geste": "Se pencher, sans toucher, pour voir le dessous gris-rose et ses lamelles fendues en deux ; compter les éventails sur la branche.",
+        "phrase": "Un, deux, trois éventails !"
+      }
+    },
+    "adulte": {
+      "nom": "Schizophylle commun",
+      "latin": "Schizophyllum commune",
+      "anecdote": "Ses lamelles sont fendues dans la longueur : par temps sec, elles se replient pour protéger les spores, puis se rouvrent à la pluie. Il possède des dizaines de milliers de « types sexuels » différents (plus de 20 000), un record.",
+      "pourquoi_maintenant": "Après une pluie : les spécimens sont gonflés et visibles ; il persiste sur le bois mort presque toute l'année.",
+      "confusion": "Ne pas confondre avec d'autres champignons du bois : ne jamais en manger sans expertise."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Spaltbl%C3%A4ttling_Schizophyllum_commune.jpg/500px-Spaltbl%C3%A4ttling_Schizophyllum_commune.jpg",
+      "credit": "Holger Krisp — CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Spaltbl%C3%A4ttling_Schizophyllum_commune.jpg"
+    }
+  },
+  {
+    "id": "ins-fientes-blanches",
+    "categorie": "insolite",
+    "titre": "Pourquoi les crottes d'oiseaux sont blanches",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sous les arbres et les fils où les oiseaux se regroupent en fin de journée : étourneaux en dortoir, pigeons, perchoirs réguliers.",
+    "point": null,
+    "mois": [
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "On regarde de loin, on évite de rester sous les perchoirs, on ne touche pas, et on se lave les mains si besoin.",
+    "verifier": false,
+    "reperes": "De grosses taches blanches sur le trottoir sous un arbre, un fil ou une corniche : c'est un perchoir ou un dortoir.",
+    "enfant": {
+      "2-3": {
+        "mot": "tache blanche",
+        "geste": "Montrer la tache du doigt, de loin : « les oiseaux sont venus ! ».",
+        "phrase": "Les oiseaux dorment ici !"
+      },
+      "3-5": {
+        "mot": "le pipi des oiseaux",
+        "geste": "Dire où il y a le plus de taches et deviner pourquoi.",
+        "phrase": "Beaucoup de taches : un dortoir !"
+      }
+    },
+    "adulte": {
+      "nom": "Fientes d'oiseaux (dortoir d'étourneaux)",
+      "latin": "Sturnus vulgaris",
+      "anecdote": "La partie blanche est de l'acide urique, le « pipi » des oiseaux, rejeté avec les fientes par une seule sortie ; le brun-noir, c'est le reste.",
+      "pourquoi_maintenant": "D'octobre à février, les étourneaux dorment en dortoirs : le sol est blanc sous les perchoirs.",
+      "confusion": "Une grosse tache isolée vient d'un pigeon ou d'une corneille ; un sol blanc sous tout un arbre signale un dortoir d'étourneaux."
+    },
+    "photo": null
+  },
+  {
+    "id": "ins-cloportes",
+    "categorie": "insolite",
+    "titre": "Sous le bois mort, des cousins des crevettes",
+    "lieux": [
+      "bois-sourreil"
+    ],
+    "ou": "Sous un morceau de bois mort ou une écorce, au pied d'un tronc dans le bois Sourreil.",
+    "point": {
+      "lat": 44.8095,
+      "lon": -0.5795,
+      "repere": "Bois Sourreil, impasse Suzon : cherche un morceau de bois mort ou d'écorce posé au sol, humide, dans le sous-bois. Soulève doucement, regarde, remets en place."
+    },
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [
+      "gel"
+    ],
+    "moment": null,
+    "poids": 2,
+    "attention": "On soulève seulement un petit bout de bois, on le remet en place, on ne prend pas les bêtes ; mains lavées après.",
+    "verifier": false,
+    "reperes": "De petits animaux gris ovales à plusieurs paires de pattes, qui fuient la lumière.",
+    "enfant": {
+      "2-3": {
+        "mot": "bête grise",
+        "geste": "Soulever doucement un petit bout de bois mort, regarder, puis le reposer : « coucou, les bêtes ! ».",
+        "phrase": "Coucou, petites bêtes, au revoir !"
+      },
+      "3-5": {
+        "mot": "les pattes",
+        "geste": "Compter les pattes (7 paires) et dire pourquoi elles se cachent (elles aiment l'humide).",
+        "phrase": "Sept paires de pattes !"
+      }
+    },
+    "adulte": {
+      "nom": "Cloporte",
+      "latin": "Porcellio scaber",
+      "anecdote": "Ce sont des crustacés terrestres, cousins des crevettes : ils respirent par des sortes de branchies sous le ventre, qui doivent rester humides, d'où leur goût pour le dessous du bois mort. La femelle porte ses œufs puis ses petits dans une poche sous le ventre.",
+      "pourquoi_maintenant": "De mars à novembre : tant qu'il ne gèle pas, ils sont actifs sous le bois mort.",
+      "confusion": "Ce cloporte rugueux ne se roule pas en boule ; le cloporte-boule (Armadillidium), plus bombé, se met en bille quand on le dérange. L'iule, lui, est un mille-pattes cylindrique."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Porcellio_scaber_180463341.jpg/500px-Porcellio_scaber_180463341.jpg",
+      "credit": "Michel Langeveld — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Porcellio_scaber_180463341.jpg"
+    }
+  },
+  {
+    "id": "ins-herbe-pampa",
+    "categorie": "insolite",
+    "titre": "Les plumeaux géants de l'herbe de la pampa",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Peydavant, côté nord, derrière la barrière blanche, à environ 160 m au sud-est du Forum.",
+    "point": {
+      "lat": 44.805753,
+      "lon": -0.586387,
+      "repere": "Rue Peydavant, côté nord de la chaussée, à ~80 m du croisement avec Rue Verdeau ; repère : derrière la barrière blanche, à gauche (157 m au sud-est du Forum des Halles)"
+    },
+    "mois": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "Les feuilles sont coupantes : on regarde sans toucher les feuilles.",
+    "verifier": true,
+    "reperes": "Une énorme touffe d'herbe avec de grands plumeaux blancs-crème au bout de longues tiges.",
+    "enfant": {
+      "2-3": {
+        "mot": "plumeau",
+        "geste": "Montrer le grand plumeau en tendant les deux bras : « un plumeau géant ! ».",
+        "phrase": "Un plumeau géant !"
+      },
+      "3-5": {
+        "mot": "plus grand que moi",
+        "geste": "Dire si le plumeau est plus grand que l'enfant, ou que le parent.",
+        "phrase": "Plus grand que moi !"
+      }
+    },
+    "adulte": {
+      "nom": "Herbe de la pampa",
+      "latin": "Cortaderia selloana",
+      "anecdote": "Originaire d'Amérique du Sud, elle s'échappe des jardins et devient une plante envahissante. Les plumeaux les plus fournis sont portés par les pieds femelles.",
+      "pourquoi_maintenant": "D'août à décembre : les plumeaux sont à leur plus beau.",
+      "confusion": "Herbe de la pampa (plumeaux hauts) ou miscanthus (plumeaux plus fins)."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Pampas_grass_%2842385558184%29.jpg/500px-Pampas_grass_%2842385558184%29.jpg",
+      "credit": "Raita Futo from Tokyo, Japan — CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Pampas_grass_(42385558184).jpg"
+    }
+  },
+  {
+    "id": "ins-guttation",
+    "categorie": "insolite",
+    "titre": "Des gouttes aux pointes, mais ce n'est pas de la rosée",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bout des brins d'herbe des pelouses et au bord des feuilles dentelées (fraisiers et alchémilles des jardins partagés), tôt le matin.",
+    "point": null,
+    "mois": [
+      4,
+      5,
+      6,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [
+      "pluie_aujourdhui",
+      "vent",
+      "gel"
+    ],
+    "moment": "matin",
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Une goutte bien ronde perchée tout au bout de chaque brin, ou une goutte à chaque dent de la feuille, alors que le reste de la feuille est sec : c'est la plante qui les a produites.",
+    "enfant": {
+      "2-3": {
+        "mot": "goutte",
+        "geste": "Toucher la goutte du bout du doigt : hop, elle saute sur le doigt !",
+        "phrase": "Une goutte au bout du brin !"
+      },
+      "3-5": {
+        "mot": "rosée ou plante ?",
+        "geste": "Comparer : sur une voiture ou un fil, la rosée est partout ; sur la plante, la goutte est au bout.",
+        "phrase": "Au bout de la feuille, jamais ailleurs !"
+      }
+    },
+    "adulte": {
+      "nom": "Guttation (eau rejetée par la plante)",
+      "latin": "—",
+      "anecdote": "Les nuits douces et humides, les racines continuent de pousser de l'eau vers le haut alors que les feuilles ne transpirent plus : l'eau ressort par de petits pores au bout et aux dents des feuilles (les hydathodes). Ce n'est pas de la rosée, qui se condense à partir de l'air sur toutes les surfaces froides.",
+      "pourquoi_maintenant": "Aux matins doux et humides, après une nuit calme.",
+      "confusion": "Rosée (gouttes partout, sur la feuille, les voitures, les toiles) ou guttation (une goutte à chaque pointe ou chaque dent, le reste sec). Souvent, les deux se mélangent."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Guttation_on_a_strawberry_leaf.jpg/500px-Guttation_on_a_strawberry_leaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Schnobby — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Guttation_on_a_strawberry_leaf.jpg"
+    }
+  },
+  {
+    "id": "ins-gouttes-perles",
+    "categorie": "insolite",
+    "titre": "Les gouttes qui roulent en perles",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Après la pluie, sur les feuilles qui « refusent » l'eau : alchémille et choux des jardins partagés, capucines, trèfle des pelouses.",
+    "point": null,
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [
+      "gel"
+    ],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Sur certaines feuilles, l'eau ne mouille pas : elle forme des billes rondes et brillantes qui roulent quand la feuille bouge.",
+    "enfant": {
+      "2-3": {
+        "mot": "goutte",
+        "geste": "Montrer la goutte : « une perle ! ». La faire rouler en soufflant doucement dessus.",
+        "phrase": "Perle, perle, roule, roule !"
+      },
+      "3-5": {
+        "mot": "comment ça roule",
+        "geste": "Souffler doucement sur la goutte et la regarder rouler.",
+        "phrase": "La perle roule !"
+      }
+    },
+    "adulte": {
+      "nom": "Feuilles déperlantes (effet lotus)",
+      "latin": "—",
+      "anecdote": "Ces feuilles sont couvertes de cire et de minuscules bosses : l'eau ne touche presque que le sommet des bosses et se met en boule. En roulant, les gouttes emportent poussières et spores : la feuille se nettoie toute seule. On copie cette astuce pour fabriquer des vitres et des peintures autonettoyantes.",
+      "pourquoi_maintenant": "Après une averse : les gouttes restent un moment avant de sécher.",
+      "confusion": "Sur une feuille lisse et vernie (laurier, magnolia), l'eau s'étale ou forme des gouttes plates : seules les feuilles déperlantes font de vraies perles."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Lady%27s_mantle_leaves_with_water_droplets%2C_Wiesbaden.jpg/500px-Lady%27s_mantle_leaves_with_water_droplets%2C_Wiesbaden.jpg",
+      "credit": "Gerda Arendt — CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lady%27s_mantle_leaves_with_water_droplets,_Wiesbaden.jpg"
+    }
+  },
+  {
+    "id": "ins-mousse-nord",
+    "categorie": "insolite",
+    "titre": "La mousse ne montre pas le nord",
+    "lieux": [
+      "partout",
+      "bois-sourreil"
+    ],
+    "ou": "Sur les troncs des grands arbres du quartier ; fais le tour de l'arbre.",
+    "point": null,
+    "mois": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Faites le tour d'un tronc : la mousse pousse là où il fait humide et ombragé, pas forcément au nord.",
+    "enfant": {
+      "2-3": {
+        "mot": "mousse",
+        "geste": "Faire le tour de l'arbre à petits pas et crier « mousse ! » chaque fois qu'on en voit.",
+        "phrase": "Mousse ici, mousse là !"
+      },
+      "3-5": {
+        "mot": "où est la mousse ?",
+        "geste": "Faire le tour du tronc : sur quels côtés trouve-t-on de la mousse ?",
+        "phrase": "Dans le coin humide !"
+      }
+    },
+    "adulte": {
+      "nom": "Mousse sur tronc",
+      "latin": "—",
+      "anecdote": "Une idée reçue prétend que la mousse indique le nord. Elle pousse surtout du côté le plus humide, pas toujours au nord : sur un arbre isolé, il y a souvent de la mousse tout autour.",
+      "pourquoi_maintenant": "D'octobre à avril : la mousse est gorgée d'eau et bien verte.",
+      "confusion": "Mousse (douce, verte) ou lichen (croûtes plates, gris-vert) : tous deux poussent sur les troncs."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Sunlit_moss_on_a_tree_trunk_in_Tuntorp.jpg/500px-Sunlit_moss_on_a_tree_trunk_in_Tuntorp.jpg",
+      "credit": "W.carter — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sunlit_moss_on_a_tree_trunk_in_Tuntorp.jpg"
+    }
+  },
+  {
+    "id": "ins-lichens-mur",
+    "categorie": "insolite",
+    "titre": "Le mur peint par des champignons",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Frédéric Sévène, côté sud-ouest : un vieux mur de pierre couvert de taches jaunes, grises et vert pâle. On en trouve sur la plupart des vieux murs et des troncs du quartier.",
+    "point": {
+      "lat": 44.804866,
+      "lon": -0.580514,
+      "repere": "Rue Frédéric Sévène, côté sud-ouest, une quarantaine de mètres après l'entrée de la résidence Frédéric Sévène : le vieux mur de pierre à droite, juste après le poteau en béton.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/7e/6e/64/56/13bf-432a-baf3-02d258affc9f/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=7e6e6456-13bf-432a-baf3-02d258affc9f"
+      }
+    },
+    "mois": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Des taches plates collées à la pierre, qui ne s'écaillent pas comme de la peinture : jaune-orangé, gris clair, vert pâle. Plus vives quand il a plu.",
+    "enfant": {
+      "2-3": {
+        "mot": "tache orange",
+        "geste": "Cherche une tache jaune ou orange sur la pierre et pose le doigt tout à côté, sans gratter.",
+        "phrase": "Tache orange, je te vois !"
+      },
+      "3-5": {
+        "mot": "les couleurs du mur",
+        "geste": "Compte les couleurs de taches sur un grand pas de mur et invente un nom pour chacune. Devine : c'est vivant ou c'est de la peinture ?",
+        "phrase": "Orange abricot, gris souris !"
+      }
+    },
+    "adulte": {
+      "nom": "Lichens (dont la xanthorie des murailles)",
+      "latin": "Xanthoria parietina",
+      "anecdote": "Un lichen est un champignon qui vit en couple avec une algue microscopique : l'algue fabrique du sucre grâce à la lumière, le champignon fournit l'abri et l'eau. La xanthorie, jaune d'or, aime l'azote : elle abonde là où se posent les oiseaux. Beaucoup de lichens ne grandissent que de quelques millimètres par an.",
+      "pourquoi_maintenant": "D'octobre à mai, l'humidité les gonfle et avive leurs couleurs ; en été sec, ils deviennent ternes et cassants.",
+      "confusion": "La mousse forme un coussin vert et doux ; l'algue verte, une poudre qui tache le doigt ; le lichen, une croûte qui ne se détache pas."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Xantoria_parientina.jpg/500px-Xantoria_parientina.jpg",
+      "credit": "Francesco Simonetti — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Xantoria_parientina.jpg"
+    }
+  },
+  {
+    "id": "ins-lierre-fleurs",
+    "categorie": "insolite",
+    "titre": "Le mur de lierre qui bourdonne",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Avenue du Lycée, côté est, près de l'avenue du Château : un mur blanc couvert de lierre en cascade. Tout lierre en fleur du quartier, au soleil, fait l'affaire.",
+    "point": {
+      "lat": 44.802965,
+      "lon": -0.593758,
+      "repere": "Avenue du Lycée, côté est, une trentaine de mètres après l'avenue du Château : le mur blanc couvert de lierre, à gauche, à côté des grands bacs à ordures noirs.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/54/96/44/be/112b-461b-b9b0-395e197c5be1/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=549644be-112b-461b-b9b0-395e197c5be1"
+      }
+    },
+    "mois": [
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [
+      "froid",
+      "couvert",
+      "brouillard",
+      "pluie_aujourdhui"
+    ],
+    "moment": null,
+    "poids": 3,
+    "attention": "Abeilles, guêpes et parfois frelons viennent aux fleurs : on regarde à un grand pas, sans geste brusque. Les baies du lierre sont toxiques.",
+    "verifier": false,
+    "reperes": "Petites boules de fleurs vert-jaune au bout des rameaux, sur le lierre qui dépasse en haut du mur ; on entend le bourdonnement avant de voir les insectes.",
+    "enfant": {
+      "2-3": {
+        "mot": "bzzz",
+        "geste": "Tends l'oreille vers le lierre en silence : « bzzz ! ». Montre les insectes du doigt, sans toucher.",
+        "phrase": "Bzzz, le mur bourdonne !"
+      },
+      "3-5": {
+        "mot": "qui vient manger ?",
+        "geste": "Compte les visiteurs différents pendant dix secondes : abeille, mouche rayée, papillon, guêpe ? Lequel est le plus nombreux ?",
+        "phrase": "Une abeille, une mouche, un papillon !"
+      }
+    },
+    "adulte": {
+      "nom": "Lierre en fleurs",
+      "latin": "Hedera helix",
+      "anecdote": "Le lierre fleurit à contre-saison, de septembre à novembre : c'est l'une des dernières grandes sources de nectar de l'année. Une abeille sauvage, la collète du lierre, cale tout son cycle sur cette floraison et ne vole qu'en automne. Les baies mûrissent ensuite en plein hiver, quand les oiseaux ont peu à manger.",
+      "pourquoi_maintenant": "Quand presque toutes les fleurs sont fanées, le lierre prend le relais ; par temps doux et ensoleillé, le mur grouille d'insectes.",
+      "confusion": "Les fleurs (boules vert-jaune) n'ont rien à voir avec les baies noires de la fin d'hiver ; seul le lierre âgé, qui a atteint le haut du mur, fleurit."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Hedera_helix_flower_honey_bee.jpg/500px-Hedera_helix_flower_honey_bee.jpg",
+      "credit": "MurielBendel — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hedera_helix_flower_honey_bee.jpg"
+    }
+  },
+  {
+    "id": "ins-pierre-blonde",
+    "categorie": "insolite",
+    "titre": "Une pierre née au fond de la mer",
+    "lieux": [
+      "parc-peixotto",
+      "partout"
+    ],
+    "ou": "Cours de la Libération, côté parc Peixotto, un peu après l'avenue Espeleta : le long mur ancien en pierre blonde. Tous les vieux murs et les échoppes du quartier sont faits de la même pierre.",
+    "point": {
+      "lat": 44.809484,
+      "lon": -0.591293,
+      "repere": "Cours de la Libération, côté est (côté parc Peixotto), à environ 70 m de l'avenue Espeleta : le mur ancien en pierre blonde, près d'un lampadaire."
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Calcaire jaune-crème à blond, au grain fin, piqué de petits trous ; plus doré sous un soleil rasant.",
+    "enfant": {
+      "2-3": {
+        "mot": "pierre",
+        "geste": "Pose la main à plat sur la pierre : rugueuse, tiède au soleil, fraîche à l'ombre. Passe un doigt dans un petit trou.",
+        "phrase": "Pierre dure, pierre blonde !"
+      },
+      "3-5": {
+        "mot": "chercheur de coquilles",
+        "geste": "Les yeux tout près de la pierre, cherche un minuscule bout de coquille, une ligne, un trou rond. Puis devine : comment une coquille de mer est-elle arrivée dans un mur ?",
+        "phrase": "Avant, ici, c'était la mer !"
+      }
+    },
+    "adulte": {
+      "nom": "Pierre blonde de Bordeaux (calcaire à astéries)",
+      "latin": null,
+      "anecdote": "La pierre blonde des vieux murs bordelais vient le plus souvent du « calcaire à astéries », formé il y a environ 30 millions d'années (Oligocène) au fond d'une mer chaude et peu profonde qui couvrait la région. Il doit son nom aux petits osselets d'étoiles de mer qu'il contient parfois. Dans un mur, les fossiles se voient rarement à l'œil nu, mais on repère souvent de minuscules débris de coquilles.",
+      "pourquoi_maintenant": "Toute l'année ; la pierre est la plus belle sous un soleil bas, le matin ou en fin de journée.",
+      "confusion": "Le béton et les enduits sont gris et lisses, sans petits trous ni grain doré."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Calcaire_%C3%A0_asteries.jpg/500px-Calcaire_%C3%A0_asteries.jpg",
+      "credit": "Geofan — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Calcaire_%C3%A0_asteries.jpg"
+    }
+  }
+]

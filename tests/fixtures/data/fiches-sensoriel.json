@@ -1,0 +1,156 @@
+[
+  {
+    "id": "flaques",
+    "categorie": "sensoriel",
+    "titre": "Sauter dans les flaques",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "flaques",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "flaques, coucou !"
+      },
+      "3-5": {
+        "mot": "flaques (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le flaques ?"
+      }
+    },
+    "adulte": {
+      "nom": "Sauter dans les flaques",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "vent-feuilles",
+    "categorie": "sensoriel",
+    "titre": "Écouter le vent",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "vent"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "vent",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "vent, coucou !"
+      },
+      "3-5": {
+        "mot": "vent (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le vent ?"
+      }
+    },
+    "adulte": {
+      "nom": "Écouter le vent",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "ecorce",
+    "categorie": "sensoriel",
+    "titre": "Toucher l’écorce",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "l’écorce",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "l’écorce, coucou !"
+      },
+      "3-5": {
+        "mot": "l’écorce (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le l’écorce ?"
+      }
+    },
+    "adulte": {
+      "nom": "Toucher l’écorce",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  }
+]

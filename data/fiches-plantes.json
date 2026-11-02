@@ -1,0 +1,2259 @@
+[
+  {
+    "id": "pla-marrons-bogue-robespierre",
+    "categorie": "plante",
+    "titre": "La bogue piquante qui cache un marron",
+    "lieux": [
+      "parc-robespierre",
+      "partout"
+    ],
+    "ou": "Parc Robespierre, sur la pelouse sous les grands marronniers, côté rue Chambrelent / rue Peydavant. Ramasse seulement ce qui est déjà tombé.",
+    "point": {
+      "lat": 44.80804,
+      "lon": -0.58516,
+      "repere": "Rue Chambrelent, côté sud, au croisement avec la rue Peydavant : la pelouse du parc Robespierre près du panneau d'information et des arceaux à vélos, sous les grands marronniers."
+    },
+    "mois": [
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Bogue verte hérissée de courtes pointes qui éclate en 2-3 valves ; marron brun luisant avec une grande tache claire. Feuilles en « main » de 5 à 7 folioles.",
+    "enfant": {
+      "2-3": {
+        "mot": "piquant",
+        "geste": "Montre une bogue par terre et touche une pointe du bout du doigt, tout doucement : ça pique un peu !",
+        "phrase": "Bogue qui pique, marron qui brille !"
+      },
+      "3-5": {
+        "mot": "la maison du marron",
+        "geste": "Trouve une bogue ouverte : combien de marrons dedans, 1, 2 ou 3 ? Cherche aussi la tache claire sur chaque marron.",
+        "phrase": "Toc toc, qui dort dans la bogue ?"
+      }
+    },
+    "adulte": {
+      "nom": "Marronnier d'Inde",
+      "latin": "Aesculus hippocastanum",
+      "anecdote": "La grande tache claire du marron est le hile, la cicatrice de son attache à la bogue, comme un nombril. Le marronnier vient des montagnes des Balkans et a été introduit en France au XVIIe siècle.",
+      "pourquoi_maintenant": "Les bogues mûrissent en septembre et tombent jusqu'à fin octobre ; un marron fraîchement sorti est très brillant, puis il ternit en quelques jours.",
+      "confusion": "Châtaigne : bogue couverte de longues épines fines et fruit pointu à houppette, comestible. Marron d'Inde : bogue à courtes pointes, fruit rond, non comestible."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Afgevallen_kastanje_van_een_paardenkastanje_%28Aesculus%29_10-10-2021_%28d.j.b.%29_02.jpg/500px-Afgevallen_kastanje_van_een_paardenkastanje_%28Aesculus%29_10-10-2021_%28d.j.b.%29_02.jpg",
+      "credit": "Dominicus Johannes Bergsma — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Afgevallen_kastanje_van_een_paardenkastanje_(Aesculus)_10-10-2021_(d.j.b.)_02.jpg"
+    },
+    "attention": "Marrons et glands : on regarde, on compte, on ne les met jamais à la bouche (toxiques, risque d'étouffement).",
+    "verifier": false
+  },
+  {
+    "id": "pla-marronnier-bourgeons-collants",
+    "categorie": "plante",
+    "titre": "Les bourgeons collants du marronnier",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur la placette-parking de la rue Blaise Pascal, au bout des branches basses ou sur un petit rameau tombé.",
+    "point": {
+      "lat": 44.80777,
+      "lon": -0.58429,
+      "repere": "Rue Blaise Pascal, côté nord de la chaussée, à ~20 m du croisement avec Rue Parmentier ; repère : sur la placette-parking à gauche, au bord de la pelouse",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/5f/48/8d/1a/3d39-4b3e-acbb-d5d3f3b904c4/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=5f488d1a-3d39-4b3e-acbb-d5d3f3b904c4"
+      }
+    },
+    "mois": [
+      3,
+      4
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Gros bourgeons bruns luisants, collants au toucher, en bout de rameau ; sous eux, cicatrices en forme de fer à cheval.",
+    "enfant": {
+      "2-3": {
+        "mot": "collant",
+        "geste": "Touche un bourgeon du bout du doigt : il colle ! Puis essuie-toi les doigts ensemble.",
+        "phrase": "Bourgeon collant, colle mon doigt !"
+      },
+      "3-5": {
+        "mot": "fer à cheval",
+        "geste": "Sur un petit rameau tombé, cherche la cicatrice en fer à cheval et compte ses petits points.",
+        "phrase": "Un fer à cheval sur la branche, qui l'a perdu ?"
+      }
+    },
+    "adulte": {
+      "nom": "Marronnier d'Inde (bourgeons)",
+      "latin": "Aesculus hippocastanum",
+      "anecdote": "Le bourgeon est enrobé d'une résine collante qui le rend étanche et gêne les insectes. Sous lui, les cicatrices des feuilles de l'an passé dessinent un fer à cheval avec ses « clous » (les traces des vaisseaux).",
+      "pourquoi_maintenant": "Les bourgeons gonflent en mars et s'ouvrent en avril : les feuilles dépliées en éventail sortent comme des mains.",
+      "confusion": "Les bourgeons de platane ou de tilleul ne sont ni gros ni collants."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Horse-chestnut_%28Aesculus_hippocastanum%29_bud_%288256472335%29.jpg/500px-Horse-chestnut_%28Aesculus_hippocastanum%29_bud_%288256472335%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Peter O'Connor — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Horse-chestnut_(Aesculus_hippocastanum)_bud_(8256472335).jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-marronnier-chandelles",
+    "categorie": "plante",
+    "titre": "Les chandelles blanches du marronnier",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Peydavant, début de l'allée près du carrefour avec la rue Chambrelent : le grand marronnier à gauche de l'allée.",
+    "point": {
+      "lat": 44.80795,
+      "lon": -0.58531,
+      "repere": "Rue Peydavant, côté sud-est de la chaussée, à ~30 m du croisement avec Rue Chambrelent ; repère : à gauche de l'allée en béton clair qui entre dans le parc"
+    },
+    "mois": [
+      4,
+      5
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Grandes grappes dressées de fleurs blanches, tachées de jaune puis de rouge au centre.",
+    "enfant": {
+      "2-3": {
+        "mot": "bougie",
+        "geste": "Lève la tête, trouve une « bougie » blanche dans l'arbre et souffle dessus de loin, comme sur un gâteau.",
+        "phrase": "Une bougie dans l'arbre, je souffle : pfff !"
+      },
+      "3-5": {
+        "mot": "jaune ou rouge ?",
+        "geste": "Regarde une bougie basse : cherche une fleur avec un cœur jaune, puis une avec un cœur rouge. Laquelle les abeilles visitent-elles ?",
+        "phrase": "Cœur jaune, les abeilles y vont !"
+      }
+    },
+    "adulte": {
+      "nom": "Marronnier d'Inde (floraison)",
+      "latin": "Aesculus hippocastanum",
+      "anecdote": "La tache au centre de chaque fleur passe du jaune au rouge-rose une fois le nectar épuisé : un signal pour les abeilles, qui ne visitent plus que les fleurs jaunes.",
+      "pourquoi_maintenant": "Floraison en avril, parfois jusqu'à début mai ; les petites bogues vertes apparaissent dès juin.",
+      "confusion": "Le marronnier rouge, plus petit, a des chandelles roses ; le marronnier d'Inde classique les a blanches."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Chestnut_candles_%2818019366720%29.jpg/500px-Chestnut_candles_%2818019366720%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "marsupium photography — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chestnut_candles_(18019366720).jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-sequoia-tronc-roux",
+    "categorie": "plante",
+    "titre": "Le grand arbre au tronc roux",
+    "lieux": [
+      "parc-peixotto",
+      "campus-haut-carre"
+    ],
+    "ou": "Cours de la Libération, côté campus, face au parc Peixotto : de grands conifères au tronc rouille derrière la clôture, visibles du trottoir.",
+    "point": {
+      "lat": 44.80779,
+      "lon": -0.59194,
+      "repere": "Cours de la Libération, côté ouest de la chaussée, à ~50 m du croisement avec Allée Peixotto ; repère : au bout du bâtiment universitaire beige à trois niveaux"
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Tronc très épais, rouge-brun, à l'écorce spongieuse et profondément sillonnée ; feuillage vert sombre en écailles piquantes.",
+    "enfant": {
+      "2-3": {
+        "mot": "géant",
+        "geste": "Sur le trottoir, renverse la tête en arrière pour voir le haut de l'arbre roux. Ouh, il est grand !",
+        "phrase": "Grand, grand, géant !"
+      },
+      "3-5": {
+        "mot": "grand comme...",
+        "geste": "Devine : combien d'enfants faudrait-il, debout les uns sur les autres, pour arriver en haut ? Et combien pour faire le tour du tronc ?",
+        "phrase": "Un enfant, dix enfants... cent enfants !"
+      }
+    },
+    "adulte": {
+      "nom": "Séquoia (géant probablement)",
+      "latin": "Sequoiadendron giganteum",
+      "anecdote": "Son écorce spongieuse, épaisse de plusieurs dizaines de centimètres, le protège du feu. Introduit en Europe vers 1853, il pousse vite ; en Californie, les plus vieux ont plus de 3 000 ans.",
+      "pourquoi_maintenant": "L'arbre est vert et roux toute l'année ; sous la lumière rasante d'hiver, le tronc paraît tout rouge.",
+      "confusion": "Séquoia géant (écailles piquantes) ou séquoia toujours vert (aiguilles plates) : la nuance se voit de près. Cyprès chauve et métaséquoia, eux, perdent leurs aiguilles en automne."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Sequoiadendron_giganteum_Oliwa_2026_trunk.jpg/500px-Sequoiadendron_giganteum_Oliwa_2026_trunk.jpg",
+      "credit": "Crusier — CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Sequoiadendron_giganteum_Oliwa_2026_trunk.jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-cedre-etages",
+    "categorie": "plante",
+    "titre": "Le cèdre aux branches en étages",
+    "lieux": [
+      "parc-peixotto",
+      "partout"
+    ],
+    "ou": "Cours de la Libération, côté parc, près de l'avenue Espeleta : un grand cèdre sur le mur de pierre blonde, à côté d'un lampadaire.",
+    "point": {
+      "lat": 44.80955,
+      "lon": -0.59131,
+      "repere": "Cours de la Libération, côté est de la chaussée, à ~70 m du croisement avec Avenue Espeleta ; repère : mur en pierre blonde, lampadaire"
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Branches étalées en plateaux horizontaux, aiguilles courtes réunies en petits bouquets, cônes en petit tonneau dressés sur les rameaux.",
+    "enfant": {
+      "2-3": {
+        "mot": "cèdre",
+        "geste": "Regarde les branches qui s'étalent comme des plateaux et dis « cèdre » en montrant l'arbre.",
+        "phrase": "Cèdre, cèdre, branches en étages !"
+      },
+      "3-5": {
+        "mot": "étages",
+        "geste": "Compte les « étages » de branches que tu vois, de bas en haut.",
+        "phrase": "Un étage, deux étages... le cèdre est un immeuble !"
+      }
+    },
+    "adulte": {
+      "nom": "Cèdre",
+      "latin": "Cedrus sp.",
+      "anecdote": "Ses cônes, dressés comme de petits tonneaux, mettent deux à trois ans à mûrir puis se défont écaille par écaille sur la branche : il ne reste qu'un petit axe planté sur le rameau, comme une bougie.",
+      "pourquoi_maintenant": "Persistant, il se voit toute l'année ; en hiver, il reste vert quand tout est nu.",
+      "confusion": "Pin : aiguilles longues par 2 ou 3. Cèdre : aiguilles courtes en petits bouquets. (Cèdre de l'Atlas ou du Liban : difficile à trancher depuis le trottoir.)"
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/C%C3%A8dre_bleu_de_l%27Atlas_Cedrus_atlantica_%27Glauca%27.JPG/500px-C%C3%A8dre_bleu_de_l%27Atlas_Cedrus_atlantica_%27Glauca%27.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Abujoy — CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:C%C3%A8dre_bleu_de_l%27Atlas_Cedrus_atlantica_%27Glauca%27.JPG"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-pin-parasol-peixotto",
+    "categorie": "plante",
+    "titre": "Le pin en forme de parasol",
+    "lieux": [
+      "parc-peixotto",
+      "partout"
+    ],
+    "ou": "Allée Peixotto, côté ouest, près de la rue du Professeur Arnozan, derrière le panneau d'information.",
+    "point": {
+      "lat": 44.80727,
+      "lon": -0.58923,
+      "repere": "Allée Peixotto, côté ouest de la chaussée, à ~10 m du croisement avec Rue du Professeur Arnozan ; repère : derrière le panneau directionnel blanc, au bord du rond-point",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/34/ee/2d/44/3239-46e5-94a0-00366a86aad4/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=34ee2d44-3239-46e5-94a0-00366a86aad4"
+      }
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Tronc droit nu puis large cime plate en ombrelle ; aiguilles longues par deux ; gros cônes ronds et brillants.",
+    "enfant": {
+      "2-3": {
+        "mot": "parasol",
+        "geste": "Fais un parasol avec tes bras au-dessus de ta tête, puis cherche le même dans le ciel.",
+        "phrase": "Pin parasol, pin parasol, je fais comme toi !"
+      },
+      "3-5": {
+        "mot": "tronc et toit",
+        "geste": "Compare : le tronc est-il plus haut ou plus épais que ta jambe ? Où commence le « toit » ?",
+        "phrase": "Un grand pied, un grand toit !"
+      }
+    },
+    "adulte": {
+      "nom": "Pin parasol",
+      "latin": "Pinus pinea",
+      "anecdote": "Ses pignons, graines des fameux gâteaux et sauces, sont cachés dans de gros cônes qui mettent trois ans à mûrir. La coque est si dure qu'on la casse avec un outil.",
+      "pourquoi_maintenant": "Persistant, il se repère toute l'année ; son ombrelle donne de l'ombre en été.",
+      "confusion": "Pin maritime : tronc plus tortueux, cime pointue et cônes allongés."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Pinus_pinea_Borghese.jpg/500px-Pinus_pinea_Borghese.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "СССР — CC BY-SA 2.5 ca",
+      "source": "https://commons.wikimedia.org/wiki/File:Pinus_pinea_Borghese.jpg"
+    },
+    "attention": "Si tu vois des nids blancs soyeux dans un pin (novembre à avril) : on ne s'arrête pas dessous, on ne touche à rien (chenilles processionnaires).",
+    "verifier": false
+  },
+  {
+    "id": "pla-boules-de-platane",
+    "categorie": "plante",
+    "titre": "Les boules du platane",
+    "lieux": [
+      "parc-peixotto",
+      "partout"
+    ],
+    "ou": "Cours de la Libération, côté parc, avant l'avenue Espeleta : les platanes le long de la grille bleue ; les boules pendent à leurs branches, certaines tombent sur le trottoir.",
+    "point": {
+      "lat": 44.80893,
+      "lon": -0.59119,
+      "repere": "Cours de la Libération, côté est de la chaussée, à ~130 m du croisement avec Avenue Espeleta ; repère : grille bleue à panneaux rouille, lampadaire"
+    },
+    "mois": [
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Boules brunes de 3 cm, pendues par deux ou trois à un long fil.",
+    "enfant": {
+      "2-3": {
+        "mot": "boule",
+        "geste": "Cherche une boule au sol et compte-la : une boule, deux boules, ...",
+        "phrase": "Boule, boule, accrochée en haut !"
+      },
+      "3-5": {
+        "mot": "fil et boule",
+        "geste": "Trouve une boule encore accrochée à sa tige : combien y en a-t-il sur le même fil ?",
+        "phrase": "Une, deux, trois boules en collier !"
+      }
+    },
+    "adulte": {
+      "nom": "Platane commun (fruits)",
+      "latin": "Platanus × hispanica",
+      "anecdote": "Chaque boule est un assemblage de centaines de petits fruits munis d'une aigrette ; elle se défait pendant l'hiver et le vent dissémine les graines.",
+      "pourquoi_maintenant": "Elles se forment dès l'été, mûrissent à l'automne et se défont en hiver.",
+      "confusion": "Liquidambar : boules dures hérissées de pointes. Platane : boules plus douces, qui s'effilochent en duvet."
+    },
+    "photo": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Plane_tree_-_fruit_-_geograph.org.uk_-_774872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "credit": "Evelyn Simak — CC BY-SA 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Plane_tree_-_fruit_-_geograph.org.uk_-_774872.jpg"
+    },
+    "attention": "Les poils des boules de platane irritent les yeux et le nez : on ne les écrase pas, on ne les effrite pas.",
+    "verifier": false
+  },
+  {
+    "id": "pla-platanes-tetards-suzon",
+    "categorie": "plante",
+    "titre": "Les platanes aux gros poings",
+    "lieux": [
+      "parc-du-couvent",
+      "partout"
+    ],
+    "ou": "Rue de Suzon, devant l'immeuble blanc à l'angle de la rue Lamartine, côté nord-ouest : des platanes taillés en têtard.",
+    "point": {
+      "lat": 44.81102,
+      "lon": -0.58625,
+      "repere": "Rue de Suzon, côté nord-ouest de la chaussée, à ~10 m du croisement avec Rue Lamartine ; repère : devant l'immeuble blanc à gauche",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/19/2a/2a/13/237c-469c-bf90-59657f6214eb/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=192a2a13-237c-469c-bf90-59657f6214eb"
+      }
+    },
+    "mois": [
+      12,
+      1,
+      2,
+      3
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Tronc terminé par de gros nœuds d'où partent de jeunes rameaux droits chaque année.",
+    "enfant": {
+      "2-3": {
+        "mot": "gros poings",
+        "geste": "Serre tes deux poings et lève-les : tu es un platane ! Montre les « poings » de l'arbre.",
+        "phrase": "Platane, platane, montre tes poings !"
+      },
+      "3-5": {
+        "mot": "des bras qui repoussent",
+        "geste": "Compte les petites branches toutes droites qui sortent d'un « poing ». Pourquoi sont-elles toutes au même endroit ?",
+        "phrase": "Coupé ici, ça repousse ici !"
+      }
+    },
+    "adulte": {
+      "nom": "Platane taillé en têtard",
+      "latin": "Platanus × hispanica",
+      "anecdote": "Les « poings » sont des bourrelets de bois cicatriciel bourrés de bourgeons dormants : à chaque taille au même endroit, l'arbre y fait repartir une gerbe de rameaux. Cette taille garde les platanes à la taille des rues depuis des siècles.",
+      "pourquoi_maintenant": "En hiver, sans feuilles, la forme en poing se voit parfaitement.",
+      "confusion": "Un arbre élagué une seule fois garde des moignons lisses, sans grosse « tête » noueuse."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/RAMOUZENS_%281%29.jpg/500px-RAMOUZENS_%281%29.jpg",
+      "credit": "WCOMFR Mireille GRUMBERG — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:RAMOUZENS_(1).jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-glands-chene-peixotto",
+    "categorie": "plante",
+    "titre": "Les glands et leur petit chapeau",
+    "lieux": [
+      "parc-peixotto",
+      "partout"
+    ],
+    "ou": "Cours de la Libération, côté campus, derrière les arceaux à vélos près de l'allée Peixotto : un grand chêne pédonculé ; glands au sol sous l'arbre.",
+    "point": {
+      "lat": 44.80751,
+      "lon": -0.59159,
+      "repere": "Cours de la Libération, côté ouest de la chaussée, à ~10 m du croisement avec Allée Peixotto ; repère : derrière les arceaux à vélos, devant la maison en pierre"
+    },
+    "mois": [
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Feuilles à lobes arrondis, glands allongés dans une cupule écailleuse, portés par un long pédoncule.",
+    "enfant": {
+      "2-3": {
+        "mot": "gland",
+        "geste": "Cherche un gland avec son chapeau et regarde-le avec tes yeux seulement.",
+        "phrase": "Gland, gland, avec son petit chapeau !"
+      },
+      "3-5": {
+        "mot": "chapeaux",
+        "geste": "Trouve un gland avec son chapeau, un sans chapeau, et un chapeau seul.",
+        "phrase": "Un gland, un chapeau, ils sont séparés !"
+      }
+    },
+    "adulte": {
+      "nom": "Chêne pédonculé",
+      "latin": "Quercus robur",
+      "anecdote": "Un seul geai des chênes peut cacher plusieurs milliers de glands en un automne et en oublie une partie : c'est lui qui « plante » une bonne partie des chênes.",
+      "pourquoi_maintenant": "Les glands tombent de septembre à novembre quand ils sont mûrs.",
+      "confusion": "Chêne vert : feuilles persistantes et piquantes ; chêne rouge d'Amérique : lobes pointus."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Acorns_of_Quercus_robur%2C_Eichel_der_Stieleiche_06.JPG/500px-Acorns_of_Quercus_robur%2C_Eichel_der_Stieleiche_06.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "böhringer friedrich — CC BY-SA 3.0 AT",
+      "source": "https://commons.wikimedia.org/wiki/File:Acorns_of_Quercus_robur,_Eichel_der_Stieleiche_06.JPG"
+    },
+    "attention": "Marrons et glands : on regarde, on compte, on ne les met jamais à la bouche (toxiques, risque d'étouffement).",
+    "verifier": true
+  },
+  {
+    "id": "pla-chene-rouge-amerique",
+    "categorie": "plante",
+    "titre": "Le chêne aux feuilles pointues",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Avenue de Thouars, côté nord, avant la rue de Mégret, à gauche de la piste cyclable : un chêne rouge d'Amérique.",
+    "point": {
+      "lat": 44.7983,
+      "lon": -0.59211,
+      "repere": "Avenue de Thouars, côté nord de la chaussée, à ~60 m du croisement avec Rue de Mégret ; repère : côté gauche de la piste cyclable, sur la bande d'herbe devant la clôture grillagée",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/9e/a2/df/f2/a5be-47d4-969c-1e70f9be0885/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=9ea2dff2-a5be-47d4-969c-1e70f9be0885"
+      }
+    },
+    "mois": [
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Feuilles à lobes pointus terminés par une petite soie, rouge brique en automne.",
+    "enfant": {
+      "2-3": {
+        "mot": "pointu",
+        "geste": "Passe le doigt sur la pointe de la feuille ramassée au sol.",
+        "phrase": "Pointu, pointu, ce chêne a des pointes !"
+      },
+      "3-5": {
+        "mot": "rond ou pointu",
+        "geste": "Compare avec une feuille de chêne pédonculé (lobes ronds) : laquelle est pointue ?",
+        "phrase": "Rond pour l'un, pointu pour l'autre !"
+      }
+    },
+    "adulte": {
+      "nom": "Chêne rouge d'Amérique",
+      "latin": "Quercus rubra",
+      "anecdote": "Ses glands mettent deux ans à mûrir, contre un seul pour le chêne pédonculé : sur une même branche, on peut voir les tout petits glands de l'année et les gros de l'an passé.",
+      "pourquoi_maintenant": "La couleur rouge brique arrive en fin octobre-novembre.",
+      "confusion": "Chêne pédonculé : lobes arrondis et feuille plus petite."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Quercus_rubra_autumn_leaves.jpg/500px-Quercus_rubra_autumn_leaves.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Crusier — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Quercus_rubra_autumn_leaves.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-tulipier-feuilles",
+    "categorie": "plante",
+    "titre": "L'arbre aux feuilles-tulipes",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Cours de la Libération, côté nord-est, près de la rue Marivaux : l'alignement de tulipiers sur la bande d'herbe entre chaussée et piste cyclable.",
+    "point": {
+      "lat": 44.79832,
+      "lon": -0.5995,
+      "repere": "Cours de la Libération, côté nord-est de la chaussée, à ~30 m du croisement avec Rue Marivaux ; repère : bande d'herbe entre chaussée et piste cyclable",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/f7/e6/74/af/d8e1-4757-ab34-71f954d16809/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=f7e674af-d8e1-4757-ab34-71f954d16809"
+      }
+    },
+    "mois": [
+      5,
+      6,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Feuilles carrées, à bout tronqué, comme coupées aux ciseaux ; fleurs vert-orangé en forme de tulipe.",
+    "enfant": {
+      "2-3": {
+        "mot": "feuille coupée",
+        "geste": "Ramasse une feuille tombée et montre le bout tout plat, comme coupé aux ciseaux. Clac !",
+        "phrase": "Clac, clac, coupée aux ciseaux !"
+      },
+      "3-5": {
+        "mot": "tee-shirt",
+        "geste": "Pose la feuille sur ton ventre : on dirait un petit tee-shirt ! Compte ses pointes (souvent quatre).",
+        "phrase": "Un tee-shirt qui pousse dans l'arbre !"
+      }
+    },
+    "adulte": {
+      "nom": "Tulipier de Virginie",
+      "latin": "Liriodendron tulipifera",
+      "anecdote": "Ce cousin des magnolias est l'un des plus grands feuillus d'Amérique du Nord : il dépasse 50 m dans les Appalaches. Ses fleurs vert et orange, en forme de tulipe, sont si haut qu'on les remarque souvent seulement quand elles tombent.",
+      "pourquoi_maintenant": "Floraison en mai-juin ; feuilles jaune vif en octobre-novembre.",
+      "confusion": "Érable : feuille à pointes, sans bout coupé. Tulipier : sommet de la feuille tronqué net."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Tulip_Tree_Liriodendron_tulipifera_Leaf_Topside_1890px.jpg/500px-Tulip_Tree_Liriodendron_tulipifera_Leaf_Topside_1890px.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Derek Ramsey — GFDL 1.2",
+      "source": "https://commons.wikimedia.org/wiki/File:Tulip_Tree_Liriodendron_tulipifera_Leaf_Topside_1890px.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-lilas-des-indes",
+    "categorie": "plante",
+    "titre": "Le lilas des Indes en fête",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Lamartine, côté sud, avant la rue Peydavant, derrière une longue clôture : lilas des Indes aux fleurs mauves et roses.",
+    "point": {
+      "lat": 44.8079,
+      "lon": -0.58626,
+      "repere": "Rue Lamartine, côté sud de la chaussée, à ~60 m du croisement avec Rue Peydavant ; repère : côté gauche, derrière une longue haie taillée sur muret blanc à piliers",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/f5/a7/c1/dc/b786-4427-a84a-c4d855f3fa4b/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=f5a7c1dc-b786-4427-a84a-c4d855f3fa4b"
+      }
+    },
+    "mois": [
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Arbuste à écorce lisse, fleurs froissées comme du papier crépon, rose ou mauve, en grappes.",
+    "enfant": {
+      "2-3": {
+        "mot": "papier froissé",
+        "geste": "Regarde les fleurs à travers la clôture : on dirait du papier tout froissé ! Dis leur couleur.",
+        "phrase": "Fleur de papier, rose et froissée !"
+      },
+      "3-5": {
+        "mot": "pétales",
+        "geste": "Sur un pétale tombé sur le trottoir, regarde le petit manche fin et le bord froissé. Combien de pétales sur une fleur ? (six)",
+        "phrase": "Six pétales chiffonnés !"
+      }
+    },
+    "adulte": {
+      "nom": "Lilas des Indes",
+      "latin": "Lagerstroemia indica",
+      "anecdote": "Il fleurit au cœur de l'été, quand presque tous les arbustes ont fini. Son écorce lisse se renouvelle en plaques, ce qui lui donne un tronc marbré beige et rosé.",
+      "pourquoi_maintenant": "Il fleurit de juillet à septembre, de plein soleil.",
+      "confusion": "Lilas commun : fleurs parfumées au printemps. Le lilas des Indes fleurit l'été."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Lagerstroemia_indica_4.jpg/500px-Lagerstroemia_indica_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Juan Carlos Fonseca Mata — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Lagerstroemia_indica_4.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-magnolia-grandes-fleurs",
+    "categorie": "plante",
+    "titre": "La grosse fleur blanche du magnolia",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue de Suzon, côté sud, juste derrière les feux tricolores près de la rue Bourges : un magnolia à grandes fleurs.",
+    "point": {
+      "lat": 44.81196,
+      "lon": -0.58194,
+      "repere": "Rue de Suzon, côté sud de la chaussée, à ~20 m du croisement avec Rue Bourges ; repère : juste derrière les feux tricolores et le panneau triangle, à côté de la plaque « Rue de Suzon » sur le vieux mur"
+    },
+    "mois": [
+      6,
+      7,
+      8
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Grandes feuilles coriaces luisantes, dessous roux ; fleurs blanches de 20 cm, parfumées.",
+    "enfant": {
+      "2-3": {
+        "mot": "grosse fleur",
+        "geste": "Lève la tête et cherche une fleur blanche grosse comme une assiette dans l'arbre.",
+        "phrase": "Une fleur grande comme une assiette !"
+      },
+      "3-5": {
+        "mot": "feuille brillante",
+        "geste": "Sur une feuille tombée, compare le dessus (brillant) et le dessous (roux et doux).",
+        "phrase": "Dessus qui brille, dessous tout roux !"
+      }
+    },
+    "adulte": {
+      "nom": "Magnolia à grandes fleurs",
+      "latin": "Magnolia grandiflora",
+      "anecdote": "Les magnolias sont apparus avant les abeilles : leurs fleurs coriaces sont surtout visitées par des coléoptères, qui viennent manger le pollen.",
+      "pourquoi_maintenant": "Floraison de juin à août, quelques fleurs isolées parfois jusqu'en septembre.",
+      "confusion": "Magnolia de printemps (soulangeana) : fleurs roses avant les feuilles."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Magnolia_grandiflora_-_flower_1.jpg/500px-Magnolia_grandiflora_-_flower_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Ianaré Sévi — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Magnolia_grandiflora_-_flower_1.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-oliviers-quartier",
+    "categorie": "plante",
+    "titre": "Les olives vertes puis noires",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Peydavant, côté ouest : oliviers dans les jardinets derrière les portails, entre la rue Robespierre et la rue Lamartine.",
+    "point": {
+      "lat": 44.80955,
+      "lon": -0.58517,
+      "repere": "Rue Peydavant, côté ouest de la chaussée, à ~80 m du croisement avec Rue Lamartine ; repère : portillon grillagé vert"
+    },
+    "mois": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Feuilles étroites argentées dessous, tronc noueux, petits fruits verts puis noirs.",
+    "enfant": {
+      "2-3": {
+        "mot": "olive",
+        "geste": "Cherche les olives sur l'arbre et montre-les du doigt, à travers le portail (c'est le jardin d'un voisin).",
+        "phrase": "Olive verte, olive noire !"
+      },
+      "3-5": {
+        "mot": "vert ou noir",
+        "geste": "Compte les olives vertes, puis les noires. Lesquelles sont les plus mûres ?",
+        "phrase": "Vertes en été, noires en hiver !"
+      }
+    },
+    "adulte": {
+      "nom": "Olivier",
+      "latin": "Olea europaea",
+      "anecdote": "Les olives vertes et noires sont le même fruit à deux stades. Crues, elles sont immangeables tant elles sont amères : il faut des semaines de saumure pour les adoucir.",
+      "pourquoi_maintenant": "Les fruits grossissent en été et noircissent à l'automne.",
+      "confusion": "Éléagnus (chalef) : feuilles aussi argentées dessous, mais piquetées de petites écailles rousses."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg/500px-Olive_tree_%28Olea_europaea%29_branch_with_immature_olives%2C_Pra%C3%A7a_Jo%C3%A3o_do_Rio%2C_Lisbon%2C_Portugal_julesvernex2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jules Verne Times Two — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Olive_tree_(Olea_europaea)_branch_with_immature_olives,_Pra%C3%A7a_Jo%C3%A3o_do_Rio,_Lisbon,_Portugal_julesvernex2.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-bignone-trompettes",
+    "categorie": "plante",
+    "titre": "Les trompettes orange de la bignone",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Clément Thomas, côté ouest, près de la rue du Commandant Charcot : une bignone grimpe sur un poteau électrique.",
+    "point": {
+      "lat": 44.80313,
+      "lon": -0.58052,
+      "repere": "Rue Clément Thomas, côté ouest de la chaussée, à ~20 m du croisement avec Rue du Commandant Charcot ; repère : poteau électrique en béton au bord du trottoir, muret crème"
+    },
+    "mois": [
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Liane aux fleurs orange en trompette, qui s'accroche par des racines-crampons.",
+    "enfant": {
+      "2-3": {
+        "mot": "trompette",
+        "geste": "Fais une trompette avec la main devant ta bouche et montre les fleurs.",
+        "phrase": "Trompette orange, tut-tut-tut !"
+      },
+      "3-5": {
+        "mot": "compte les fleurs",
+        "geste": "Combien de trompettes vois-tu en haut ?",
+        "phrase": "Une trompette, deux trompettes !"
+      }
+    },
+    "adulte": {
+      "nom": "Bignone de Virginie",
+      "latin": "Campsis radicans",
+      "anecdote": "En Amérique, ses trompettes orange sont butinées par les colibris ; ici, ce sont les bourdons qui s'y glissent tout entiers. Elle grimpe en s'agrippant avec de petites racines aériennes.",
+      "pourquoi_maintenant": "Elle fleurit de juillet à septembre, en plein soleil.",
+      "confusion": "Bignone de Chine (Campsis grandiflora) : trompettes plus larges et plus courtes."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Campsis_radicans_flowers.jpg/500px-Campsis_radicans_flowers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Gmihail — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Campsis_radicans_flowers.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-lierre-baies-hiver",
+    "categorie": "plante",
+    "titre": "Les baies noires du lierre",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue du Professeur Arnozan, côté est, muret de pierre blonde près de la place du 8 Mai 1945 : lierre couvert de grappes de baies noires.",
+    "point": {
+      "lat": 44.80938,
+      "lon": -0.58707,
+      "repere": "Rue du Professeur Arnozan, côté est de la chaussée, à ~20 m du croisement avec Place du 8 Mai 1945 ; repère : muret de pierre blonde côté droit",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/7c/83/1c/d7/5839-4eb3-b55c-0cfdfc248465/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=7c831cd7-5839-4eb3-b55c-0cfdfc248465"
+      }
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Boules noires bleutées, en ombelles, sur les rameaux fleuris.",
+    "enfant": {
+      "2-3": {
+        "mot": "boules noires",
+        "geste": "Montre les boules noires du doigt, de loin, et cherche un oiseau qui vient les manger.",
+        "phrase": "Boules noires, c'est pour les oiseaux !"
+      },
+      "3-5": {
+        "mot": "deux feuilles",
+        "geste": "Compare les feuilles : en bas, elles ont des pointes ; près des boules noires, elles sont rondes et sans pointes. Pourquoi ?",
+        "phrase": "Feuille à pointes, feuille toute ronde !"
+      }
+    },
+    "adulte": {
+      "nom": "Lierre grimpant (fruits)",
+      "latin": "Hedera helix",
+      "anecdote": "Le lierre a deux sortes de feuilles : lobées sur les tiges qui grimpent, ovales et entières sur les rameaux qui fleurissent et portent les baies, une fois arrivé à la lumière. Ses baies mûrissent en fin d'hiver, quand merles et grives n'ont plus grand-chose.",
+      "pourquoi_maintenant": "Les baies noircissent de janvier à avril.",
+      "confusion": "Troène ou morelle noire : baies noires aussi, mais en grappes sur des rameaux sans lierre."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Starr_010419-0022_Hedera_helix.jpg/500px-Starr_010419-0022_Hedera_helix.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Forest & Kim Starr — CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Starr_010419-0022_Hedera_helix.jpg"
+    },
+    "attention": "Baies de lierre toxiques : on regarde seulement, rien à la bouche. En cas d'ingestion : centre antipoison 05 56 96 40 80.",
+    "verifier": false
+  },
+  {
+    "id": "pla-hortensias-couleurs",
+    "categorie": "plante",
+    "titre": "Les hortensias bleus ou roses",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Peydavant, côté ouest, à 80 m de la rue Lamartine : des hortensias bleus au fond d'un jardin, visibles depuis le trottoir à travers le portail.",
+    "point": {
+      "lat": 44.8093,
+      "lon": -0.58519,
+      "repere": "Rue Peydavant, côté ouest de la chaussée, à ~80 m du croisement avec Rue Lamartine ; repère : au fond du jardin derrière un portail gris anthracite à piliers blancs"
+    },
+    "mois": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Grosses boules de fleurs bleues, roses ou blanches, sur des feuilles larges dentées.",
+    "enfant": {
+      "2-3": {
+        "mot": "boule",
+        "geste": "Regarde à travers le portail la grosse boule de fleurs et dis sa couleur.",
+        "phrase": "Boule bleue, boule rose !"
+      },
+      "3-5": {
+        "mot": "couleurs",
+        "geste": "Cherche dans la rue un hortensia d'une autre couleur. Pourquoi l'un est bleu et l'autre rose ?",
+        "phrase": "Bleu ici, rose là, c'est la terre qui choisit !"
+      }
+    },
+    "adulte": {
+      "nom": "Hortensia",
+      "latin": "Hydrangea macrophylla",
+      "anecdote": "Sur un hortensia coloré, la couleur dépend du sol : en terre acide, l'aluminium est disponible et les fleurs virent au bleu ; en terre calcaire, elles restent roses. Les « pétales » sont en fait des sépales de fleurs stériles qui servent d'enseigne aux insectes.",
+      "pourquoi_maintenant": "Floraison de juin à septembre, puis les fleurs se teintent de vert et de rouille en automne.",
+      "confusion": "Boule-de-neige : fleurs blanches."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hydrangea_macrophylla_-_blue.jpg/500px-Hydrangea_macrophylla_-_blue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Michele Dorsey Walfred — CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_-_blue.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-cerisier-du-japon",
+    "categorie": "plante",
+    "titre": "Le cerisier rose comme un nuage",
+    "lieux": [
+      "parc-du-couvent",
+      "partout"
+    ],
+    "ou": "Rue de Suzon, côté nord, près de la rue Lamartine, au-dessus du portail vert : un cerisier du Japon.",
+    "point": {
+      "lat": 44.81096,
+      "lon": -0.58606,
+      "repere": "Rue de Suzon, côté nord de la chaussée, à ~10 m du croisement avec Rue Lamartine ; repère : au-dessus du portail vert, côté droit",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/19/2a/2a/13/237c-469c-bf90-59657f6214eb/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=192a2a13-237c-469c-bf90-59657f6214eb"
+      }
+    },
+    "mois": [
+      3,
+      4
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Écorce brillante marquée de lignes horizontales ; fleurs rose pâle en bouquets.",
+    "enfant": {
+      "2-3": {
+        "mot": "pétale",
+        "geste": "Ramasse un pétale tombé, mets-le sur ta main et souffle dessus.",
+        "phrase": "Pétale rose, vole, vole !"
+      },
+      "3-5": {
+        "mot": "confettis",
+        "geste": "Fais pleuvoir des pétales au-dessus de ta tête en les jetant en l'air.",
+        "phrase": "Il pleut des pétales !"
+      }
+    },
+    "adulte": {
+      "nom": "Cerisier du Japon",
+      "latin": "Prunus serrulata",
+      "anecdote": "Beaucoup de cerisiers du Japon ont des fleurs doubles et ne font pas de cerises ; au Japon, on célèbre la floraison par le hanami.",
+      "pourquoi_maintenant": "Floraison de fin mars à avril.",
+      "confusion": "Prunier pourpre : fleurs plus petites et feuilles pourpres."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Prunus_serrulata_Kanzan_blossom_Jardin_des_Plantes_2013-04-20_n1.jpg/500px-Prunus_serrulata_Kanzan_blossom_Jardin_des_Plantes_2013-04-20_n1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Marie-Lan Nguyen — CC BY 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Prunus_serrulata_Kanzan_blossom_Jardin_des_Plantes_2013-04-20_n1.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-prunier-pourpre-fleurs",
+    "categorie": "plante",
+    "titre": "Le prunier qui fleurit avant les feuilles",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Ambroise Paré, côté nord, à l'angle de la rue Lamartine : un prunier pourpre au muret blanc et à la haie.",
+    "point": {
+      "lat": 44.80869,
+      "lon": -0.586,
+      "repere": "Rue Ambroise Paré, côté nord de la chaussée, à ~10 m du croisement avec Rue Lamartine ; repère : angle de rue, muret blanc et haie, panneau sens interdit"
+    },
+    "mois": [
+      2,
+      3,
+      4
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Petites fleurs blanc-rosé sur branches nues, feuilles pourpres plus tard.",
+    "enfant": {
+      "2-3": {
+        "mot": "fleurs",
+        "geste": "Montre les petites fleurs pâles sur les branches encore nues.",
+        "phrase": "Des fleurs sans feuilles !"
+      },
+      "3-5": {
+        "mot": "fleur ou feuille",
+        "geste": "Regarde bien une branche : vois-tu des fleurs, des feuilles pourpres, ou les deux ? Reviens dans un mois pour comparer.",
+        "phrase": "D'abord les fleurs, après les feuilles !"
+      }
+    },
+    "adulte": {
+      "nom": "Prunier myrobolan à feuilles pourpres",
+      "latin": "Prunus cerasifera 'Pissardii'",
+      "anecdote": "Cette variété à feuilles pourpres a été rapportée de Perse vers 1880 par M. Pissard, jardinier du shah, d'où son nom de « prunier de Pissard ». Ses fleurs sont parmi les toutes premières du quartier.",
+      "pourquoi_maintenant": "Floraison de fin février à mars, avant ou avec les feuilles.",
+      "confusion": "Cerisier du Japon : fleurs plus grosses et plus tardives."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/20140316Prunus_cerasifera_Hockenheim3.jpg/500px-20140316Prunus_cerasifera_Hockenheim3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "AnRo0002 — CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:20140316Prunus_cerasifera_Hockenheim3.jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-nefliers-du-japon",
+    "categorie": "plante",
+    "titre": "Le néflier du Japon, fleurs parfumées et fruits",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Clément Thomas, côté est, près de la rue du Commandant Charcot : un néflier du Japon derrière la grille verte.",
+    "point": {
+      "lat": 44.80308,
+      "lon": -0.58043,
+      "repere": "Rue Clément Thomas, côté est de la chaussée, à ~30 m du croisement avec Rue du Commandant Charcot ; repère : grille verte ouvragée"
+    },
+    "mois": [
+      5,
+      6,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Grandes feuilles coriaces, dentées, gaufrées et rousses dessous ; fruits orange en grappes au printemps, fleurs blanc crème en hiver.",
+    "enfant": {
+      "2-3": {
+        "mot": "orange",
+        "geste": "Cherche les petits fruits orange dans l'arbre, derrière la grille, et montre-les.",
+        "phrase": "Orange, orange, en haut dans l'arbre !"
+      },
+      "3-5": {
+        "mot": "grappe",
+        "geste": "Compte les fruits d'une grappe. En hiver, cherche plutôt les fleurs blanches : sens-tu leur parfum ?",
+        "phrase": "Fleurs en hiver, fruits au printemps !"
+      }
+    },
+    "adulte": {
+      "nom": "Néflier du Japon (bibacier)",
+      "latin": "Eriobotrya japonica",
+      "anecdote": "Il fait tout à l'envers : il fleurit en fin d'automne et en hiver (fleurs parfumées, butinées les jours doux) et ses fruits mûrissent en mai-juin.",
+      "pourquoi_maintenant": "Fleurs de novembre à janvier ; fruits orange en mai-juin.",
+      "confusion": "Néflier commun : arbuste qui perd ses feuilles, fruits bruns."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Eriobotrya_japonica_C.jpg/500px-Eriobotrya_japonica_C.jpg",
+      "credit": "Wouter Hagens — Domaine public",
+      "source": "https://commons.wikimedia.org/wiki/File:Eriobotrya_japonica_C.jpg"
+    },
+    "attention": "Arbre d'un jardin privé : on ne cueille pas ; les gros noyaux ne se mangent pas (toxiques, risque d'étouffement).",
+    "verifier": true
+  },
+  {
+    "id": "pla-figuier-figues",
+    "categorie": "plante",
+    "titre": "Le figuier et ses figues",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue du Commandant Charcot, côté est, près de la rue Clément Thomas : un figuier à côté du brise-vue vert.",
+    "point": {
+      "lat": 44.80354,
+      "lon": -0.58024,
+      "repere": "Rue du Commandant Charcot, côté est de la chaussée, à ~20 m du croisement avec Rue Clément Thomas ; repère : brise-vue vert, piquets bois"
+    },
+    "mois": [
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Grandes feuilles lobées rugueuses, figues vertes qui violacent.",
+    "enfant": {
+      "2-3": {
+        "mot": "figue",
+        "geste": "Cherche une figue dans l'arbre, à travers le brise-vue, et montre-la du doigt.",
+        "phrase": "Figue verte, figue violette !"
+      },
+      "3-5": {
+        "mot": "verte ou mûre",
+        "geste": "Compte les figues vertes et les violettes. Laquelle est la plus mûre ?",
+        "phrase": "Figue verte, figue mûre !"
+      }
+    },
+    "adulte": {
+      "nom": "Figuier",
+      "latin": "Ficus carica",
+      "anecdote": "La figue est une fleur retournée : des centaines de minuscules fleurs tapissent l'intérieur. Les figuiers sauvages ont besoin d'une minuscule guêpe qui entre dans la figue pour les polliniser ; ceux de nos jardins font des figues sans elle.",
+      "pourquoi_maintenant": "Les figues mûrissent d'août à septembre.",
+      "confusion": "Vigne : feuilles lobées mais plus fines, et grappes de raisin."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Ripe_fig_fruit_on_tree_%28Ficus_Carica%29_in_Southern_France.JPG/500px-Ripe_fig_fruit_on_tree_%28Ficus_Carica%29_in_Southern_France.JPG",
+      "credit": "Stefan Thiesen — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ripe_fig_fruit_on_tree_(Ficus_Carica)_in_Southern_France.JPG"
+    },
+    "attention": "La sève blanche du figuier brûle la peau au soleil : on ne touche ni feuilles ni branches.",
+    "verifier": true
+  },
+  {
+    "id": "pla-verger-bel-air",
+    "categorie": "plante",
+    "titre": "Le verger du parc Bel Air",
+    "lieux": [
+      "parc-bel-air"
+    ],
+    "ou": "Parc Bel Air, au cœur des jardins partagés : le verger d'une trentaine d'arbres fruitiers, à regarder depuis les allées (les parcelles sont réservées aux jardiniers, on ne cueille pas).",
+    "point": {
+      "lat": 44.8032,
+      "lon": -0.5793,
+      "repere": "Parc Bel Air : le verger d'une trentaine d'arbres fruitiers au milieu des jardins partagés."
+    },
+    "mois": [
+      3,
+      4,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Rangées d'arbres fruitiers, fleurs blanches ou roses au printemps, fruits à l'automne.",
+    "enfant": {
+      "2-3": {
+        "mot": "fleur",
+        "geste": "Au printemps, montre les fleurs blanches ou roses ; en automne, cherche les fruits accrochés.",
+        "phrase": "Fleur au printemps, fruit en automne !"
+      },
+      "3-5": {
+        "mot": "abeilles",
+        "geste": "Au printemps, compte les abeilles sur un arbre en fleurs. Sans elles, y aurait-il des fruits ?",
+        "phrase": "Merci l'abeille pour la pomme !"
+      }
+    },
+    "adulte": {
+      "nom": "Verger du parc Bel Air",
+      "latin": null,
+      "anecdote": "La plupart des pommiers ne peuvent pas se féconder eux-mêmes : il faut qu'une abeille apporte le pollen d'une autre variété fleurie en même temps. C'est pour cela qu'un verger mélange plusieurs variétés.",
+      "pourquoi_maintenant": "Fleurs de mars à avril selon les espèces ; fruits de septembre à octobre.",
+      "confusion": null
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Apple_blossom_in_Home_Farm_Orchard_2024-04-28_152126.jpg/500px-Apple_blossom_in_Home_Farm_Orchard_2024-04-28_152126.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Andy Li — CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Apple_blossom_in_Home_Farm_Orchard_2024-04-28_152126.jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-mures-ronces",
+    "categorie": "plante",
+    "titre": "Les mûres des ronces",
+    "lieux": [
+      "bois-sourreil",
+      "partout"
+    ],
+    "ou": "Bois Sourreil : ronciers en lisière, laissés exprès pour les oiseaux (refuge LPO). Regarde depuis le chemin.",
+    "point": {
+      "lat": 44.8095,
+      "lon": -0.5795,
+      "repere": "Bois Sourreil (refuge LPO) : les ronciers en bordure des chemins et des clairières, visibles sans quitter le sentier."
+    },
+    "mois": [
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Ronces épineuses, fruits d'abord rouges puis noirs.",
+    "enfant": {
+      "2-3": {
+        "mot": "mûre",
+        "geste": "Montre une mûre noire du doigt, sans toucher la ronce qui pique.",
+        "phrase": "Mûre noire sur la ronce !"
+      },
+      "3-5": {
+        "mot": "rouge puis noir",
+        "geste": "Cherche une mûre verte, une rouge, une noire : dans quel ordre change-t-elle ?",
+        "phrase": "Vert, rouge, noir : elle est mûre !"
+      }
+    },
+    "adulte": {
+      "nom": "Ronce commune",
+      "latin": "Rubus fruticosus",
+      "anecdote": "Une mûre n'est pas une baie mais un bouquet de petites drupes, chacune avec son noyau. Le Bois Sourreil garde ses ronciers exprès : fauvettes, merles et même renards s'en régalent à la fin de l'été.",
+      "pourquoi_maintenant": "Les mûres noircissent d'août à septembre ; les premières sont mûres dès fin juillet.",
+      "confusion": "Morelle noire (toxique) : petites baies noires en grappes lâches sur une plante sans épines."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Blackberries_at_Hatfield_Broad_Oak%2C_Essex%2C_England_01.jpg/500px-Blackberries_at_Hatfield_Broad_Oak%2C_Essex%2C_England_01.jpg",
+      "credit": "Acabashi — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Blackberries_at_Hatfield_Broad_Oak,_Essex,_England_01.jpg"
+    },
+    "attention": "Les ronces piquent : on regarde depuis le chemin, on ne cueille pas et rien à la bouche (on laisse les mûres aux oiseaux).",
+    "verifier": false
+  },
+  {
+    "id": "pla-paquerettes-pelouse",
+    "categorie": "plante",
+    "titre": "Les pâquerettes sur la pelouse",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Sur n'importe quelle pelouse tondue du quartier ou des parcs, surtout au soleil.",
+    "point": null,
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Petites fleurs à cœur jaune et pétales blancs, rosette de feuilles à ras du sol.",
+    "enfant": {
+      "2-3": {
+        "mot": "pâquerette",
+        "geste": "Accroupis-toi et pose un doigt tout près d'une pâquerette, sans l'écraser.",
+        "phrase": "Pâquerette, petite fleur blanche !"
+      },
+      "3-5": {
+        "mot": "compter",
+        "geste": "Compte les pâquerettes que tu trouves en une minute, puis cherche-en une encore fermée ou en bouton.",
+        "phrase": "Une, deux, trois pâquerettes dans l'herbe !"
+      }
+    },
+    "adulte": {
+      "nom": "Pâquerette vivace",
+      "latin": "Bellis perennis",
+      "anecdote": "La fleur se ferme la nuit et par temps gris pour protéger son pollen, et rouvre au soleil. Ce que l'on appelle une « fleur » est un capitule : un bouquet de petites fleurs.",
+      "pourquoi_maintenant": "Elles fleurissent presque toute l'année, surtout au printemps ; les pelouses non tondues en offrent beaucoup.",
+      "confusion": "Marguerite : fleur beaucoup plus grande, sur une haute tige."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/20200325_Bellis_perennis_01.jpg/500px-20200325_Bellis_perennis_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Flocci Nivis — CC BY 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:20200325_Bellis_perennis_01.jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-pissenlit-fleur",
+    "categorie": "plante",
+    "titre": "Le pissenlit, soleil des pelouses",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Pelouses, bords de trottoir et pieds de murs de tout le quartier ; les fleurs sont grandes ouvertes au soleil.",
+    "point": null,
+    "mois": [
+      3,
+      4,
+      5
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Fleur jaune vif seule sur une tige creuse, feuilles dentées en rosette à ras du sol.",
+    "enfant": {
+      "2-3": {
+        "mot": "jaune",
+        "geste": "Approche ton doigt d'une fleur jaune et caresse-la doucement : c'est tout doux !",
+        "phrase": "Pissenlit jaune comme le soleil !"
+      },
+      "3-5": {
+        "mot": "ouvert, fermé",
+        "geste": "Cherche une fleur ouverte, une fermée, et une qui devient boule blanche. Repasse ce soir : sont-elles fermées ?",
+        "phrase": "Ouverte le jour, fermée le soir !"
+      }
+    },
+    "adulte": {
+      "nom": "Pissenlit",
+      "latin": "Taraxacum officinale",
+      "anecdote": "Une « fleur » de pissenlit est en fait un bouquet de 100 à 200 petites fleurs. Chacune donnera une graine à parachute ; en 2018, des chercheurs ont montré que ce parachute crée derrière lui un petit tourbillon d'air qui le porte.",
+      "pourquoi_maintenant": "La floraison culmine de mars à mai ; les fleurs s'ouvrent le matin au soleil et se ferment le soir ou par temps gris.",
+      "confusion": "Léontodon (fausse dent-de-lion) : tige pleine et feuilles velues."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/4_dandelions.jpg/500px-4_dandelions.jpg",
+      "credit": "liz west — CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:4_dandelions.jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-coquelicots-rue",
+    "categorie": "plante",
+    "titre": "Les coquelicots au bord de la rue",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Clément Thomas, côté est, à 70 m de la rue Jean Cocteau : coquelicots près de la palissade verte.",
+    "point": {
+      "lat": 44.8021,
+      "lon": -0.58074,
+      "repere": "Rue Clément Thomas, côté est de la chaussée, à ~70 m du croisement avec Rue Jean Cocteau ; repère : palissade verte, poteau bois"
+    },
+    "mois": [
+      4,
+      5,
+      6
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Fleur rouge vif à quatre pétales froissés, tige poilue, feuilles découpées.",
+    "enfant": {
+      "2-3": {
+        "mot": "rouge",
+        "geste": "Montre la fleur rouge sans la cueillir : cueilli, le coquelicot fane tout de suite.",
+        "phrase": "Coquelicot, coquelicot, rouge comme un bobo !"
+      },
+      "3-5": {
+        "mot": "pétales",
+        "geste": "Compte les pétales (quatre) et cherche le bouton poilu qui n'est pas encore ouvert.",
+        "phrase": "Un, deux, trois, quatre pétales !"
+      }
+    },
+    "adulte": {
+      "nom": "Coquelicot",
+      "latin": "Papaver rhoeas",
+      "anecdote": "Ses graines peuvent dormir des dizaines d'années dans le sol et germer dès qu'on retourne la terre : c'est pour cela qu'il surgit au bord des chantiers et des talus remués.",
+      "pourquoi_maintenant": "Il fleurit de fin avril à juin.",
+      "confusion": "Pavot de Californie : fleurs orange, feuillage bleuté très fin."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Papaver_rhoeas_LC0050.jpg/500px-Papaver_rhoeas_LC0050.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Jörg Hempel — CC BY-SA 2.5",
+      "source": "https://commons.wikimedia.org/wiki/File:Papaver_rhoeas_LC0050.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-cyclamen-de-naples",
+    "categorie": "plante",
+    "titre": "Les cyclamens sous les arbres",
+    "lieux": [
+      "campus-haut-carre"
+    ],
+    "ou": "Campus du Haut-Carré, autour de l'Agora et le long de la rue du Haut Carré : petites touffes roses au pied des arbres et sur les talus ombragés. Le domaine du Haut-Carré est un site universitaire : reste sur les allées ouvertes au public, n'entre pas dans les zones clôturées (moutons) ni dans les bâtiments.",
+    "point": {
+      "lat": 44.8091,
+      "lon": -0.5967,
+      "repere": "Domaine universitaire du Haut-Carré, autour de l'Agora (côté rue du Haut Carré) : sous les grands arbres, au bord des allées. Cyclamens observés là en 2024 et 2025."
+    },
+    "mois": [
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Petites fleurs roses aux pétales relevés, feuilles marbrées en forme de lierre.",
+    "enfant": {
+      "2-3": {
+        "mot": "cyclamen",
+        "geste": "Accroupis-toi et regarde la petite fleur rose aux pétales relevés comme des oreilles de lapin.",
+        "phrase": "Petite fleur rose, oreilles de lapin !"
+      },
+      "3-5": {
+        "mot": "ressort",
+        "geste": "Compte les fleurs d'une touffe, puis cherche une tige enroulée en ressort au ras du sol.",
+        "phrase": "Une fleur, deux fleurs, un ressort !"
+      }
+    },
+    "adulte": {
+      "nom": "Cyclamen de Naples",
+      "latin": "Cyclamen hederifolium",
+      "anecdote": "Après la floraison, la tige du fruit s'enroule en ressort pour enfoncer la capsule dans le sol ; les graines sont ensuite transportées par les fourmis.",
+      "pourquoi_maintenant": "Floraison de septembre à novembre, souvent avant les feuilles marbrées.",
+      "confusion": "Cyclamen de Perse (fleuriste) : fleurs plus grosses."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Cyclamen_hederifolium._Locatie%2C_Tuinreservaat_Jonker_vallei_01.jpg/500px-Cyclamen_hederifolium._Locatie%2C_Tuinreservaat_Jonker_vallei_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Dominicus Johannes Bergsma — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cyclamen_hederifolium._Locatie,_Tuinreservaat_Jonker_vallei_01.jpg"
+    },
+    "attention": "Le tubercule est toxique : on ne cueille pas, on ne déterre rien, rien à la bouche.",
+    "verifier": false
+  },
+  {
+    "id": "pla-ficaire-etoiles-jaunes",
+    "categorie": "plante",
+    "titre": "Les étoiles jaunes de la ficaire",
+    "lieux": [
+      "partout",
+      "parc-peixotto"
+    ],
+    "ou": "Au pied des haies, sous les arbres et sur les pelouses fraîches des parcs (Peixotto, campus) : des tapis de feuilles en cœur luisantes et d'étoiles jaunes.",
+    "point": null,
+    "mois": [
+      2,
+      3,
+      4
+    ],
+    "requiert": [
+      "soleil"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Fleur jaune brillante en étoile, feuilles en cœur luisantes, tapis serré.",
+    "enfant": {
+      "2-3": {
+        "mot": "étoile",
+        "geste": "Accroupis-toi et montre une étoile jaune brillante, sans la cueillir.",
+        "phrase": "Étoile jaune, brille, brille !"
+      },
+      "3-5": {
+        "mot": "soleil",
+        "geste": "Compte les pétales d'une fleur (souvent 8 à 12). Repasse quand un nuage cache le soleil : la fleur se ferme-t-elle ?",
+        "phrase": "Ouverte au soleil, fermée à l'ombre !"
+      }
+    },
+    "adulte": {
+      "nom": "Ficaire fausse-renoncule",
+      "latin": "Ficaria verna",
+      "anecdote": "Elle se multiplie par de petits tubercules qui ressemblent à des grains de blé ; les fleurs se ferment par temps couvert.",
+      "pourquoi_maintenant": "Dès février, elle annonce le printemps.",
+      "confusion": "Bouton d'or : 5 pétales seulement et feuilles découpées ; ficaire : 8 à 12 pétales et feuilles en cœur."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Ficaria_verna_20210410.jpg/500px-Ficaria_verna_20210410.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Uoaei1 — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ficaria_verna_20210410.jpg"
+    },
+    "attention": "Plante irritante et toxique si on la mange : on regarde, on ne cueille pas.",
+    "verifier": false
+  },
+  {
+    "id": "pla-ophrys-abeille",
+    "categorie": "plante",
+    "titre": "L'orchidée qui ressemble à une abeille",
+    "lieux": [
+      "campus-haut-carre"
+    ],
+    "ou": "Campus du Haut-Carré, pelouses rases côté avenue de la Vieille Tour, souvent seule ou en petit groupe. Le domaine du Haut-Carré est un site universitaire : reste sur les allées ouvertes au public, n'entre pas dans les zones clôturées (moutons) ni dans les bâtiments.",
+    "point": {
+      "lat": 44.80918,
+      "lon": -0.59949,
+      "repere": "Domaine universitaire du Haut-Carré, côté avenue de la Vieille Tour : pelouses rases au bord des allées (une observation en mai 2025, emplacement exact à chercher)."
+    },
+    "mois": [
+      5,
+      6
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Fleur à lèvre brune et velue ressemblant à un insecte, pétales roses.",
+    "enfant": {
+      "2-3": {
+        "mot": "abeille",
+        "geste": "Accroupis-toi au bord de l'allée et regarde la fleur-abeille de tout près, sans la toucher.",
+        "phrase": "Une abeille qui ne bouge pas !"
+      },
+      "3-5": {
+        "mot": "vrai ou faux",
+        "geste": "Est-ce une vraie abeille ou une fleur déguisée ? Cherche les ailes, la tête, les pattes.",
+        "phrase": "Fleur déguisée en abeille !"
+      }
+    },
+    "adulte": {
+      "nom": "Ophrys abeille",
+      "latin": "Ophrys apifera",
+      "anecdote": "Sa fleur imite une abeille femelle pour attirer des mâles d'une espèce d'abeille méditerranéenne ; mais sous nos climats elle se féconde presque toujours elle-même : ses sacs de pollen basculent et se collent sur le pistil.",
+      "pourquoi_maintenant": "Floraison en mai-juin.",
+      "confusion": "Orchis pyramidal : épi rose, sans lèvre en abeille."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Ophrys_abeille_-_Ophrys_apifera.jpg/500px-Ophrys_abeille_-_Ophrys_apifera.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "JackyM59 — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ophrys_abeille_-_Ophrys_apifera.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-spiranthe-automne",
+    "categorie": "plante",
+    "titre": "L'orchidée en spirale d'octobre",
+    "lieux": [
+      "campus-haut-carre"
+    ],
+    "ou": "Campus du Haut-Carré, pelouses rases au nord du domaine. Toute petite (10-20 cm) : il faut chercher au ras de l'herbe. Le domaine du Haut-Carré est un site universitaire : reste sur les allées ouvertes au public, n'entre pas dans les zones clôturées (moutons) ni dans les bâtiments.",
+    "point": {
+      "lat": 44.81034,
+      "lon": -0.59743,
+      "repere": "Domaine universitaire du Haut-Carré, partie nord (vers le hameau de Noailles) : pelouses rases au bord des allées (une observation en octobre 2024, emplacement exact à chercher)."
+    },
+    "mois": [
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Petite tige avec des fleurs blanches disposées en spirale.",
+    "enfant": {
+      "2-3": {
+        "mot": "spirale",
+        "geste": "Dessine une spirale en l'air avec ton doigt, comme la fleur.",
+        "phrase": "Tourne, tourne, la fleur en spirale !"
+      },
+      "3-5": {
+        "mot": "tourne",
+        "geste": "Compte combien de tours fait la spirale de petites fleurs blanches, sans toucher.",
+        "phrase": "Un tour, deux tours, la fleur danse !"
+      }
+    },
+    "adulte": {
+      "nom": "Spiranthe d'automne",
+      "latin": "Spiranthes spiralis",
+      "anecdote": "Cette orchidée minuscule fleurit en fin d'été et en automne, sur des pelouses rases et peu engraissées ; la petite rosette de feuilles de l'année suivante pousse déjà à côté de la tige fleurie.",
+      "pourquoi_maintenant": "Floraison de fin août à octobre, quand les pelouses ne sont pas tondues.",
+      "confusion": "Plantain : épi brun-vert, sans petites fleurs blanches en spirale."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Spiranthe_d%27automne_MHNT.jpg/500px-Spiranthe_d%27automne_MHNT.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Didier Descouens — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Spiranthe_d%27automne_MHNT.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-trefle-quatre-feuilles",
+    "categorie": "plante",
+    "titre": "À la recherche du trèfle à quatre feuilles",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Dans les pelouses du quartier : trèfle blanc.",
+    "point": null,
+    "mois": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Feuilles à trois folioles marquées d'un V clair, fleurs en boule blanche.",
+    "enfant": {
+      "2-3": {
+        "mot": "trèfle",
+        "geste": "Pose ton doigt sur chaque foliole : un, deux, trois !",
+        "phrase": "Trèfle, trèfle, trois feuilles !"
+      },
+      "3-5": {
+        "mot": "quatre ?",
+        "geste": "Cherche un trèfle à quatre feuilles : compte les folioles de chaque feuille. Cherche aussi le petit V blanc dessiné dessus.",
+        "phrase": "Un, deux, trois... et quatre ?"
+      }
+    },
+    "adulte": {
+      "nom": "Trèfle blanc",
+      "latin": "Trifolium repens",
+      "anecdote": "On trouve en moyenne un trèfle à quatre feuilles sur plusieurs milliers ; c'est en partie génétique, donc là où on en trouve un, on en trouve souvent d'autres. Comme tous les trèfles, il héberge dans ses racines des bactéries qui fixent l'azote de l'air.",
+      "pourquoi_maintenant": "Il fleurit d'avril à septembre.",
+      "confusion": "Oxalis : feuilles en cœur."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Trifolium_repens_leaf_NC6.jpg/500px-Trifolium_repens_leaf_NC6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Macleay Grass Man — CC BY 2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Trifolium_repens_leaf_NC6.jpg"
+    },
+    "attention": "Les fleurs de trèfle attirent les abeilles : on regarde où on pose les mains et les pieds nus.",
+    "verifier": false
+  },
+  {
+    "id": "pla-clathre-rouge-peixotto",
+    "categorie": "plante",
+    "titre": "Le champignon-cage rouge",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Sur les paillis et au pied des arbres, entre le parc Peixotto et le cours de la Libération, quelques jours après la pluie. Rare et imprévisible : une belle surprise si tu le croises.",
+    "point": {
+      "lat": 44.8098,
+      "lon": -0.5912,
+      "repere": "Côté nord du parc Peixotto, vers le cours de la Libération et l'avenue Espeleta : massifs paillés et pieds d'arbres (observé en 2021 et 2022, emplacement exact variable)."
+    },
+    "mois": [
+      5,
+      7,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Cage rouge vif, ajourée, qui sort d'un œuf blanc ; odeur de viande avariée.",
+    "enfant": {
+      "2-3": {
+        "mot": "rouge",
+        "geste": "Regarde de loin et montre la forme rouge sans toucher.",
+        "phrase": "Rouge, rouge, une cage rouge !"
+      },
+      "3-5": {
+        "mot": "odeur",
+        "geste": "Sens de loin, puis éloigne-toi : ça sent mauvais !",
+        "phrase": "Beurk, ça sent fort !"
+      }
+    },
+    "adulte": {
+      "nom": "Clathre rouge",
+      "latin": "Clathrus ruber",
+      "anecdote": "Son odeur de charogne attire les mouches qui dispersent ses spores.",
+      "pourquoi_maintenant": "Il apparaît après les pluies, surtout en automne.",
+      "confusion": "Le clathre est reconnaissable, mais les jeunes « œufs » blancs peuvent ressembler à d'autres champignons : ne touche à aucun."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Clathrus_ruber_fungus.jpg/500px-Clathrus_ruber_fungus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Albarubescens — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Clathrus_ruber_fungus.jpg"
+    },
+    "attention": "Champignon : on regarde sans toucher, on garde l'enfant à distance et on se lave les mains si besoin.",
+    "verifier": true
+  },
+  {
+    "id": "pla-champignons-pelouse",
+    "categorie": "plante",
+    "titre": "Les champignons sortis de la pelouse",
+    "lieux": [
+      "parc-peixotto",
+      "partout"
+    ],
+    "ou": "Sur les pelouses des parcs (Peixotto, Robespierre) et au pied des arbres, un ou deux jours après une bonne pluie d'automne.",
+    "point": null,
+    "mois": [
+      10,
+      11
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Chapeaux de formes variées dans l'herbe, souvent en groupe ou en rond (« rond de sorcière »).",
+    "enfant": {
+      "2-3": {
+        "mot": "champignon",
+        "geste": "Montre un champignon du doigt, de loin, et dis bonjour sans toucher.",
+        "phrase": "Champignon, champignon, on regarde, on ne touche pas !"
+      },
+      "3-5": {
+        "mot": "forme",
+        "geste": "Dis si le chapeau est rond, plat ou en cloche, puis compte les champignons du groupe. Sont-ils en rond ?",
+        "phrase": "Rond, plat ou en cloche ?"
+      }
+    },
+    "adulte": {
+      "nom": "Champignons des pelouses",
+      "latin": null,
+      "anecdote": "Un champignon peut sortir de terre en une nuit : ses cellules sont déjà formées sous terre et se gonflent d'eau d'un coup après la pluie. Ce qu'on voit n'est que le « fruit » d'un réseau de filaments caché dans le sol.",
+      "pourquoi_maintenant": "Ils apparaissent après les pluies d'octobre-novembre, quand le sol est encore tiède.",
+      "confusion": "Beaucoup se ressemblent, et certains sont mortels : jamais de cueillette pour manger sans l'avis d'un pharmacien."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Volvopluteus_gloiocephalus_151114w.JPG/500px-Volvopluteus_gloiocephalus_151114w.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Strobilomyces — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Volvopluteus_gloiocephalus_151114w.JPG"
+    },
+    "attention": "Champignons : on regarde sans toucher ni goûter ; mains lavées en cas de contact.",
+    "verifier": false
+  },
+  {
+    "id": "pla-laurier-rose-fleurs",
+    "categorie": "plante",
+    "titre": "Les fleurs roses du laurier-rose",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue du Professeur Arnozan, côté est, près de la rue Lamartine, sur un grillage sur muret.",
+    "point": {
+      "lat": 44.80978,
+      "lon": -0.5865,
+      "repere": "Rue du Professeur Arnozan, côté est de la chaussée, à ~30 m du croisement avec Rue Lamartine ; repère : grillage sur muret côté droit",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/c1/09/cb/a5/b048-4439-843c-65c71acf4136/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=c109cba5-b048-4439-843c-65c71acf4136"
+      }
+    },
+    "mois": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Fleurs roses en entonnoir, feuilles étroites et allongées.",
+    "enfant": {
+      "2-3": {
+        "mot": "rose",
+        "geste": "Regarde les fleurs roses de loin, les mains dans les poches.",
+        "phrase": "Fleur rose, on regarde avec les yeux !"
+      },
+      "3-5": {
+        "mot": "compte",
+        "geste": "Compte les bouquets de fleurs roses sans t'approcher. Combien de pétales sur une fleur ? (cinq)",
+        "phrase": "Cinq pétales, on ne touche pas !"
+      }
+    },
+    "adulte": {
+      "nom": "Laurier-rose",
+      "latin": "Nerium oleander",
+      "anecdote": "Pour résister à la sécheresse, il cache ses pores (stomates) au fond de petites cavités poilues sous la feuille, à l'abri du vent. Toutes ses parties contiennent de l'oléandrine, un poison du cœur : c'est l'une des plantes les plus toxiques de nos jardins.",
+      "pourquoi_maintenant": "Il fleurit de juin à septembre.",
+      "confusion": "Laurier-sauce : feuilles aromatiques, sans fleurs roses."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Nerium_oleander_pink.jpg/500px-Nerium_oleander_pink.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Challiyan at Malayalam Wikipedia — CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Nerium_oleander_pink.jpg"
+    },
+    "attention": "Très toxique : on regarde seulement, on ne touche ni fleurs ni feuilles, rien à la bouche, mains lavées.",
+    "verifier": false
+  },
+  {
+    "id": "pla-laurier-palme-haie",
+    "categorie": "plante",
+    "titre": "Le laurier-palme, la haie en fleur",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Place du 8 Mai 1945, côté nord, près de la rue du Professeur Arnozan : une haie de laurier-palme.",
+    "point": {
+      "lat": 44.8094,
+      "lon": -0.58717,
+      "repere": "Place du 8 Mai 1945, côté nord de la chaussée, à ~10 m du croisement avec Rue du Professeur Arnozan ; repère : en face à gauche, à côté du sens interdit et du poteau en béton",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/98/67/0e/8f/0417-4d9c-93e7-f31288c29b1e/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=98670e8f-0417-4d9c-93e7-f31288c29b1e"
+      }
+    },
+    "mois": [
+      4,
+      5
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Feuilles vert foncé brillantes, grandes, et épis de petites fleurs blanches.",
+    "enfant": {
+      "2-3": {
+        "mot": "fleur blanche",
+        "geste": "Montre les épis de fleurs blanches, les mains derrière le dos.",
+        "phrase": "Fleurs blanches dans la haie !"
+      },
+      "3-5": {
+        "mot": "épis",
+        "geste": "Compte les épis blancs dressés comme des bougies.",
+        "phrase": "Un, deux, trois épis-bougies !"
+      }
+    },
+    "adulte": {
+      "nom": "Laurier-palme",
+      "latin": "Prunus laurocerasus",
+      "anecdote": "Froissées, ses feuilles sentent l'amande amère : elles libèrent du cyanure. Les entomologistes du XIXe siècle s'en servaient pour endormir les insectes de leurs collections.",
+      "pourquoi_maintenant": "Floraison en avril-mai.",
+      "confusion": "Laurier-sauce : feuilles plus fines, aromatiques."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Cherry_laurel%2C_blossom.jpg/500px-Cherry_laurel%2C_blossom.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Schnobby — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cherry_laurel,_blossom.jpg"
+    },
+    "attention": "Feuilles et graines toxiques : on regarde seulement, rien à la bouche.",
+    "verifier": false
+  },
+  {
+    "id": "pla-mimosa-pompons",
+    "categorie": "plante",
+    "titre": "Les pompons jaunes du mimosa",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Jardins du quartier : branches de mimosa qui dépassent des clôtures, en regardant bien en hauteur.",
+    "point": null,
+    "mois": [
+      1,
+      2,
+      3
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Petits pompons jaunes en grappes, feuillage gris-vert très découpé.",
+    "enfant": {
+      "2-3": {
+        "mot": "pompon",
+        "geste": "Lève le nez et montre un pompon jaune : on peut le sentir de loin si la branche est basse.",
+        "phrase": "Pompon jaune, comme le soleil !"
+      },
+      "3-5": {
+        "mot": "compter",
+        "geste": "Compte les grappes de pompons que tu vois dépasser de la clôture.",
+        "phrase": "Un pompon, deux pompons, plein de pompons !"
+      }
+    },
+    "adulte": {
+      "nom": "Mimosa des fleuristes",
+      "latin": "Acacia dealbata",
+      "anecdote": "Le « mimosa » des fleuristes n'est pas un vrai mimosa mais un acacia australien, introduit en France au XIXe siècle. Le vrai mimosa est la sensitive, dont les feuilles se referment au toucher.",
+      "pourquoi_maintenant": "Il fleurit en plein hiver, de fin janvier à mars, quand presque tout est nu.",
+      "confusion": "Sensitive (Mimosa pudica) : plante d'appartement aux feuilles qui se replient."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Mimosa2007.JPG/500px-Mimosa2007.JPG",
+      "credit": "marieValet — Domaine public",
+      "source": "https://commons.wikimedia.org/wiki/File:Mimosa2007.JPG"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-gui-boules-vertes",
+    "categorie": "plante",
+    "titre": "Le gui et ses perles blanches",
+    "lieux": [
+      "partout",
+      "campus-haut-carre"
+    ],
+    "ou": "Dans les grands arbres nus (peupliers, tilleuls, pommiers) : boules vertes de gui ; avec de bons yeux, on voit ses petites perles blanches en hiver.",
+    "point": null,
+    "mois": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Grosses boules vertes accrochées aux branches.",
+    "enfant": {
+      "2-3": {
+        "mot": "perle",
+        "geste": "Lève les yeux vers une boule de gui et cherche les petites perles blanches.",
+        "phrase": "Perles blanches dans l'arbre !"
+      },
+      "3-5": {
+        "mot": "pas de racine",
+        "geste": "Le gui ne touche jamais la terre : comment boit-il, à ton avis ? Cherche d'autres boules dans le même arbre.",
+        "phrase": "Il boit dans l'arbre, pas dans la terre !"
+      }
+    },
+    "adulte": {
+      "nom": "Gui",
+      "latin": "Viscum album",
+      "anecdote": "Ses baies sont pleines d'une glu (la « viscine ») : la fauvette à tête noire mange la pulpe et essuie la graine collante sur une branche, la grive draine la rejette dans ses fientes. C'est ainsi qu'il se « plante » de branche en branche.",
+      "pourquoi_maintenant": "En hiver, les arbres sont nus et les boules se voient de loin ; les baies blanches sont mûres de novembre à janvier.",
+      "confusion": "Nid d'oiseau ou de pie : amas de brindilles sombres, pas des boules vertes régulières."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Mistletoe_with_berries.jpg/500px-Mistletoe_with_berries.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "credit": "Schnobby — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Mistletoe_with_berries.jpg"
+    },
+    "attention": "Les baies blanches du gui sont toxiques : on regarde seulement, rien à la bouche, même s'il y en a dans la maison à Noël.",
+    "verifier": false
+  },
+  {
+    "id": "pla-ginkgo-jaune-or",
+    "categorie": "plante",
+    "titre": "Le ginkgo jaune d'or",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Cours de la Libération, à l'angle de l'avenue Georges Clemenceau (carrefour à feux) : un ginkgo repéré sur photo de rue, près du bâtiment technique. En novembre, ses feuilles en éventail tapissent le trottoir.",
+    "point": {
+      "lat": 44.805611,
+      "lon": -0.592407,
+      "repere": "Cours de la Libération, côté ouest, une vingtaine de mètres après l'avenue Georges Clemenceau : l'arbre à l'angle du bâtiment technique, près du feu tricolore."
+    },
+    "mois": [
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Feuilles en éventail, souvent fendues en deux au milieu, sans nervure centrale ; jaune d'or en novembre, puis elles tombent presque toutes en quelques jours.",
+    "enfant": {
+      "2-3": {
+        "mot": "éventail",
+        "geste": "Ramasse une feuille jaune tombée et évente-toi avec : fff ! Puis lance-la en l'air et regarde-la tourner.",
+        "phrase": "Feuille éventail, toute dorée !"
+      },
+      "3-5": {
+        "mot": "fendue en deux",
+        "geste": "Cherche une feuille fendue au milieu et une sans fente. Regarde les nervures : partent-elles toutes du bas, comme les baleines d'un éventail ?",
+        "phrase": "Une feuille, deux oreilles !"
+      }
+    },
+    "adulte": {
+      "nom": "Ginkgo",
+      "latin": "Ginkgo biloba",
+      "anecdote": "Le ginkgo est le dernier survivant d'un groupe de plantes apparu il y a plus de 200 millions d'années, avant les dinosaures à plumes. À Hiroshima, plusieurs ginkgos situés à 1 ou 2 km de l'explosion de 1945 ont survécu et sont toujours vivants.",
+      "pourquoi_maintenant": "Le jaune culmine de mi-novembre à début décembre ; après une nuit froide, l'arbre peut lâcher presque toutes ses feuilles d'un coup.",
+      "confusion": "Aucun autre arbre de rue n'a ces feuilles en éventail sans nervure centrale ; de loin, un tilleul jauni peut tromper."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ginkgo_biloba_leaves_in_fall_color.jpg/500px-Ginkgo_biloba_leaves_in_fall_color.jpg",
+      "credit": "Erdbaer — CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ginkgo_biloba_leaves_in_fall_color.jpg"
+    },
+    "attention": "Les arbres femelles lâchent des graines charnues qui sentent très mauvais et irritent la peau : on ne ramasse que les feuilles.",
+    "verifier": true
+  },
+  {
+    "id": "pla-cypres-chauve-peixotto",
+    "categorie": "plante",
+    "titre": "Le conifère qui perd ses aiguilles",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Dans le parc Peixotto, partie nord (côté avenue Espeleta), près du saule pleureur, d'un banc et de la petite fontaine : un grand conifère aux aiguilles fines qui roussissent puis tombent.",
+    "point": {
+      "lat": 44.80955,
+      "lon": -0.58997,
+      "repere": "Parc Peixotto, partie nord côté avenue Espeleta : à côté du saule pleureur et d'un banc, à une quinzaine de mètres de la petite fontaine ; le conifère roux en automne, nu en hiver."
+    },
+    "mois": [
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Feuillage plat et souple « en plumes », vert tendre puis cuivré ; tronc droit, creusé de cannelures à la base ; petites boules rondes (cônes).",
+    "enfant": {
+      "2-3": {
+        "mot": "plume",
+        "geste": "Ramasse un petit rameau tombé, tout en plumes rousses, et passe-le sur ta joue : ça chatouille !",
+        "phrase": "Plume rousse, tu chatouilles !"
+      },
+      "3-5": {
+        "mot": "qui se déshabille ?",
+        "geste": "Compare avec un pin ou le cèdre du parc : qui garde ses aiguilles l'hiver ? Range trois rameaux tombés du plus vert au plus brun.",
+        "phrase": "Un sapin qui se déshabille !"
+      }
+    },
+    "adulte": {
+      "nom": "Cyprès chauve",
+      "latin": "Taxodium distichum",
+      "anecdote": "Presque tous les conifères gardent leurs aiguilles l'hiver ; lui les perd, et pas une à une : ce sont les petits rameaux entiers qui tombent avec leurs aiguilles. Dans les marais du sud des États-Unis, il fait pousser autour du tronc des « genoux » de bois qui dépassent de l'eau.",
+      "pourquoi_maintenant": "Octobre à décembre : les aiguilles virent au roux-cuivre, puis l'arbre se dénude.",
+      "confusion": "Le métaséquoia perd aussi ses aiguilles, mais elles sont opposées deux à deux (alternes chez le cyprès chauve) ; le séquoia géant reste vert toute l'année."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Taxodium-distichum-autumn.jpg/500px-Taxodium-distichum-autumn.jpg",
+      "credit": "Sten Porse — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Taxodium-distichum-autumn.jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-platane-ecorce-puzzle",
+    "categorie": "plante",
+    "titre": "L'écorce du platane, un puzzle camouflage",
+    "lieux": [
+      "parc-cauderes"
+    ],
+    "ou": "Au parc Cauderès, côté rue de Suzon : les cinq gros platanes au tronc tacheté ; des plaques d'écorce tombées traînent souvent à leur pied.",
+    "point": {
+      "lat": 44.8134,
+      "lon": -0.5783,
+      "repere": "Parc Cauderès, côté rue de Suzon : les cinq plus gros troncs du parc, tachetés crème, vert olive et gris (platanes plantés entre 1914 et 1964)."
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Tronc lisse en camouflage (crème, vert olive, gris), plaques d'écorce minces qui se détachent ; grandes feuilles lobées comme une main.",
+    "enfant": {
+      "2-3": {
+        "mot": "puzzle",
+        "geste": "Ramasse une plaque d'écorce tombée, pose-la sur ta main, puis cherche sur le tronc la tache claire d'où elle pourrait venir.",
+        "phrase": "Platane, ta peau tombe !"
+      },
+      "3-5": {
+        "mot": "trois couleurs",
+        "geste": "Compte les couleurs du tronc (crème, vert, gris) et cherche une tache qui ressemble à un animal ou à un pays.",
+        "phrase": "Gris, crème, vert : le platane se déguise !"
+      }
+    },
+    "adulte": {
+      "nom": "Platane commun",
+      "latin": "Platanus × hispanica",
+      "anecdote": "Le platane de nos villes est un hybride (platane d'Orient × platane d'Occident) apparu au XVIIe siècle. Son écorce ne s'étire pas quand le tronc grossit : elle se fend et tombe par plaques, laissant voir une écorce neuve, crème, qui fonce ensuite au gris-vert.",
+      "pourquoi_maintenant": "Les plaques se détachent surtout en été et au début de l'automne, quand le tronc a grossi.",
+      "confusion": "L'érable sycomore a des feuilles semblables, mais opposées, et des fruits en hélicoptère ; le platane a des feuilles alternes et des fruits en boule."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bark_of_Platanus_x_hispanica.jpg/500px-Bark_of_Platanus_x_hispanica.jpg",
+      "credit": "Krzysztof Golik — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Bark_of_Platanus_x_hispanica.jpg"
+    },
+    "attention": "En mai, les poils des jeunes feuilles irritent les yeux : on se lave les mains avant de se frotter les yeux.",
+    "verifier": false
+  },
+  {
+    "id": "pla-orme-caucase-curvale",
+    "categorie": "plante",
+    "titre": "L'arbre remarquable de Curvale",
+    "lieux": [
+      "parc-andre-curvale"
+    ],
+    "ou": "Parc André Curvale, entrée rue René Balloux : le très grand orme du Caucase, avec une plaque explicative à son pied.",
+    "point": {
+      "lat": 44.8179,
+      "lon": -0.5893,
+      "repere": "Parc André Curvale, entrée rue René Balloux : le très gros tronc près du chemin, avec sa plaque explicative au pied."
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Tronc énorme (environ 4,45 m de tour) dont l'écorce s'écaille en plaques ; petites feuilles ovales bordées de grosses dents régulières. Lis la plaque sur place.",
+    "enfant": {
+      "2-3": {
+        "mot": "gros arbre",
+        "geste": "Fais le tour du tronc à petits pas en tapotant l'écorce : « toc, toc ! ». Puis fais-lui un câlin : tes bras en font-ils le tour ?",
+        "phrase": "Toc, toc, gros arbre !"
+      },
+      "3-5": {
+        "mot": "main dans la main",
+        "geste": "Combien de personnes faut-il, main dans la main, pour entourer le tronc ? Devine d'abord, puis essayez (un adulte bras écartés fait environ 1,70 m).",
+        "phrase": "Un, deux, trois… le tour du géant !"
+      }
+    },
+    "adulte": {
+      "nom": "Orme du Caucase (zelkova)",
+      "latin": "Zelkova carpinifolia",
+      "anecdote": "C'est le seul arbre de Talence labellisé « Arbre remarquable de France » : un orme du Caucase planté au XIXe siècle dans le parc d'une ancienne propriété (la plaque sur place donne la date). Cousin des ormes, il pousse à l'état sauvage dans les forêts du Caucase et du nord de l'Iran.",
+      "pourquoi_maintenant": "Beau toute l'année : feuillage d'avril à novembre, jaune-orangé avant la chute, puis silhouette nue l'hiver, quand on voit le mieux la taille du tronc.",
+      "confusion": "Le charme a des feuilles proches, mais un tronc lisse, cannelé et bien plus mince ; l'orme champêtre a des feuilles asymétriques à la base."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Zelkova_carpinifolia1.jpg/500px-Zelkova_carpinifolia1.jpg",
+      "credit": "Kurt Stüber — CC BY-SA 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Zelkova_carpinifolia1.jpg"
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "pla-palmiers-bananiers",
+    "categorie": "plante",
+    "titre": "Palmiers et bananiers : un air du Sud",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Avenue Georges Clemenceau, près de la rue Ernest Renan : un palmier de Chine dépasse au-dessus des toits. Place de l'Église, dans le massif à gauche du parvis : un bananier (de mai aux premières gelées). D'autres dépassent des jardins du quartier.",
+    "point": {
+      "lat": 44.80431,
+      "lon": -0.594634,
+      "repere": "Avenue Georges Clemenceau, côté sud-est, une trentaine de mètres avant la rue Ernest Renan : le palmier qui dépasse au-dessus des toits à gauche, après le poteau électrique penché.",
+      "photo_lieu": {
+        "url": "https://panoramax.openstreetmap.fr/derivates/fb/43/95/a0/9b46-47c6-98ca-e816ec877e08/sd.jpg",
+        "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
+        "source": "https://api.panoramax.xyz/#focus=pic&pic=fb4395a0-9b46-47c6-98ca-e816ec877e08"
+      }
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "reperes": "Palmier de Chine = tronc couvert de fibres brunes, couronne de feuilles en éventail ; bananier = immenses feuilles vertes en lanières, souvent déchirées, sur un faux-tronc.",
+    "enfant": {
+      "2-3": {
+        "mot": "palmier",
+        "geste": "Ouvre grand ta main, doigts écartés : c'est une feuille de palmier ! Puis cherche le vrai, tout en haut, au-dessus des toits.",
+        "phrase": "Palmier, palmier, tout là-haut !"
+      },
+      "3-5": {
+        "mot": "plus grand que moi ?",
+        "geste": "Devant le bananier : la feuille est-elle plus grande que toi ? Compare avec tes bras écartés. Devant le palmier : compte de loin les « doigts » d'une feuille.",
+        "phrase": "Une feuille plus grande que moi !"
+      }
+    },
+    "adulte": {
+      "nom": "Palmier de Chine et bananier rustique",
+      "latin": "Trachycarpus fortunei ; Musa basjoo (probable)",
+      "anecdote": "Le palmier de Chine est l'un des palmiers les plus résistants au froid (autour de -15 °C une fois bien installé) ; le bananier rustique, lui, gèle en surface mais repart de sa souche au printemps. Aucun des deux n'est un arbre : le « tronc » du bananier est fait de feuilles emboîtées (c'est une herbe géante) et celui du palmier ne forme pas de cernes.",
+      "pourquoi_maintenant": "Le climat doux de Bordeaux, adouci par l'océan, permet ces plantes du Sud : le palmier est vert toute l'année, le bananier est à son plus beau de juin à octobre.",
+      "confusion": "Le palmier des Canaries a un gros tronc à écailles en losanges et des feuilles en plumes, pas en éventail."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Chusan_palm_Kew_Gardens.jpg/500px-Chusan_palm_Kew_Gardens.jpg",
+      "credit": "LavaLampBamboo — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Chusan_palm_Kew_Gardens.jpg"
+    },
+    "attention": null,
+    "verifier": true
+  },
+  {
+    "id": "pla-vigne-vierge-rouge",
+    "categorie": "plante",
+    "titre": "Le mur qui rougit en automne",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue Peydavant, côté est, entre la rue Lamartine et la rue de Suzon : un long mur couvert de vigne vierge, qui passe du vert à l'orange puis au rouge vif.",
+    "point": {
+      "lat": 44.809487,
+      "lon": -0.585039,
+      "repere": "Rue Peydavant, côté est, à environ 80 m de la rue Lamartine : le long mur végétal continu qui borde le trottoir."
+    },
+    "mois": [
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "reperes": "Feuilles à trois pointes (ou découpées en cinq folioles) plaquées contre le mur, rouge vif en automne ; petites grappes de baies bleu-noir.",
+    "enfant": {
+      "2-3": {
+        "mot": "rouge",
+        "geste": "Tends le bras vers le mur : « rouge ! ». Ramasse une feuille tombée sur le trottoir et pose-la contre ta joue.",
+        "phrase": "Rouge, rouge, tout le mur !"
+      },
+      "3-5": {
+        "mot": "les couleurs",
+        "geste": "Compte les couleurs du mur (vert, jaune, orange, rouge, violet ?) et cherche la feuille la plus rouge par terre.",
+        "phrase": "Vert, orange, rouge : le mur change !"
+      }
+    },
+    "adulte": {
+      "nom": "Vigne vierge",
+      "latin": "Parthenocissus sp.",
+      "anecdote": "Elle grimpe grâce à de minuscules ventouses au bout de ses vrilles, qui sécrètent une colle si solide que des traces restent sur le mur des années après qu'on a arraché la plante. Le rouge vient de pigments (anthocyanes) fabriqués à l'automne, juste avant la chute des feuilles.",
+      "pourquoi_maintenant": "Le rouge culmine de mi-octobre à mi-novembre ; un coup de vent ou de gel suffit ensuite à déshabiller le mur.",
+      "confusion": "Le lierre garde ses feuilles vert foncé toute l'année ; la vraie vigne a des feuilles plus grandes et des grappes de raisin."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Parthenocissus_tricuspidata%2C_Boston_ivy%2C_in_autumn_colours.JPG/500px-Parthenocissus_tricuspidata%2C_Boston_ivy%2C_in_autumn_colours.JPG",
+      "credit": "Rowan Adams — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Parthenocissus_tricuspidata,_Boston_ivy,_in_autumn_colours.JPG"
+    },
+    "attention": "Les petites baies bleu-noir sont toxiques : on regarde, on ne cueille pas.",
+    "verifier": true
+  }
+]

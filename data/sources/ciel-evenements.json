@@ -1,0 +1,602 @@
+[
+ {
+  "date": "2026-11-01/2027-03-15",
+  "type": "planete",
+  "titre": "Saturne visible le soir",
+  "description": "Saturne (mag. +0,5 à +0,9), jaune pâle, ne scintille pas : à l'est puis au sud en début de soirée (opposition le 5 oct. 2026) ; ≈ 23° de hauteur début nov. à ≈ 46° en janvier (75 min après le coucher du Soleil). Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Entre 18h et 20h (hiver), au sud-est puis sud",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2026-11-17",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Léonides (nuit du 17/18/11)",
+  "description": "~15/h (rapide, bolides rares) ; Lune 54 % : moyen. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2026-11-20",
+  "type": "conjonction",
+  "titre": "Lune gibbeuse près de Saturne",
+  "description": "Lune (81 %) à ≈ 5° de Saturne, hauteur ≈ 31-36° vers 18h35.",
+  "heure_conseillee": "vers 18h30-19h",
+  "source": "Calcul PyEphem pour Talence (séparation minimale quotidienne, 70 min après le coucher du Soleil)"
+ },
+ {
+  "date": "2026-11-24",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Castors)",
+  "description": "Pleine Lune à 15h53 (heure de Paris). Près du périgée : un peu plus grosse et lumineuse (« super-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2026-12-13",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Géminides (nuit du 13/14/12)",
+  "description": "~100/h au maximum (la plus belle de l'année) ; Lune croissante ≈ 28 % : bonne année, visible dès 20h-21h. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2026-12-21",
+  "type": "saison",
+  "titre": "Solstice d'hiver",
+  "description": "Le plus court jour (lever 8h33, coucher ≈ 17h22). Solstice à 21h49 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2026-12-24",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune Froide)",
+  "description": "Pleine Lune à 02h28 (heure de Paris). Près du périgée : un peu plus grosse et lumineuse (« super-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-01-03",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Quadrantides (nuit du 03/04/01)",
+  "description": "~80/h mais pic bref (quelques heures) ; Lune 14 % : bon. Nuit froide. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2027-01-22",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune du Loup)",
+  "description": "Pleine Lune à 13h17 (heure de Paris). Près du périgée : un peu plus grosse et lumineuse (« super-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-02-11",
+  "type": "planete",
+  "titre": "Opposition de Jupiter",
+  "description": "Jupiter à l'opposition : la plus brillante (mag. -2,4), se lève au coucher du Soleil et reste visible toute la nuit. Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Dès 19h-20h, vers l'est",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2027-02-15/2027-07-15",
+  "type": "planete",
+  "titre": "Jupiter, l'étoile brillante du soir",
+  "description": "Jupiter (mag. -2,4 à -1,6) domine le ciel du soir de février à juillet 2027 : à l'est en février, plein sud en avril (≈ 62°), à l'ouest en juin-juillet. Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Après le coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2027-02-15/2027-08-01",
+  "type": "planete",
+  "titre": "Mars visible le soir",
+  "description": "Mars passe de -1,1 (février) à +1,2 (août) en s'éloignant ; orange, proche de Jupiter au printemps. Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Après le coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2027-02-20",
+  "type": "planete",
+  "titre": "Opposition de Mars",
+  "description": "Mars à l'opposition (mag. -1,1), orange, se lève au coucher du Soleil. Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Vers 19h30-21h, est",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2027-02-21",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Neiges)",
+  "description": "Pleine Lune à 00h23 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-03-20",
+  "type": "saison",
+  "titre": "Équinoxe de printemps",
+  "description": "Jour = nuit ; 21h24 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2027-03-22",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune du Ver)",
+  "description": "Pleine Lune à 11h43 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-03-28",
+  "type": "saison",
+  "titre": "Passage à l'heure d'été",
+  "description": "À 2h00 il est 3h00 : la soirée s'allonge d'une heure (coucher ≈ 20h20 début avril).",
+  "heure_conseillee": "-",
+  "source": "Législation européenne en vigueur (dernier dimanche de mars/octobre)"
+ },
+ {
+  "date": "2027-04-15",
+  "type": "conjonction",
+  "titre": "Lune entre Mars et Jupiter",
+  "description": "Lune (71 %) à ≈ 3,8° de Jupiter et de Mars, haut dans le ciel (≈ 60°) vers 21h50.",
+  "heure_conseillee": "vers 21h30-22h",
+  "source": "Calcul PyEphem pour Talence (séparation minimale quotidienne, 70 min après le coucher du Soleil)"
+ },
+ {
+  "date": "2027-04-21",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune Rose)",
+  "description": "Pleine Lune à 00h27 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-04-22",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Lyrides (nuit du 22/23/04)",
+  "description": "~18/h ; Lune 96 % : très mauvaise année. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2027-05-12",
+  "type": "conjonction",
+  "titre": "Lune près de Jupiter",
+  "description": "Lune (46 %) à ≈ 2° de Jupiter, haut dans le ciel (≈ 48°), vers 22h30 ; Mars à ≈ 4° de la Lune le 13 mai.",
+  "heure_conseillee": "vers 22h-23h",
+  "source": "Calcul PyEphem pour Talence (séparation minimale quotidienne, 70 min après le coucher du Soleil)"
+ },
+ {
+  "date": "2027-05-20",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Fleurs)",
+  "description": "Pleine Lune à 12h58 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-06-19",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Fraises)",
+  "description": "Pleine Lune à 02h44 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-06-21",
+  "type": "saison",
+  "titre": "Solstice d'été",
+  "description": "Le plus long jour (lever 6h15, coucher ≈ 21h50) ; 16h10 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2027-07-18",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune du Cerf)",
+  "description": "Pleine Lune à 17h44 (heure de Paris). Près de l'apogée : un peu plus petite (« micro-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-08-02",
+  "type": "eclipse",
+  "titre": "Éclipse partielle de Soleil (≈ 67-68 %)",
+  "description": "Éclipse totale en Espagne/Gibraltar/Maroc ; à Bordeaux partielle : début 9h52, maximum 10h56 (≈ 67-68 % du Soleil masqué, Soleil à ≈ 42° de hauteur), fin 12h04 (heure d'été). Lunettes ISO 12312-2 obligatoires, ou projection par trou d'épingle/passoire (croissants de lumière sous les arbres). Jamais de regard direct pour l'enfant.",
+  "heure_conseillee": "10h30-11h30 (maximum 10h56)",
+  "source": "Prévi+ (eclipse.previplus.fr/commune/bordeaux-33), eclipse-solaire.fr, astrobro.com ; recalcul PyEphem : 68,0 %"
+ },
+ {
+  "date": "2027-08-12",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Perséides (nuit du 12/13/08)",
+  "description": "~100/h ; Lune ≈ 83 % : gênée. Observer après 22h30 (coucher du Soleil ≈ 21h05) ; en vacances seulement. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2027-08-17",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune de l'Esturgeon)",
+  "description": "Pleine Lune à 09h28 (heure de Paris). Près de l'apogée : un peu plus petite (« micro-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-09-16",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Moissons)",
+  "description": "Pleine Lune à 01h03 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-09-23",
+  "type": "saison",
+  "titre": "Équinoxe d'automne",
+  "description": "Jour = nuit ; 08h01 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2027-10-15",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune du Chasseur)",
+  "description": "Pleine Lune à 15h46 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-10-15/2028-03-15",
+  "type": "planete",
+  "titre": "Saturne visible le soir",
+  "description": "Saturne (mag. +0,1 à +0,6) ; opposition le 18 oct. 2027 ; est à l'automne, sud en janvier 2028 (≈ 50°). Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "18h-21h",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2027-10-21",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Orionides (nuit du 21/22/10)",
+  "description": "~20/h ; Lune ≈ 60 % : moyen. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2027-10-31",
+  "type": "saison",
+  "titre": "Retour à l'heure d'hiver",
+  "description": "À 3h00 il est 2h00 : le soleil se couche vers 17h30 ; nuit tôt.",
+  "heure_conseillee": "-",
+  "source": "Législation européenne en vigueur (dernier dimanche de mars/octobre)"
+ },
+ {
+  "date": "2027-11-14",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Castors)",
+  "description": "Pleine Lune à 04h25 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-11-17",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Léonides (nuit du 17/18/11)",
+  "description": "~15/h ; Lune ≈ 83 % : mauvais. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2027-12-13",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune Froide)",
+  "description": "Pleine Lune à 17h08 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2027-12-13",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Géminides (nuit du 13/14/12)",
+  "description": "~100/h mais Lune ≈ 98 % : très gênée ; seules les plus brillantes visibles. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2027-12-15/2028-05-15",
+  "type": "planete",
+  "titre": "Vénus, étoile du soir",
+  "description": "Vénus (mag. -3,8 à -4,5), très lumineuse à l'ouest après le coucher du Soleil ; élongation maximale est le 23 mars 2028 (≈ 46°) : jusqu'à 30° de hauteur 75 min après le coucher. Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Dans l'heure qui suit le coucher du Soleil, côté ouest",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2027-12-22",
+  "type": "saison",
+  "titre": "Solstice d'hiver",
+  "description": "03h41 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2027-12-30",
+  "type": "conjonction",
+  "titre": "Croissant de Lune près de Vénus",
+  "description": "Fin croissant à 4° de Vénus, basse à l'ouest (≈ 14°) vers 18h35.",
+  "heure_conseillee": "vers 18h30",
+  "source": "Calcul PyEphem pour Talence (séparation minimale quotidienne, 70 min après le coucher du Soleil)"
+ },
+ {
+  "date": "2028-01-03",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Quadrantides (nuit du 03/04/01)",
+  "description": "~80/h pic bref ; Lune ≈ 48 % : moyen. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2028-01-12",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune du Loup)",
+  "description": "Pleine Lune à 05h02 (heure de Paris). Près du périgée : un peu plus grosse et lumineuse (« super-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-01-26",
+  "type": "eclipse",
+  "titre": "Éclipse annulaire de Soleil, partielle au coucher (≈ 75 %)",
+  "description": "Annulaire en Espagne/Portugal ; à Bordeaux partielle (≈ 75 % vers 17h54 CET) et le Soleil se couche en cours d'éclipse (~17h58) : horizon ouest dégagé nécessaire, Soleil très bas. Protection solaire ISO 12312-2 obligatoire tant que le Soleil n'est pas sur l'horizon.",
+  "heure_conseillee": "17h40-17h58 (début de l'éclipse vers 16h38)",
+  "source": "Calcul PyEphem pour Talence ; à recouper avec ssp.imcce.fr avant publication"
+ },
+ {
+  "date": "2028-02-10",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Neiges)",
+  "description": "Pleine Lune à 16h03 (heure de Paris). Près du périgée : un peu plus grosse et lumineuse (« super-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-02-29",
+  "type": "conjonction",
+  "titre": "Croissant près de Vénus",
+  "description": "Croissant (17 %) à ≈ 4° de Vénus, ≈ 30° de hauteur, ouest, vers 19h55.",
+  "heure_conseillee": "vers 19h30-20h30",
+  "source": "Calcul PyEphem pour Talence (séparation minimale quotidienne, 70 min après le coucher du Soleil)"
+ },
+ {
+  "date": "2028-03-11",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune du Ver)",
+  "description": "Pleine Lune à 02h05 (heure de Paris). Près du périgée : un peu plus grosse et lumineuse (« super-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-03-13",
+  "type": "planete",
+  "titre": "Opposition de Jupiter",
+  "description": "Jupiter à l'opposition (mag. -2,3). Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Dès 19h-20h, est",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2028-03-15/2028-07-15",
+  "type": "planete",
+  "titre": "Jupiter, l'étoile brillante du soir",
+  "description": "Jupiter (mag. -2,3 à -1,7) : est en mars, plein sud en mai (≈ 50°), ouest en juillet. Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Après le coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2028-03-20",
+  "type": "saison",
+  "titre": "Équinoxe de printemps",
+  "description": "03h16 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2028-03-26",
+  "type": "saison",
+  "titre": "Passage à l'heure d'été",
+  "description": "À 2h00 il est 3h00.",
+  "heure_conseillee": "-",
+  "source": "Législation européenne en vigueur (dernier dimanche de mars/octobre)"
+ },
+ {
+  "date": "2028-03-29",
+  "type": "conjonction",
+  "titre": "Croissant près de Vénus",
+  "description": "Croissant (13 %) à ≈ 5° de Vénus (31° de hauteur) vers 20h30 (heure d'été).",
+  "heure_conseillee": "vers 20h30-21h",
+  "source": "Calcul PyEphem pour Talence (séparation minimale quotidienne, 70 min après le coucher du Soleil)"
+ },
+ {
+  "date": "2028-04-09",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune Rose)",
+  "description": "Pleine Lune à 12h26 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-04-22",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Lyrides (nuit du 22/23/04)",
+  "description": "~18/h ; Lune 4 % : excellente année. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2028-04-27",
+  "type": "conjonction",
+  "titre": "Croissant près de Vénus",
+  "description": "Fin croissant (10 %) à ≈ 3,7° de Vénus (≈ 24°) vers 22h.",
+  "heure_conseillee": "vers 21h45-22h30",
+  "source": "Calcul PyEphem pour Talence (séparation minimale quotidienne, 70 min après le coucher du Soleil)"
+ },
+ {
+  "date": "2028-05-08",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Fleurs)",
+  "description": "Pleine Lune à 21h48 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-06-07",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Fraises)",
+  "description": "Pleine Lune à 08h08 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-06-20",
+  "type": "saison",
+  "titre": "Solstice d'été",
+  "description": "22h02 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2028-07-06",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune du Cerf)",
+  "description": "Pleine Lune à 20h10 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-08-05",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune de l'Esturgeon)",
+  "description": "Pleine Lune à 10h09 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-08-12",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Perséides (nuit du 12/13/08)",
+  "description": "~100/h ; Lune ≈ 56 % : correct, après 23h. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2028-09-04",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Moissons)",
+  "description": "Pleine Lune à 01h47 (heure de Paris). Près de l'apogée : un peu plus petite (« micro-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-09-22",
+  "type": "saison",
+  "titre": "Équinoxe d'automne",
+  "description": "13h45 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2028-10-03",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune du Chasseur)",
+  "description": "Pleine Lune à 18h24 (heure de Paris). Près de l'apogée : un peu plus petite (« micro-Lune »).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-10-21",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Orionides (nuit du 21/22/10)",
+  "description": "~20/h ; Lune ≈ 18 % : bon. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2028-10-29",
+  "type": "saison",
+  "titre": "Retour à l'heure d'hiver",
+  "description": "À 3h00 il est 2h00.",
+  "heure_conseillee": "-",
+  "source": "Législation européenne en vigueur (dernier dimanche de mars/octobre)"
+ },
+ {
+  "date": "2028-10-31",
+  "type": "planete",
+  "titre": "Opposition de Saturne",
+  "description": "Saturne à l'opposition (mag. -0,1). Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "Dès 18h, est",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2028-11-01/2028-12-31",
+  "type": "planete",
+  "titre": "Saturne visible le soir",
+  "description": "Saturne (mag. -0,1 à +0,2) à l'est puis sud-est. Hauteurs calculées 75 min après le coucher du Soleil.",
+  "heure_conseillee": "17h30-20h",
+  "source": "Calcul PyEphem pour Talence (PyEphem) ; magnitudes et oppositions recoupables sur IMCCE/Éphémérides"
+ },
+ {
+  "date": "2028-11-02",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune des Castors)",
+  "description": "Pleine Lune à 10h17 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-11-17",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Léonides (nuit du 17/18/11)",
+  "description": "~15/h ; Lune ≈ 2 % : bon. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2028-12-02",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune Froide)",
+  "description": "Pleine Lune à 02h40 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-12-13",
+  "type": "etoiles_filantes",
+  "titre": "Maximum des Géminides (nuit du 13/14/12)",
+  "description": "~100/h ; Lune ≈ 2 % : excellente année, visible dès 20h-21h. Dates de maximum IMO (imo.net) ; phase de la Lune calculée à 21h UT.",
+  "heure_conseillee": "Après la tombée de la nuit (Géminides dès 20h-21h ; autres : 22h30 à l'aube), regarder vers le haut, sans lumière",
+  "source": "IMO (imo.net, calendrier des météores) ; Calcul PyEphem pour Talence"
+ },
+ {
+  "date": "2028-12-21",
+  "type": "saison",
+  "titre": "Solstice d'hiver",
+  "description": "09h19 (heure de Paris).",
+  "heure_conseillee": "Au coucher du Soleil",
+  "source": "Calcul PyEphem pour Talence ; IMCCE"
+ },
+ {
+  "date": "2028-12-31",
+  "type": "pleine_lune",
+  "titre": "Pleine Lune (Lune Froide) et éclipse totale de Lune",
+  "description": "Pleine Lune à 17h48 (heure de Paris).",
+  "heure_conseillee": "Dès son lever, côté est, en début de soirée (la Lune se lève vers le coucher du Soleil)",
+  "source": "Calcul PyEphem (Talence, heure de Paris), noms traditionnels"
+ },
+ {
+  "date": "2028-12-31",
+  "type": "eclipse",
+  "titre": "Éclipse totale de Lune (Lune rouge)",
+  "description": "Entrée dans l'ombre 16h07 (Lune encore sous l'horizon), début de la totalité 17h16, maximum 17h52, fin de la totalité 18h27, sortie de l'ombre 19h36 (heure de Paris). Depuis Bordeaux, la Lune se lève à l'est vers 17h15 : très basse (≈ 3° au maximum), horizon est dégagé requis ; spectaculaire et sans danger à l'œil nu.",
+  "heure_conseillee": "17h20-18h30, horizon est-nord-est dégagé",
+  "source": "IMCCE (promenade.imcce.fr/fr/images/pdf/elu-31dec2028.pdf) ; Calcul PyEphem pour Talence"
+ }
+]

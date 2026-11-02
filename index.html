@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Nature autour de Talence centre</title>
+  <meta name="description" content="Chaque jour, 3 idées de choses à observer dans la nature à pied autour de Talence centre, avec un tout-petit.">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#f6f1e6" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#1b1e19" media="(prefers-color-scheme: dark)">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%8C%BF%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="css/style.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <a class="evitement" href="#idees">Aller aux idées du jour</a>
+
+  <header class="entete">
+    <div class="enveloppe">
+      <p class="surtitre">Nature autour de Talence centre</p>
+      <h1 id="date-du-jour">Les idées du jour</h1>
+      <ul class="ciel-du-jour" aria-label="Le temps et le ciel aujourd'hui">
+        <li id="meteo-ligne">Je regarde le ciel…</li>
+        <li id="astro-ligne"></li>
+      </ul>
+      <p id="meteo-avertissement" class="avertissement" hidden></p>
+
+      <fieldset class="age">
+        <legend>Âge de ton enfant</legend>
+        <div class="age-choix">
+          <input type="radio" name="age" id="age-2-3" value="2-3" checked>
+          <label for="age-2-3">2-3 ans</label>
+          <input type="radio" name="age" id="age-3-5" value="3-5">
+          <label for="age-3-5">3-5 ans</label>
+        </div>
+      </fieldset>
+    </div>
+  </header>
+
+  <main id="idees" class="enveloppe" tabindex="-1" aria-busy="true">
+    <p class="chargement">Je cherche trois idées pour aujourd'hui…</p>
+  </main>
+  <p id="annonce" class="visuellement-cache" aria-live="polite"></p>
+
+  <footer class="pied">
+    <div class="enveloppe">
+      <p>À pied, autour de Talence centre, en ≈ 1,5 km. Regarde, écoute, touche doucement — et laisse vivre.</p>
+      <p>Météo : <a href="https://open-meteo.com/">Open-Meteo</a> (CC BY 4.0). Photos : <a href="https://commons.wikimedia.org/">Wikimedia Commons</a>, auteurs et licences sous chaque image. Phases de lune et soleil calculées localement.</p>
+    </div>
+  </footer>
+  <noscript><p class="enveloppe">Ce site a besoin de JavaScript pour choisir les idées du jour.</p></noscript>
+</body>
+</html>

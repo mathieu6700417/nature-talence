@@ -1,0 +1,205 @@
+[
+  {
+    "id": "feuilles-platane",
+    "categorie": "plante",
+    "titre": "Les feuilles du platane",
+    "lieux": [
+      "parc-test"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "platane",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "platane, coucou !"
+      },
+      "3-5": {
+        "mot": "platane (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le platane ?"
+      }
+    },
+    "adulte": {
+      "nom": "Les feuilles du platane",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": {
+      "lat": 44.8049,
+      "lon": -0.5915,
+      "repere": "Parc de test, allée centrale, les trois grands platanes près du banc."
+    },
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "mousse",
+    "categorie": "plante",
+    "titre": "La mousse",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [
+      "pluie_recente"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "mousse",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "mousse, coucou !"
+      },
+      "3-5": {
+        "mot": "mousse (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le mousse ?"
+      }
+    },
+    "adulte": {
+      "nom": "La mousse",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "paquerette",
+    "categorie": "plante",
+    "titre": "La pâquerette",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [
+      "gel"
+    ],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "pâquerette",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "pâquerette, coucou !"
+      },
+      "3-5": {
+        "mot": "pâquerette (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le pâquerette ?"
+      }
+    },
+    "adulte": {
+      "nom": "La pâquerette",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": null,
+    "attention": null,
+    "verifier": false
+  },
+  {
+    "id": "lierre",
+    "categorie": "plante",
+    "titre": "Le lierre",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Au bord du trottoir (fixture).",
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "reperes": "Repères factices.",
+    "enfant": {
+      "2-3": {
+        "mot": "lierre",
+        "geste": "Montrer du doigt, sans toucher.",
+        "phrase": "lierre, coucou !"
+      },
+      "3-5": {
+        "mot": "lierre (en détail)",
+        "geste": "Compter ensemble.",
+        "phrase": "Tu vois le lierre ?"
+      }
+    },
+    "adulte": {
+      "nom": "Le lierre",
+      "latin": "Fixtura fixtura",
+      "anecdote": "Anecdote factice pour les tests.",
+      "pourquoi_maintenant": "Parce que c’est la saison (fixture).",
+      "confusion": null
+    },
+    "photo": null,
+    "point": {
+      "lat": 44.805,
+      "lon": -0.59,
+      "repere": "Mur de la rue de test, côté soleil."
+    },
+    "attention": "Baies toxiques : on regarde, rien à la bouche.",
+    "verifier": true
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "parc-test",
+    "nom": "Parc de test",
+    "type": "parc",
+    "distance": "≈ 600 m",
+    "description": "Un parc factice.",
+    "elements": [
+      "pelouse"
+    ],
+    "lat": 44.8,
+    "lon": -0.59
+  }
+]
