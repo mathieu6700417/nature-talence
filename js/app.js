@@ -9,16 +9,37 @@
 //                                 Les conditions astro (lune, jours courts…) peuvent aussi être forcées.
 //   ?meteo=aucune                 météo « neutre » : aucune condition météo vraie.
 //   ?meteo=hs                     simule une panne de l'API (mode dégradé).
+//   ?inat=aucune                  pas d'appel à iNaturalist (ni badge ni bloc « Vu ces 14 derniers jours »).
+//   ?inat=hs                      simule une panne d'iNaturalist (même effet, avec un console.warn).
+//                                 Avec ?date ou ?meteo, l'appel iNaturalist a quand même lieu
+//                                 (la fenêtre de 14 jours glisse avec la date simulée).
 // Avec ?date ou ?meteo, l'historique local (anti-répétition) n'est pas modifié.
+//
+// Observations iNaturalist et asynchronisme : la requête part en parallèle de la météo. Une fois
+// les données et la météo prêtes, on attend au plus GRACE_OBSERVATIONS_MS de plus : si les
+// observations sont là (cas courant, ou cache de 6 h), elles favorisent le tirage. Sinon les
+// cartes s'affichent tout de suite sans elles et, à l'arrivée des observations, on ajoute
+// seulement les badges et le bloc, sans retirer les cartes : rien ne bouge sous les yeux du parent.
 
 import { lune, soleil, conditionsAstro, conditionsJour, formatHeure, dateParis } from './astro.js';
 import { chargerMeteo, CLES_METEO } from './meteo.js';
 import { choisir, autre } from './selection.js';
+import { chargerObservations, apparier, texteQuand } from './observations.js';
 import { lienItineraire, plateforme, pointValide } from './itineraire.js';
 
 const FICHIERS = ['animaux', 'plantes', 'ciel', 'sensoriel', 'insolite'];
 const CLE_AGE = 'nature-talence.age';
 const CLE_HISTORIQUE = 'nature-talence.historique';
+const CLE_OBSERVATIONS = 'nature-talence.observations';
+const DUREE_CACHE_OBSERVATIONS_MS = 6 * 3600 * 1000;
+const GRACE_OBSERVATIONS_MS = 1200;
+const MAX_LIGNES_OBSERVATIONS = 8;
+
+/** Pictogramme d'un grand groupe iNaturalist (`iconic_taxon_name`). */
+const PICTOS_GROUPES = {
+  Aves: '🐦', Mammalia: '🦊', Reptilia: '🦎', Amphibia: '🐸', Actinopterygii: '🐟',
+  Insecta: '🐞', Arachnida: '🕷️', Mollusca: '🐌', Animalia: '🐾', Plantae: '🌿', Fungi: '🍄',
+};
 const AGES = ['2-3', '3-5'];
 
 const CATEGORIES = {
@@ -59,7 +80,8 @@ function lireParametres() {
   const d = p.get('date');
   if (d && /^\d{4}-\d{2}-\d{2}$/.test(d) && !Number.isNaN(Date.parse(d))) date = d;
   const meteo = p.has('meteo') ? p.get('meteo').split(',').map((s) => s.trim()).filter(Boolean) : null;
-  return { date, simulee: date !== aujourdhui, meteoForcee: meteo, aujourdhui };
+  const inat = (p.get('inat') || '').trim().toLowerCase() || null;
+  return { date, simulee: date !== aujourdhui, meteoForcee: meteo, aujourdhui, inat };
 }
 
 /** Heure actuelle à Paris (0-23), ou 9 h pour une date simulée. */
@@ -111,6 +133,47 @@ async function obtenirMeteo(params) {
   }
   return chargerMeteo(date, heureReference(simulee));
 }
+
+// ---------- Observations iNaturalist (cache 6 h) ----------
+
+function lireCacheObservations(date) {
+  const c = lireStockage(CLE_OBSERVATIONS, null);
+  if (!c || typeof c !== 'object' || typeof c.cle !== 'string' || !Array.isArray(c.observations)) return null;
+  const [d, rayon] = c.cle.split('|');
+  const age = Date.now() - Number(c.horodatage);
+  if (d !== date || !(age >= 0 && age < DUREE_CACHE_OBSERVATIONS_MS)) return null;
+  const r = Number(rayon);
+  return { disponible: true, rayon: r, elargi: r > 1.5, observations: c.observations, cache: true };
+}
+
+/** Observations du jour (cache, réseau ou désactivées). Ne rejette jamais. */
+async function obtenirObservations(params, donneesP) {
+  try {
+    if (params.inat === 'aucune') return { disponible: false, observations: [] };
+    if (params.inat === 'hs') {
+      console.warn('iNaturalist : panne simulée (?inat=hs)');
+      return { disponible: false, observations: [] };
+    }
+    const enCache = lireCacheObservations(params.date);
+    if (enCache) return enCache;
+    const { lieux } = await donneesP;
+    const r = await chargerObservations(params.date, { lieux });
+    if (r.disponible) {
+      ecrireStockage(CLE_OBSERVATIONS, { cle: `${params.date}|${r.rayon}`, horodatage: Date.now(), observations: r.observations });
+    } else {
+      console.warn(`iNaturalist indisponible : ${r.erreur}`);
+    }
+    return r;
+  } catch (e) {
+    console.warn('iNaturalist :', e);
+    return { disponible: false, observations: [] };
+  }
+}
+
+const attendre = (ms) => new Promise((ok) => setTimeout(ok, ms));
+const lienInat = (uri) => (typeof uri === 'string' && uri.startsWith('https://www.inaturalist.org/') ? uri : null);
+const photoInat = (url) => (typeof url === 'string'
+  && /^https:\/\/(inaturalist-open-data\.s3\.amazonaws\.com|static\.inaturalist\.org)\//.test(url) ? url : null);
 
 // ---------- Construction du DOM ----------
 
@@ -190,6 +253,19 @@ function blocPoint(fiche) {
       h('span', { class: 'visuellement-cache' }, ` (itinéraire à pied vers « ${fiche.titre} »)`)) : null));
 }
 
+/** Badge « 👀 Vu hier vers le parc Peixotto · voir l'observation » d'une fiche appariée. */
+function badgeVu(fiche, etat) {
+  const v = etat.appariements?.get(fiche.id);
+  if (!v) return null;
+  const uri = lienInat(v.uri);
+  return h('p', { class: 'vu' },
+    h('span', { 'aria-hidden': 'true' }, '👀 '),
+    `Vu ${texteQuand(v.jours)}${v.lieuTexte ? ` ${v.lieuTexte}` : ''}`,
+    v.grade === 'en_cours' ? h('span', { class: 'vu-encours' }, ' · identification en cours') : null,
+    uri ? [' · ', h('a', { href: uri, target: '_blank', rel: 'noopener' }, 'voir l\'observation',
+      h('span', { class: 'visuellement-cache' }, ' sur iNaturalist'))] : null);
+}
+
 function carte(fiche, etat, index) {
   const cat = CATEGORIES[fiche.categorie];
   const idTitre = `titre-${index}`;
@@ -214,6 +290,7 @@ function carte(fiche, etat, index) {
   return h('article', { class: `carte cat-${fiche.categorie}`, 'aria-labelledby': idTitre, 'data-id': fiche.id },
     h('p', { class: 'pastille' }, h('span', { 'aria-hidden': 'true' }, cat.icone), ' ', cat.nom),
     h('h2', { id: idTitre, tabindex: '-1' }, fiche.titre),
+    badgeVu(fiche, etat),
     fiche.attention ? h('p', { class: 'attention', role: 'note' },
       h('span', { class: 'attention-icone', 'aria-hidden': 'true' }, '⚠️'),
       h('span', {}, h('span', { class: 'visuellement-cache' }, 'Sécurité. '), fiche.attention)) : null,
@@ -273,6 +350,91 @@ function remplacer(etat, index) {
   $('idees').children[index].replaceWith(nouvelle);
   $('annonce').textContent = `Nouvelle idée : ${f.titre}`;
   nouvelle.querySelector('h2').focus();
+}
+
+// ---------- Bloc « Vu ces 14 derniers jours près d'ici » ----------
+
+/** Vignette 64 px : photo libre de l'observation, sinon photo Wikimedia d'une fiche appariée, sinon pictogramme. */
+function vignetteObservation(o, etat) {
+  const picto = () => h('span', { class: 'obs-picto', 'aria-hidden': 'true' }, PICTOS_GROUPES[o.groupe] || '🔍');
+  const img = (src, alt) => h('img', {
+    src, alt, width: '64', height: '64', loading: 'lazy', decoding: 'async', referrerpolicy: 'no-referrer',
+    onerror: (e) => e.target.replaceWith(picto()),
+  });
+  const src = photoInat(o.photo?.url);
+  if (src) return { image: img(src, ''), credit: o.photo.credit ? `Photo : ${o.photo.credit}` : null, source: null };
+  const fiche = [...apparier([o], etat.fiches).keys()]
+    .map((id) => etat.fiches.find((f) => f.id === id))
+    .find((f) => typeof f?.photo?.url === 'string' && f.photo.url.startsWith('https://upload.wikimedia.org/'));
+  if (fiche) {
+    return {
+      image: img(fiche.photo.url, ''),
+      credit: `Photo d'illustration : ${fiche.photo.credit || 'Wikimedia Commons'}`,
+      source: typeof fiche.photo.source === 'string' && fiche.photo.source.startsWith('https://') ? fiche.photo.source : null,
+    };
+  }
+  return { image: picto(), credit: null, source: null };
+}
+
+function ligneObservation(o, etat) {
+  const v = vignetteObservation(o, etat);
+  const uri = lienInat(o.uri);
+  const nom = o.nomCommun || o.latin;
+  const details = [texteQuand(o.jours), o.lieuTexte].filter(Boolean).join(' · ');
+  return h('li', { class: 'obs' },
+    h('div', { class: 'obs-vignette' }, v.image),
+    h('div', { class: 'obs-texte' },
+      h('p', { class: 'obs-nom' },
+        o.nomCommun ? h('strong', {}, o.nomCommun) : h('strong', {}, h('i', { lang: 'la' }, o.latin)),
+        o.nomCommun ? [' ', h('i', { lang: 'la', class: 'obs-latin' }, o.latin)] : null),
+      h('p', { class: 'obs-quand' },
+        details.charAt(0).toUpperCase() + details.slice(1),
+        o.grade === 'en_cours' ? h('span', { class: 'obs-encours' }, ' · identification en cours') : null),
+      h('p', { class: 'obs-credit' },
+        v.credit ? (v.source ? h('a', { href: v.source, target: '_blank', rel: 'noopener' }, v.credit) : v.credit) : null,
+        v.credit && uri ? ' · ' : null,
+        uri ? h('a', { href: uri, target: '_blank', rel: 'noopener' }, 'voir',
+          h('span', { class: 'visuellement-cache' }, ` l'observation « ${nom} » sur iNaturalist`)) : null)));
+}
+
+function afficherObservations(etat) {
+  const section = $('observations');
+  if (!section) return;
+  const r = etat.observations;
+  const liste = (r?.disponible ? r.observations : []).slice(0, MAX_LIGNES_OBSERVATIONS);
+  if (!liste.length) {
+    section.hidden = true;
+    section.replaceChildren();
+    return;
+  }
+  section.replaceChildren(
+    h('h2', { id: 'observations-titre' }, 'Vu ces 14 derniers jours près d\'ici'),
+    h('p', { class: 'obs-sous-titre' }, r.elargi
+      ? 'Observations des habitants sur iNaturalist, à moins de 3 km : trop peu d\'observations tout près.'
+      : 'Observations des habitants sur iNaturalist, à moins de 1,5 km.'),
+    h('ul', { class: 'obs-liste' }, liste.map((o) => ligneObservation(o, etat))));
+  section.hidden = false;
+  const n = r.observations.length;
+  $('annonce').textContent = `${n} observation${n > 1 ? 's' : ''} récente${n > 1 ? 's' : ''} près d'ici.`;
+}
+
+/** Intègre les observations : appariement, option du moteur (pour « Une autre idée »). */
+function integrerObservations(etat, r) {
+  etat.observations = r?.disponible ? r : null;
+  etat.appariements = etat.observations ? apparier(etat.observations.observations, etat.fiches) : new Map();
+  etat.optionsSelection.observations = etat.appariements.size ? etat.appariements : null;
+}
+
+/** Observations arrivées après l'affichage : on ajoute badges et bloc, sans changer les cartes. */
+function observationsTardives(etat, r) {
+  integrerObservations(etat, r);
+  for (const article of $('idees').querySelectorAll('article.carte')) {
+    const fiche = etat.cartes.find((f) => f.id === article.dataset.id);
+    if (!fiche || article.querySelector('.vu')) continue;
+    const b = badgeVu(fiche, etat);
+    if (b) article.querySelector('h2')?.after(b);
+  }
+  afficherObservations(etat);
 }
 
 // ---------- Historique (anti-répétition) ----------
@@ -349,7 +511,11 @@ async function demarrer() {
   const etat = { date: params.date, enregistrer: !params.simulee && !params.meteoForcee, cartes: null };
   initialiserAge(etat);
 
-  const [donnees, meteo] = await Promise.all([chargerDonnees(), obtenirMeteo(params)]);
+  const donneesP = chargerDonnees();
+  const observationsP = obtenirObservations(params, donneesP); // ne rejette jamais
+  const [donnees, meteo] = await Promise.all([donneesP, obtenirMeteo(params)]);
+  // Courte attente supplémentaire au plus (voir l'en-tête) ; null = pas encore arrivées.
+  const observations = await Promise.race([observationsP, attendre(GRACE_OBSERVATIONS_MS).then(() => null)]);
 
   // Conditions : astro (toujours) + météo (si disponible). ?meteo= peut aussi forcer l'astro.
   const astro = conditionsAstro(etat.date);
@@ -366,6 +532,7 @@ async function demarrer() {
     historique: lireHistorique(),
     conditionsPour: conditionsAstro, // recalcul « sans météo » des 7 jours précédents
   };
+  integrerObservations(etat, observations);
   etat.cartes = choisir(etat.fiches, etat.conditions, etat.date, etat.optionsSelection);
   etat.dejaAffichees = new Set(etat.cartes.map((f) => f.id));
   // Si on a déjà demandé d'autres idées aujourd'hui, ne pas les reproposer.
@@ -374,6 +541,8 @@ async function demarrer() {
 
   afficherEntete(etat, meteo);
   afficherCartes(etat);
+  if (observations) afficherObservations(etat);
+  else observationsP.then((r) => observationsTardives(etat, r)).catch((e) => console.warn('iNaturalist :', e));
 }
 
 demarrer().catch((e) => {

@@ -125,7 +125,8 @@
   "point": {
    "lat": 44.80965,
    "lon": -0.5898,
-   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m."
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m.",
+   "pi": "pi-bassin-peixotto"
   },
   "mois": [
    1,
@@ -185,7 +186,8 @@
   "point": {
    "lat": 44.80965,
    "lon": -0.5898,
-   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m."
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m.",
+   "pi": "pi-bassin-peixotto"
   },
   "mois": [
    1,
@@ -244,7 +246,8 @@
   "point": {
    "lat": 44.80965,
    "lon": -0.5898,
-   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m."
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m.",
+   "pi": "pi-bassin-peixotto"
   },
   "mois": [
    4,
@@ -303,7 +306,8 @@
   "point": {
    "lat": 44.80965,
    "lon": -0.5898,
-   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m."
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit qui traverse la partie nord du parc (côté place Espeleta). Le nouveau bassin du parc Margaut, côté avenue du Maréchal-Leclerc, est à 300 m.",
+   "pi": "pi-bassin-peixotto"
   },
   "mois": [
    2,
@@ -1282,9 +1286,12 @@
   "adulte": {
    "nom": "Bourdon des champs / Bourdon terrestre",
    "latin": "Bombus pascuorum / Bombus terrestris",
-   "anecdote": "Au printemps, seule la reine, qui a passé l'hiver cachée, fonde seule une colonie.",
+   "anecdote": "Seules les jeunes reines passent l'hiver, cachées sous terre : chaque colonie de bourdons naît donc d'une seule femelle, qui fonde seule son nid au printemps.",
    "pourquoi_maintenant": "Les bourdons sortent dès les premiers jours doux de mars, même à basse température, et visitent les fleurs jusqu'à l'automne.",
-   "confusion": "Le bourdon des champs est roux ; le bourdon terrestre a une bande jaune et un bout de queue blanc."
+   "confusion": "Le bourdon des champs est roux ; le bourdon terrestre a une bande jaune et un bout de queue blanc.",
+   "taxons": [
+    "Bombus"
+   ]
   },
   "attention": null,
   "verifier": false,
@@ -1634,7 +1641,8 @@
   "point": {
    "lat": 44.8069,
    "lon": -0.5905,
-   "repere": "Parc Margaut : le nouveau bassin le long de l'allée côté avenue du Maréchal-Leclerc (bord béton, bancs blancs) ; puis le bassin du nord du parc Peixotto."
+   "repere": "Parc Margaut : le nouveau bassin le long de l'allée côté avenue du Maréchal-Leclerc (bord béton, bancs blancs) ; puis le bassin du nord du parc Peixotto.",
+   "pi": "pi-bassin-margaut"
   },
   "mois": [
    5,
@@ -1670,7 +1678,11 @@
    "latin": "Crocothemis erythraea ; Ischnura elegans",
    "anecdote": "Les larves vivent sous l'eau, parfois plusieurs mois ou années, avant de sortir se transformer ; la libellule voit presque tout autour d'elle grâce à des yeux à des milliers de facettes.",
    "pourquoi_maintenant": "Elles sont actives de mai à septembre, quand l'eau est chaude, par temps sec et ensoleillé.",
-   "confusion": "Les libellules se reposent ailes écartées ; les demoiselles les replient le long du corps."
+   "confusion": "Les libellules se reposent ailes écartées ; les demoiselles les replient le long du corps.",
+   "taxons": [
+    "Crocothemis erythraea",
+    "Ischnura elegans"
+   ]
   },
   "attention": "Eau : tenir la main de l'enfant en permanence près du bord, jamais seul.",
   "verifier": false,
@@ -1773,7 +1785,11 @@
    "latin": "Coccinella septempunctata / Harmonia axyridis",
    "anecdote": "Une larve de coccinelle mange plusieurs dizaines de pucerons par jour. La coccinelle asiatique, introduite en France à partir de 1982 pour la lutte biologique, s'est installée dans la nature au début des années 2000.",
    "pourquoi_maintenant": "Les coccinelles sortent dès avril et sont abondantes en mai-juin, avec les pucerons.",
-   "confusion": "La coccinelle asiatique varie du rouge au noir avec 0 à 19 points ; la coccinelle à sept points a toujours sept points."
+   "confusion": "La coccinelle asiatique varie du rouge au noir avec 0 à 19 points ; la coccinelle à sept points a toujours sept points.",
+   "taxons": [
+    "Coccinella septempunctata",
+    "Harmonia axyridis"
+   ]
   },
   "attention": null,
   "verifier": false,
@@ -2378,7 +2394,8 @@
   "point": {
    "lat": 44.80893,
    "lon": -0.58335,
-   "repere": "Rue Dourout, le long du parc Robespierre (petit parc clôturé), près du croisement avec la rue Robespierre : lève les yeux vers la tour à nichoirs, au-dessus de la clôture."
+   "repere": "Rue Dourout, le long du parc Robespierre (petit parc clôturé), près du croisement avec la rue Robespierre : lève les yeux vers la tour à nichoirs, au-dessus de la clôture.",
+   "pi": "pi-tour-hirondelles-robespierre"
   },
   "mois": [
    4,
@@ -2469,6 +2486,178 @@
    "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Parus_major_on_Schwegler_1B_Pasli%C3%A8res_20240503_n1.jpg/500px-Parus_major_on_Schwegler_1B_Pasli%C3%A8res_20240503_n1.jpg",
    "credit": "Marie-Lan Taÿ Pamart — CC BY 4.0",
    "source": "https://commons.wikimedia.org/wiki/File:Parus_major_on_Schwegler_1B_Pasli%C3%A8res_20240503_n1.jpg"
+  }
+ },
+ {
+  "id": "ani-ragondin-etang-bonnefont",
+  "categorie": "animal",
+  "titre": "Le ragondin aux dents orange",
+  "lieux": [
+   "campus-haut-carre",
+   "parc-peixotto"
+  ],
+  "ou": "À l'étang Bonnefont, à l'ouest du parc Peixotto, au sud de la rue Pierre Noailles, où passe le ruisseau d'Ars.",
+  "point": {
+   "lat": 44.80878,
+   "lon": -0.59364,
+   "pi": "pi-etang-bonnefont",
+   "repere": "À l'ouest du parc Peixotto, au sud de la rue Pierre Noailles : le petit étang Bonnefont ; regarder seulement depuis l'espace public, sans entrer dans un terrain fermé."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "attention": "On regarde depuis le bord, main dans la main. On ne nourrit pas et on n'approche pas le ragondin : il peut mordre.",
+  "verifier": true,
+  "reperes": "Gros rongeur brun (plus gros qu'un chat), museau aux moustaches blanches, longues incisives orange, queue ronde et presque nue. Il nage la tête hors de l'eau ou grignote des herbes sur la berge.",
+  "enfant": {
+   "2-3": {
+    "mot": "ragondin",
+    "geste": "Imiter le ragondin qui grignote : mains devant la bouche, petites dents qui croquent.",
+    "phrase": "Crounch, crounch, le ragondin grignote !"
+   },
+   "3-5": {
+    "mot": "les dents orange",
+    "geste": "Chercher ses dents orange avec les yeux, puis sa queue : ronde ou plate ? Compter combien de ragondins on voit.",
+    "phrase": "Dents orange, queue de rat, c'est le ragondin qui est là !"
+   }
+  },
+  "adulte": {
+   "nom": "Ragondin",
+   "latin": "Myocastor coypus",
+   "anecdote": "Originaire d'Amérique du Sud, il a été élevé en France à partir de la fin du XIXᵉ siècle pour sa fourrure ; des animaux échappés ou relâchés ont colonisé les cours d'eau. Ses incisives sont orange parce que leur émail contient du fer, ce qui les rend plus résistantes. Des observations iNaturalist le signalent au parc Peixotto ; sa présence à l'étang Bonnefont est à confirmer sur place.",
+   "pourquoi_maintenant": "Visible toute l'année, surtout en début de matinée et en fin de journée ; il ne s'endort pas l'hiver.",
+   "confusion": "Le rat musqué est bien plus petit, avec une queue aplatie sur les côtés ; le castor, absent d'ici, a une large queue plate en pagaie."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Ragondin_%28Myocastor_coypus%29_%2839%29.jpg/500px-Ragondin_%28Myocastor_coypus%29_%2839%29.jpg",
+   "credit": "Gzen92 — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Ragondin_(Myocastor_coypus)_(39).jpg"
+  }
+ },
+ {
+  "id": "ani-martin-pecheur-eclair-bleu",
+  "categorie": "animal",
+  "titre": "L'éclair bleu au ras de l'eau",
+  "lieux": [
+   "parc-peixotto",
+   "bois-de-thouars"
+  ],
+  "ou": "Le long du bassin nord du parc Peixotto, et surtout à l'étang Bonnefont juste à l'ouest ; il est aussi signalé au bois de Thouars.",
+  "point": {
+   "lat": 44.80964,
+   "lon": -0.58976,
+   "pi": "pi-bassin-peixotto",
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit côté place Espeleta ; s'asseoir sur un banc et guetter une branche basse au-dessus de l'eau."
+  },
+  "mois": [
+   9,
+   10,
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 3,
+  "attention": "On regarde depuis le bord, main dans la main : on ne lâche jamais l'enfant près de l'eau.",
+  "verifier": true,
+  "reperes": "Petit oiseau trapu, de la taille d'un moineau, avec un bec très long, dos bleu turquoise brillant, ventre orange, long bec en poignard. On le voit souvent filer au ras de l'eau en lançant un « tiiit » aigu.",
+  "enfant": {
+   "2-3": {
+    "mot": "oiseau bleu",
+    "geste": "Rester assis bien sage au bord et chuchoter « tiiit » : si un éclair bleu passe, le montrer du doigt.",
+    "phrase": "Tiiit ! Un éclair bleu sur l'eau !"
+   },
+   "3-5": {
+    "mot": "il plonge ?",
+    "geste": "Chercher une branche basse au-dessus de l'eau : c'est son perchoir. Compter combien de temps on arrive à rester silencieux pour l'attendre.",
+    "phrase": "Un, deux, trois, chut… plouf !"
+   }
+  },
+  "adulte": {
+   "nom": "Martin-pêcheur d'Europe",
+   "latin": "Alcedo atthis",
+   "anecdote": "Son bleu n'est pas un pigment : c'est une couleur « de structure », produite par la façon dont les plumes renvoient la lumière ; selon l'angle, il passe du turquoise au bleu cobalt. Il pèse à peine 40 grammes et plonge tête la première pour attraper de petits poissons. Dans le quartier, la plupart des observations viennent du secteur à l'ouest de Peixotto ; le bassin nord est plus rare : un coup de chance.",
+   "pourquoi_maintenant": "En automne et en hiver, les jeunes cherchent un territoire et les oiseaux se déplacent vers les plans d'eau des villes : c'est la meilleure période pour le voir à Talence.",
+   "confusion": "Rien ne lui ressemble chez nous ; un éclair bleu-vert au ras de l'eau, c'est lui. La gallinule et le colvert sont bien plus gros et nagent."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Common_Kingfisher_Alcedo_atthis.jpg/500px-Common_Kingfisher_Alcedo_atthis.jpg",
+   "credit": "Andreas Trepte — CC BY-SA 2.5",
+   "source": "https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg"
+  }
+ },
+ {
+  "id": "ani-oie-cygnoide-peixotto",
+  "categorie": "animal",
+  "titre": "L'oie au bec à bosse",
+  "lieux": [
+   "parc-peixotto"
+  ],
+  "ou": "Au bassin nord du parc Peixotto, côté place Espeleta, où une oie cygnoïde a été signalée plusieurs années de suite jusqu'en 2023.",
+  "point": {
+   "lat": 44.80964,
+   "lon": -0.58976,
+   "pi": "pi-bassin-peixotto",
+   "repere": "Parc Peixotto, au nord du château : le long bassin étroit côté place Espeleta ; l'oie se tient sur l'eau ou sur la berge, au milieu des canards."
+  },
+  "mois": [
+   1,
+   2,
+   3,
+   8,
+   9,
+   10,
+   11
+  ],
+  "requiert": [],
+  "exclut": [],
+  "moment": null,
+  "poids": 2,
+  "attention": "On regarde depuis le bord, main dans la main, et on garde ses distances : une oie qui siffle, cou tendu, défend son coin et peut pincer.",
+  "verifier": true,
+  "reperes": "Grande oie au long cou, bien plus grosse qu'un canard, avec une bosse sur le front, au-dessus du bec ; plumage brun et blanc ou tout blanc selon la variété.",
+  "enfant": {
+   "2-3": {
+    "mot": "oie",
+    "geste": "Tendre le cou très haut comme l'oie, et dire « hon-hon ! » en la regardant de loin.",
+    "phrase": "Hon-hon, l'oie dit bonjour !"
+   },
+   "3-5": {
+    "mot": "grande ou petite ?",
+    "geste": "Comparer l'oie et un canard : qui est le plus grand ? Qui a le plus long cou ? Chercher la bosse sur son bec.",
+    "phrase": "Grand cou, gros bec, petite bosse !"
+   }
+  },
+  "adulte": {
+   "nom": "Oie cygnoïde (oie de Chine domestique)",
+   "latin": "Anser cygnoides",
+   "anecdote": "Toutes les « oies de Chine » descendent de l'oie cygnoïde sauvage, qui niche en Mongolie, en Chine et en Russie orientale et dont l'espèce est aujourd'hui menacée. La bosse sur le bec n'existe que chez la forme domestique : elle est apparue avec la sélection par l'homme.",
+   "pourquoi_maintenant": "Oiseau domestique : il ne migre pas, mais les observations du quartier datent de janvier à mars et d'août à novembre. Présence à confirmer sur place.",
+   "confusion": "Le cygne tuberculé est entièrement blanc, avec un bec orange marqué d'un tubercule noir, et nage le cou en S ; l'oie cendrée n'a pas de bosse."
+  },
+  "photo": {
+   "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Chinese_goose_in_Locarno_3.jpg/500px-Chinese_goose_in_Locarno_3.jpg",
+   "credit": "Commonists — CC BY-SA 4.0",
+   "source": "https://commons.wikimedia.org/wiki/File:Chinese_goose_in_Locarno_3.jpg"
   }
  }
 ]

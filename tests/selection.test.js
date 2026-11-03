@@ -1,7 +1,7 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import {
-  choisir, autre, estEligible, estComplement, poidsDuJour, idsRecents, hacher, generateur, BONUS_DATEE, estPonctuel,
+  choisir, autre, estEligible, estComplement, poidsDuJour, idsRecents, hacher, generateur, BONUS_DATEE, estPonctuel, BONUS_OBSERVEE,
 } from '../js/selection.js';
 import { conditionsAstro } from '../js/astro.js';
 import { fiches as chargerFiches } from './aide.js';
@@ -255,4 +255,58 @@ test('dates : plus de 3 événements ponctuels le même jour → plages les plus
   const stock = [mk('e7', '2026-12-19'), mk('e1', '2026-12-13'), mk('e5', '2026-12-17'), mk('e2', '2026-12-14'), mk('e3', '2026-12-15')];
   const r = ids(choisir(stock, {}, '2026-12-13', { recalculer: false }));
   assert.deepEqual(r, ['e1', 'e2', 'e3']);
+});
+
+test('observations : poids ×3 pour une fiche appariée, sans effet sur l\'éligibilité', () => {
+  assert.equal(BONUS_OBSERVEE, 3);
+  const f = fiche({ id: 'rg', poids: 2, requiert: ['pluie_recente'], mois: [11] });
+  const obs = new Map([['rg', { jours: 1 }]]);
+  assert.equal(poidsDuJour(f, { pluie_recente: true }, '2026-11-02', obs), 2 * 2.5 * 3);
+  assert.equal(poidsDuJour(f, { pluie_recente: true }, '2026-11-02'), 2 * 2.5);
+  assert.equal(poidsDuJour(f, { pluie_recente: true }, '2026-11-02', new Map()), 2 * 2.5);
+  // Hors saison ou hors météo : une observation ne la rend pas éligible.
+  const r = choisir([f, fiche({ categorie: 'plante' })], {}, '2026-11-02', { recalculer: false, observations: obs, n: 3 });
+  assert.ok(!ids(r).includes('rg') || estComplement(f, {}, '2026-11-02'), 'requiert la pluie : jamais retenue sans pluie');
+  assert.ok(!ids(choisir([fiche({ id: 'rg', mois: [5] })], {}, '2026-11-02', { recalculer: false, observations: obs })).includes('rg'));
+});
+
+test('observations : la fiche appariée est nettement plus souvent tirée (choisir et autre)', () => {
+  const vue = fiche({ id: 'vue', categorie: 'animal' });
+  const stock = [vue, ...Array.from({ length: 9 }, () => fiche({ categorie: 'animal' }))];
+  const obs = new Map([['vue', { jours: 2 }]]);
+  let avec = 0;
+  let sans = 0;
+  let autreAvec = 0;
+  const N = 300;
+  for (let j = 0; j < N; j++) {
+    const d = new Date(Date.UTC(2026, 10, 1) + j * 86400000).toISOString().slice(0, 10);
+    const m = { ...vue, mois: [Number(d.slice(5, 7))] };
+    const s = stock.map((f) => ({ ...f, mois: m.mois }));
+    if (choisir(s, {}, d, { n: 1, recalculer: false, observations: obs })[0].id === 'vue') avec++;
+    if (choisir(s, {}, d, { n: 1, recalculer: false })[0].id === 'vue') sans++;
+    if (autre(s, {}, d, [], 'animal', { recalculer: false, observations: obs })?.id === 'vue') autreAvec++;
+  }
+  // Poids 3 contre 9 × 1 → 25 % ; sans bonus 10 %.
+  assert.ok(sans < 0.17 * N, `sans bonus : ${sans}/${N}`);
+  assert.ok(avec > 0.18 * N && avec < 0.33 * N, `avec bonus : ${avec}/${N}`);
+  assert.ok(autreAvec > 0.18 * N, `autre avec bonus : ${autreAvec}/${N}`);
+});
+
+test('observations : pas d\'exemption d\'anti-répétition, événements datés toujours prioritaires', () => {
+  const vue = fiche({ id: 'vue', categorie: 'animal', poids: 3 });
+  const stock = [vue, ...['animal', 'plante', 'ciel', 'sensoriel'].flatMap((categorie) =>
+    Array.from({ length: 6 }, () => fiche({ categorie })))];
+  const obs = new Map([['vue', { jours: 0 }]]);
+  const historique = { '2026-11-09': ['vue'] };
+  for (const d of ['2026-11-10', '2026-11-11', '2026-11-12']) {
+    const r = choisir(stock, {}, d, { recalculer: false, historique, observations: obs });
+    assert.ok(!ids(r).includes('vue'), `${d} : vue récemment, ne revient pas malgré l'observation`);
+  }
+  // Événement ponctuel : toujours retenu, même face à 3 fiches observées.
+  const ev = fiche({ id: 'ev', categorie: 'ciel', dates: [['2026-12-13', '2026-12-15']] });
+  const vues = ['a', 'b', 'c'].map((id) => fiche({ id: `vue-${id}`, categorie: 'ciel', mois: [12], poids: 3 }));
+  const obs3 = new Map(vues.map((f) => [f.id, { jours: 0 }]));
+  for (const d of ['2026-12-13', '2026-12-14', '2026-12-15']) {
+    assert.ok(ids(choisir([...vues, ev], {}, d, { recalculer: false, observations: obs3 })).includes('ev'), d);
+  }
 });

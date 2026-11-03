@@ -43,6 +43,9 @@ ani-frelon-asiatique-prudence | Gros insecte noir et jaune : on s'éloigne
 ani-lezard-des-murailles | Un petit lézard se chauffe sur le muret
 ani-hirondelles-tour-robespierre | La tour à hirondelles du parc Robespierre
 ani-mesanges-nichoirs-curvale | Les nichoirs à mésanges de Curvale
+ani-ragondin-etang-bonnefont | Le ragondin aux dents orange
+ani-martin-pecheur-eclair-bleu | L'éclair bleu au ras de l'eau
+ani-oie-cygnoide-peixotto | L'oie au bec à bosse
 ciel-lune-soir | La Lune est déjà là, avant la nuit
 ciel-lune-matin | La Lune du matin, encore là au réveil
 ciel-lune-en-plein-jour | La Lune pâle dans l'après-midi
@@ -115,6 +118,11 @@ ins-mousse-nord | La mousse ne montre pas le nord
 ins-lichens-mur | Le mur peint par des champignons
 ins-lierre-fleurs | Le mur de lierre qui bourdonne
 ins-pierre-blonde | Une pierre née au fond de la mer
+ins-puits-dans-la-ville | Un puits à pompe dans le parc
+ins-ruisseau-ars-cache | Le ruisseau qui a disparu sous la ville
+ins-bassin-thouars-pluie | Le grand bassin qui garde la pluie
+ins-conifere-reste-vert | Les arbres qui restent verts tout l'hiver
+ins-potager-jardin-partage | Des légumes en pleine ville
 pla-marrons-bogue-robespierre | La bogue piquante qui cache un marron
 pla-marronnier-bourgeons-collants | Les bourgeons collants du marronnier
 pla-marronnier-chandelles | Les chandelles blanches du marronnier
@@ -158,6 +166,13 @@ pla-platane-ecorce-puzzle | L'écorce du platane, un puzzle camouflage
 pla-orme-caucase-curvale | L'arbre remarquable de Curvale
 pla-palmiers-bananiers | Palmiers et bananiers : un air du Sud
 pla-vigne-vierge-rouge | Le mur qui rougit en automne
+pla-prairie-de-fauche-campus | La prairie qu'on fauche tard
+pla-charme-feuilles-plissees | Le charme aux feuilles en accordéon
+pla-catalpa-haricots-geants | L'arbre aux haricots géants
+pla-peuplier-qui-tremble | Le peuplier aux feuilles qui frémissent
+pla-tilleul-argente-cauderes | Le tilleul aux feuilles d'argent
+pla-chene-tauzin-velours | Le chêne aux feuilles de velours
+pla-arbre-judee-fleurs-tronc | L'arbre qui fleurit sur son tronc
 sens-ecorce-pin-parasol | Un pin à l'écorce de puzzle
 sens-frottage-ecorce | Le portrait d'un tronc au crayon
 sens-herbe-rosee | Les gouttes sur l'herbe du matin
@@ -193,3 +208,5 @@ sens-glace-flaque | La flaque qui craque
 sens-mousse-vieux-mur | La mousse, un tapis qui boit
 sens-aigrettes-pissenlit | Souffler sur les parachutes de pissenlit
 sens-tresors-automne | Le sac aux trésors d'automne
+sens-eau-froide-fontaine | L'eau fraîche du point d'eau
+sens-ombre-fraiche-sourreil | Le coin le plus frais du quartier

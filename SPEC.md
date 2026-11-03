@@ -20,7 +20,10 @@ js/app.js          UI
 js/meteo.js        appel Open-Meteo + calcul des conditions
 js/astro.js        phase de lune, lever/coucher (si pas fourni par l'API)
 js/selection.js    moteur de choix (pur, testable sous Node)
+js/observations.js observations récentes iNaturalist : requête, filtrage, lieu, appariement (pur sauf l'appel réseau)
 data/lieux.json
+data/points-interet.json   points open data curés (voir plus bas)
+scripts/extraire-open-data.py   extraction hors ligne (python3 -I)
 data/fiches-animaux.json
 data/fiches-plantes.json
 data/fiches-ciel.json
@@ -42,6 +45,52 @@ tests/*.test.js    node --test
 }]
 ```
 Identifiant spécial `partout` = n'importe quelle rue/trottoir/jardin du quartier (pas dans le fichier).
+
+Champs optionnels (certains lieux seulement) : `adresse`, `horaires`, `poussette`, `eau`, `aire_jeux`,
+`bancs`, `notes`, `distance_lisiere` (bord du site le plus proche du Forum, pour les grands sites), et, issus
+de l'open data (`data/sources/open-data-synthese.md`) :
+- `vers` : **obligatoire pour tout lieu**, formule toute faite commençant par « vers » (« vers le parc
+  Peixotto », « vers le campus du Haut-Carré »). Évite toute règle grammaticale côté site ; testé.
+- `canopee` : % de canopée de la maille de 232 m qui contient le lieu (Métropole, `met_vegetation_urbaine`).
+- `fraicheur` : écart de température minimal en °C (négatif) de la thermographie du 17 juin 2022 pour les
+  mailles à −3 °C ou moins (`ri_icu_ifu_s`) ; absent si le lieu n'est pas dans une zone fraîche.
+- `points` : ids des points de `data/points-interet.json` dont `lieu` est ce lieu (dérivé, testé).
+
+## data/points-interet.json
+Points curés issus de l'open data (Bordeaux Métropole, OpenStreetMap, PCRS), produits à partir de
+`data/sources/points-squelette.json` par `scripts/extraire-open-data.py` puis relus à la main. Le site
+ne contacte jamais ces portails. Rayon : 1 600 m autour du Forum (44.8065, -0.5880).
+```json
+[{
+  "id": "pi-puits-peixotto",
+  "type": "puits",
+  "nom": "Puits du parc Peixotto",
+  "lat": 44.80831, "lon": -0.59019,
+  "distance_m": 265,
+  "lieu": "parc-peixotto",
+  "repere": "Dans le parc Peixotto, à une centaine de mètres de l'allée Peixotto…",
+  "source": { "jeu": "OpenStreetMap", "ref": "node/1338095729", "url": "https://www.openstreetmap.org/node/1338095729", "date": "2026-11-03" },
+  "autres_sources": ["…"],
+  "confiance": "probable",
+  "verifier": true,
+  "saison": null,
+  "acces": "…",
+  "notes": "…"
+}]
+```
+- `id` : `pi-…`, unique. `type` : énumération fermée (testée) : `eau_potable`, `fontaine`, `puits`,
+  `aire_jeux`, `jardin_partage`, `cueillette`, `bassin`, `point_eau`, `canal`, `prairie_fauche`, `chenaie`,
+  `roseliere`, `haie_arboree`, `vigne`, `peupleraie`, `friche`, `fourre_prunellier`, `prairie_humide`,
+  `conifere`, `arbre_autre`, `ilot_fraicheur`, `arbre_espece`, `tour_hirondelles`, `ruisseau`, `etang`,
+  `zone_humide`, `verger`, `prairie`, `panneau_nature`.
+- `lat`/`lon` à moins de 1,7 km du Forum ; `distance_m` = vol d'oiseau depuis le Forum.
+- `lieu` : id de `lieux.json` si le point est dans le lieu ou à moins de 150 m de son centre, sinon `null`.
+- `repere` : écrit à la main (rue, côté, croisement, élément visible ; jamais de numéro de maison, testé).
+- `source` : une source principale ; `autres_sources` (optionnel) : sources concordantes.
+- `confiance` : `certain` (deux sources concordantes, ou Ville/PCRS + image Panoramax) ou `probable` (une
+  seule source). `verifier` : `true` si OpenStreetMap ou PCRS seul (testé), ou si l'accès est douteux.
+- `saison` : mois d'intérêt (liste 1-12) ou `null`. Les polygones ne sont jamais stockés (centroïde seulement).
+- `acces` et `notes` : optionnels, texte libre (pas de donnée privée).
 
 ## Format d'une fiche (tableau JSON par fichier)
 ```json
@@ -83,6 +132,9 @@ Identifiant spécial `partout` = n'importe quelle rue/trottoir/jardin du quartie
 - `point` : l'endroit PRÉCIS où aller (obligatoire sauf fiches `partout` génériques, où il peut être null).
   `repere` doit permettre de retrouver l'endroit sans carte : rue, côté, croisement, élément visible
   (jamais de numéro de maison). `photo_lieu` (optionnelle, Panoramax/Mapillary libre) montre le coin.
+  `pi` (optionnel) : id d'un point de `data/points-interet.json` sur lequel s'appuie la fiche
+  (`"pi": "pi-puits-peixotto"`) ; testé par `tests/donnees.test.js` (le point doit exister). Une fiche
+  qui s'appuie sur un point `verifier: true` porte elle aussi `verifier: true`.
   L'interface affiche un bouton « Y aller » (lien `geo:` sur Android, Apple Plans sur iOS,
   repli OpenStreetMap/Google Maps itinéraire à pied).
 - `attention` : null ou une phrase courte de sécurité affichée en évidence (ex. « Très toxique : on
@@ -102,6 +154,29 @@ Identifiant spécial `partout` = n'importe quelle rue/trottoir/jardin du quartie
 - `moment` : null, ou `"matin"`, `"journee"`, `"coucher_soleil"`, `"nuit"` (texte affiché : « Au coucher du soleil, vers {coucher} »).
 - `requiert` : TOUTES ces conditions doivent être vraies ce jour-là. `exclut` : AUCUNE ne doit l'être.
 - Pour `ciel`/`insolite` sans photo pertinente, `photo` peut être `null`.
+- `adulte.taxons` : optionnel, liste de noms latins (`["Cornu aspersum", "Helix"]`) pour une fiche qui
+  couvre plusieurs espèces ou un genre. S'il existe, il remplace `adulte.latin` pour l'appariement
+  avec les observations iNaturalist (voir plus bas). Un nom d'un seul mot (ou « Genre sp. ») désigne
+  un genre.
+
+## Observations récentes (iNaturalist)
+Détail : [docs/spec-observations-open-data.md](docs/spec-observations-open-data.md), §2.
+- À l'ouverture, en parallèle de la météo : observations des 14 derniers jours (date du jour incluse)
+  à 1,5 km du Forum, élargi à 3 km s'il en reste moins de 5 après filtrage ; qualités `research` et
+  `needs_id`, au moins au genre, avec photo, non obscurcies. Délai 8 s ; en cas d'échec, ni badge ni
+  bloc, aucun message (`console.warn` seulement). Cache `localStorage` `nature-talence.observations`
+  (clé `<date>|<rayon>`) valable 6 h.
+- Appariement par nom latin normalisé (`adulte.taxons`, sinon `adulte.latin`) : observation à l'espèce
+  ↔ fiche du même binôme ou fiche au genre ; observation au genre ↔ fiche au genre seulement. Une fiche
+  appariée a un poids ×3 (`BONUS_OBSERVEE`) ; pas d'exemption d'anti-répétition ; l'éligibilité
+  (saison, météo) ne change pas ; les événements ponctuels restent prioritaires.
+- Interface : badge « 👀 Vu hier vers le parc Peixotto » sur les cartes appariées, bloc « Vu ces 14
+  derniers jours près d'ici » (8 lignes au plus) sous les idées. Lieu = `lieux.json[].vers` du lieu
+  connu le plus proche (< 250 m), sinon distance et direction depuis le Forum ; rien si la précision
+  dépasse 500 m. Jamais `place_guess`, jamais de pseudo hors crédit photo. Photo de l'observateur
+  seulement sous licence Creative Commons (crédit « pseudo — CC BY-NC »), sinon photo Wikimedia de la
+  fiche appariée, sinon pictogramme.
+- Débogage : `?inat=aucune` (désactivé), `?inat=hs` (panne simulée) ; avec `?date=`, la fenêtre glisse.
 
 ## Conditions calculées chaque jour (clés autorisées dans requiert/exclut)
 | clé | définition |

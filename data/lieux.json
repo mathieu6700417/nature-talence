@@ -11,7 +11,11 @@
       "aire de jeux avec bac à sable",
       "2 points d'eau potable et toilettes publiques",
       "tables de pique-nique",
-      "jardin botanique universitaire (accès réservé aux étudiants et professionnels)"
+      "jardin botanique universitaire (accès réservé aux étudiants et professionnels)",
+      "bassin public derrière le château (Métropole + OSM), avec canards ; cygnes cités par la Métropole en 2012 : à vérifier",
+      "puits (OSM, à vérifier)",
+      "cyprès chauve et peuplier noir au bord du bassin nord (OSM, espèces)",
+      "zone plus fraîche d'environ 4 °C au nord du parc (thermographie 2022)"
     ],
     "lat": 44.8087,
     "lon": -0.5899,
@@ -22,7 +26,20 @@
     "aire_jeux": true,
     "bancs": true,
     "notes": "Travaux de réaménagement des allées et espaces paysagers en phases : certaines parties peuvent être temporairement fermées. La Maison du développement durable (2 av. Espeleta) est ouverte l'après-midi en semaine.",
-    "distance_lisiere": "≈ 150 m"
+    "distance_lisiere": "≈ 150 m",
+    "vers": "vers le parc Peixotto",
+    "canopee": 17,
+    "fraicheur": -4,
+    "points": [
+      "pi-jeux-parc-peixotto",
+      "pi-cypres-chauve-peixotto",
+      "pi-peuplier-noir-peixotto",
+      "pi-bassin-peixotto",
+      "pi-eau-peixotto",
+      "pi-fontaines-bassin-nord-peixotto",
+      "pi-ilot-fraicheur-peixotto-nord",
+      "pi-puits-peixotto"
+    ]
   },
   {
     "id": "parc-margaut",
@@ -34,7 +51,10 @@
       "nouveau plan d'eau (bassin à trois paliers)",
       "jardin organisé devant le château",
       "grand tapis vert qui ouvre la vue vers Peixotto",
-      "château Margaut (école municipale de musique et de danse)"
+      "château Margaut (école municipale de musique et de danse)",
+      "platanes de grande taille",
+      "magnolia près du château (Métropole, espèce à confirmer)",
+      "toilettes à proximité (Métropole)"
     ],
     "lat": 44.8071,
     "lon": -0.5903,
@@ -45,7 +65,14 @@
     "aire_jeux": true,
     "bancs": null,
     "notes": "Bassin et jardin livrés en 2026 (première phase) ; d'autres phases de travaux jardins/cheminements sont prévues.",
-    "distance_lisiere": "≈ 120 m"
+    "distance_lisiere": "≈ 120 m",
+    "vers": "vers le parc Margaut",
+    "canopee": 21,
+    "points": [
+      "pi-magnolia-parc-margaut",
+      "pi-bassin-margaut",
+      "pi-eau-allee-peixotto-robinet"
+    ]
   },
   {
     "id": "parc-robespierre",
@@ -56,7 +83,8 @@
     "elements": [
       "tour à hirondelles installée à l'initiative du conseil municipal des enfants",
       "petit parc clos de verdure",
-      "bancs (3 cartographiés)"
+      "bancs (3 cartographiés)",
+      "tour à hirondelles géolocalisée près de la rue Dourout (OSM)"
     ],
     "lat": 44.8087,
     "lon": -0.5839,
@@ -65,7 +93,12 @@
     "poussette": "non confirmé",
     "eau": false,
     "aire_jeux": false,
-    "bancs": true
+    "bancs": true,
+    "vers": "vers le parc Robespierre",
+    "canopee": 16,
+    "points": [
+      "pi-tour-hirondelles-robespierre"
+    ]
   },
   {
     "id": "parc-du-couvent",
@@ -77,7 +110,10 @@
       "petite chapelle",
       "bancs",
       "espace de jardinage écologique et de présentation des écosystèmes",
-      "robinet d'eau (OSM)"
+      "robinet d'eau (OSM, signalé non potable)",
+      "immenses platanes, chênes et marronniers (Métropole)",
+      "arbres fruitiers plantés récemment (Métropole)",
+      "espace de libre cueillette (petits arbustes à fruits, budget participatif) à la lisière : plantation à confirmer"
     ],
     "lat": 44.8103,
     "lon": -0.5839,
@@ -86,7 +122,12 @@
     "poussette": "non confirmé",
     "eau": true,
     "aire_jeux": false,
-    "bancs": true
+    "bancs": true,
+    "vers": "vers le parc du Couvent",
+    "canopee": 16,
+    "points": [
+      "pi-cueillette-couvent"
+    ]
   },
   {
     "id": "bois-sourreil",
@@ -100,7 +141,8 @@
       "23 espèces d'oiseaux recensées dont pic vert, pic épeiche, sittelle torchepot, mésanges, roitelet à triple bandeau",
       "8 espèces de papillons de jour (dont le tircis)",
       "tonte tardive des espaces ouverts",
-      "panneaux pédagogiques sur les oiseaux et les papillons"
+      "panneaux pédagogiques sur les oiseaux et les papillons",
+      "zone la plus fraîche du rayon : environ 5 °C de moins que la moyenne (thermographie 2022)"
     ],
     "lat": 44.8095,
     "lon": -0.5795,
@@ -111,7 +153,13 @@
     "aire_jeux": false,
     "bancs": false,
     "notes": "Dans le diagnostic LPO (2021) ; le nom varie : Sourreil, Soureilh, Sourreil.",
-    "distance_lisiere": "≈ 600 m"
+    "distance_lisiere": "≈ 600 m",
+    "vers": "vers le bois Sourreil",
+    "canopee": 39,
+    "fraicheur": -5,
+    "points": [
+      "pi-ilot-fraicheur-sourreil"
+    ]
   },
   {
     "id": "parc-bel-air",
@@ -125,16 +173,23 @@
       "aire de jeux",
       "tables de pique-nique et bancs",
       "Jardin des Cultures (potager partagé voisin cartographié)",
-      "ateliers de plantation pour familles (via l'association gestionnaire)"
+      "ateliers de plantation pour familles (via l'association gestionnaire)",
+      "point d'eau en libre accès aux jardins de Bel Air (Ville)"
     ],
     "lat": 44.8032,
     "lon": -0.5793,
     "adresse": "19 rue Bontemps, 33400 Talence",
     "horaires": "Horaires généraux des parcs de la Ville : 9h-21h en été, 9h-19h du 15 octobre au 15 avril",
     "poussette": "oui (parc signalé accessible aux personnes à mobilité réduite par la Ville)",
-    "eau": false,
+    "eau": true,
     "aire_jeux": true,
-    "bancs": true
+    "bancs": true,
+    "vers": "vers le parc Bel Air",
+    "canopee": 13,
+    "points": [
+      "pi-jeux-parc-bel-air",
+      "pi-jardin-cultures-bel-air"
+    ]
   },
   {
     "id": "parc-pagnol",
@@ -155,7 +210,9 @@
     "eau": false,
     "aire_jeux": true,
     "bancs": null,
-    "notes": "Distance calculée sur l'adresse (Nominatim) ; le périmètre exact du parc n'est pas cartographié."
+    "notes": "Distance calculée sur l'adresse (Nominatim) ; le périmètre exact du parc n'est pas cartographié.",
+    "vers": "vers le parc Pagnol",
+    "canopee": 20
   },
   {
     "id": "campus-haut-carre",
@@ -166,7 +223,11 @@
     "elements": [
       "moutons d'Ouessant en éco-pâturage (depuis mai 2024)",
       "ormes et peupliers",
-      "pelouses clôturées entretenues par pâturage"
+      "pelouses clôturées entretenues par pâturage",
+      "prairies de fauche et chênaie-charmaie à enjeu fort au sud de la rue Pierre Noailles (Métropole)",
+      "bassin de rétention au bord de la rue Pierre Noailles (Métropole + OSM)",
+      "groupes de conifères à l'ouest (PCRS)",
+      "à l'ouest : prairie « Éco-pâturage » (OSM), roselière et points d'eau naturels (accès à confirmer)"
     ],
     "lat": 44.8097,
     "lon": -0.5974,
@@ -176,7 +237,15 @@
     "eau": false,
     "aire_jeux": false,
     "bancs": null,
-    "notes": "Présence actuelle des moutons non vérifiée en novembre 2026 ; accès au public aux pelouses non confirmé (observer depuis le grillage)."
+    "notes": "Présence actuelle des moutons non vérifiée en novembre 2026 ; accès au public aux pelouses non confirmé (observer depuis le grillage).",
+    "vers": "vers le campus du Haut-Carré",
+    "canopee": 31,
+    "fraicheur": -4,
+    "points": [
+      "pi-chenaie-charmaie-campus",
+      "pi-ilot-fraicheur-campus",
+      "pi-prairie-fauche-campus"
+    ]
   },
   {
     "id": "cimetiere-de-talence",
@@ -199,7 +268,12 @@
     "aire_jeux": false,
     "bancs": true,
     "notes": "Essences d'arbres non sourcées.",
-    "distance_lisiere": "≈ 800 m"
+    "distance_lisiere": "≈ 800 m",
+    "vers": "vers le cimetière de Talence",
+    "canopee": 3,
+    "points": [
+      "pi-eau-cimetiere"
+    ]
   },
   {
     "id": "parc-du-chateau-des-arts",
@@ -222,7 +296,14 @@
     "eau": true,
     "aire_jeux": true,
     "bancs": true,
-    "notes": "Le château est en travaux et fermé ; seule une partie du parc est ouverte."
+    "notes": "Le château est en travaux et fermé ; seule une partie du parc est ouverte.",
+    "vers": "vers le parc du château des Arts",
+    "canopee": 9,
+    "points": [
+      "pi-jeux-chateau-des-arts",
+      "pi-eau-chateau-des-arts",
+      "pi-fontaine-chateau-des-arts"
+    ]
   },
   {
     "id": "parc-cauderes",
@@ -234,7 +315,9 @@
       "jardin partagé",
       "aire de jeux",
       "table de pique-nique",
-      "robinet d'eau (OSM)"
+      "robinet d'eau (OSM)",
+      "catalpa et 9 platanes en alignement à côté (OSM, espèces)",
+      "aire de jeux et jardin partagé confirmés par la Ville"
     ],
     "lat": 44.8134,
     "lon": -0.5783,
@@ -244,7 +327,17 @@
     "eau": true,
     "aire_jeux": true,
     "bancs": null,
-    "notes": "Données uniquement OSM + Nominatim ; non présent sur la page Parcs de la Ville."
+    "notes": "Données uniquement OSM + Nominatim ; non présent sur la page Parcs de la Ville.",
+    "vers": "vers le parc Caudérès",
+    "canopee": 5,
+    "points": [
+      "pi-jeux-parc-cauderes",
+      "pi-jeux-parc-du-colonel-mol",
+      "pi-tilleuls-argentes-cauderes",
+      "pi-platanes-cauderes",
+      "pi-eau-cauderes",
+      "pi-jardin-partage-cauderes"
+    ]
   },
   {
     "id": "parc-colette",
@@ -267,7 +360,9 @@
     "eau": false,
     "aire_jeux": true,
     "bancs": true,
-    "notes": "La ferme itinérante passe de mars à octobre-novembre ; dates variables."
+    "notes": "La ferme itinérante passe de mars à octobre-novembre ; dates variables.",
+    "vers": "vers le parc Colette",
+    "canopee": 10
   },
   {
     "id": "parc-andre-curvale",
@@ -281,7 +376,9 @@
       "2 nichoirs occupés par des mésanges charbonnières",
       "sous-bois herbacé dense",
       "jardin partagé (Les Empotés de Curvale)",
-      "espace de mini-jeux pour enfants"
+      "espace de mini-jeux pour enfants",
+      "Orme du Caucase (zelkova) classé en 2008, 4,45 m de circonférence (Métropole)",
+      "jardin partagé confirmé (Ville)"
     ],
     "lat": 44.8178,
     "lon": -0.5894,
@@ -291,7 +388,13 @@
     "eau": false,
     "aire_jeux": true,
     "bancs": null,
-    "notes": "Le site de la Ville donne aussi l'adresse « Impasse Suzon » dans la page LPO (erreur probable)."
+    "notes": "Le site de la Ville donne aussi l'adresse « Impasse Suzon » dans la page LPO (erreur probable).",
+    "vers": "vers le parc André Curvale",
+    "canopee": 17,
+    "points": [
+      "pi-orme-du-caucase-curvale",
+      "pi-jardin-empotes-curvale"
+    ]
   },
   {
     "id": "parc-triaire",
@@ -304,7 +407,9 @@
       "6 espèces de papillons dans les pelouses et prairies",
       "zone boisée mise au calme pour la faune",
       "jardin partagé",
-      "aire de jeux, tables de pique-nique et agrès"
+      "aire de jeux, tables de pique-nique et agrès",
+      "aire de jeux confirmée (Ville)",
+      "Jardin de la Passerelle voisin (jardin partagé)"
     ],
     "lat": 44.8184,
     "lon": -0.5921,
@@ -314,7 +419,13 @@
     "eau": false,
     "aire_jeux": true,
     "bancs": null,
-    "notes": "Zone boisée au fond du parc : fermeture envisagée pour la quiétude de la faune."
+    "notes": "Zone boisée au fond du parc : fermeture envisagée pour la quiétude de la faune.",
+    "vers": "vers le parc Triaire",
+    "canopee": 7,
+    "points": [
+      "pi-jeux-parc-triaire",
+      "pi-jardin-passerelle"
+    ]
   },
   {
     "id": "bois-de-thouars",
@@ -329,7 +440,9 @@
       "Néottie nid d'oiseau (orchidée sans chlorophylle)",
       "martin-pêcheur et sangliers signalés",
       "rucher municipal de 6 ruches (depuis 2012)",
-      "aires de jeux et stations de sport"
+      "aires de jeux et stations de sport",
+      "à la lisière nord-est : panneau sur la faune, bassin de rétention en eau toute l'année, prairie humide et chênaie à chêne tauzin (Métropole, OSM)",
+      "zone fraîche d'environ 5 °C de moins à la lisière nord-est (thermographie 2022)"
     ],
     "lat": 44.7907,
     "lon": -0.597,
@@ -339,8 +452,18 @@
     "eau": true,
     "aire_jeux": true,
     "bancs": null,
-    "notes": "Coordonnées au centre du bois ; la lisière la plus proche est à environ 1,5 km du Forum des Halles.",
-    "distance_lisiere": "≈ 1,5 km"
+    "notes": "Coordonnées au centre du bois ; la lisière la plus proche est à environ 1,5 km du Forum des Halles. Éléments de la lisière nord-est (panneau faune, bassin, prairie humide) à environ 1,5 km du Forum, ce qui confirme distance_lisiere.",
+    "distance_lisiere": "≈ 1,5 km",
+    "vers": "vers le bois de Thouars",
+    "canopee": 59,
+    "fraicheur": -5,
+    "points": [
+      "pi-bassin-thouars",
+      "pi-chenaie-tauzin-thouars",
+      "pi-ilot-fraicheur-thouars",
+      "pi-panneau-faune-thouars",
+      "pi-prairie-humide-thouars"
+    ]
   },
   {
     "id": "parc-chantecler",
@@ -351,7 +474,8 @@
     "elements": [
       "arbres centenaires",
       "petit parc de 1 ha",
-      "salle de concert et centre musical L'Inconnue dans le parc"
+      "salle de concert et centre musical L'Inconnue dans le parc",
+      "sous-bois de 6 000 m² (charmes, chênes) sur 7 000 m² selon la Métropole"
     ],
     "lat": 44.7929,
     "lon": -0.5879,
@@ -360,7 +484,13 @@
     "poussette": "oui (parc signalé accessible aux personnes à mobilité réduite par la Ville)",
     "eau": false,
     "aire_jeux": false,
-    "bancs": null
+    "bancs": null,
+    "notes": " Surface : 7 000 m² selon la Métropole, environ 1 ha selon OSM.",
+    "vers": "vers le parc Chantecler",
+    "canopee": 26,
+    "points": [
+      "pi-jardin-chantecler"
+    ]
   },
   {
     "id": "butte-rosa-parks-thouars",
@@ -381,6 +511,89 @@
     "poussette": "non confirmé",
     "eau": false,
     "aire_jeux": true,
-    "bancs": true
+    "bancs": true,
+    "vers": "vers la butte Rosa Parks"
+  },
+  {
+    "id": "square-pineau",
+    "nom": "Square Pineau",
+    "type": "square",
+    "distance": "≈ 750 m",
+    "description": "Petit square de quartier près de l'église Notre-Dame, avec une aire de jeux, un point d'eau et un groupe de conifères à côté.",
+    "elements": [
+      "aire de jeux (Ville)",
+      "point d'eau en libre accès (Ville + OSM)",
+      "groupe de 8 conifères entre le square et l'allée du 7e Art (PCRS, essence à confirmer)"
+    ],
+    "lat": 44.813,
+    "lon": -0.591,
+    "adresse": "Rue Camille Pelletan, 33400 Talence (à confirmer)",
+    "horaires": "non confirmés",
+    "poussette": "non confirmé",
+    "eau": true,
+    "aire_jeux": true,
+    "bancs": null,
+    "notes": "Lieu issu de l'open data (Ville : jeux de points d'eau et d'aires de jeux ; PCRS). Accès, horaires et intérêt nature réel à vérifier sur place.",
+    "vers": "vers le square Pineau",
+    "canopee": 9,
+    "points": [
+      "pi-jeux-square-pineau",
+      "pi-coniferes-square-pineau",
+      "pi-eau-eglise-notre-dame",
+      "pi-eau-square-pineau"
+    ]
+  },
+  {
+    "id": "bois-lafitte",
+    "nom": "Bois Lafitte",
+    "type": "bois",
+    "distance": "≈ 1,1 km",
+    "description": "Petit bois de quartier au sud de Talence, avec une aire de jeux.",
+    "elements": [
+      "bois (OSM)",
+      "aire de jeux (Ville)"
+    ],
+    "lat": 44.7972,
+    "lon": -0.5844,
+    "adresse": "Rue Lafitte, 33400 Talence (à confirmer)",
+    "horaires": "non confirmés",
+    "poussette": "non confirmé",
+    "eau": false,
+    "aire_jeux": true,
+    "bancs": null,
+    "notes": "Lieu issu de l'open data (Ville : aire de jeux ; OSM : forêt). Accès, horaires et intérêt nature réel à vérifier sur place.",
+    "vers": "vers le bois Lafitte",
+    "canopee": 33,
+    "points": [
+      "pi-jeux-bois-lafitte"
+    ]
+  },
+  {
+    "id": "parc-fehlmann",
+    "nom": "Parc Fehlmann",
+    "type": "parc",
+    "distance": "≈ 1,55 km",
+    "description": "Parc de quartier à la limite nord du rayon, avec une aire de jeux, un point d'eau et un jardin partagé.",
+    "elements": [
+      "aire de jeux (Ville)",
+      "point d'eau en libre accès (Ville)",
+      "jardin partagé (Ville)"
+    ],
+    "lat": 44.8202,
+    "lon": -0.5854,
+    "adresse": "Rue Jean Iriquin, 33400 Talence (à confirmer)",
+    "horaires": "non confirmés",
+    "poussette": "non confirmé",
+    "eau": true,
+    "aire_jeux": true,
+    "bancs": null,
+    "notes": "Lieu issu de l'open data (Ville : le jeu écrit « Felhman »/« Felhmann »). À la limite du rayon de 1,6 km. Accès, horaires et intérêt nature réel à vérifier sur place.",
+    "vers": "vers le parc Fehlmann",
+    "canopee": 6,
+    "points": [
+      "pi-jeux-parc-fehlmann",
+      "pi-eau-fehlmann",
+      "pi-jardin-fehlmann"
+    ]
   }
 ]

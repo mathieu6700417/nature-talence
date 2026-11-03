@@ -19,6 +19,10 @@
 //     seulement pénalisées.
 //  6. Pénurie : si moins de 3 fiches éligibles, on complète avec des fiches du mois sans
 //     condition météo (on ignore alors leur `exclut`).
+//  7. Observations récentes (option `observations`, Map ficheId → observation, voir
+//     js/observations.js) : poids ×BONUS_OBSERVEE. Pas d'exemption d'anti-répétition et
+//     l'éligibilité (saison, météo) est inchangée ; les événements ponctuels restent prioritaires.
+//     Le recalcul des jours précédents (anti-répétition) se fait sans observations.
 
 /** Conditions qui dépendent de la météo (absentes/fausses en mode dégradé). */
 export const CONDITIONS_METEO = [
@@ -151,14 +155,21 @@ export function estComplement(fiche, conditions, dateISO) {
   return req.every((c) => vrai(conditions, c));
 }
 
-/** Poids de tirage du jour = poids × spécificité (raretés des conditions requises). */
-export function poidsDuJour(fiche, conditions, dateISO) {
+/** Multiplicateur de poids d'une fiche dont l'espèce a été observée récemment près d'ici. */
+export const BONUS_OBSERVEE = 3;
+
+/**
+ * Poids de tirage du jour = poids × spécificité (raretés des conditions requises)
+ * × BONUS_DATEE (événement ponctuel) × BONUS_OBSERVEE (fiche présente dans `observations`).
+ */
+export function poidsDuJour(fiche, conditions, dateISO, observations = null) {
   const base = Number.isFinite(fiche.poids) && fiche.poids > 0 ? fiche.poids : 1;
   let specificite = 1;
   for (const c of fiche.requiert || []) {
     if (vrai(conditions, c)) specificite *= RARETE[c] ?? 1;
   }
-  return base * specificite * (estPonctuel(fiche, dateISO) ? BONUS_DATEE : 1);
+  return base * specificite * (estPonctuel(fiche, dateISO) ? BONUS_DATEE : 1)
+    * (observations?.has?.(fiche.id) ? BONUS_OBSERVEE : 1);
 }
 
 /**
@@ -172,9 +183,9 @@ export function estDuJour(fiche, conditions, dateISO) {
 /** Pénalité de poids d'une fiche « du jour » déjà vue récemment (au lieu de l'écarter). */
 export const PENALITE_RECENTE = 4;
 
-function tirerPondere(liste, conditions, rng, recents, dateISO) {
+function tirerPondere(liste, conditions, rng, recents, dateISO, observations = null) {
   // Événement ponctuel : jamais pénalisée pendant sa plage (événement ponctuel, à ne pas rater).
-  const poids = liste.map((f) => poidsDuJour(f, conditions, dateISO)
+  const poids = liste.map((f) => poidsDuJour(f, conditions, dateISO, observations)
     / (recents?.has(f.id) && !estPonctuel(f, dateISO) ? PENALITE_RECENTE : 1));
   const total = poids.reduce((a, b) => a + b, 0);
   let r = rng() * total;
@@ -212,19 +223,21 @@ function paliers(fiches, conditions, dateISO, recents, dejaPris) {
  * Tire une fiche : premier palier non vide ; à l'intérieur, on préfère d'abord
  * `categoriePreferee`, puis une catégorie hors `categoriesEvitees`, puis n'importe laquelle.
  */
-function tirerUne(tiers, conditions, rng, { categoriesEvitees = new Set(), categoriePreferee = null, recents = null, dateISO } = {}) {
+function tirerUne(tiers, conditions, rng, {
+  categoriesEvitees = new Set(), categoriePreferee = null, recents = null, dateISO, observations = null,
+} = {}) {
   for (const palier of tiers) {
     if (!palier.length) continue;
     const pref = categoriePreferee ? palier.filter((f) => f.categorie === categoriePreferee) : [];
     const nouvelles = palier.filter((f) => !categoriesEvitees.has(f.categorie));
     const liste = pref.length ? pref : nouvelles.length ? nouvelles : palier;
-    return tirerPondere(liste, conditions, rng, recents, dateISO);
+    return tirerPondere(liste, conditions, rng, recents, dateISO, observations);
   }
   return null;
 }
 
 /** Tirage de base (sans anti-répétition si `recents` est vide). */
-function tirerJour(fiches, conditions, dateISO, recents, n) {
+function tirerJour(fiches, conditions, dateISO, recents, n, observations = null) {
   const rng = generateur(hacher(`nature-talence|${dateISO}`));
   const choisies = [];
   const pris = new Set();
@@ -245,6 +258,7 @@ function tirerJour(fiches, conditions, dateISO, recents, n) {
       categoriesEvitees: cats,
       recents,
       dateISO,
+      observations,
     });
     if (!f) break;
     choisies.push(f);
@@ -295,13 +309,14 @@ export function idsRecents(fiches, dateISO, options = {}) {
  * @param {object[]} fiches toutes les fiches
  * @param {object} conditions { pluie_recente: bool, …, pleine_lune: bool, … }
  * @param {string} dateISO "AAAA-MM-JJ"
- * @param {object} [options] { n=3, historique, conditionsPour, jours=7, recalculer=true }
+ * @param {object} [options] { n=3, historique, conditionsPour, jours=7, recalculer=true,
+ *   observations: Map ficheId → observation récente (poids ×BONUS_OBSERVEE) }
  * @returns {object[]} jusqu'à n fiches (moins seulement si vraiment rien d'autre n'est possible)
  */
 export function choisir(fiches, conditions, dateISO, options = {}) {
   const n = options.n ?? 3;
   const recents = idsRecents(fiches, dateISO, { ...options, n });
-  return tirerJour(fiches, conditions, dateISO, recents, n);
+  return tirerJour(fiches, conditions, dateISO, recents, n, options.observations || null);
 }
 
 /**
@@ -321,5 +336,6 @@ export function autre(fiches, conditions, dateISO, dejaAffichees = [], categorie
     categoriesEvitees: new Set(options.categoriesEvitees || []),
     recents,
     dateISO,
+    observations: options.observations || null,
   });
 }

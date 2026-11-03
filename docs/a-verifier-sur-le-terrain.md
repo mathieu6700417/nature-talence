@@ -170,3 +170,96 @@ supprime la fiche.
   Noailles. Noter l'endroit exact si on les trouve, et vérifier que la tonte les épargne.
   → `pla-ophrys-abeille` (L'orchidée qui ressemble à une abeille), `pla-spiranthe-automne` (L'orchidée
   en spirale d'octobre)
+
+## 10. Points issus de l'open data (OpenStreetMap, Métropole, PCRS) — étape B1
+
+Ces points viennent de `data/points-interet.json` (extraction du 3 novembre 2026). Aucun n'a été
+vu sur place. Quand une fiche s'appuiera sur l'un d'eux (`point.pi`), elle portera `verifier: true`
+tant que le point n'est pas confirmé.
+
+- **Puits** : puits du parc Peixotto (existence, margelle visible) ; les 3 autres, près de la rue de
+  Lauriol, de la rue de la Petite Mission et de la rue de Peybouquey (peut-être en propriété privée :
+  regarder depuis la rue seulement).
+  → `pi-puits-peixotto`, `pi-puits-rue-de-lauriol`, `pi-puits-rue-petite-mission`, `pi-puits-rue-peybouquey`
+- **Ruisseau d'Ars à 420 m au nord** (44.80942, -0.58480, rue Peydavant) : le tronçon est annoncé
+  « à ciel ouvert » par la spec, mais OpenStreetMap le tague `tunnel=culvert` (busé). Est-il visible
+  depuis la rue ? Sinon, ne pas bâtir de fiche dessus. Le tronçon de la rue Voltaire (44.81043,
+  -0.57567) est cartographié ouvert : à vérifier aussi.
+  → `pi-ruisseau-ars-rue-peydavant`, `pi-ruisseau-ars-voltaire`
+- **Étang Bonnefont** (44.80878, -0.59364) : accès public ? Visible depuis la rue Pierre Noailles ?
+  → `pi-etang-bonnefont`
+- **Espace de libre cueillette** près du parc du Couvent (44.81044, -0.58392) : planté ? quels
+  arbustes à fruits ? → `pi-cueillette-couvent`
+- **Conifères** : essences des groupes de la rue du Professeur Arnozan (3 + 3), de la rue Peydavant (3),
+  du cours de la Libération (2 au nord, 4 au sud), du square Pineau (8) et de l'ouest du campus (19).
+  Le PCRS ne donne pas l'espèce. → `pi-coniferes-*`
+- **Cygnes du bassin de Peixotto** : texte de la Métropole de 2012. Y en a-t-il encore ? Sinon,
+  abandonner l'idée. → `pi-bassin-peixotto`
+- **Square Pineau, bois Lafitte, parc Fehlmann** : accès, horaires, intérêt nature réel (nouveaux
+  lieux issus de l'open data). → `pi-eau-square-pineau`, `pi-jeux-bois-lafitte`, `pi-eau-fehlmann`
+- **Prairies de fauche et chênaie-charmaie du campus** : visibles depuis l'espace public (rue
+  Pierre Noailles) ? Fauche en juin ? → `pi-prairie-fauche-campus`, `pi-chenaie-charmaie-campus`
+- **Bassin de Thouars** : accès au bord, garde-corps, présence de hérons ; panneau « qui habite ici »
+  voisin : contenu à noter. → `pi-bassin-thouars`, `pi-panneau-faune-thouars`
+- **Bassin de rétention du campus** (rue Pierre Noailles) : en eau ? visible depuis la rue ?
+  → `pi-bassin-campus-retention`
+- **Vignes de la Mission Haut-Brion** et **prairie « Éco-pâturage »** : visibles depuis une voie
+  publique ? → `pi-vigne-mission-haut-brion`, `pi-prairie-eco-paturage`
+- **Roselière, points d'eau naturels et peupleraie de l'ouest** : accès et visibilité.
+  → `pi-roseliere-campus-ouest`, `pi-points-eau-ouest-campus`, `pi-peupleraie-campus-ouest`
+- **Magnolia du parc Margaut** : espèce (grandiflora ?) et emplacement exact près du château.
+  → `pi-magnolia-parc-margaut`
+- **Arbres d'espèce renseignée dans OSM seulement** : cyprès chauve et peuplier noir de Peixotto,
+  tilleuls et catalpas de Caudérès, du boulevard Franklin Roosevelt et de la rue Brun, platanes de la
+  rue Arago, arbres variés de la route de Toulouse. → `pi-cypres-chauve-peixotto` et suivants
+- **Tour à hirondelles** du parc Robespierre : occupée au printemps ? → `pi-tour-hirondelles-robespierre`
+- **Robinets OSM** (Caudérès, château des Arts, entre Margaut et Peixotto) et **fontaines** (avenue
+  Roul, bassin nord de Peixotto, château des Arts) : eau potable ou non ? Le robinet du parc du Couvent
+  est tagué non potable. → `pi-eau-cauderes`, `pi-eau-chateau-des-arts`, `pi-eau-allee-peixotto-robinet`,
+  `pi-fontaine-avenue-roul`, `pi-fontaines-bassin-nord-peixotto`, `pi-fontaine-chateau-des-arts`
+- **Zone humide au sud de Bel Air**, **prairie de fauche et fourrés à prunelliers du sud-est** : nature
+  réelle et accès. → `pi-zone-humide-bel-air`, `pi-prairie-fauche-chantecler`, `pi-fourre-prunellier-villenave`
+
+## 11. Fiches appuyées sur l'open data — étape B2
+
+Fiches rédigées ou complétées le 3 novembre 2026 à partir de `data/points-interet.json` (`point.pi`).
+Toutes celles qui portent `verifier: true` attendent une visite.
+
+- **Puits du parc Peixotto** : OpenStreetMap le tague aussi « eau potable », et le point d'eau de la
+  Ville est à 35 m. Est-ce un vrai puits (margelle), une fontaine en forme de puits, ou le même objet
+  que le point d'eau ? Corriger ou supprimer la fiche selon le cas.
+  → `ins-puits-dans-la-ville` (Un puits au milieu du parc)
+- **Ruisseau d'Ars, rue Voltaire** : à quel endroit précis le voit-on depuis la rue (pont, grille,
+  fossé) ? Y a-t-il de l'eau d'octobre à juin ? Préciser le repère.
+  → `ins-ruisseau-ars-cache` (Le ruisseau qui coule sous la ville)
+- **Bassin de Thouars** : bord accessible et sûr (garde-corps) ? Contenu du panneau faune voisin ?
+  → `ins-bassin-thouars-pluie` (Le grand bassin qui garde la pluie)
+- **Conifères de la rue du Professeur Arnozan** (vers la rue Ambroise Paré) : essence (pin, cèdre,
+  cyprès, if ?). Si ce sont des ifs, le dire dans la fiche ; si ce sont des pins, surveiller les nids
+  de processionnaires.
+  → `ins-conifere-reste-vert` (Les arbres qui restent verts tout l'hiver)
+- **Prairie de fauche du campus** : visible depuis la rue Pierre Noailles ? Date de fauche ?
+  **Charmes** de la chênaie-charmaie (même rue, vers l'entrée Noailles) : visibles depuis le trottoir ?
+  → `pla-prairie-de-fauche-campus`, `pla-charme-feuilles-plissees`
+- **Catalpa et tilleuls argentés de la rue de Suzon** (côté Caudérès) : espèces confirmées ?
+  Gousses visibles l'hiver ? Dessous blanc des feuilles ?
+  → `pla-catalpa-haricots-geants`, `pla-tilleul-argente-cauderes`
+- **Platanes de Caudérès** : OpenStreetMap place 9 platanes le long de la rue du Colonel Moll, la
+  fiche parle de 5 gros troncs côté rue de Suzon. Lequel est juste ? Ajuster le repère.
+  → `pla-platane-ecorce-puzzle`, `sens-courir-feuilles-mortes`
+- **Peuplier noir de Peixotto** (bord du bassin nord, près du cyprès chauve) : espèce confirmée ?
+  → `pla-peuplier-qui-tremble`, `pla-cypres-chauve-peixotto`
+- **Chêne tauzin de Thouars** : feuilles duveteuses bien visibles depuis la lisière, sans quitter les
+  chemins ? → `pla-chene-tauzin-velours`
+- **Arbre de Judée de la route de Toulouse** (carrefour boulevard Albert 1er / boulevard Franklin
+  Roosevelt) : le trouver en avril, noter de quel côté du carrefour il est.
+  → `pla-arbre-judee-fleurs-tronc`
+- **Étang Bonnefont** : visible depuis un espace public ? Ragondins toujours là (vus en 2023) ?
+  Martin-pêcheur au bassin nord de Peixotto en automne-hiver ?
+  → `ani-ragondin-etang-bonnefont`, `ani-martin-pecheur-eclair-bleu`
+- **Oie cygnoïde du bassin nord de Peixotto** : observée de 2017 à mars 2023. Toujours là ? Sinon,
+  supprimer la fiche. (Les « cygnes » du texte de 2012 n'ont aucune observation récente : pas de fiche.)
+  → `ani-oie-cygnoide-peixotto`
+- **Vignes de la Mission Haut-Brion** : la fiche garde son repère (piste cyclable de l'avenue de la
+  Mission Haut-Brion) ; à confirmer en même temps que le point open data.
+  → `ins-vigne-raisins`, `ins-vigne-printemps`

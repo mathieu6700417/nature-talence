@@ -11,7 +11,8 @@
     "point": {
       "lat": 44.807378,
       "lon": -0.58901,
-      "repere": "Allée Peixotto, côté nord-ouest de la chaussée, à ~10 m du croisement avec Rue du Professeur Arnozan ; repère : au centre du rond-point, entourée de genévriers rampants (114 m au nord-ouest du Forum des Halles)"
+      "repere": "Allée Peixotto, côté nord-ouest de la chaussée, à ~10 m du croisement avec Rue du Professeur Arnozan ; repère : au centre du rond-point, entourée de genévriers rampants (114 m au nord-ouest du Forum des Halles)",
+      "pi": "pi-fontaine-rond-point-cascade"
     },
     "mois": [
       1,
@@ -637,7 +638,10 @@
       "latin": "Curculio glandium (et espèces proches)",
       "anecdote": "En fin d'été, la femelle perce le gland encore vert avec un rostre presque aussi long que son corps, puis y pond un œuf. La larve dévore l'intérieur, sort à l'automne par un trou parfaitement rond, puis s'enterre pour se transformer.",
       "pourquoi_maintenant": "Septembre à novembre : les glands tombent, et ceux qui sont troués le sont déjà.",
-      "confusion": "Un gland rongé par un écureuil, un mulot ou un oiseau a des bords irréguliers ; le trou du balanin est net et rond, de 2-3 mm."
+      "confusion": "Un gland rongé par un écureuil, un mulot ou un oiseau a des bords irréguliers ; le trou du balanin est net et rond, de 2-3 mm.",
+      "taxons": [
+        "Curculio"
+      ]
     },
     "photo": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Larva_de_Balanino_o_Gorgojo_de_las_bellotas_%2815619999059%29.jpg/500px-Larva_de_Balanino_o_Gorgojo_de_las_bellotas_%2815619999059%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
@@ -690,7 +694,10 @@
       "latin": "Lasius niger (le plus souvent)",
       "anecdote": "Une fourmi qui a trouvé à manger rentre en déposant une trace chimique (phéromone) : les autres la suivent et la renforcent, d'où l'« autoroute ». Chez la fourmi noire des jardins, une reine a vécu près de 29 ans en élevage, un record chez les insectes.",
       "pourquoi_maintenant": "D'avril à octobre, aux heures douces, quand le sol est chaud et sec.",
-      "confusion": "Fourmi noire des jardins (petite, très sombre, au sol) ou fourmi scutellaire (tête et thorax rougeâtres, abdomen noir en forme de cœur, observée dans le quartier) : la seconde vit dans le bois mort et les troncs."
+      "confusion": "Fourmi noire des jardins (petite, très sombre, au sol) ou fourmi scutellaire (tête et thorax rougeâtres, abdomen noir en forme de cœur, observée dans le quartier) : la seconde vit dans le bois mort et les troncs.",
+      "taxons": [
+        "Lasius"
+      ]
     },
     "photo": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Lasius.niger.-.lindsey.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -764,7 +771,8 @@
         "url": "https://panoramax.openstreetmap.fr/derivates/8d/d5/a2/ac/f7da-4e7d-823b-fd05bb695da0/sd.jpg",
         "credit": "trouyer (Panoramax) (Panoramax) — CC BY-SA 4.0",
         "source": "https://api.panoramax.xyz/#focus=pic&pic=8dd5a2ac-f7da-4e7d-823b-fd05bb695da0"
-      }
+      },
+      "pi": "pi-vigne-mission-haut-brion"
     },
     "mois": [
       8,
@@ -776,7 +784,7 @@
     "moment": null,
     "poids": 3,
     "attention": "On regarde derrière la grille : les raisins appartiennent aux propriétés, on n'entre pas et on ne cueille pas.",
-    "verifier": false,
+    "verifier": true,
     "reperes": "Des rangs de vigne derrière une clôture verte. Fin août-septembre, les grappes mûrissent ; à partir de la mi-septembre, les vendangeurs passent.",
     "enfant": {
       "2-3": {
@@ -819,7 +827,8 @@
         "url": "https://panoramax.openstreetmap.fr/derivates/8d/d5/a2/ac/f7da-4e7d-823b-fd05bb695da0/sd.jpg",
         "credit": "trouyer (Panoramax) (Panoramax) — CC BY-SA 4.0",
         "source": "https://api.panoramax.xyz/#focus=pic&pic=8dd5a2ac-f7da-4e7d-823b-fd05bb695da0"
-      }
+      },
+      "pi": "pi-vigne-mission-haut-brion"
     },
     "mois": [
       3,
@@ -831,7 +840,7 @@
     "moment": null,
     "poids": 2,
     "attention": "On regarde derrière la grille, sans entrer ni cueillir.",
-    "verifier": false,
+    "verifier": true,
     "reperes": "En mars, les ceps ne sont que des bâtons tordus ; en avril, les bourgeons éclatent et de petites feuilles vert tendre apparaissent, puis les rameaux s'allongent en mai.",
     "enfant": {
       "2-3": {
@@ -1558,5 +1567,267 @@
       "credit": "Geofan — CC BY-SA 3.0",
       "source": "https://commons.wikimedia.org/wiki/File:Calcaire_%C3%A0_asteries.jpg"
     }
+  },
+  {
+    "id": "ins-puits-dans-la-ville",
+    "categorie": "insolite",
+    "titre": "Un puits à pompe dans le parc",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Dans le parc Peixotto, entre l'aire de jeux et le point d'eau, côté allée Peixotto.",
+    "point": {
+      "lat": 44.80831,
+      "lon": -0.59019,
+      "pi": "pi-puits-peixotto",
+      "repere": "Parc Peixotto, en entrant par l'allée Peixotto : à une centaine de mètres de l'allée, entre l'aire de jeux et le point d'eau ; cherche une pompe à levier ou un petit puits de pierre."
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "On ne se penche pas au-dessus d'un puits, on ne grimpe pas dessus et on garde les doigts loin du levier d'une pompe (risque de pincement). On ne boit pas sans panneau « eau potable ».",
+    "verifier": true,
+    "reperes": "Un puits équipé d'une pompe manuelle est cartographié ici (OpenStreetMap, contrôle de novembre 2024), sans photo pour le confirmer : cherche un levier, un tuyau ou un rebord de pierre. Si tu ne trouves rien, regarde le point d'eau tout proche.",
+    "enfant": {
+      "2-3": {
+        "mot": "la pompe",
+        "geste": "Regarder la pompe ou le puits sans toucher, puis lever et baisser le bras comme un levier : « pomp, pomp ! ».",
+        "phrase": "Pomp, pomp, l'eau monte !"
+      },
+      "3-5": {
+        "mot": "d'où vient l'eau ?",
+        "geste": "Chercher d'où l'eau pourrait sortir : un tuyau, un robinet, un levier ? Puis deviner si elle vient d'en haut ou de très loin sous la terre.",
+        "phrase": "Pomp, pomp, l'eau vient d'en bas !"
+      }
+    },
+    "adulte": {
+      "nom": "Puits à pompe manuelle",
+      "latin": null,
+      "anecdote": "Une pompe à bras posée en surface ne peut pas aspirer l'eau au-delà d'environ 10 mètres de profondeur : l'air ne pousse l'eau que jusqu'à cette hauteur. Pour puiser plus bas, il faut placer la pompe au fond du puits. L'eau d'un puits est celle de la nappe : elle monte en hiver, quand la pluie s'infiltre, et baisse à la fin de l'été.",
+      "pourquoi_maintenant": "Toute l'année : c'est un objet, pas une saison. En hiver, la nappe est au plus haut.",
+      "confusion": "Si tu ne trouves ni pompe ni puits, c'est que le repère est faux ou que l'objet a été retiré : le point d'eau voisin est celui de la Ville."
+    },
+    "photo": null
+  },
+  {
+    "id": "ins-ruisseau-ars-cache",
+    "categorie": "insolite",
+    "titre": "Le ruisseau qui a disparu sous la ville",
+    "lieux": [
+      "bois-sourreil"
+    ],
+    "ou": "Entre la rue Voltaire et la place Camille Desmoulins, au nord-est du bois Sourreil : un petit vallon où le ruisseau d'Ars passait, et passe peut-être encore.",
+    "point": {
+      "lat": 44.81043,
+      "lon": -0.57567,
+      "pi": "pi-ruisseau-ars-voltaire",
+      "repere": "Entre la rue Voltaire et la place Camille Desmoulins, au nord-est du bois Sourreil : chercher depuis la rue une dépression, un petit lit, un fossé ou une grille d'eau. Sinon, c'est que le ruisseau est enterré."
+    },
+    "mois": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      10,
+      11,
+      12
+    ],
+    "requiert": [],
+    "exclut": [
+      "sec"
+    ],
+    "moment": null,
+    "poids": 2,
+    "attention": "On regarde depuis le bord, main dans la main : on ne lâche jamais l'enfant près de l'eau.",
+    "verifier": true,
+    "reperes": "Selon la carte, un tronçon du ruisseau est ici ; il peut être sous la rue ou dans un tuyau. Cherche une dépression dans le terrain, un muret, un petit lit ou une grille. Ailleurs, le ruisseau est certainement enterré, comme rue Peydavant.",
+    "enfant": {
+      "2-3": {
+        "mot": "l'eau qui coule",
+        "geste": "Si on voit de l'eau, laisser tomber une feuille depuis le bord et la regarder partir : « au revoir, petite feuille ! ». Sinon, chercher la grille où l'eau doit passer.",
+        "phrase": "Coule, coule, petit ruisseau !"
+      },
+      "3-5": {
+        "mot": "par où va l'eau ?",
+        "geste": "Chercher où l'eau peut aller : une grille, un trou dans le mur, la pente de la rue. Descendre le long de la pente avec le regard : où l'eau irait-elle si elle coulait ?",
+        "phrase": "Où tu te caches, petit ruisseau ?"
+      }
+    },
+    "adulte": {
+      "nom": "Ruisseau d'Ars",
+      "latin": null,
+      "anecdote": "Le ruisseau d'Ars naît à Pessac et traverse Talence d'ouest en est, puis Bègles et Bordeaux, avant de rejoindre la Garonne par des esteys. En ville, il a été canalisé en grande partie dans les années 1930 puis 1960-1970, et il ne reste que de rares plans d'eau visibles : on ne sait pas si l'eau est visible ici. Les rues qui descendent vers lui, comme la rue Lamartine, dessinent encore son vallon.",
+      "pourquoi_maintenant": "Après les pluies d'octobre à juin, il y a plus de chances de voir ou d'entendre de l'eau ; par temps sec, le lit peut être vide.",
+      "confusion": "Un fossé de bord de route ne coule qu'après la pluie et n'a pas de nom ; le ruisseau, lui, garde un filet d'eau hors sécheresse, quand il est visible."
+    },
+    "photo": null
+  },
+  {
+    "id": "ins-bassin-thouars-pluie",
+    "categorie": "insolite",
+    "titre": "Le grand bassin qui garde la pluie",
+    "lieux": [
+      "bois-de-thouars"
+    ],
+    "ou": "À la lisière nord-est du bois de Thouars, le long de l'avenue de la Marne : un grand bassin de rétention en eau toute l'année, avec une prairie humide à côté et un panneau sur la faune.",
+    "point": {
+      "lat": 44.79373,
+      "lon": -0.59413,
+      "pi": "pi-bassin-thouars",
+      "repere": "Avenue de la Marne, à la lisière nord-est du bois de Thouars : le grand bassin en eau, avec la prairie humide juste à côté ; le panneau sur la faune est une centaine de mètres plus à l'est."
+    },
+    "mois": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "On regarde depuis le bord, main dans la main : on ne lâche jamais l'enfant près de l'eau.",
+    "verifier": true,
+    "reperes": "Une grande étendue d'eau au bord de l'avenue, entourée d'herbes et de joncs. C'est loin à pied (environ 1,5 km) : à combiner avec une sortie au bois de Thouars.",
+    "enfant": {
+      "2-3": {
+        "mot": "un oiseau ?",
+        "geste": "Depuis le bord, s'accroupir et regarder la surface : montrer chaque rond qui se forme sur l'eau (insecte, poisson, goutte).",
+        "phrase": "Un rond, deux ronds, qui fait des ronds ?"
+      },
+      "3-5": {
+        "mot": "l'éponge",
+        "geste": "Chercher trois habitants du bassin : un oiseau, un insecte, une plante qui a les pieds dans l'eau. Puis lire ensemble le panneau sur la faune.",
+        "phrase": "Un, deux, trois, qui habite là ?"
+      }
+    },
+    "adulte": {
+      "nom": "Bassin de rétention des eaux pluviales",
+      "latin": null,
+      "anecdote": "Un bassin de rétention sert d'éponge : lors des grosses pluies, il reçoit l'eau des rues et des toits, puis la relâche lentement, ce qui évite d'inonder les quartiers en aval. Celui-ci reste en eau toute l'année, et la Métropole classe la prairie humide voisine (à souchet bai) parmi les milieux à fort enjeu ; des hérons cendrés et un martin-pêcheur ont été vus autour du bois.",
+      "pourquoi_maintenant": "Du printemps à l'automne, la vie s'y voit le mieux : libellules, oiseaux d'eau, plantes en fleurs au bord.",
+      "confusion": "Ce n'est pas l'étang du bois de Thouars, plus au sud dans le bois : ici c'est un ouvrage pour la pluie, au bord de l'avenue."
+    },
+    "photo": null
+  },
+  {
+    "id": "ins-conifere-reste-vert",
+    "categorie": "insolite",
+    "titre": "Les arbres qui restent verts tout l'hiver",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Rue du Professeur Arnozan, à 250 m du Forum : un groupe de trois conifères (arbres à aiguilles), à comparer avec les arbres nus de la rue.",
+    "point": {
+      "lat": 44.80882,
+      "lon": -0.58801,
+      "pi": "pi-coniferes-rue-arnozan-sud",
+      "repere": "Rue du Professeur Arnozan, en allant vers la rue Ambroise Paré : le groupe de trois conifères près de la chaussée, seuls arbres encore verts au milieu des branches nues."
+    },
+    "mois": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 1,
+    "attention": "Rien à la bouche, ni aiguilles ni baies : certains conifères comme l'if (petites baies rouges) sont très toxiques. Si tu vois des nids blancs soyeux dans un pin, on s'éloigne (chenilles processionnaires).",
+    "verifier": true,
+    "reperes": "Des arbres à aiguilles ou à petites écailles, verts en plein hiver. L'essence exacte n'est pas connue (relevé de la Métropole) : pin, cèdre, cyprès ou if, regarde les aiguilles et les cônes.",
+    "enfant": {
+      "2-3": {
+        "mot": "toujours vert",
+        "geste": "Montrer un arbre tout nu, puis le conifère : « lui, il a froid ; lui, il garde son manteau vert ! ». Toucher du bout du doigt une branche basse : ça pique ou c'est doux ?",
+        "phrase": "Arbre tout nu, arbre vert, qui a mis son pull d'hiver ?"
+      },
+      "3-5": {
+        "mot": "aiguilles",
+        "geste": "Compter les arbres verts et les arbres nus de la rue. Puis chercher par terre une aiguille ou un cône tombé et le comparer à une feuille morte.",
+        "phrase": "Les feuilles tombent, les aiguilles restent !"
+      }
+    },
+    "adulte": {
+      "nom": "Conifères (essence à confirmer)",
+      "latin": null,
+      "anecdote": "« Persistant » ne veut pas dire éternel : chaque aiguille vit quelques années (souvent 2 à 4 ans chez les pins, davantage chez les sapins et les épicéas), puis tombe, mais jamais toutes en même temps. Leur forme étroite et leur couche de cire limitent les pertes d'eau et résistent au gel, ce qui permet à l'arbre de garder ses « panneaux solaires » l'hiver.",
+      "pourquoi_maintenant": "De novembre à février, quand les autres arbres de la rue sont nus, les conifères sautent aux yeux.",
+      "confusion": "Tous les conifères ne restent pas verts : le mélèze et le cyprès chauve du parc Peixotto perdent leurs aiguilles en automne. Un if a des aiguilles plates, vert foncé, et parfois des baies rouges : toxique."
+    },
+    "photo": null
+  },
+  {
+    "id": "ins-potager-jardin-partage",
+    "categorie": "insolite",
+    "titre": "Des légumes en pleine ville",
+    "lieux": [
+      "parc-cauderes",
+      "parc-bel-air"
+    ],
+    "ou": "Au jardin partagé du parc Caudérès, à côté de l'aire de jeux. Autre jardin partagé : le Jardin des Cultures, à côté du parc Bel Air.",
+    "point": {
+      "lat": 44.81348,
+      "lon": -0.57818,
+      "pi": "pi-jardin-partage-cauderes",
+      "repere": "Parc Caudérès, près de l'aire de jeux, côté rue du Colonel Moll : le jardin partagé ; regarder les carrés de légumes depuis l'allée, sans entrer dans les parcelles."
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Des carrés cultivés par les habitants : selon la saison, tomates, courges, haricots grimpants, salades, fraisiers, fleurs. On regarde sans cueillir : chaque carré appartient à un jardinier.",
+    "enfant": {
+      "2-3": {
+        "mot": "tomate",
+        "geste": "Chercher une tomate (ou une courge) et la montrer : « rouge ! » ou « verte ! ». Si un jardinier est là, dire bonjour.",
+        "phrase": "Tomate rouge, tomate verte, qui pousse dans le jardin ?"
+      },
+      "3-5": {
+        "mot": "dessus ou dessous ?",
+        "geste": "Deviner : quels légumes poussent en l'air (tomates, haricots) et lesquels se cachent sous la terre (carottes, pommes de terre) ? Compter les couleurs de légumes visibles.",
+        "phrase": "En l'air ou sous la terre ?"
+      }
+    },
+    "adulte": {
+      "nom": "Jardin partagé (potager)",
+      "latin": null,
+      "anecdote": "Tomate, courge, haricot, maïs et pomme de terre viennent tous des Amériques. Arrivée en Europe au XVIᵉ siècle, la tomate est d'abord restée une curiosité qu'on regardait avec méfiance, parce qu'elle appartient à la même famille que la belladone ; il a fallu près de deux siècles pour qu'elle s'installe dans les cuisines.",
+      "pourquoi_maintenant": "De mai à octobre, le jardin change chaque semaine : fleurs jaunes des courges en été, tomates rouges en août, grosses courges en septembre-octobre.",
+      "confusion": "Les fleurs jaunes de courgette et de potiron se ressemblent : c'est le fruit qui pousse derrière qui les distingue."
+    },
+    "photo": null
   }
 ]

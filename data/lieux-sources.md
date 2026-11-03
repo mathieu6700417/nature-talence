@@ -87,3 +87,28 @@ Limite générale : les essences d'arbres des parcs ne sont pas sourcées, sauf 
 - Place de la Victoire 14-18 (OSM way 34590060, ≈ 280 m, 14 bancs) : aucun élément nature sourcé. Jardin de la Passerelle (Nominatim, ≈ 1,4 km), Jardicoeur, La Fourmilière (potager étudiant OSM, ≈ 1 km, géré par l'association L'astragale et la Fourmi) : accès au public non confirmé. Aire de jeux OSM way 620979366 (2-6 ans, ≈ 630 m) : nom et lieu inconnus.
 - Parcs de Pessac/Bègles/Bordeaux (Parc des Sœurs, Jardin d'Ars, Parc Lavielle) : hors commune.
 - Parc de Thouars « butte » et Bois Lafitte (OSM forêt ≈ 1,1 km) : Bois Lafitte non documenté.
+
+## Enrichissement par l'open data (2026-11-03)
+
+Méthode : `scripts/extraire-open-data.py` (API Explore v2.1 de opendata.bordeaux-metropole.fr et Overpass, rayon 1 600 m) ; détail dans `data/sources/open-data-synthese.md`, points curés dans `data/points-interet.json`. Nouveaux champs : `vers` (formule toute faite pour « vers le parc Peixotto », pas de règle grammaticale côté site), `canopee` (% de canopée de la maille de 232 m qui contient le lieu, jeu `met_vegetation_urbaine`), `fraicheur` (écart de température minimal, en °C, de la thermographie du 17 juin 2022, jeu `ri_icu_ifu_s`, mailles à −3 °C ou moins seulement), `points` (ids de `points-interet.json` rattachés au lieu).
+Pour `bois-de-thouars`, `canopee` (59 %, maille 44.7932, -0.5933) et `fraicheur` (−5 °C) sont ceux de la lisière nord-est, seule partie du bois dans le rayon de 1,6 km.
+
+Corrections et ajouts, par lieu
+- `parc-bel-air` : `eau` passe à `true` (point d'eau « Jardins de Bel Air », Ville, `tal_pointseaulibreacces`, 44.80185, -0.57969). L'ancienne valeur `false` était une erreur.
+- `parc-margaut` : platanes de grande taille, magnolia près du château, toilettes à proximité, `eau` (Métropole, `ec_parc_s`). Espèce du magnolia à confirmer.
+- `parc-du-couvent` : immenses platanes, chênes et marronniers, arbres fruitiers récents (Métropole, `ec_parc_s`) ; espace de libre cueillette 44.81044, -0.58392 (Ville, `tal_jardinspartages`, texte « prévu à la plantation » : à confirmer). Le robinet OSM voisin porte `drinking_water=no` : mentionné comme non potable.
+- `parc-chantecler` : sous-bois de 6 000 m² (charmes, chênes) sur 7 000 m² (Métropole). Écart de surface avec OSM (≈ 1 ha) noté dans `notes`.
+- `parc-peixotto` : `eau` et `aire_jeux` confirmés (Ville), bassin public (`to_hydro_s` + OSM), puits (OSM node/1338095729), cyprès chauve et peuplier noir (OSM, espèces), îlot de fraîcheur −4 °C au nord. Les « cygnes » viennent d'un texte de la Métropole de 2012 : à vérifier.
+- `bois-sourreil` : îlot de fraîcheur −5 °C, canopée 39 %.
+- `parc-cauderes` : aire de jeux et jardin partagé confirmés (Ville), catalpa et platanes (OSM, espèces).
+- `parc-robespierre` : tour à hirondelles géolocalisée (OSM node/13705331043).
+- `parc-andre-curvale` : zelkova classé en 2008, 4,45 m de circonférence (Métropole) ; jardin partagé confirmé.
+- `parc-triaire` : aire de jeux confirmée ; Jardin de la Passerelle voisin.
+- `campus-haut-carre` : prairies de fauche et chênaie-charmaie à enjeu fort (`ec_habitat_naturel_s`), bassin de rétention, conifères de l'ouest (PCRS), prairie « Éco-pâturage » (OSM way/1311451354), roselière et points d'eau naturels à l'ouest (accès à confirmer).
+- `bois-de-thouars` : panneau faune (OSM node/9312581676), bassin de rétention (`to_hydro_s` gid 72368), prairie humide à souchet bai et chênaie à chêne tauzin (`ec_habitat_naturel_s`), îlot −5 °C. Tous à la lisière nord-est (≈ 1,5 km), ce qui confirme `distance_lisiere`.
+
+Nouveaux lieux (sources open data seules, rien de vérifié sur place)
+- `square-pineau` (44.8130, -0.5910, ≈ 750 m N) : point d'eau et aire de jeux (Ville, `tal_pointseaulibreacces`, `tal_airesjeux`), 8 conifères PCRS à côté. Adresse déduite de la rue OSM la plus proche.
+- `bois-lafitte` (44.7972, -0.5844, ≈ 1,1 km S) : aire de jeux (Ville) et forêt OSM ; canopée 33 %. Coordonnées de l'aire de jeux ; périmètre du bois non cartographié ici.
+- `parc-fehlmann` (44.8202, -0.5854, ≈ 1,55 km N, à la limite) : point d'eau, aire de jeux, jardin partagé (Ville ; le jeu écrit « Felhman »).
+- Aires de jeux sans nouveau lieu (points `aire_jeux` seulement) : parc du colonel Mol (voisin de Caudérès), square Duguesclin, Clos Michelet, squares René Maran, de la Scierie, Jean Bouin, avenue Racine.

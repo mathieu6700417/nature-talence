@@ -58,11 +58,11 @@
     "lieux": [
       "parc-cauderes"
     ],
-    "ou": "Au parc Cauderès, côté rue de Suzon : les cinq gros platanes au tronc tacheté crème et vert olive.",
+    "ou": "Au parc Cauderès, au nord du parc, vers la rue du Colonel Moll : la rangée de gros platanes au tronc tacheté crème et vert olive.",
     "point": {
       "lat": 44.81338,
       "lon": -0.57843,
-      "repere": "Parc Cauderès, côté rue de Suzon : les cinq plus gros troncs du parc, tachetés crème, vert olive et gris (platanes plantés entre 1914 et 1964)."
+      "repere": "Parc Cauderès, au nord du parc, vers la rue du Colonel Moll : la rangée de gros platanes (neuf recensés par la Ville), tachetés crème, vert olive et gris (platanes plantés entre 1914 et 1964)."
     },
     "mois": [
       1,
@@ -82,7 +82,7 @@
     "exclut": [],
     "moment": null,
     "poids": 2,
-    "verifier": false,
+    "verifier": true,
     "attention": null,
     "reperes": "Une feuille fine de papier (pas de feutre), un crayon gras ou une craie, un morceau de ruban adhésif de papier.",
     "enfant": {
@@ -231,11 +231,12 @@
     "lieux": [
       "parc-cauderes"
     ],
-    "ou": "Au parc Cauderès, rue de Suzon : la pelouse sous les cinq gros platanes se couvre de grandes feuilles.",
+    "ou": "Au parc Cauderès, au nord du parc, vers la rue du Colonel Moll : la pelouse sous la rangée de gros platanes se couvre de grandes feuilles.",
     "point": {
       "lat": 44.81345,
       "lon": -0.57835,
-      "repere": "Parc Cauderès, côté rue de Suzon : la pelouse au pied des cinq gros platanes au tronc tacheté, à côté de l'aire de jeux."
+      "repere": "Parc Cauderès, au nord du parc, vers la rue du Colonel Moll : la pelouse au pied de la rangée de gros platanes au tronc tacheté, à côté de l'aire de jeux.",
+      "pi": "pi-platanes-cauderes"
     },
     "mois": [
       10,
@@ -246,7 +247,7 @@
     "exclut": [],
     "moment": null,
     "poids": 2,
-    "verifier": false,
+    "verifier": true,
     "attention": "Regarde où tu sautes (crottes, bouts de verre cachés sous les feuilles). On ne fouille pas les gros tas au pied des haies : un hérisson peut y dormir.",
     "reperes": "Tapis de feuilles mortes sous les grands feuillus, au bord de la pelouse.",
     "enfant": {
@@ -616,7 +617,8 @@
         "url": "https://panoramax.openstreetmap.fr/derivates/2f/1d/74/59/733d-4655-aa6f-7a19683a6029/sd.jpg",
         "credit": "trouyer (Panoramax) — CC BY-SA 4.0",
         "source": "https://api.panoramax.xyz/#focus=pic&pic=2f1d7459-733d-4655-aa6f-7a19683a6029"
-      }
+      },
+      "pi": "pi-bassin-margaut"
     },
     "mois": [
       3,
@@ -1929,5 +1931,107 @@
       "credit": "Evelyn Simak — CC BY-SA 2.0",
       "source": "https://commons.wikimedia.org/wiki/File:Conkers_-_geograph.org.uk_-_1532739.jpg"
     }
+  },
+  {
+    "id": "sens-eau-froide-fontaine",
+    "categorie": "sensoriel",
+    "titre": "L'eau fraîche du point d'eau",
+    "lieux": [
+      "parc-peixotto",
+      "square-pineau"
+    ],
+    "ou": "Au point d'eau potable du parc Peixotto, côté allée Peixotto, près de l'aire de jeux. Autre point d'eau en libre accès : square Pineau, à côté des jeux.",
+    "point": {
+      "lat": 44.808,
+      "lon": -0.59021,
+      "pi": "pi-eau-peixotto",
+      "repere": "Parc Peixotto, en entrant par l'allée Peixotto : le point d'eau est à quelques dizaines de mètres de l'allée, du côté de l'aire de jeux au bac à sable."
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [
+      "chaud"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Un point d'eau potable en libre accès, signalé par la Ville (deux annoncés dans le parc). Laisse couler quelques secondes avant de mettre les mains dessous.",
+    "enfant": {
+      "2-3": {
+        "mot": "froid !",
+        "geste": "Mettre une main sous l'eau, puis la poser sur la joue ou la nuque : « oh, c'est froid ! ».",
+        "phrase": "Une goutte, deux gouttes, ça fait du bien !"
+      },
+      "3-5": {
+        "mot": "chaud, tiède, froid",
+        "geste": "Poser le dos de la main sur le tuyau chauffé par le soleil (doucement : il peut être brûlant), puis sous l'eau qui coule : laquelle est chaude, laquelle est froide ? Attendre que l'eau tiède du début devienne fraîche.",
+        "phrase": "Le tuyau est chaud, l'eau est froide !"
+      }
+    },
+    "adulte": {
+      "nom": "Eau potable d'un point d'eau public",
+      "latin": null,
+      "anecdote": "L'eau du robinet de la métropole bordelaise vient presque entièrement de nappes souterraines, pompées en profondeur, et pas de la Garonne. C'est pour cela qu'elle sort fraîche, une fois vidée l'eau restée au soleil dans le tuyau.",
+      "pourquoi_maintenant": "Les jours de forte chaleur, un passage au point d'eau rafraîchit, et les premières secondes d'eau tiède montrent bien la différence.",
+      "confusion": "Tous les robinets d'un parc ne sont pas potables : pour boire, on choisit les points d'eau signalés de la Ville (Peixotto, square Pineau, place de la Victoire 14-18)."
+    },
+    "photo": null
+  },
+  {
+    "id": "sens-ombre-fraiche-sourreil",
+    "categorie": "sensoriel",
+    "titre": "Le coin le plus frais du quartier",
+    "lieux": [
+      "bois-sourreil"
+    ],
+    "ou": "Sous les grands arbres du bois Sourreil, entrée impasse Suzon, côté allée des Foreurs.",
+    "point": {
+      "lat": 44.80977,
+      "lon": -0.57926,
+      "pi": "pi-ilot-fraicheur-sourreil",
+      "repere": "Impasse Suzon, à l'entrée du bois Sourreil côté allée des Foreurs : entrer sous les premiers grands arbres, à quelques pas de la rue encore au soleil."
+    },
+    "mois": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "requiert": [
+      "chaud"
+    ],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": false,
+    "reperes": "Une zone repérée comme îlot de fraîcheur par la thermographie de la Métropole : passe du trottoir ensoleillé à l'ombre du bois et sens la différence.",
+    "enfant": {
+      "2-3": {
+        "mot": "chaud / frais",
+        "geste": "Tendre la main au soleil, puis faire un pas sous les arbres et tendre la main à l'ombre : « chaud… frais ! ».",
+        "phrase": "Au soleil ça chauffe, sous l'arbre ça souffle !"
+      },
+      "3-5": {
+        "mot": "où c'est frais ?",
+        "geste": "Fermer les yeux, faire trois pas du soleil vers l'ombre en tenant ta main, et dire au moment où ça devient frais. Puis toucher un tronc : il est froid ou chaud ?",
+        "phrase": "Un pas, deux pas, trois pas… frais !"
+      }
+    },
+    "adulte": {
+      "nom": "Îlot de fraîcheur du bois Sourreil",
+      "latin": null,
+      "anecdote": "Lors de la thermographie aérienne du 17 juin 2022, les mailles autour du bois Sourreil étaient jusqu'à 5 °C plus fraîches que la moyenne : le record du rayon autour du Forum. L'ombre n'explique pas tout : un grand arbre fait évaporer par ses feuilles jusqu'à plusieurs centaines de litres d'eau par jour en été, et cette évaporation refroidit l'air.",
+      "pourquoi_maintenant": "Les jours où le thermomètre dépasse 25 °C, c'est le meilleur refuge à pied du quartier, surtout en début d'après-midi.",
+      "confusion": "Une ombre de mur ou de parasol protège du soleil mais ne rafraîchit pas l'air autour : seule la végétation « transpire »."
+    },
+    "photo": null
   }
 ]

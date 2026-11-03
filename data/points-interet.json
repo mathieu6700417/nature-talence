@@ -1,0 +1,2130 @@
+[
+  {
+    "id": "pi-jeux-parc-peixotto",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du parc Peixotto",
+    "lat": 44.8078,
+    "lon": -0.59036,
+    "distance_m": 236,
+    "lieu": "parc-peixotto",
+    "repere": "Aire de jeux du parc Peixotto, près de l'allée Peixotto.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux du parc Peixotto",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-square-pineau",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du square Pineau",
+    "lat": 44.81312,
+    "lon": -0.59099,
+    "distance_m": 773,
+    "lieu": "square-pineau",
+    "repere": "Aire de jeux du square Pineau, près de la rue Camille Pelletan.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux square Pineau",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-parc-bel-air",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du parc Bel Air",
+    "lat": 44.80324,
+    "lon": -0.57932,
+    "distance_m": 775,
+    "lieu": "parc-bel-air",
+    "repere": "Aire de jeux du parc Bel Air, près de la rue Bontemps.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux du parc Bel Air",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-clos-michelet",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du Clos Michelet",
+    "lat": 44.79884,
+    "lon": -0.58051,
+    "distance_m": 1037,
+    "lieu": null,
+    "repere": "Aire de jeux du Clos Michelet, près de l'impasse des Acacias.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux du Clos Michelet",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-bois-lafitte",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du bois Lafitte",
+    "lat": 44.79717,
+    "lon": -0.58441,
+    "distance_m": 1075,
+    "lieu": "bois-lafitte",
+    "repere": "Aire de jeux du bois Lafitte, près du chemin de Bénédigues.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux du bois Lafitte",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-square-jean-bouin",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du square Jean Bouin",
+    "lat": 44.79699,
+    "lon": -0.59088,
+    "distance_m": 1082,
+    "lieu": null,
+    "repere": "Aire de jeux du square Jean Bouin, près de la rue Charles Gounod.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux du square Jean Bouin",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-chateau-des-arts",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du château des Arts",
+    "lat": 44.81378,
+    "lon": -0.59715,
+    "distance_m": 1085,
+    "lieu": "parc-du-chateau-des-arts",
+    "repere": "Aire de jeux du château des Arts, près de la rue Camille Pelletan.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux château des Arts",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-parc-cauderes",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du parc Caudérès",
+    "lat": 44.81346,
+    "lon": -0.57794,
+    "distance_m": 1108,
+    "lieu": "parc-cauderes",
+    "repere": "Aire de jeux du parc Caudérès, près de la rue du Colonel Moll.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux Caudérès",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-parc-du-colonel-mol",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du parc du colonel Mol",
+    "lat": 44.81376,
+    "lon": -0.57804,
+    "distance_m": 1127,
+    "lieu": "parc-cauderes",
+    "repere": "Aire de jeux du parc du colonel Mol, près de la rue du Colonel Moll.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux du Parc du colonel Mol",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-square-duguesclin",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du square Duguesclin",
+    "lat": 44.81648,
+    "lon": -0.59212,
+    "distance_m": 1156,
+    "lieu": null,
+    "repere": "Aire de jeux du square Duguesclin, près de la rue du Guesclin.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux du Square Duguesclin",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-parc-triaire",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du parc Triaire",
+    "lat": 44.81822,
+    "lon": -0.59182,
+    "distance_m": 1338,
+    "lieu": "parc-triaire",
+    "repere": "Aire de jeux du parc Triaire, près de la rue Armand Leroi.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux parc Triaire",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-square-rene-maran",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du square René Maran",
+    "lat": 44.81809,
+    "lon": -0.57994,
+    "distance_m": 1437,
+    "lieu": null,
+    "repere": "Aire de jeux du square René Maran, près de la rue de la République.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux square René Maran",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-square-de-la-scierie",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du square de la Scierie",
+    "lat": 44.81846,
+    "lon": -0.59674,
+    "distance_m": 1498,
+    "lieu": null,
+    "repere": "Aire de jeux du square de la Scierie, près de la rue Redeuilh.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux square de la Scierie",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-avenue-racine",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux de l'avenue Racine",
+    "lat": 44.79281,
+    "lon": -0.58514,
+    "distance_m": 1539,
+    "lieu": null,
+    "repere": "Aire de jeux de l'avenue Racine, près de la rue Jean Racine.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux de l'avenue Racine",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-jeux-parc-fehlmann",
+    "type": "aire_jeux",
+    "nom": "Aire de jeux du parc Fehlmann",
+    "lat": 44.82028,
+    "lon": -0.58539,
+    "distance_m": 1546,
+    "lieu": "parc-fehlmann",
+    "repere": "Aire de jeux du parc Fehlmann, près de la rue Jean Iriquin.",
+    "source": {
+      "jeu": "tal_airesjeux",
+      "ref": "Aire de jeux parc Felhmann",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_airesjeux/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence (tal_airesjeux)."
+  },
+  {
+    "id": "pi-palmiers-cours-liberation",
+    "type": "arbre_autre",
+    "nom": "Arbres « autres » du cours de la Libération (palmiers probables)",
+    "lat": 44.80291,
+    "lon": -0.5933,
+    "distance_m": 578,
+    "lieu": null,
+    "repere": "Cours de la Libération, côté sud, près de l'avenue du Lycée : 4 arbres classés « autres » par le PCRS, probablement des palmiers.",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 4 objets ARB/AUTRE",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Espèce à confirmer."
+  },
+  {
+    "id": "pi-arbres-autres-rue-sauboua",
+    "type": "arbre_autre",
+    "nom": "Arbres « autres » de la rue Paulette Sauboua",
+    "lat": 44.80453,
+    "lon": -0.5793,
+    "distance_m": 720,
+    "lieu": null,
+    "repere": "Rue Paulette Sauboua, près de Bel Air : 3 arbres classés « autres » par le PCRS.",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 3 objets ARB/AUTRE",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Espèce à confirmer."
+  },
+  {
+    "id": "pi-magnolia-parc-margaut",
+    "type": "arbre_espece",
+    "nom": "Magnolia du parc Margaut",
+    "lat": 44.8071,
+    "lon": -0.5903,
+    "distance_m": 193,
+    "lieu": "parc-margaut",
+    "repere": "Parc Margaut, à côté du château (école de musique) : « magnifique magnolia » selon la Métropole.",
+    "source": {
+      "jeu": "ec_parc_s",
+      "ref": "Parc Margaut",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_parc_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "notes": "Position approximative (centroïde du parc) ; espèce à confirmer (sans doute Magnolia grandiflora)."
+  },
+  {
+    "id": "pi-cypres-chauve-peixotto",
+    "type": "arbre_espece",
+    "nom": "Cyprès chauve du parc Peixotto",
+    "lat": 44.80955,
+    "lon": -0.58997,
+    "distance_m": 373,
+    "lieu": "parc-peixotto",
+    "repere": "Dans le parc Peixotto, au bord du grand bassin nord (côté avenue Espeleta) : cyprès chauve (Taxodium distichum), aiguilles rousses à l'automne.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/8643917254",
+      "url": "https://www.openstreetmap.org/node/8643917254",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      10,
+      11
+    ],
+    "notes": "Espèce renseignée dans OSM seulement."
+  },
+  {
+    "id": "pi-peuplier-noir-peixotto",
+    "type": "arbre_espece",
+    "nom": "Peuplier noir du parc Peixotto",
+    "lat": 44.80972,
+    "lon": -0.58951,
+    "distance_m": 377,
+    "lieu": "parc-peixotto",
+    "repere": "Dans le parc Peixotto, près du bassin nord, à quelques mètres du cyprès chauve : peuplier noir (Populus nigra).",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/8643917256",
+      "url": "https://www.openstreetmap.org/node/8643917256",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "notes": "Espèce renseignée dans OSM seulement."
+  },
+  {
+    "id": "pi-tilleuls-argentes-cauderes",
+    "type": "arbre_espece",
+    "nom": "Tilleuls argentés de Caudérès",
+    "lat": 44.8125,
+    "lon": -0.57887,
+    "distance_m": 982,
+    "lieu": "parc-cauderes",
+    "repere": "Au bord de la rue de Suzon, côté parc Caudérès : groupe de 5 tilleuls argentés (Tilia tomentosa).",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/2242131615",
+      "url": "https://www.openstreetmap.org/node/2242131615",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      6,
+      7
+    ],
+    "autres_sources": [
+      "OpenStreetMap node/2242131667",
+      "OpenStreetMap node/2242131733"
+    ],
+    "notes": "5 nœuds OSM (2242131615 à 2242132097)."
+  },
+  {
+    "id": "pi-catalpa-cauderes",
+    "type": "arbre_espece",
+    "nom": "Catalpa de Caudérès",
+    "lat": 44.81209,
+    "lon": -0.57817,
+    "distance_m": 994,
+    "lieu": null,
+    "repere": "Rue de Suzon, côté sud, près du stade : catalpa (Catalpa bignonioides), fleurs en juin-juillet, longues gousses l'hiver.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/2242131591",
+      "url": "https://www.openstreetmap.org/node/2242131591",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      6,
+      7,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "notes": "Espèce dans OSM seulement."
+  },
+  {
+    "id": "pi-platanes-cauderes",
+    "type": "arbre_espece",
+    "nom": "Alignement de platanes de Caudérès",
+    "lat": 44.8134,
+    "lon": -0.57835,
+    "distance_m": 1081,
+    "lieu": "parc-cauderes",
+    "repere": "Parc Caudérès, le long de la rue du Colonel Moll : alignement de 9 platanes (Platanus × hispanica).",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/2242132650",
+      "url": "https://www.openstreetmap.org/node/2242132650",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "9 nœuds OSM (2242132650 à 2242132706)."
+  },
+  {
+    "id": "pi-orme-du-caucase-curvale",
+    "type": "arbre_espece",
+    "nom": "Orme du Caucase du parc Curvale",
+    "lat": 44.81794,
+    "lon": -0.58934,
+    "distance_m": 1276,
+    "lieu": "parc-andre-curvale",
+    "repere": "Parc André Curvale, près de la rue René Balloux : Orme du Caucase (zelkova) classé arbre remarquable.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/8121405106",
+      "url": "https://www.openstreetmap.org/node/8121405106",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": [
+      4,
+      5,
+      10,
+      11
+    ],
+    "autres_sources": [
+      "Ville de Talence, fiche Parc-curvale.pdf",
+      "ec_parc_s"
+    ],
+    "notes": "Classé en 2008, 4,45 m de circonférence (Métropole) ; OSM natural_monument ; fiche Ville Parc-curvale.pdf."
+  },
+  {
+    "id": "pi-platanes-rue-arago",
+    "type": "arbre_espece",
+    "nom": "Platanes de la rue Arago",
+    "lat": 44.8042,
+    "lon": -0.5698,
+    "distance_m": 1458,
+    "lieu": null,
+    "repere": "Rue Arago, près de la place Aristide Briand et de la rue Ampère : rangée d'une vingtaine de platanes.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/9730859067",
+      "url": "https://www.openstreetmap.org/node/9730859067",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Genre seulement (Platanus), 20 nœuds OSM ; à 1,45 km du Forum."
+  },
+  {
+    "id": "pi-tilleuls-roosevelt-flavescens",
+    "type": "arbre_espece",
+    "nom": "Tilleuls du boulevard Franklin Roosevelt (nord)",
+    "lat": 44.8159,
+    "lon": -0.5744,
+    "distance_m": 1498,
+    "lieu": null,
+    "repere": "Boulevard du Président Franklin Roosevelt, côté nord-ouest : alignement d'une vingtaine de tilleuls (Tilia × flavescens et T. tomentosa).",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/2242134964",
+      "url": "https://www.openstreetmap.org/node/2242134964",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      6,
+      7
+    ],
+    "notes": "À 1,5 km ; plusieurs dizaines de nœuds OSM."
+  },
+  {
+    "id": "pi-arbres-varies-route-de-toulouse",
+    "type": "arbre_espece",
+    "nom": "Arbres variés de la route de Toulouse",
+    "lat": 44.8143,
+    "lon": -0.57245,
+    "distance_m": 1502,
+    "lieu": null,
+    "repere": "Route de Toulouse, à l'angle du boulevard Albert 1er et du boulevard Franklin Roosevelt : magnolias à grandes fleurs, palmiers de Chine, ifs, lauriers-sauce, arbre de Judée, micocoulier, platanes.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/2242133997",
+      "url": "https://www.openstreetmap.org/node/2242133997",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      6,
+      7,
+      8
+    ],
+    "notes": "Une quarantaine de nœuds OSM avec espèce ; à 1,5 km."
+  },
+  {
+    "id": "pi-tilleuls-argentes-roosevelt",
+    "type": "arbre_espece",
+    "nom": "Tilleuls argentés du boulevard Franklin Roosevelt",
+    "lat": 44.819,
+    "lon": -0.5793,
+    "distance_m": 1550,
+    "lieu": null,
+    "repere": "Boulevard du Président Franklin Roosevelt, vers le passage Cairon : alignement de tilleuls argentés (Tilia tomentosa).",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/2242137084",
+      "url": "https://www.openstreetmap.org/node/2242137084",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      6,
+      7
+    ],
+    "notes": "À 1,55 km ; alignement d'une quinzaine d'arbres."
+  },
+  {
+    "id": "pi-catalpas-rue-brun",
+    "type": "arbre_espece",
+    "nom": "Catalpas de la rue Brun",
+    "lat": 44.81712,
+    "lon": -0.57482,
+    "distance_m": 1573,
+    "lieu": null,
+    "repere": "Rue Brun, près de la rue André Hible : groupe de 6 catalpas (Catalpa bignonioides).",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/2242135554",
+      "url": "https://www.openstreetmap.org/node/2242135554",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      6,
+      7,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "notes": "À 1,5 km ; 6 nœuds OSM."
+  },
+  {
+    "id": "pi-bassin-margaut",
+    "type": "bassin",
+    "nom": "Bassin du parc Margaut",
+    "lat": 44.80691,
+    "lon": -0.59051,
+    "distance_m": 203,
+    "lieu": "parc-margaut",
+    "repere": "Parc Margaut, devant le château, côté avenue du Maréchal Leclerc : bassin à trois paliers.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "way/1486528083",
+      "url": "https://www.openstreetmap.org/way/1486528083",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": null,
+    "autres_sources": [
+      "Ville de Talence, Grand Peixotto-Margaut"
+    ],
+    "notes": "OSM concordant avec la description de la Ville (bassin livré en 2026)."
+  },
+  {
+    "id": "pi-bassin-peixotto",
+    "type": "bassin",
+    "nom": "Bassin public du parc Peixotto",
+    "lat": 44.80964,
+    "lon": -0.58976,
+    "distance_m": 376,
+    "lieu": "parc-peixotto",
+    "repere": "Dans le parc Peixotto, le long bassin derrière le château, côté place Espeleta : plan d'eau avec berges.",
+    "source": {
+      "jeu": "to_hydro_s",
+      "ref": "gid 73747",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/to_hydro_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap relation/4083885"
+    ],
+    "notes": "Deux sources concordantes (Métropole, OSM relation/4083885). Des cygnes sont cités dans le texte de la Métropole (2012) : à vérifier, sinon abandonner."
+  },
+  {
+    "id": "pi-bassin-campus-retention",
+    "type": "bassin",
+    "nom": "Bassin de rétention du campus",
+    "lat": 44.80921,
+    "lon": -0.59542,
+    "distance_m": 658,
+    "lieu": null,
+    "repere": "Au bord de la rue Pierre Noailles, côté campus : bassin de rétention (eau par intermittence).",
+    "source": {
+      "jeu": "to_hydro_s",
+      "ref": "gid 78971",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/to_hydro_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": true,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap way/447406517"
+    ],
+    "notes": "Métropole (intermittent) + OSM way/447406517. Accès et visibilité depuis la rue à vérifier."
+  },
+  {
+    "id": "pi-bassin-thouars",
+    "type": "bassin",
+    "nom": "Bassin de rétention de Thouars",
+    "lat": 44.79373,
+    "lon": -0.59413,
+    "distance_m": 1500,
+    "lieu": "bois-de-thouars",
+    "repere": "Au nord-est du bois de Thouars, côté avenue de la Marne : grand bassin de rétention en eau toute l'année, avec prairie humide voisine.",
+    "source": {
+      "jeu": "to_hydro_s",
+      "ref": "gid 72368",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/to_hydro_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": true,
+    "saison": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "autres_sources": [
+      "OpenStreetMap way/25911499"
+    ],
+    "notes": "Métropole « B.R. eau Thouars » + OSM way/25911499. Accès au bord et garde-corps à vérifier."
+  },
+  {
+    "id": "pi-chenaie-charmaie-campus",
+    "type": "chenaie",
+    "nom": "Chênaie-charmaie du campus",
+    "lat": 44.80901,
+    "lon": -0.59866,
+    "distance_m": 886,
+    "lieu": "campus-haut-carre",
+    "repere": "Campus du Haut-Carré, côté rue Pierre Noailles et entrée Noailles : bois de chênes et de charmes (enjeu fort).",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 8815",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      4,
+      5,
+      11,
+      12,
+      1,
+      2
+    ],
+    "notes": "Les charmes gardent leurs feuilles mortes l'hiver (marcescence). Accès à confirmer."
+  },
+  {
+    "id": "pi-chenaie-tauzin-thouars",
+    "type": "chenaie",
+    "nom": "Chênaie à chêne tauzin (Thouars)",
+    "lat": 44.79296,
+    "lon": -0.59402,
+    "distance_m": 1579,
+    "lieu": "bois-de-thouars",
+    "repere": "Lisière nord-est du bois de Thouars, à l'écart de l'avenue de la Marne : chênaie à chêne tauzin sur pente (enjeu fort).",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 2816",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "≈ 1,6 km du Forum."
+  },
+  {
+    "id": "pi-coniferes-rue-peydavant",
+    "type": "conifere",
+    "nom": "Conifères de la rue Peydavant",
+    "lat": 44.80551,
+    "lon": -0.58667,
+    "distance_m": 152,
+    "lieu": null,
+    "repere": "Rue Peydavant, près de la résidence Crespy : 3 conifères proches de la chaussée.",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 3 objets ARB/CONI",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "notes": "À 150 m du Forum ; essence à confirmer."
+  },
+  {
+    "id": "pi-coniferes-rue-arnozan-sud",
+    "type": "conifere",
+    "nom": "Conifères de la rue du Professeur Arnozan (sud)",
+    "lat": 44.80882,
+    "lon": -0.58801,
+    "distance_m": 258,
+    "lieu": null,
+    "repere": "Rue du Professeur Arnozan, vers la rue Ambroise Paré : groupe de 3 conifères.",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 3 objets ARB/CONI",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "notes": "Essence à confirmer sur place."
+  },
+  {
+    "id": "pi-coniferes-rue-arnozan-nord",
+    "type": "conifere",
+    "nom": "Conifères de la rue du Professeur Arnozan (nord)",
+    "lat": 44.80957,
+    "lon": -0.58822,
+    "distance_m": 342,
+    "lieu": null,
+    "repere": "Au nord de la rue du Professeur Arnozan, vers la place du 8 Mai 1945 : groupe de 3 conifères.",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 3 objets ARB/CONI",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "notes": "Essence à confirmer sur place."
+  },
+  {
+    "id": "pi-coniferes-cours-liberation-nord",
+    "type": "conifere",
+    "nom": "Conifères du cours de la Libération (nord)",
+    "lat": 44.80935,
+    "lon": -0.59155,
+    "distance_m": 423,
+    "lieu": null,
+    "repere": "Cours de la Libération, côté nord, près de l'impasse des Briques : 2 conifères proches de la chaussée.",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 2 objets ARB/CONI",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "notes": "Essence à confirmer sur place."
+  },
+  {
+    "id": "pi-coniferes-square-pineau",
+    "type": "conifere",
+    "nom": "Conifères du square Pineau",
+    "lat": 44.81207,
+    "lon": -0.59205,
+    "distance_m": 697,
+    "lieu": "square-pineau",
+    "repere": "Entre le square Pineau et l'allée du 7e Art : groupe de 8 conifères.",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 8 objets ARB/CONI",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "notes": "Le plus gros groupe proche du centre ; essence à confirmer."
+  },
+  {
+    "id": "pi-coniferes-cours-liberation-sud",
+    "type": "conifere",
+    "nom": "Conifères du cours de la Libération (sud)",
+    "lat": 44.79955,
+    "lon": -0.59762,
+    "distance_m": 1083,
+    "lieu": null,
+    "repere": "Cours de la Libération, côté sud, vers l'avenue Marly : 4 conifères.",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 4 objets ARB/CONI",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "notes": "À 1,1 km du Forum ; essence à confirmer."
+  },
+  {
+    "id": "pi-coniferes-campus-ouest",
+    "type": "conifere",
+    "nom": "Conifères du campus ouest",
+    "lat": 44.80488,
+    "lon": -0.60257,
+    "distance_m": 1163,
+    "lieu": null,
+    "repere": "À l'ouest du campus, le long de la rue François Mitterrand : groupes de conifères (19 comptés dans le jeu PCRS).",
+    "source": {
+      "jeu": "cr_objet_nature_p",
+      "ref": "groupe de 19 objets ARB/CONI",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/cr_objet_nature_p/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "notes": "Essence à confirmer ; hors du Haut-Carré proprement dit."
+  },
+  {
+    "id": "pi-cueillette-couvent",
+    "type": "cueillette",
+    "nom": "Espace de libre cueillette (parc du Couvent)",
+    "lat": 44.81044,
+    "lon": -0.58392,
+    "distance_m": 544,
+    "lieu": "parc-du-couvent",
+    "repere": "Au parc du Couvent (Saint-Pierre), côté rue de Suzon : espace où des petits arbustes à fruits sont plantés pour la libre cueillette.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "Espace en libre cueillette prévu à la plantation de petits arbustes à fruits dans le cadre du budget participatif",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      6,
+      7,
+      8
+    ],
+    "notes": "Texte « prévu » : planté ? quels arbustes ? À vérifier sur place."
+  },
+  {
+    "id": "pi-eau-allee-peixotto-robinet",
+    "type": "eau_potable",
+    "nom": "Robinet entre Margaut et Peixotto",
+    "lat": 44.80751,
+    "lon": -0.59051,
+    "distance_m": 228,
+    "lieu": "parc-margaut",
+    "repere": "Au bord de l'allée Peixotto, entre le parc Margaut et le parc Peixotto, côté parc Margaut : robinet public.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/5046260569",
+      "url": "https://www.openstreetmap.org/node/5046260569",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Robinet (water_tap) seulement dans OSM ; potabilité non indiquée."
+  },
+  {
+    "id": "pi-eau-peixotto",
+    "type": "eau_potable",
+    "nom": "Point d'eau du parc Peixotto",
+    "lat": 44.808,
+    "lon": -0.59021,
+    "distance_m": 241,
+    "lieu": "parc-peixotto",
+    "repere": "Dans le parc Peixotto, côté allée Peixotto, à quelques dizaines de mètres de l'allée : point d'eau potable en libre accès.",
+    "source": {
+      "jeu": "tal_pointseaulibreacces",
+      "ref": "Parc Peixotto",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_pointseaulibreacces/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": null,
+    "autres_sources": [
+      "Ville de Talence, page Parcs et espaces verts"
+    ],
+    "notes": "La page Parcs de la Ville annonce 2 points d'eau potable dans le parc."
+  },
+  {
+    "id": "pi-eau-place-14-18",
+    "type": "eau_potable",
+    "nom": "Point d'eau de la place de la Victoire 14-18",
+    "lat": 44.80762,
+    "lon": -0.58488,
+    "distance_m": 276,
+    "lieu": null,
+    "repere": "Place de la Victoire 14-18, près du croisement de la rue Parmentier et de la rue Blaise Pascal : point d'eau en libre accès sur la placette.",
+    "source": {
+      "jeu": "tal_pointseaulibreacces",
+      "ref": "Place 14-18",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_pointseaulibreacces/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence ; aucun autre élément nature sourcé sur la place."
+  },
+  {
+    "id": "pi-eau-eglise-notre-dame",
+    "type": "eau_potable",
+    "nom": "Point d'eau de l'église Notre-Dame",
+    "lat": 44.8127,
+    "lon": -0.59144,
+    "distance_m": 741,
+    "lieu": "square-pineau",
+    "repere": "Place de l'Église, au pied de l'église Notre-Dame, côté cours Gambetta : point d'eau en libre accès.",
+    "source": {
+      "jeu": "tal_pointseaulibreacces",
+      "ref": "Eglise Notre Dame",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_pointseaulibreacces/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null
+  },
+  {
+    "id": "pi-eau-square-pineau",
+    "type": "eau_potable",
+    "nom": "Point d'eau du square Pineau",
+    "lat": 44.81305,
+    "lon": -0.59099,
+    "distance_m": 766,
+    "lieu": "square-pineau",
+    "repere": "Dans le square Pineau, près de l'aire de jeux, côté rue Camille Pelletan : point d'eau en libre accès.",
+    "source": {
+      "jeu": "tal_pointseaulibreacces",
+      "ref": "Parc Pineau",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_pointseaulibreacces/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap node/3465407196"
+    ],
+    "notes": "Un robinet OSM voisin (node/3465407196, 30 m) est fusionné ici."
+  },
+  {
+    "id": "pi-eau-cimetiere",
+    "type": "eau_potable",
+    "nom": "Point d'eau du cimetière de Talence",
+    "lat": 44.81209,
+    "lon": -0.58202,
+    "distance_m": 780,
+    "lieu": "cimetiere-de-talence",
+    "repere": "Dans le cimetière de Talence, côté rue Bourges, le long d'une allée : point d'eau pour arroser les fleurs ; se fier au panneau avant de boire.",
+    "source": {
+      "jeu": "tal_pointseaulibreacces",
+      "ref": "Cimetière de Talence",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_pointseaulibreacces/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": true,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap node/5071479311"
+    ],
+    "notes": "Deux sources concordantes (Ville + OSM node/5071479311). Emplacement exact dans le cimetière à préciser."
+  },
+  {
+    "id": "pi-eau-bel-air",
+    "type": "eau_potable",
+    "nom": "Point d'eau des jardins de Bel Air",
+    "lat": 44.80185,
+    "lon": -0.57969,
+    "distance_m": 835,
+    "lieu": null,
+    "repere": "Aux jardins partagés de Bel Air, près de l'impasse Bel Air : point d'eau en libre accès.",
+    "source": {
+      "jeu": "tal_pointseaulibreacces",
+      "ref": "Jardins de Bel Air",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_pointseaulibreacces/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Ce point corrige le champ eau du lieu parc-bel-air (false auparavant)."
+  },
+  {
+    "id": "pi-eau-cauderes",
+    "type": "eau_potable",
+    "nom": "Robinet du parc Caudérès",
+    "lat": 44.81346,
+    "lon": -0.57832,
+    "distance_m": 1087,
+    "lieu": "parc-cauderes",
+    "repere": "Dans le parc Caudérès, près de l'aire de jeux, côté rue du Colonel Moll : robinet public.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/8146801921",
+      "url": "https://www.openstreetmap.org/node/8146801921",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap node/13004229942"
+    ],
+    "notes": "Deux nœuds OSM voisins (8146801921, 13004229942, access=yes). Potabilité non indiquée."
+  },
+  {
+    "id": "pi-eau-chateau-des-arts",
+    "type": "eau_potable",
+    "nom": "Robinet du parc du château des Arts",
+    "lat": 44.81412,
+    "lon": -0.59711,
+    "distance_m": 1111,
+    "lieu": "parc-du-chateau-des-arts",
+    "repere": "Dans le parc du château des Arts, près de l'aire de jeux et de la fontaine : robinet public.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/10087552766",
+      "url": "https://www.openstreetmap.org/node/10087552766",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Seulement dans OSM."
+  },
+  {
+    "id": "pi-eau-fehlmann",
+    "type": "eau_potable",
+    "nom": "Point d'eau du square Fehlmann",
+    "lat": 44.82018,
+    "lon": -0.58566,
+    "distance_m": 1532,
+    "lieu": "parc-fehlmann",
+    "repere": "Dans le square Fehlmann, près de l'aire de jeux, côté rue Jean Iriquin : point d'eau en libre accès.",
+    "source": {
+      "jeu": "tal_pointseaulibreacces",
+      "ref": "Square Felhman",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_pointseaulibreacces/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Le jeu de la Ville écrit « Felhman » ; le lieu s'appelle parc Fehlmann. Limite du rayon (≈ 1,5 km)."
+  },
+  {
+    "id": "pi-eau-place-albert-thomas",
+    "type": "eau_potable",
+    "nom": "Point d'eau de la place Albert Thomas",
+    "lat": 44.8205,
+    "lon": -0.5922,
+    "distance_m": 1592,
+    "lieu": null,
+    "repere": "Place Albert Thomas, près de la rue Émile Zola : point d'eau en libre accès.",
+    "source": {
+      "jeu": "tal_pointseaulibreacces",
+      "ref": "Place Albert Thomas",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_pointseaulibreacces/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "À la limite du rayon (≈ 1,6 km)."
+  },
+  {
+    "id": "pi-etang-bonnefont",
+    "type": "etang",
+    "nom": "Étang Bonnefont",
+    "lat": 44.80878,
+    "lon": -0.59364,
+    "distance_m": 512,
+    "lieu": null,
+    "repere": "À l'ouest du parc Peixotto, au sud de la rue Pierre Noailles : petit étang où passe le ruisseau d'Ars.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "way/34491726",
+      "url": "https://www.openstreetmap.org/way/34491726",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "autres_sources": [
+      "to_hydro_s gid 75370"
+    ],
+    "acces": "Accès non confirmé ; regarder depuis l'espace public seulement.",
+    "notes": "Accès non confirmé (probablement en domaine universitaire). Le jeu to_hydro_s y place un point d'eau naturel permanent (gid 75370)."
+  },
+  {
+    "id": "pi-fontaine-rond-point-cascade",
+    "type": "fontaine",
+    "nom": "Cascade du rond-point",
+    "lat": 44.80724,
+    "lon": -0.58877,
+    "distance_m": 102,
+    "lieu": null,
+    "repere": "Au rond-point de l'avenue du Maréchal Leclerc, de la rue du Professeur Arnozan et de l'allée Peixotto, à environ 100 m au nord-ouest du Forum : cascade sur un rocher, entourée de genévriers rampants.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/1882086007",
+      "url": "https://www.openstreetmap.org/node/1882086007",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "autres_sources": [
+      "Panoramax (inventaire visuel, img341 et img347)"
+    ],
+    "notes": "OSM (fountain) concordant avec deux images Panoramax (2020, 2023). L'écoulement toute l'année reste à confirmer (docs/a-verifier-sur-le-terrain.md)."
+  },
+  {
+    "id": "pi-fontaine-avenue-roul",
+    "type": "fontaine",
+    "nom": "Fontaine de l'avenue Roul",
+    "lat": 44.80667,
+    "lon": -0.59197,
+    "distance_m": 314,
+    "lieu": null,
+    "repere": "Avenue Roul, côté sud-ouest, près du croisement avec le cours de la Libération, vers l'îlot fleuri au pied du panneau directionnel.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/13007480180",
+      "url": "https://www.openstreetmap.org/node/13007480180",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Nature de l'ouvrage inconnue (fontaine OSM) ; à repérer."
+  },
+  {
+    "id": "pi-fontaines-bassin-nord-peixotto",
+    "type": "fontaine",
+    "nom": "Fontaines du bassin nord de Peixotto",
+    "lat": 44.80964,
+    "lon": -0.58975,
+    "distance_m": 375,
+    "lieu": "parc-peixotto",
+    "repere": "Dans le parc Peixotto, le long du grand bassin derrière le château, côté place Espeleta : deux fontaines cartographiées.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/8643917258",
+      "url": "https://www.openstreetmap.org/node/8643917258",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap node/8643917257"
+    ],
+    "notes": "Deux nœuds OSM (8643917258 et 8643917257) à 55 m l'un de l'autre."
+  },
+  {
+    "id": "pi-fontaine-chateau-des-arts",
+    "type": "fontaine",
+    "nom": "Fontaine du parc du château des Arts",
+    "lat": 44.81378,
+    "lon": -0.59716,
+    "distance_m": 1085,
+    "lieu": "parc-du-chateau-des-arts",
+    "repere": "Dans le parc du château des Arts, à côté de l'aire de jeux et du robinet public.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/7008068205",
+      "url": "https://www.openstreetmap.org/node/7008068205",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Seulement dans OSM (la page Parcs de la Ville mentionne aussi une fontaine)."
+  },
+  {
+    "id": "pi-fourre-prunellier-villenave",
+    "type": "fourre_prunellier",
+    "nom": "Fourrés à prunellier (sud-est)",
+    "lat": 44.79457,
+    "lon": -0.57701,
+    "distance_m": 1585,
+    "lieu": null,
+    "repere": "À la limite sud-est du rayon, près de l'avenue de l'Orée du Bois : fourrés de prunelliers (fleurs blanches en mars, prunelles bleues en octobre).",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 23905",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      3,
+      10
+    ],
+    "autres_sources": [
+      "ec_habitat_naturel_s gid 23904"
+    ],
+    "notes": "Deuxième fourré voisin : gid 23904 (44.79445, -0.57835). Limite du rayon, côté Villenave."
+  },
+  {
+    "id": "pi-haie-chenes-sud-campus",
+    "type": "haie_arboree",
+    "nom": "Haie de chênes au sud-ouest",
+    "lat": 44.80062,
+    "lon": -0.59911,
+    "distance_m": 1094,
+    "lieu": null,
+    "repere": "Entre l'avenue de l'Université et le cours de la Libération, côté sud-ouest : haie arborescente de chênes (enjeu moyen).",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 18742",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "notes": "Haie en zone d'équipements ; à repérer."
+  },
+  {
+    "id": "pi-haie-chenes-chateau-des-arts",
+    "type": "haie_arboree",
+    "nom": "Haie de chênes près du château des Arts",
+    "lat": 44.81355,
+    "lon": -0.60135,
+    "distance_m": 1313,
+    "lieu": null,
+    "repere": "Près de la rue Dubernat, côté nord-est : haie arborescente de chênes (enjeu moyen).",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 18770",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      4,
+      5,
+      9,
+      10,
+      11
+    ],
+    "notes": "À 1,3 km du Forum."
+  },
+  {
+    "id": "pi-ilot-fraicheur-peixotto-nord",
+    "type": "ilot_fraicheur",
+    "nom": "Îlot de fraîcheur au nord de Peixotto",
+    "lat": 44.80922,
+    "lon": -0.59007,
+    "distance_m": 344,
+    "lieu": "parc-peixotto",
+    "repere": "Au nord du parc Peixotto, côté avenue Espeleta, sous les arbres du bassin : zone nettement plus fraîche.",
+    "source": {
+      "jeu": "ri_icu_ifu_s",
+      "ref": "mailles delta -4",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ri_icu_ifu_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "notes": "Jusqu'à −4 °C (3 mailles regroupées, 2022)."
+  },
+  {
+    "id": "pi-ilot-fraicheur-sourreil",
+    "type": "ilot_fraicheur",
+    "nom": "Îlot de fraîcheur du bois Sourreil",
+    "lat": 44.80977,
+    "lon": -0.57926,
+    "distance_m": 779,
+    "lieu": "bois-sourreil",
+    "repere": "Sous les grands arbres autour du bois Sourreil, côté allée des Foreurs et impasse Suzon : zone la plus fraîche du rayon.",
+    "source": {
+      "jeu": "ri_icu_ifu_s",
+      "ref": "mailles delta -5",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ri_icu_ifu_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "notes": "Thermographie du 17 juin 2022 : jusqu'à −5 °C par rapport à la moyenne (10 mailles de 232 m regroupées)."
+  },
+  {
+    "id": "pi-ilot-fraicheur-campus",
+    "type": "ilot_fraicheur",
+    "nom": "Îlot de fraîcheur du campus",
+    "lat": 44.80936,
+    "lon": -0.59876,
+    "distance_m": 906,
+    "lieu": "campus-haut-carre",
+    "repere": "Campus, côté rue Pierre Noailles et avenue de la Vieille Tour : zone plus fraîche sous la chênaie.",
+    "source": {
+      "jeu": "ri_icu_ifu_s",
+      "ref": "mailles delta -4",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ri_icu_ifu_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "notes": "Jusqu'à −4 °C (6 mailles regroupées, 2022)."
+  },
+  {
+    "id": "pi-ilot-fraicheur-thouars",
+    "type": "ilot_fraicheur",
+    "nom": "Îlot de fraîcheur de Thouars",
+    "lat": 44.79531,
+    "lon": -0.59666,
+    "distance_m": 1420,
+    "lieu": "bois-de-thouars",
+    "repere": "Lisière nord-est du bois de Thouars, côté avenue de la Marne : zone la plus fraîche du sud.",
+    "source": {
+      "jeu": "ri_icu_ifu_s",
+      "ref": "mailles delta -5",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ri_icu_ifu_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "notes": "Jusqu'à −5 °C (12 mailles, plus 3 mailles à −4 °C vers 44.7934, −0.5932)."
+  },
+  {
+    "id": "pi-jardin-cultures-bel-air",
+    "type": "jardin_partage",
+    "nom": "Jardin des Cultures (Bel Air)",
+    "lat": 44.80324,
+    "lon": -0.57872,
+    "distance_m": 817,
+    "lieu": "parc-bel-air",
+    "repere": "Jardin partagé voisin de Bel Air, près de la rue Georges Pompidou.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "Le Jardin des Cultures",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap way/620979368"
+    ],
+    "notes": "Jeu de la Ville de Talence + OSM way/620979368."
+  },
+  {
+    "id": "pi-jardin-ptite-friche",
+    "type": "jardin_partage",
+    "nom": "La Pt'ite Friche",
+    "lat": 44.80922,
+    "lon": -0.5749,
+    "distance_m": 1077,
+    "lieu": null,
+    "repere": "La Pt'ite Friche, près de la rue Voltaire.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "La Pt'ite Friche",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence."
+  },
+  {
+    "id": "pi-jardin-partage-cauderes",
+    "type": "jardin_partage",
+    "nom": "Jardin partagé de Caudérès",
+    "lat": 44.81348,
+    "lon": -0.57818,
+    "distance_m": 1097,
+    "lieu": "parc-cauderes",
+    "repere": "Dans le parc Caudérès, près de l'aire de jeux, côté rue du Colonel Moll.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "Cauderès",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap way/875238373"
+    ],
+    "notes": "Jeu de la Ville de Talence + OSM way/875238373."
+  },
+  {
+    "id": "pi-jardin-raba",
+    "type": "jardin_partage",
+    "nom": "Jardins partagés de Raba",
+    "lat": 44.79823,
+    "lon": -0.59789,
+    "distance_m": 1206,
+    "lieu": null,
+    "repere": "Jardins partagés de Raba, près de la rue Marivaux.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "jardins partagés de Raba",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence."
+  },
+  {
+    "id": "pi-jardin-empotes-curvale",
+    "type": "jardin_partage",
+    "nom": "Les Empotés de Curvale",
+    "lat": 44.81794,
+    "lon": -0.58943,
+    "distance_m": 1277,
+    "lieu": "parc-andre-curvale",
+    "repere": "Dans le parc Curvale, côté rue René Balloux.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "Les empotés de Curval",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap way/872765601"
+    ],
+    "notes": "Jeu de la Ville de Talence + OSM way/872765601."
+  },
+  {
+    "id": "pi-jardin-passerelle",
+    "type": "jardin_partage",
+    "nom": "Jardin de la Passerelle",
+    "lat": 44.81817,
+    "lon": -0.59221,
+    "distance_m": 1339,
+    "lieu": "parc-triaire",
+    "repere": "Au parc Triaire, côté passerelle.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "Jardin de la passerelle",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": false,
+    "saison": null,
+    "autres_sources": [
+      "OpenStreetMap way/620972570"
+    ],
+    "notes": "Jeu de la Ville de Talence + OSM way/620972570."
+  },
+  {
+    "id": "pi-jardin-chantecler",
+    "type": "jardin_partage",
+    "nom": "Jardins partagés de Chantecler",
+    "lat": 44.79304,
+    "lon": -0.58775,
+    "distance_m": 1497,
+    "lieu": "parc-chantecler",
+    "repere": "Jardins partagés de Chantecler, près de la rue François Boucher.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "jardins partagés",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence."
+  },
+  {
+    "id": "pi-jardin-fehlmann",
+    "type": "jardin_partage",
+    "nom": "Jardin partagé Fehlmann",
+    "lat": 44.82022,
+    "lon": -0.58516,
+    "distance_m": 1542,
+    "lieu": "parc-fehlmann",
+    "repere": "Jardin partagé Fehlmann, près de la rue Jean Iriquin.",
+    "source": {
+      "jeu": "tal_jardinspartages",
+      "ref": "Fehlmann",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/tal_jardinspartages/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": false,
+    "saison": null,
+    "notes": "Jeu de la Ville de Talence."
+  },
+  {
+    "id": "pi-panneau-faune-thouars",
+    "type": "panneau_nature",
+    "nom": "Panneau « qui habite ici » de Thouars",
+    "lat": 44.79339,
+    "lon": -0.59298,
+    "distance_m": 1510,
+    "lieu": "bois-de-thouars",
+    "repere": "Au nord-est du bois de Thouars, près de l'avenue de la Marne : panneau d'information sur la faune.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/9312581676",
+      "url": "https://www.openstreetmap.org/node/9312581676",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Contenu du panneau à noter sur place."
+  },
+  {
+    "id": "pi-peupleraie-campus-ouest",
+    "type": "peupleraie",
+    "nom": "Plantation de peupliers du campus ouest",
+    "lat": 44.80276,
+    "lon": -0.60408,
+    "distance_m": 1335,
+    "lieu": null,
+    "repere": "À l'ouest du campus, au sud de la rue François Mitterrand : alignements de peupliers (plantation).",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 18764",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "notes": "Enjeu faible ; visibilité à vérifier."
+  },
+  {
+    "id": "pi-points-eau-ouest-campus",
+    "type": "point_eau",
+    "nom": "Points d'eau naturels de l'ouest",
+    "lat": 44.79925,
+    "lon": -0.60152,
+    "distance_m": 1337,
+    "lieu": null,
+    "repere": "À l'ouest du campus, au sud du cours de la Libération : groupe de petits points d'eau naturels (3 dans le jeu Métropole).",
+    "source": {
+      "jeu": "to_hydro_s",
+      "ref": "gid 57708",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/to_hydro_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "autres_sources": [
+      "to_hydro_s gid 57706",
+      "to_hydro_s gid 57709"
+    ],
+    "notes": "Visibles sur la cartographie seulement ; accès non confirmé."
+  },
+  {
+    "id": "pi-prairie-eco-paturage",
+    "type": "prairie",
+    "nom": "Prairie « Éco-pâturage »",
+    "lat": 44.80719,
+    "lon": -0.60668,
+    "distance_m": 1476,
+    "lieu": null,
+    "repere": "Avenue du Docteur Albert Schweitzer, côté est, sur le terre-plein herbeux : prairie « Eco-pâturage » cartographiée.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "way/1311451354",
+      "url": "https://www.openstreetmap.org/way/1311451354",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "notes": "Seulement dans OSM ; à rapprocher de la fiche existante des moutons du Haut-Carré. Rattachée au campus par OSM (hors centroïde)."
+  },
+  {
+    "id": "pi-prairie-fauche-campus",
+    "type": "prairie_fauche",
+    "nom": "Prairies de fauche du campus",
+    "lat": 44.80923,
+    "lon": -0.59644,
+    "distance_m": 732,
+    "lieu": "campus-haut-carre",
+    "repere": "Campus du Haut-Carré, au sud de la rue Pierre Noailles : prairies à regarder depuis la rue ou le grillage, si elles sont visibles.",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 8816",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      4,
+      5,
+      6
+    ],
+    "autres_sources": [
+      "ec_habitat_naturel_s gid 8813"
+    ],
+    "acces": "Visible depuis la rue Pierre Noailles ? À confirmer.",
+    "notes": "Habitat à enjeu fort (E2.21). Deuxième parcelle voisine : gid 8813 (44.80896, -0.59746). Fauche en juin à confirmer."
+  },
+  {
+    "id": "pi-prairie-fauche-chantecler",
+    "type": "prairie_fauche",
+    "nom": "Prairie de fauche au sud-est de Chantecler",
+    "lat": 44.79558,
+    "lon": -0.57913,
+    "distance_m": 1401,
+    "lieu": null,
+    "repere": "Au sud-est du parc Chantecler, près du chemin de Leysotte : prairie de fauche (enjeu fort).",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 23903",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      4,
+      5,
+      6
+    ],
+    "notes": "À 1,4 km du Forum ; accès et visibilité non confirmés."
+  },
+  {
+    "id": "pi-prairie-humide-thouars",
+    "type": "prairie_humide",
+    "nom": "Prairie humide à souchet bai (Thouars)",
+    "lat": 44.79386,
+    "lon": -0.59441,
+    "distance_m": 1494,
+    "lieu": "bois-de-thouars",
+    "repere": "Au nord-est du bois de Thouars, le long de l'avenue de la Marne, à côté du bassin de rétention : prairie humide (enjeu fort).",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 2809",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "notes": "Habitat Métropole D5.3 ; lisière nord-est du bois (≈ 1,5 km)."
+  },
+  {
+    "id": "pi-puits-peixotto",
+    "type": "puits",
+    "nom": "Puits à pompe du parc Peixotto",
+    "lat": 44.80831,
+    "lon": -0.59019,
+    "distance_m": 265,
+    "lieu": "parc-peixotto",
+    "repere": "Dans le parc Peixotto, à une centaine de mètres de l'allée Peixotto et du cours de la Libération, entre l'aire de jeux et le point d'eau : une pompe à levier ou un petit puits à chercher.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/1338095729",
+      "url": "https://www.openstreetmap.org/node/1338095729",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "OSM : man_made=water_well + pump=manual + amenity=drinking_water (contrôle du 16 nov. 2024) : puits à pompe manuelle plutôt qu'à seau. À 35 m de pi-eau-peixotto (données Ville) : peut être l'un des 2 points d'eau potable annoncés par la Ville, voire le même objet ; on garde deux points, source différente, à trancher sur place. Existence et pompe non visibles sur Panoramax."
+  },
+  {
+    "id": "pi-puits-rue-de-lauriol",
+    "type": "puits",
+    "nom": "Puits près de la rue de Lauriol",
+    "lat": 44.80949,
+    "lon": -0.57209,
+    "distance_m": 1298,
+    "lieu": null,
+    "repere": "Entre la rue Amédée Berque et la rue de Lauriol, côté est : puits cartographié.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/5107031327",
+      "url": "https://www.openstreetmap.org/node/5107031327",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Possiblement dans une propriété privée : à regarder seulement depuis la rue, sans entrer."
+  },
+  {
+    "id": "pi-puits-rue-petite-mission",
+    "type": "puits",
+    "nom": "Puits de la rue de la Petite Mission",
+    "lat": 44.81545,
+    "lon": -0.60041,
+    "distance_m": 1396,
+    "lieu": null,
+    "repere": "Rue de la Petite Mission, près du croisement avec l'avenue de la Vieille Tour : puits cartographié.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/13183742719",
+      "url": "https://www.openstreetmap.org/node/13183742719",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "Possiblement en propriété privée : regarder depuis la rue seulement."
+  },
+  {
+    "id": "pi-puits-rue-peybouquey",
+    "type": "puits",
+    "nom": "Puits de la rue de Peybouquey",
+    "lat": 44.81601,
+    "lon": -0.60312,
+    "distance_m": 1594,
+    "lieu": null,
+    "repere": "Rue de Peybouquey, près de l'avenue de la Mission Haut-Brion : puits cartographié (accès public indiqué dans OSM).",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/13175024488",
+      "url": "https://www.openstreetmap.org/node/13175024488",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "notes": "À la limite du rayon (≈ 1,6 km)."
+  },
+  {
+    "id": "pi-roseliere-campus-ouest",
+    "type": "roseliere",
+    "nom": "Roselière à l'ouest du campus",
+    "lat": 44.80376,
+    "lon": -0.60519,
+    "distance_m": 1390,
+    "lieu": null,
+    "repere": "À l'ouest du campus, au sud de la rue François Mitterrand : roselière (enjeu moyen), avec une zone humide OSM voisine.",
+    "source": {
+      "jeu": "ec_habitat_naturel_s",
+      "ref": "gid 18762",
+      "url": "https://opendata.bordeaux-metropole.fr/explore/dataset/ec_habitat_naturel_s/",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": true,
+    "saison": [
+      9,
+      10,
+      11,
+      12,
+      1,
+      2
+    ],
+    "autres_sources": [
+      "OpenStreetMap way/569993191"
+    ],
+    "notes": "Habitat Métropole + OSM way/569993191. Visibilité depuis l'espace public non confirmée."
+  },
+  {
+    "id": "pi-ruisseau-ars-rue-peydavant",
+    "type": "ruisseau",
+    "nom": "Ruisseau d'Ars (tracé de la rue Peydavant)",
+    "lat": 44.80942,
+    "lon": -0.5848,
+    "distance_m": 411,
+    "lieu": null,
+    "repere": "Autour de la rue Peydavant, au nord du croisement avec la rue Lamartine : le tracé du ruisseau d'Ars passe ici. Chercher une grille, un caniveau ou un fossé.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "way/436342291",
+      "url": "https://www.openstreetmap.org/way/436342291",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "notes": "ATTENTION : OSM tague ce tronçon tunnel=culvert (busé), alors que la spec le croyait à ciel ouvert. À vérifier : probablement non visible."
+  },
+  {
+    "id": "pi-ruisseau-ars-voltaire",
+    "type": "ruisseau",
+    "nom": "Ruisseau d'Ars (rue Voltaire)",
+    "lat": 44.81043,
+    "lon": -0.57567,
+    "distance_m": 1066,
+    "lieu": null,
+    "repere": "Entre la rue Voltaire et la place Camille Desmoulins, au nord-est du bois Sourreil : tronçon cartographié à ciel ouvert.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "way/436339240",
+      "url": "https://www.openstreetmap.org/way/436339240",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "autres_sources": [
+      "OpenStreetMap way/1495441635"
+    ],
+    "notes": "Un autre tronçon ouvert (way/1495441635) est à 110 m plus à l'est. Visibilité depuis la rue à vérifier."
+  },
+  {
+    "id": "pi-tour-hirondelles-robespierre",
+    "type": "tour_hirondelles",
+    "nom": "Tour à hirondelles du parc Robespierre",
+    "lat": 44.80893,
+    "lon": -0.58335,
+    "distance_m": 456,
+    "lieu": "parc-robespierre",
+    "repere": "Parc Robespierre, côté rue Dourout : tour à hirondelles installée par le conseil municipal des enfants.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "node/13705331043",
+      "url": "https://www.openstreetmap.org/node/13705331043",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "autres_sources": [
+      "Ville de Talence, page Parcs et espaces verts"
+    ],
+    "notes": "Source OSM + mention de la Ville dans lieux.json ; occupation par les hirondelles à confirmer au printemps."
+  },
+  {
+    "id": "pi-vigne-mission-haut-brion",
+    "type": "vigne",
+    "nom": "Vignes de la Mission Haut-Brion",
+    "lat": 44.81095,
+    "lon": -0.60335,
+    "distance_m": 1308,
+    "lieu": null,
+    "repere": "À l'ouest, entre l'avenue de la Vieille Tour et l'avenue de la Mission Haut-Brion (plus de 200 m de chaque) : vignes du château.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "way/25911965",
+      "url": "https://www.openstreetmap.org/way/25911965",
+      "date": "2026-11-03"
+    },
+    "confiance": "certain",
+    "verifier": true,
+    "saison": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "autres_sources": [
+      "ec_habitat_naturel_s gid 25220"
+    ],
+    "notes": "OSM (vineyard, crop=grape) concordant avec l'habitat Métropole gid 25220. Visibilité depuis l'espace public à confirmer ; ne pas entrer."
+  },
+  {
+    "id": "pi-zone-humide-bel-air",
+    "type": "zone_humide",
+    "nom": "Zone humide au sud de Bel Air",
+    "lat": 44.80045,
+    "lon": -0.57954,
+    "distance_m": 948,
+    "lieu": null,
+    "repere": "Au sud des jardins de Bel Air, entre l'impasse des Œillets et l'impasse Bel Air : zone humide et réservoir cartographiés.",
+    "source": {
+      "jeu": "OpenStreetMap",
+      "ref": "way/1037153488",
+      "url": "https://www.openstreetmap.org/way/1037153488",
+      "date": "2026-11-03"
+    },
+    "confiance": "probable",
+    "verifier": true,
+    "saison": null,
+    "autres_sources": [
+      "to_hydro_s gid 78992",
+      "OpenStreetMap way/35169513"
+    ],
+    "notes": "OSM + canal intermittent Métropole (gid 78992). Nature et accès non confirmés."
+  }
+]

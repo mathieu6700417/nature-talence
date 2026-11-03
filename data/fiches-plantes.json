@@ -382,7 +382,10 @@
       "latin": "Platanus × hispanica",
       "anecdote": "Chaque boule est un assemblage de centaines de petits fruits munis d'une aigrette ; elle se défait pendant l'hiver et le vent dissémine les graines.",
       "pourquoi_maintenant": "Elles se forment dès l'été, mûrissent à l'automne et se défont en hiver.",
-      "confusion": "Liquidambar : boules dures hérissées de pointes. Platane : boules plus douces, qui s'effilochent en duvet."
+      "confusion": "Liquidambar : boules dures hérissées de pointes. Platane : boules plus douces, qui s'effilochent en duvet.",
+      "taxons": [
+        "Platanus"
+      ]
     },
     "photo": {
       "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Plane_tree_-_fruit_-_geograph.org.uk_-_774872.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
@@ -439,7 +442,10 @@
       "latin": "Platanus × hispanica",
       "anecdote": "Les « poings » sont des bourrelets de bois cicatriciel bourrés de bourgeons dormants : à chaque taille au même endroit, l'arbre y fait repartir une gerbe de rameaux. Cette taille garde les platanes à la taille des rues depuis des siècles.",
       "pourquoi_maintenant": "En hiver, sans feuilles, la forme en poing se voit parfaitement.",
-      "confusion": "Un arbre élagué une seule fois garde des moignons lisses, sans grosse « tête » noueuse."
+      "confusion": "Un arbre élagué une seule fois garde des moignons lisses, sans grosse « tête » noueuse.",
+      "taxons": [
+        "Platanus"
+      ]
     },
     "photo": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/RAMOUZENS_%281%29.jpg/500px-RAMOUZENS_%281%29.jpg",
@@ -1992,7 +1998,8 @@
     "point": {
       "lat": 44.80955,
       "lon": -0.58997,
-      "repere": "Parc Peixotto, partie nord côté avenue Espeleta : à côté du saule pleureur et d'un banc, à une quinzaine de mètres de la petite fontaine ; le conifère roux en automne, nu en hiver."
+      "repere": "Parc Peixotto, partie nord côté avenue Espeleta : à côté du saule pleureur et d'un banc, à une quinzaine de mètres de la petite fontaine ; le conifère roux en automne, nu en hiver.",
+      "pi": "pi-cypres-chauve-peixotto"
     },
     "mois": [
       10,
@@ -2029,7 +2036,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:Taxodium-distichum-autumn.jpg"
     },
     "attention": null,
-    "verifier": false
+    "verifier": true
   },
   {
     "id": "pla-platane-ecorce-puzzle",
@@ -2038,11 +2045,12 @@
     "lieux": [
       "parc-cauderes"
     ],
-    "ou": "Au parc Cauderès, côté rue de Suzon : les cinq gros platanes au tronc tacheté ; des plaques d'écorce tombées traînent souvent à leur pied.",
+    "ou": "Au parc Cauderès, au nord du parc, vers la rue du Colonel Moll : la rangée de gros platanes au tronc tacheté ; des plaques d'écorce tombées traînent souvent à leur pied.",
     "point": {
       "lat": 44.8134,
       "lon": -0.5783,
-      "repere": "Parc Cauderès, côté rue de Suzon : les cinq plus gros troncs du parc, tachetés crème, vert olive et gris (platanes plantés entre 1914 et 1964)."
+      "repere": "Parc Cauderès, au nord du parc, vers la rue du Colonel Moll : la rangée de gros platanes (neuf recensés par la Ville), tachetés crème, vert olive et gris (platanes plantés entre 1914 et 1964).",
+      "pi": "pi-platanes-cauderes"
     },
     "mois": [
       5,
@@ -2074,7 +2082,10 @@
       "latin": "Platanus × hispanica",
       "anecdote": "Le platane de nos villes est un hybride (platane d'Orient × platane d'Occident) apparu au XVIIe siècle. Son écorce ne s'étire pas quand le tronc grossit : elle se fend et tombe par plaques, laissant voir une écorce neuve, crème, qui fonce ensuite au gris-vert.",
       "pourquoi_maintenant": "Les plaques se détachent surtout en été et au début de l'automne, quand le tronc a grossi.",
-      "confusion": "L'érable sycomore a des feuilles semblables, mais opposées, et des fruits en hélicoptère ; le platane a des feuilles alternes et des fruits en boule."
+      "confusion": "L'érable sycomore a des feuilles semblables, mais opposées, et des fruits en hélicoptère ; le platane a des feuilles alternes et des fruits en boule.",
+      "taxons": [
+        "Platanus"
+      ]
     },
     "photo": {
       "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Bark_of_Platanus_x_hispanica.jpg/500px-Bark_of_Platanus_x_hispanica.jpg",
@@ -2082,7 +2093,7 @@
       "source": "https://commons.wikimedia.org/wiki/File:Bark_of_Platanus_x_hispanica.jpg"
     },
     "attention": "En mai, les poils des jeunes feuilles irritent les yeux : on se lave les mains avant de se frotter les yeux.",
-    "verifier": false
+    "verifier": true
   },
   {
     "id": "pla-orme-caucase-curvale",
@@ -2095,7 +2106,8 @@
     "point": {
       "lat": 44.8179,
       "lon": -0.5893,
-      "repere": "Parc André Curvale, entrée rue René Balloux : le très gros tronc près du chemin, avec sa plaque explicative au pied."
+      "repere": "Parc André Curvale, entrée rue René Balloux : le très gros tronc près du chemin, avec sa plaque explicative au pied.",
+      "pi": "pi-orme-du-caucase-curvale"
     },
     "mois": [
       1,
@@ -2131,7 +2143,7 @@
     "adulte": {
       "nom": "Orme du Caucase (zelkova)",
       "latin": "Zelkova carpinifolia",
-      "anecdote": "C'est le seul arbre de Talence labellisé « Arbre remarquable de France » : un orme du Caucase planté au XIXe siècle dans le parc d'une ancienne propriété (la plaque sur place donne la date). Cousin des ormes, il pousse à l'état sauvage dans les forêts du Caucase et du nord de l'Iran.",
+      "anecdote": "Cet orme du Caucase est labellisé « Arbre remarquable de France » par l'association ARBRES, et il vit dans le parc d'une ancienne propriété (la plaque sur place donne l'essentiel). Cousin des ormes, il pousse à l'état sauvage dans les forêts du Caucase et du nord de l'Iran.",
       "pourquoi_maintenant": "Beau toute l'année : feuillage d'avril à novembre, jaune-orangé avant la chute, puis silhouette nue l'hiver, quand on voit le mieux la taille du tronc.",
       "confusion": "Le charme a des feuilles proches, mais un tronc lisse, cannelé et bien plus mince ; l'orme champêtre a des feuilles asymétriques à la base."
     },
@@ -2255,5 +2267,387 @@
     },
     "attention": "Les petites baies bleu-noir sont toxiques : on regarde, on ne cueille pas.",
     "verifier": true
+  },
+  {
+    "id": "pla-prairie-de-fauche-campus",
+    "categorie": "plante",
+    "titre": "La prairie qu'on fauche tard",
+    "lieux": [
+      "campus-haut-carre"
+    ],
+    "ou": "Rue Pierre Noailles, côté campus : les prairies de fauche du Haut-Carré, à regarder à travers le grillage.",
+    "point": {
+      "lat": 44.80923,
+      "lon": -0.59644,
+      "pi": "pi-prairie-fauche-campus",
+      "repere": "Rue Pierre Noailles, côté sud, en allant vers l'entrée du Haut-Carré : regarder la prairie depuis le trottoir ou à travers le grillage, sans entrer."
+    },
+    "mois": [
+      4,
+      5,
+      6
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": true,
+    "reperes": "Une herbe haute pleine de fleurs : trèfle des prés rose, lotier jaune, plantain lancéolé à tête brune, et des épis de graminées. Si elle est déjà fauchée (souvent à partir de juin), cherche les tas d'herbe qui sèchent.",
+    "enfant": {
+      "2-3": {
+        "mot": "fleurs",
+        "geste": "Depuis le grillage, montrer chaque couleur de fleur qu'on voit : « rose ! jaune ! blanc ! ».",
+        "phrase": "Rose, jaune, blanc, la prairie a des fleurs partout !"
+      },
+      "3-5": {
+        "mot": "combien de couleurs ?",
+        "geste": "Compter les couleurs de fleurs différentes sans toucher. Puis comparer avec la pelouse tondue à côté : où y a-t-il le plus de fleurs ?",
+        "phrase": "Pelouse tondue, prairie touffue !"
+      }
+    },
+    "adulte": {
+      "nom": "Prairie de fauche",
+      "latin": null,
+      "anecdote": "On la fauche tard, une fois par an en général, après la floraison, ce qui laisse aux fleurs le temps de faire leurs graines. La Métropole la classe parmi les habitats à fort enjeu. L'odeur du foin coupé vient en grande partie de la coumarine, une molécule de la flouve odorante, une petite graminée des prés signalée dans le secteur.",
+      "pourquoi_maintenant": "D'avril à juin, avant la fauche, la prairie est au maximum de ses fleurs et de ses insectes.",
+      "confusion": "Une « prairie fleurie » semée au bord d'une route a souvent des fleurs plus grandes et plus voyantes (cosmos, bleuets) ; une prairie de fauche ancienne a surtout de petites fleurs et beaucoup d'herbes différentes.",
+      "taxons": [
+        "Trifolium pratense",
+        "Lotus corniculatus",
+        "Anthoxanthum odoratum"
+      ]
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Prairie_de_fauche_du_Lino-Gaudinion_%C3%A0_Cagnotte_%2840%29_2019-05-21.jpg/500px-Prairie_de_fauche_du_Lino-Gaudinion_%C3%A0_Cagnotte_%2840%29_2019-05-21.jpg",
+      "credit": "BotaFlo — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Prairie_de_fauche_du_Lino-Gaudinion_%C3%A0_Cagnotte_(40)_2019-05-21.jpg"
+    }
+  },
+  {
+    "id": "pla-charme-feuilles-plissees",
+    "categorie": "plante",
+    "titre": "Le charme aux feuilles en accordéon",
+    "lieux": [
+      "campus-haut-carre",
+      "parc-chantecler"
+    ],
+    "ou": "Rue Pierre Noailles, vers l'entrée Noailles du campus : la bordure du bois de chênes et de charmes. Autre sous-bois de charmes : le parc Chantecler.",
+    "point": {
+      "lat": 44.80901,
+      "lon": -0.59866,
+      "pi": "pi-chenaie-charmaie-campus",
+      "repere": "Rue Pierre Noailles, côté sud, vers l'entrée Noailles du campus : le bois de chênes et de charmes en bordure ; regarder les branches basses depuis le trottoir."
+    },
+    "mois": [
+      4,
+      5,
+      11,
+      12,
+      1,
+      2
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": true,
+    "reperes": "Feuilles ovales, doublement dentées, plissées entre les nervures bien parallèles ; tronc gris lisse, comme creusé de muscles. En hiver, les jeunes charmes gardent leurs feuilles mortes, brun clair.",
+    "enfant": {
+      "2-3": {
+        "mot": "accordéon",
+        "geste": "Au printemps, montrer une feuille toute plissée qui sort du bourgeon ; avec une feuille tombée, la plier et la déplier en accordéon.",
+        "phrase": "Plié, déplié, la feuille fait l'accordéon !"
+      },
+      "3-5": {
+        "mot": "feuilles mortes accrochées",
+        "geste": "En hiver, chercher l'arbre qui garde ses feuilles sèches, alors que les autres sont nus. Écouter : quand le vent passe, elles froufroutent. Puis caresser le tronc : il a des bosses comme des muscles.",
+        "phrase": "Feuilles sèches, accrochez-vous !"
+      }
+    },
+    "adulte": {
+      "nom": "Charme commun",
+      "latin": "Carpinus betulus",
+      "anecdote": "Les jeunes charmes et les branches basses gardent souvent leurs feuilles mortes tout l'hiver : c'est la marcescence, partagée avec le hêtre et certains chênes. Elles ne tombent qu'au printemps, poussées par les nouveaux bourgeons. Son bois, très dur et blanc, a longtemps servi aux billots de boucher et aux manches d'outils.",
+      "pourquoi_maintenant": "En avril-mai, les feuilles sortent plissées comme un éventail ; de novembre à février, les feuilles mortes accrochées le trahissent.",
+      "confusion": "Le hêtre a des feuilles non dentées, bordées de poils fins, et un tronc lisse sans « muscles » ; l'orme a des feuilles asymétriques à la base."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Carpinus_betulus_leaves_02.05.2011_p.jpg/500px-Carpinus_betulus_leaves_02.05.2011_p.jpg",
+      "credit": "Przykuta — CC BY 3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Carpinus_betulus_leaves_02.05.2011_p.jpg"
+    }
+  },
+  {
+    "id": "pla-catalpa-haricots-geants",
+    "categorie": "plante",
+    "titre": "L'arbre aux haricots géants",
+    "lieux": [
+      "parc-cauderes"
+    ],
+    "ou": "Rue de Suzon, côté sud, près du stade et du parc Caudérès. Six autres catalpas rue Brun, près de la rue André Hible.",
+    "point": {
+      "lat": 44.81209,
+      "lon": -0.57817,
+      "pi": "pi-catalpa-cauderes",
+      "repere": "Rue de Suzon, côté sud, près du stade et du parc Caudérès : l'arbre aux très grandes feuilles en cœur, et en hiver aux longues gousses brunes qui pendent comme des haricots."
+    },
+    "mois": [
+      6,
+      7,
+      10,
+      11,
+      12,
+      1,
+      2,
+      3
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "Les gousses et les graines ne se mangent pas : on les regarde, on les compare, rien à la bouche.",
+    "verifier": true,
+    "reperes": "Feuilles en cœur très grandes (souvent plus de 20 cm) ; en juin-juillet, grappes de fleurs blanches tachetées de jaune et de violet ; de l'automne à la fin de l'hiver, gousses fines et brunes de 20 à 40 cm.",
+    "enfant": {
+      "2-3": {
+        "mot": "haricot géant",
+        "geste": "Montrer les longues gousses qui pendent et faire « tic-tac » avec le doigt comme si elles se balançaient.",
+        "phrase": "Des haricots géants dans l'arbre !"
+      },
+      "3-5": {
+        "mot": "plus long que mon bras ?",
+        "geste": "Ramasser une gousse tombée et la poser contre ton bras : est-elle plus longue ? Compter les gousses sur une branche.",
+        "phrase": "Un, deux, trois haricots pendus !"
+      }
+    },
+    "adulte": {
+      "nom": "Catalpa commun, arbre aux haricots",
+      "latin": "Catalpa bignonioides",
+      "anecdote": "Originaire du sud-est des États-Unis, il tient son nom d'un mot de la langue muscogee (creek), kutuhlpa. Ses gousses, qui ne sont pas des haricots, restent accrochées tout l'hiver et libèrent au printemps des graines plates bordées d'ailes frangées que le vent emporte.",
+      "pourquoi_maintenant": "Fleurs en juin-juillet ; gousses visibles d'octobre à mars, quand l'arbre a perdu ses grandes feuilles.",
+      "confusion": "Le paulownia a aussi de grandes feuilles en cœur, mais des fleurs mauves au printemps et des fruits en capsules ovales, pas en gousses."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Catalpa_bignonioides_detail.jpg/500px-Catalpa_bignonioides_detail.jpg",
+      "credit": "Jebulon — CC0",
+      "source": "https://commons.wikimedia.org/wiki/File:Catalpa_bignonioides_detail.jpg"
+    }
+  },
+  {
+    "id": "pla-peuplier-qui-tremble",
+    "categorie": "plante",
+    "titre": "Le peuplier aux feuilles qui frémissent",
+    "lieux": [
+      "parc-peixotto"
+    ],
+    "ou": "Dans le parc Peixotto, partie nord côté avenue Espeleta, au bord du long bassin, à quelques mètres du cyprès chauve.",
+    "point": {
+      "lat": 44.80972,
+      "lon": -0.58951,
+      "pi": "pi-peuplier-noir-peixotto",
+      "repere": "Parc Peixotto, partie nord côté avenue Espeleta, au bord du long bassin : le grand peuplier à quelques mètres du cyprès chauve."
+    },
+    "mois": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": true,
+    "reperes": "Grand arbre au tronc gris sombre et crevassé ; feuilles en losange ou en triangle, finement dentées, sur une longue queue aplatie. Au moindre souffle, tout le feuillage scintille et bruisse.",
+    "enfant": {
+      "2-3": {
+        "mot": "les feuilles chantent",
+        "geste": "S'arrêter sous l'arbre, se taire et écouter : les feuilles font un bruit de pluie, même quand il ne pleut pas.",
+        "phrase": "Chut… les feuilles applaudissent !"
+      },
+      "3-5": {
+        "mot": "la queue plate",
+        "geste": "Ramasser une feuille tombée et rouler sa queue entre deux doigts : elle est plate ! Puis souffler dessus et la regarder tourner.",
+        "phrase": "Queue plate, feuille qui gigote !"
+      }
+    },
+    "adulte": {
+      "nom": "Peuplier noir",
+      "latin": "Populus nigra",
+      "anecdote": "La queue de la feuille (le pétiole) est aplatie sur le côté : elle plie au moindre souffle, et la feuille bascule d'un côté à l'autre. Le peuplier d'Italie, en forme de fuseau le long des routes, est une forme du peuplier noir. Le « coton » blanc qui vole en mai-juin porte les graines des arbres femelles.",
+      "pourquoi_maintenant": "D'avril à octobre, quand l'arbre est en feuilles ; le coton vole surtout en mai-juin.",
+      "confusion": "Le tremble a des feuilles presque rondes, à grosses dents ; le peuplier blanc a le dessous des feuilles blanc et cotonneux."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Populus_nigra_15-p.bot-popu.nigra-03.jpg/500px-Populus_nigra_15-p.bot-popu.nigra-03.jpg",
+      "credit": "Ayotte, Gilles, 1948- — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Populus_nigra_15-p.bot-popu.nigra-03.jpg"
+    }
+  },
+  {
+    "id": "pla-tilleul-argente-cauderes",
+    "categorie": "plante",
+    "titre": "Le tilleul aux feuilles d'argent",
+    "lieux": [
+      "parc-cauderes"
+    ],
+    "ou": "Au bord de la rue de Suzon, côté parc Caudérès : un groupe de cinq tilleuls argentés.",
+    "point": {
+      "lat": 44.8125,
+      "lon": -0.57887,
+      "pi": "pi-tilleuls-argentes-cauderes",
+      "repere": "Rue de Suzon, côté parc Caudérès : le groupe de cinq tilleuls ; quand le vent retourne les feuilles, leur dessous blanc brille."
+    },
+    "mois": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": null,
+    "verifier": true,
+    "reperes": "Feuilles en cœur, vert foncé dessus, blanc argenté et feutré dessous. En juillet, petites fleurs jaunes parfumées ; ensuite, petites boules pendues sous une longue languette verte (une bractée qui sert d'aile).",
+    "enfant": {
+      "2-3": {
+        "mot": "dessus, dessous",
+        "geste": "Avec une feuille tombée : montrer le dessus vert, puis retourner : « blanc ! ». Passer le dessous sur la joue : c'est doux.",
+        "phrase": "Dessus vert, dessous blanc, la feuille fait semblant !"
+      },
+      "3-5": {
+        "mot": "l'hélicoptère",
+        "geste": "À la fin de l'été, ramasser un fruit avec sa languette, le lancer en l'air et le regarder tourner en tombant. Lequel tombe le plus lentement ?",
+        "phrase": "Tourne, tourne, petit hélicoptère !"
+      }
+    },
+    "adulte": {
+      "nom": "Tilleul argenté",
+      "latin": "Tilia tomentosa",
+      "anecdote": "« Tomentosa » veut dire feutré : le dessous des feuilles est couvert de poils en étoile qui le rendent blanc. On trouve parfois des bourdons morts sous les tilleuls argentés à la fin de leur floraison, en juillet ; on a longtemps accusé le nectar, mais les études penchent plutôt pour des bourdons épuisés, faute d'autres fleurs à cette période.",
+      "pourquoi_maintenant": "Feuilles de mai à octobre ; fleurs en juillet, plus tard que les autres tilleuls ; fruits ailés d'août à octobre.",
+      "confusion": "Le tilleul à petites feuilles a le dessous vert pâle, avec de petites touffes rousses à l'angle des nervures ; le peuplier blanc a des feuilles lobées."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Tilia_tomentosa_Lipa_srebrzysta_2021-10-02_02.jpg/500px-Tilia_tomentosa_Lipa_srebrzysta_2021-10-02_02.jpg",
+      "credit": "Agnieszka Kwiecień, Nova — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tilia_tomentosa_Lipa_srebrzysta_2021-10-02_02.jpg"
+    }
+  },
+  {
+    "id": "pla-chene-tauzin-velours",
+    "categorie": "plante",
+    "titre": "Le chêne aux feuilles de velours",
+    "lieux": [
+      "bois-de-thouars"
+    ],
+    "ou": "À la lisière nord-est du bois de Thouars, en s'écartant un peu de l'avenue de la Marne : la chênaie à chêne tauzin.",
+    "point": {
+      "lat": 44.79296,
+      "lon": -0.59402,
+      "pi": "pi-chenaie-tauzin-thouars",
+      "repere": "Lisière nord-est du bois de Thouars, à quelques dizaines de mètres de l'avenue de la Marne, sur la pente : les chênes aux feuilles très découpées et douces au toucher."
+    },
+    "mois": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 2,
+    "attention": "De mai à juillet, si tu vois des nids soyeux ou des chenilles en file sur un tronc de chêne, on s'éloigne sans toucher (processionnaire du chêne).",
+    "verifier": true,
+    "reperes": "Feuilles profondément découpées en lobes étroits, duveteuses, surtout dessous : on dirait du velours ou du feutre. Petits chênes souvent en groupes serrés.",
+    "enfant": {
+      "2-3": {
+        "mot": "doux",
+        "geste": "Caresser une feuille du bout des doigts, puis une feuille de chêne ordinaire si tu en trouves : « celle-là est toute douce ! ».",
+        "phrase": "Feuille douce comme un doudou !"
+      },
+      "3-5": {
+        "mot": "lisse ou velours ?",
+        "geste": "Trouver deux feuilles de chêne différentes, les toucher les yeux fermés et dire laquelle est en velours.",
+        "phrase": "Une feuille-main toute en velours !"
+      }
+    },
+    "adulte": {
+      "nom": "Chêne tauzin",
+      "latin": "Quercus pyrenaica",
+      "anecdote": "Chêne du sud-ouest de la France et de la péninsule Ibérique, typique des sols sableux et pauvres des Landes de Gascogne : il supporte la sécheresse et repousse en drageons depuis ses racines, d'où ses petits bosquets serrés. La Métropole classe cette chênaie parmi les habitats à fort enjeu.",
+      "pourquoi_maintenant": "Feuilles neuves très duveteuses en avril-mai ; elles roussissent à l'automne et restent souvent accrochées une partie de l'hiver.",
+      "confusion": "Le chêne pédonculé, le plus courant, a des feuilles lisses aux lobes arrondis ; le chêne pubescent est duveteux aussi, mais ses lobes sont bien moins profonds."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Quercus_pyrenaica_leaves_2009December07_DehesaBoyaldePuertollano.jpg/500px-Quercus_pyrenaica_leaves_2009December07_DehesaBoyaldePuertollano.jpg",
+      "credit": "Javier martin — Public domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Quercus_pyrenaica_leaves_2009December07_DehesaBoyaldePuertollano.jpg"
+    }
+  },
+  {
+    "id": "pla-arbre-judee-fleurs-tronc",
+    "categorie": "plante",
+    "titre": "L'arbre qui fleurit sur son tronc",
+    "lieux": [
+      "partout"
+    ],
+    "ou": "Route de Toulouse, au carrefour du boulevard Albert 1er et du boulevard Franklin Roosevelt, parmi les arbres plantés (magnolias, palmiers) : un arbre de Judée.",
+    "point": {
+      "lat": 44.81422,
+      "lon": -0.57232,
+      "pi": "pi-arbres-varies-route-de-toulouse",
+      "repere": "Route de Toulouse, depuis le trottoir, à l'angle du boulevard Albert 1er et du boulevard Franklin Roosevelt : parmi les arbres du carrefour, en avril, celui dont les branches et même le tronc se couvrent de petites fleurs rose violacé."
+    },
+    "mois": [
+      3,
+      4
+    ],
+    "requiert": [],
+    "exclut": [],
+    "moment": null,
+    "poids": 3,
+    "attention": "Grand carrefour : on reste sur le trottoir, main dans la main.",
+    "verifier": true,
+    "reperes": "Petit arbre aux fleurs rose violacé serrées directement sur le bois, avant ou avec les feuilles ; feuilles rondes en cœur ; plus tard, gousses plates brun-violet qui restent accrochées l'hiver.",
+    "enfant": {
+      "2-3": {
+        "mot": "fleurs sur le bois",
+        "geste": "Montrer les fleurs collées sur une grosse branche ou le tronc, puis toucher l'écorce juste à côté (sans arracher).",
+        "phrase": "Des fleurs sur le bois, je n'y crois pas !"
+      },
+      "3-5": {
+        "mot": "où sont les fleurs ?",
+        "geste": "Chercher des fleurs à trois endroits : au bout des branches, sur une grosse branche, sur le tronc. Où y en a-t-il le plus ?",
+        "phrase": "En haut, au milieu, sur le tronc !"
+      }
+    },
+    "adulte": {
+      "nom": "Arbre de Judée",
+      "latin": "Cercis siliquastrum",
+      "anecdote": "Il pratique la cauliflorie : ses fleurs sortent directement du vieux bois, jusque sur le tronc, comme chez le cacaoyer. C'est une légumineuse, cousine du haricot, d'où ses gousses plates. Une légende veut que Judas s'y soit pendu ; son nom viendrait plus probablement de la Judée, une de ses régions d'origine.",
+      "pourquoi_maintenant": "Floraison de fin mars à fin avril, souvent avant que les feuilles ne sortent.",
+      "confusion": "Le gainier du Canada (Cercis canadensis) se ressemble beaucoup, avec des feuilles plus pointues ; le prunier pourpre fleurit au même moment, mais ses fleurs sont roses pâles, au bout des rameaux, jamais sur le tronc."
+    },
+    "photo": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Cercis_siliquastrum_Judas_tree_flowering_trunk_at_Myddelton_House%2C_Enfield%2C_London_03_%28cropped%29.jpg/500px-Cercis_siliquastrum_Judas_tree_flowering_trunk_at_Myddelton_House%2C_Enfield%2C_London_03_%28cropped%29.jpg",
+      "credit": "Acabashi — CC BY-SA 4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Cercis_siliquastrum_Judas_tree_flowering_trunk_at_Myddelton_House,_Enfield,_London_03_(cropped).jpg"
+    }
   }
 ]
